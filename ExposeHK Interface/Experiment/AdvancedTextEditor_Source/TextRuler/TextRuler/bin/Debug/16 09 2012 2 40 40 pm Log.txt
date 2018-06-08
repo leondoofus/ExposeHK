@@ -1,0 +1,221 @@
+Focus Gained 16/09/2012 2:40:41 p.m. 9
+MOUSE click {X=648,Y=41} 16/09/2012 2:40:41 p.m. 941
+MOUSE release {X=301,Y=34} 16/09/2012 2:40:42 p.m. 517
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:42 p.m. 818
+ExposeHK Activated 16/09/2012 2:40:42 p.m. 824
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 303
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 335
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 368
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 401
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 433
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 467
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 501
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 533
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 566
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 599
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 632
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 665
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 698
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 731
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 764
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 797
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 832
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 864
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 897
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 931
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 963
+ExposeHK Activated 16/09/2012 2:40:43 p.m. 996
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 30
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 62
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 95
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 129
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 162
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 193
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 227
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 260
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 293
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 326
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 359
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 392
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 424
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 459
+ExposeHK Activated 16/09/2012 2:40:44 p.m. 490
+ExposeHK Hidden 16/09/2012 2:40:44 p.m. 508
+KEYPRESS UP LControlKey 16/09/2012 2:40:44 p.m. 531
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:45 p.m. 298
+ExposeHK Activated 16/09/2012 2:40:45 p.m. 299
+ExposeHK Activated 16/09/2012 2:40:45 p.m. 800
+ExposeHK Activated 16/09/2012 2:40:45 p.m. 831
+ExposeHK Activated 16/09/2012 2:40:45 p.m. 866
+ExposeHK Activated 16/09/2012 2:40:45 p.m. 898
+ExposeHK Activated 16/09/2012 2:40:45 p.m. 930
+ExposeHK Activated 16/09/2012 2:40:45 p.m. 965
+ExposeHK Activated 16/09/2012 2:40:45 p.m. 997
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 30
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 63
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 96
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 129
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 163
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 194
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 228
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 261
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 295
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 327
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 360
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 393
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 426
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 459
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 491
+ExposeHK Activated 16/09/2012 2:40:46 p.m. 525
+ExposeHK Hidden 16/09/2012 2:40:46 p.m. 548
+KEYPRESS UP LControlKey 16/09/2012 2:40:46 p.m. 563
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:47 p.m. 226
+ExposeHK Activated 16/09/2012 2:40:47 p.m. 227
+ExposeHK Hidden 16/09/2012 2:40:47 p.m. 508
+KEYPRESS UP LControlKey 16/09/2012 2:40:47 p.m. 544
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:47 p.m. 884
+ExposeHK Activated 16/09/2012 2:40:47 p.m. 887
+ExposeHK Hidden 16/09/2012 2:40:48 p.m. 20
+KEYPRESS UP LControlKey 16/09/2012 2:40:48 p.m. 54
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:48 p.m. 716
+ExposeHK Activated 16/09/2012 2:40:48 p.m. 719
+ExposeHK Hidden 16/09/2012 2:40:48 p.m. 941
+KEYPRESS UP LControlKey 16/09/2012 2:40:48 p.m. 986
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:49 p.m. 372
+ExposeHK Activated 16/09/2012 2:40:49 p.m. 375
+ExposeHK Hidden 16/09/2012 2:40:49 p.m. 572
+KEYPRESS UP LControlKey 16/09/2012 2:40:49 p.m. 610
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:49 p.m. 980
+ExposeHK Activated 16/09/2012 2:40:49 p.m. 983
+ExposeHK Hidden 16/09/2012 2:40:50 p.m. 196
+KEYPRESS UP LControlKey 16/09/2012 2:40:50 p.m. 234
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:50 p.m. 364
+ExposeHK Activated 16/09/2012 2:40:50 p.m. 367
+ExposeHK Hidden 16/09/2012 2:40:50 p.m. 564
+KEYPRESS UP LControlKey 16/09/2012 2:40:50 p.m. 601
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:50 p.m. 668
+ExposeHK Activated 16/09/2012 2:40:50 p.m. 670
+ExposeHK Hidden 16/09/2012 2:40:50 p.m. 788
+KEYPRESS UP LControlKey 16/09/2012 2:40:50 p.m. 816
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:50 p.m. 900
+ExposeHK Activated 16/09/2012 2:40:50 p.m. 903
+ExposeHK Hidden 16/09/2012 2:40:50 p.m. 996
+KEYPRESS UP LControlKey 16/09/2012 2:40:51 p.m. 25
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:51 p.m. 108
+ExposeHK Activated 16/09/2012 2:40:51 p.m. 110
+ExposeHK Hidden 16/09/2012 2:40:51 p.m. 228
+KEYPRESS UP LControlKey 16/09/2012 2:40:51 p.m. 262
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:51 p.m. 314
+ExposeHK Activated 16/09/2012 2:40:51 p.m. 315
+ExposeHK Hidden 16/09/2012 2:40:51 p.m. 452
+KEYPRESS UP LControlKey 16/09/2012 2:40:51 p.m. 491
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:51 p.m. 540
+ExposeHK Activated 16/09/2012 2:40:51 p.m. 542
+ExposeHK Hidden 16/09/2012 2:40:51 p.m. 660
+KEYPRESS UP LControlKey 16/09/2012 2:40:51 p.m. 694
+KEYPRESS DOWN LControlKey 16/09/2012 2:40:51 p.m. 756
+ExposeHK Activated 16/09/2012 2:40:51 p.m. 759
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 254
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 287
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 322
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 354
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 388
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 420
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 454
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 486
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 519
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 552
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 585
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 618
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 651
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 682
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 715
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 748
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 781
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 815
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 848
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 883
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 915
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 948
+ExposeHK Activated 16/09/2012 2:40:52 p.m. 981
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 14
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 48
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 80
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 113
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 146
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 179
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 212
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 245
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 278
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 310
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 344
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 377
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 410
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 444
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 475
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 509
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 542
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 575
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 608
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 641
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 674
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 708
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 740
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 773
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 806
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 839
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 870
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 904
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 937
+ExposeHK Activated 16/09/2012 2:40:53 p.m. 969
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 3
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 38
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 71
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 104
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 136
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 170
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 202
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 235
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 268
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 302
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 334
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 368
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 400
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 434
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 465
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 500
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 532
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 566
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 598
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 631
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 664
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 697
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 730
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 763
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 797
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 829
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 863
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 896
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 928
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 961
+ExposeHK Activated 16/09/2012 2:40:54 p.m. 994
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 26
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 58
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 92
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 125
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 157
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 192
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 226
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 269
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 292
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 324
+ExposeHK Activated 16/09/2012 2:40:55 p.m. 356
+ExposeHK Hidden 16/09/2012 2:40:55 p.m. 386
+KEYPRESS UP LControlKey 16/09/2012 2:40:55 p.m. 401
+MOUSE click {X=637,Y=25} 16/09/2012 2:40:56 p.m. 797
+MOUSE release {X=637,Y=25} 16/09/2012 2:40:56 p.m. 852
+Focus Lost 16/09/2012 2:40:57 p.m. 45
+MOUSE click {X=741,Y=445} 16/09/2012 2:40:58 p.m. 123
+MOUSE release {X=741,Y=445} 16/09/2012 2:40:58 p.m. 203
+Focus Gained 16/09/2012 2:40:58 p.m. 213
+Focus Lost 16/09/2012 2:40:58 p.m. 221

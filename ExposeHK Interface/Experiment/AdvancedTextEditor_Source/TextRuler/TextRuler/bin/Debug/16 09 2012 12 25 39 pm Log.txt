@@ -1,0 +1,22 @@
+Focus Gained 16/09/2012 12:25:39 p.m. 253
+MOUSE click {X=561,Y=37} 16/09/2012 12:25:40 p.m. 191
+MOUSE release {X=208,Y=35} 16/09/2012 12:25:41 p.m. 9
+MOUSE click {X=317,Y=512} 16/09/2012 12:25:43 p.m. 135
+Text Selection MOUSE   16/09/2012 12:25:45 p.m. 809
+Text Selection MOUSE  week 16/09/2012 12:25:51 p.m. 369
+Text Selection MOUSE  week,  16/09/2012 12:25:54 p.m. 25
+Text Selection MOUSE  week, "Another  16/09/2012 12:25:55 p.m. 808
+Text Selection MOUSE  week, "Another Quote 16/09/2012 12:25:59 p.m. 824
+Text Selection MOUSE  week, "Another Quote" company  16/09/2012 12:26:05 p.m. 600
+Text Selection MOUSE  week, "Another Quote" company founder  16/09/2012 12:26:08 p.m. 177
+MOUSE release {X=488,Y=513} 16/09/2012 12:26:08 p.m. 793
+MOUSE click {X=398,Y=460} 16/09/2012 12:26:09 p.m. 255
+Text Selection MOUSE  16/09/2012 12:26:09 p.m. 350
+MOUSE release {X=398,Y=460} 16/09/2012 12:26:09 p.m. 351
+MOUSE click {X=618,Y=22} 16/09/2012 12:26:10 p.m. 1
+MOUSE release {X=618,Y=22} 16/09/2012 12:26:10 p.m. 105
+Focus Lost 16/09/2012 12:26:10 p.m. 296
+MOUSE click {X=735,Y=447} 16/09/2012 12:26:11 p.m. 209
+MOUSE release {X=735,Y=447} 16/09/2012 12:26:11 p.m. 321
+Focus Gained 16/09/2012 12:26:11 p.m. 338
+Focus Lost 16/09/2012 12:26:11 p.m. 365

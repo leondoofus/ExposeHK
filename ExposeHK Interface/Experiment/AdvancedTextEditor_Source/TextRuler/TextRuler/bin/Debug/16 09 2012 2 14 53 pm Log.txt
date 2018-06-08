@@ -1,0 +1,31 @@
+Focus Gained 16/09/2012 2:14:53 p.m. 572
+MOUSE click {X=677,Y=40} 16/09/2012 2:14:54 p.m. 624
+MOUSE release {X=333,Y=33} 16/09/2012 2:14:55 p.m. 626
+MOUSE click {X=395,Y=542} 16/09/2012 2:14:57 p.m. 337
+MOUSE release {X=395,Y=542} 16/09/2012 2:14:57 p.m. 431
+MOUSE click {X=395,Y=542} 16/09/2012 2:14:57 p.m. 529
+Text Selection MOUSE Lionsgate 16/09/2012 2:14:57 p.m. 585
+MOUSE release {X=395,Y=542} 16/09/2012 2:14:57 p.m. 587
+MOUSE click {X=352,Y=522} 16/09/2012 2:15:02 p.m. 94
+Text Selection MOUSE  16/09/2012 2:15:02 p.m. 231
+Text Selection MOUSE b 16/09/2012 2:15:04 p.m. 233
+Text Selection MOUSE be 16/09/2012 2:15:06 p.m. 714
+Text Selection MOUSE bec 16/09/2012 2:15:08 p.m. 793
+Text Selection MOUSE beca 16/09/2012 2:15:10 p.m. 977
+Text Selection MOUSE becau 16/09/2012 2:15:13 p.m. 675
+Text Selection MOUSE becaus 16/09/2012 2:15:16 p.m. 257
+Text Selection MOUSE because 16/09/2012 2:15:17 p.m. 17
+Text Selection MOUSE because  16/09/2012 2:15:17 p.m. 659
+Text Selection MOUSE because of  16/09/2012 2:15:17 p.m. 911
+Text Selection MOUSE because of their  16/09/2012 2:15:18 p.m. 866
+Text Selection MOUSE because of their cheaper  16/09/2012 2:15:19 p.m. 614
+Text Selection MOUSE because of their cheaper price  16/09/2012 2:15:20 p.m. 295
+Text Selection MOUSE because of their cheaper price and  16/09/2012 2:15:20 p.m. 847
+MOUSE release {X=519,Y=520} 16/09/2012 2:15:22 p.m. 968
+MOUSE click {X=657,Y=20} 16/09/2012 2:15:24 p.m. 800
+MOUSE release {X=657,Y=20} 16/09/2012 2:15:24 p.m. 889
+Focus Lost 16/09/2012 2:15:25 p.m. 84
+MOUSE click {X=731,Y=447} 16/09/2012 2:15:26 p.m. 27
+MOUSE release {X=731,Y=447} 16/09/2012 2:15:26 p.m. 113
+Focus Gained 16/09/2012 2:15:26 p.m. 120
+Focus Lost 16/09/2012 2:15:26 p.m. 146

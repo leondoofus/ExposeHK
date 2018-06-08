@@ -1,0 +1,96 @@
+Focus Gained 16/09/2012 5:35:29 p.m. 367
+MOUSE click {X=477,Y=276} 16/09/2012 5:35:30 p.m. 438
+Text Selection MOUSE 
+As mobile devices increasingly  16/09/2012 5:35:30 p.m. 543
+Text Selection MOUSE 
+As mobile devices increasingly resemble  16/09/2012 5:35:30 p.m. 552
+Text Selection MOUSE 
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high 16/09/2012 5:35:30 p.m. 598
+MOUSE release {X=614,Y=304} 16/09/2012 5:35:30 p.m. 902
+KEYPRESS DOWN LControlKey 16/09/2012 5:35:30 p.m. 993
+ExposeHK Activated 16/09/2012 5:35:30 p.m. 995
+KEYPRESS DOWN B 16/09/2012 5:35:31 p.m. 189
+COMMAND btnBold HOTKEY B SelText:
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high MOUSE  16/09/2012 5:35:31 p.m. 191
+ExposeHK Hidden 16/09/2012 5:35:31 p.m. 357
+KEYPRESS UP LControlKey 16/09/2012 5:35:31 p.m. 380
+KEYPRESS UP B 16/09/2012 5:35:31 p.m. 381
+MOUSE click {X=636,Y=363} 16/09/2012 5:35:31 p.m. 670
+MOUSE release {X=636,Y=363} 16/09/2012 5:35:31 p.m. 760
+KEYPRESS DOWN LControlKey 16/09/2012 5:35:36 p.m. 583
+ExposeHK Activated 16/09/2012 5:35:36 p.m. 586
+ExposeHK Hidden 16/09/2012 5:35:37 p.m. 62
+KEYPRESS UP LControlKey 16/09/2012 5:35:37 p.m. 101
+KEYPRESS DOWN LControlKey 16/09/2012 5:35:37 p.m. 247
+ExposeHK Activated 16/09/2012 5:35:37 p.m. 249
+ExposeHK Hidden 16/09/2012 5:35:37 p.m. 639
+KEYPRESS UP LControlKey 16/09/2012 5:35:37 p.m. 673
+MOUSE click {X=517,Y=344} 16/09/2012 5:35:53 p.m. 21
+Text Selection MOUSE b 16/09/2012 5:35:53 p.m. 85
+Text Selection MOUSE be 16/09/2012 5:35:53 p.m. 96
+Text Selection MOUSE beco 16/09/2012 5:35:53 p.m. 113
+Text Selection MOUSE become 16/09/2012 5:35:53 p.m. 124
+Text Selection MOUSE becomes a commodity 16/09/2012 5:35:53 p.m. 141
+Text Selection MOUSE becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News 16/09/2012 5:35:53 p.m. 165
+Text Selection MOUSE becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News,  16/09/2012 5:35:53 p.m. 264
+MOUSE release {X=634,Y=356} 16/09/2012 5:35:53 p.m. 719
+MOUSE click {X=861,Y=359} 16/09/2012 5:35:54 p.m. 192
+Text Selection MOUSE 
+ 16/09/2012 5:35:54 p.m. 317
+Text Selection MOUSE strategy. 16/09/2012 5:35:54 p.m. 341
+Text Selection MOUSE 
+
+ 16/09/2012 5:35:54 p.m. 351
+Text Selection MOUSE now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 489
+Text Selection MOUSE News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 505
+Text Selection MOUSE CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 517
+Text Selection MOUSE of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 541
+Text Selection MOUSE head of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 550
+Text Selection MOUSE former head of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 574
+Text Selection MOUSE , a former head of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 598
+Text Selection MOUSE Heyward, a former head of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 606
+Text Selection MOUSE platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 630
+Text Selection MOUSE The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 705
+Text Selection MOUSE "The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 717
+Text Selection MOUSE 
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:54 p.m. 864
+Text Selection MOUSE "The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy. 16/09/2012 5:35:55 p.m. 863
+MOUSE release {X=332,Y=341} 16/09/2012 5:35:55 p.m. 867
+MOUSE click {X=995,Y=31} 16/09/2012 5:36:08 p.m. 928
+MOUSE release {X=995,Y=31} 16/09/2012 5:36:09 p.m. 8
+Focus Lost 16/09/2012 5:36:09 p.m. 211
+MOUSE click {X=671,Y=449} 16/09/2012 5:36:09 p.m. 968
+MOUSE release {X=671,Y=449} 16/09/2012 5:36:10 p.m. 56
+Focus Gained 16/09/2012 5:36:10 p.m. 62
+Focus Lost 16/09/2012 5:36:10 p.m. 336
+MOUSE click {X=562,Y=431} 16/09/2012 5:36:11 p.m. 446
+MOUSE release {X=562,Y=431} 16/09/2012 5:36:11 p.m. 526
+KEYPRESS DOWN E 16/09/2012 5:36:12 p.m. 536
+KEYPRESS DOWN W 16/09/2012 5:36:12 p.m. 561
+KEYPRESS UP W 16/09/2012 5:36:12 p.m. 598
+KEYPRESS UP E 16/09/2012 5:36:12 p.m. 614
+KEYPRESS DOWN X 16/09/2012 5:36:12 p.m. 742
+KEYPRESS UP X 16/09/2012 5:36:12 p.m. 862
+KEYPRESS DOWN Back 16/09/2012 5:36:13 p.m. 158
+KEYPRESS UP Back 16/09/2012 5:36:13 p.m. 238
+KEYPRESS DOWN Back 16/09/2012 5:36:13 p.m. 286
+KEYPRESS UP Back 16/09/2012 5:36:13 p.m. 366
+KEYPRESS DOWN Back 16/09/2012 5:36:13 p.m. 662
+KEYPRESS UP Back 16/09/2012 5:36:13 p.m. 766
+KEYPRESS DOWN E 16/09/2012 5:36:14 p.m. 84
+KEYPRESS UP E 16/09/2012 5:36:14 p.m. 164
+KEYPRESS DOWN X 16/09/2012 5:36:14 p.m. 308
+KEYPRESS UP X 16/09/2012 5:36:14 p.m. 428
+KEYPRESS DOWN D2 16/09/2012 5:36:14 p.m. 556
+KEYPRESS UP D2 16/09/2012 5:36:14 p.m. 636
+KEYPRESS DOWN Return 16/09/2012 5:36:15 p.m. 158
+Focus Gained 16/09/2012 5:36:15 p.m. 218
+KEYPRESS UP Return 16/09/2012 5:36:15 p.m. 239
+Focus Lost 16/09/2012 5:36:15 p.m. 260

@@ -1,0 +1,149 @@
+Focus Gained 16/09/2012 5:56:44 p.m. 546
+MOUSE click {X=728,Y=36} 16/09/2012 5:56:45 p.m. 919
+MOUSE release {X=397,Y=33} 16/09/2012 5:56:47 p.m. 295
+MOUSE click {X=260,Y=284} 16/09/2012 5:56:47 p.m. 951
+Text Selection MOUSE c 16/09/2012 5:56:48 p.m. 18
+Text Selection MOUSE ch  16/09/2012 5:56:48 p.m. 29
+Text Selection MOUSE each other  16/09/2012 5:56:48 p.m. 37
+Text Selection MOUSE each other in  16/09/2012 5:56:48 p.m. 73
+Text Selection MOUSE each other in look  16/09/2012 5:56:48 p.m. 85
+Text Selection MOUSE each other in look and  16/09/2012 5:56:48 p.m. 93
+MOUSE release {X=347,Y=293} 16/09/2012 5:56:48 p.m. 380
+KEYPRESS DOWN LControlKey 16/09/2012 5:56:49 p.m. 185
+ExposeHK Activated 16/09/2012 5:56:49 p.m. 199
+ExposeHK Hidden 16/09/2012 5:56:49 p.m. 262
+KEYPRESS UP LControlKey 16/09/2012 5:56:49 p.m. 276
+KEYPRESS DOWN RControlKey 16/09/2012 5:56:49 p.m. 900
+ExposeHK Activated 16/09/2012 5:56:49 p.m. 901
+KEYPRESS DOWN K 16/09/2012 5:56:50 p.m. 395
+COMMAND BlackButton HOTKEY K SelText:each other in look and  MOUSE  16/09/2012 5:56:50 p.m. 401
+KEYPRESS UP K 16/09/2012 5:56:50 p.m. 571
+ExposeHK Hidden 16/09/2012 5:56:50 p.m. 628
+KEYPRESS UP RControlKey 16/09/2012 5:56:50 p.m. 642
+MOUSE click {X=424,Y=336} 16/09/2012 5:56:50 p.m. 868
+MOUSE release {X=424,Y=336} 16/09/2012 5:56:50 p.m. 956
+MOUSE click {X=237,Y=286} 16/09/2012 5:56:51 p.m. 622
+Text Selection MOUSE le 16/09/2012 5:56:51 p.m. 744
+Text Selection MOUSE resemble each other in look  16/09/2012 5:56:51 p.m. 758
+Text Selection MOUSE resemble each other in look and  16/09/2012 5:56:51 p.m. 789
+Text Selection MOUSE resemble each other in look and performance 16/09/2012 5:56:51 p.m. 806
+MOUSE release {X=389,Y=295} 16/09/2012 5:56:52 p.m. 222
+KEYPRESS DOWN RControlKey 16/09/2012 5:56:52 p.m. 462
+ExposeHK Activated 16/09/2012 5:56:52 p.m. 465
+KEYPRESS DOWN G 16/09/2012 5:56:53 p.m. 822
+COMMAND LimeButton HOTKEY G SelText:resemble each other in look and performance MOUSE  16/09/2012 5:56:53 p.m. 828
+KEYPRESS UP G 16/09/2012 5:56:53 p.m. 965
+ExposeHK Hidden 16/09/2012 5:56:54 p.m. 29
+KEYPRESS UP RControlKey 16/09/2012 5:56:54 p.m. 59
+MOUSE click {X=367,Y=334} 16/09/2012 5:56:54 p.m. 246
+MOUSE release {X=367,Y=334} 16/09/2012 5:56:54 p.m. 341
+MOUSE click {X=213,Y=302} 16/09/2012 5:56:55 p.m. 110
+Text Selection MOUSE ro 16/09/2012 5:56:55 p.m. 192
+Text Selection MOUSE rofit 16/09/2012 5:56:55 p.m. 199
+Text Selection MOUSE profit while  16/09/2012 5:56:55 p.m. 207
+Text Selection MOUSE profit while high 16/09/2012 5:56:55 p.m. 220
+Text Selection MOUSE profit while high-tech  16/09/2012 5:56:55 p.m. 247
+Text Selection MOUSE profit while high-tech manufacturers  16/09/2012 5:56:55 p.m. 257
+MOUSE release {X=332,Y=306} 16/09/2012 5:56:55 p.m. 518
+KEYPRESS DOWN RControlKey 16/09/2012 5:56:55 p.m. 795
+ExposeHK Activated 16/09/2012 5:56:55 p.m. 797
+KEYPRESS DOWN M 16/09/2012 5:56:56 p.m. 751
+COMMAND MagentaButton HOTKEY M SelText:profit while high-tech manufacturers  MOUSE  16/09/2012 5:56:56 p.m. 757
+KEYPRESS UP M 16/09/2012 5:56:56 p.m. 909
+ExposeHK Hidden 16/09/2012 5:56:56 p.m. 971
+KEYPRESS UP RControlKey 16/09/2012 5:56:56 p.m. 986
+MOUSE click {X=348,Y=356} 16/09/2012 5:56:57 p.m. 222
+MOUSE release {X=348,Y=356} 16/09/2012 5:56:57 p.m. 324
+MOUSE click {X=238,Y=334} 16/09/2012 5:56:57 p.m. 836
+Text Selection MOUSE 
+"The platform increasingly becomes a commodity, and  16/09/2012 5:56:57 p.m. 957
+Text Selection MOUSE 
+"The platform increasingly becomes a commodity, and the  16/09/2012 5:56:57 p.m. 969
+Text Selection MOUSE 
+"The platform increasingly becomes a commodity, and the content  16/09/2012 5:56:57 p.m. 998
+MOUSE release {X=354,Y=341} 16/09/2012 5:56:58 p.m. 300
+KEYPRESS DOWN RControlKey 16/09/2012 5:56:58 p.m. 772
+ExposeHK Activated 16/09/2012 5:56:58 p.m. 778
+KEYPRESS DOWN H 16/09/2012 5:56:59 p.m. 862
+COMMAND CyanButton HOTKEY H SelText:
+"The platform increasingly becomes a commodity, and the content  MOUSE  16/09/2012 5:56:59 p.m. 868
+KEYPRESS UP H 16/09/2012 5:57:00 p.m. 22
+ExposeHK Hidden 16/09/2012 5:57:00 p.m. 115
+KEYPRESS UP RControlKey 16/09/2012 5:57:00 p.m. 163
+MOUSE click {X=394,Y=315} 16/09/2012 5:57:00 p.m. 359
+MOUSE release {X=394,Y=315} 16/09/2012 5:57:00 p.m. 455
+MOUSE click {X=420,Y=346} 16/09/2012 5:57:01 p.m. 103
+Text Selection MOUSE l 16/09/2012 5:57:01 p.m. 192
+Text Selection MOUSE ly  16/09/2012 5:57:01 p.m. 200
+Text Selection MOUSE increasingly becomes  16/09/2012 5:57:01 p.m. 207
+Text Selection MOUSE increasingly becomes the  16/09/2012 5:57:01 p.m. 255
+Text Selection MOUSE increasingly becomes the only  16/09/2012 5:57:01 p.m. 267
+MOUSE release {X=514,Y=344} 16/09/2012 5:57:01 p.m. 717
+MOUSE click {X=202,Y=290} 16/09/2012 5:57:02 p.m. 951
+Text Selection MOUSE  resemble  16/09/2012 5:57:03 p.m. 6
+Text Selection MOUSE  resemble each  16/09/2012 5:57:03 p.m. 57
+Text Selection MOUSE  resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high 16/09/2012 5:57:03 p.m. 80
+Text Selection MOUSE  resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech  16/09/2012 5:57:03 p.m. 89
+Text Selection MOUSE  resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers  16/09/2012 5:57:03 p.m. 96
+Text Selection MOUSE  resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories, songs and shows.
+ 16/09/2012 5:57:03 p.m. 145
+MOUSE release {X=438,Y=311} 16/09/2012 5:57:03 p.m. 551
+KEYPRESS DOWN RControlKey 16/09/2012 5:57:03 p.m. 718
+ExposeHK Activated 16/09/2012 5:57:03 p.m. 721
+KEYPRESS DOWN K 16/09/2012 5:57:04 p.m. 76
+COMMAND BlackButton HOTKEY K SelText: resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories, songs and shows.
+ MOUSE  16/09/2012 5:57:04 p.m. 77
+KEYPRESS UP K 16/09/2012 5:57:04 p.m. 246
+ExposeHK Hidden 16/09/2012 5:57:04 p.m. 278
+KEYPRESS UP RControlKey 16/09/2012 5:57:04 p.m. 291
+MOUSE click {X=429,Y=348} 16/09/2012 5:57:04 p.m. 398
+MOUSE release {X=429,Y=348} 16/09/2012 5:57:04 p.m. 503
+MOUSE click {X=425,Y=357} 16/09/2012 5:57:05 p.m. 463
+Text Selection MOUSE it 16/09/2012 5:57:05 p.m. 533
+Text Selection MOUSE git 16/09/2012 5:57:05 p.m. 559
+Text Selection MOUSE digit 16/09/2012 5:57:05 p.m. 580
+Text Selection MOUSE consultant on digital  16/09/2012 5:57:05 p.m. 597
+Text Selection MOUSE now a consultant on digital  16/09/2012 5:57:05 p.m. 615
+Text Selection MOUSE and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital  16/09/2012 5:57:05 p.m. 623
+Text Selection MOUSE commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital  16/09/2012 5:57:05 p.m. 632
+Text Selection MOUSE becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital  16/09/2012 5:57:05 p.m. 650
+Text Selection MOUSE "The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital  16/09/2012 5:57:05 p.m. 669
+Text Selection MOUSE 
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital  16/09/2012 5:57:05 p.m. 701
+Text Selection MOUSE .
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital  16/09/2012 5:57:05 p.m. 718
+Text Selection MOUSE shows.
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital  16/09/2012 5:57:05 p.m. 726
+KEYPRESS DOWN RControlKey 16/09/2012 5:57:06 p.m. 22
+ExposeHK Activated 16/09/2012 5:57:06 p.m. 25
+MOUSE release {X=7,Y=318} 16/09/2012 5:57:06 p.m. 60
+KEYPRESS DOWN K 16/09/2012 5:57:06 p.m. 213
+COMMAND BlackButton HOTKEY K SelText:shows.
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital  MOUSE  16/09/2012 5:57:06 p.m. 216
+KEYPRESS UP K 16/09/2012 5:57:06 p.m. 405
+ExposeHK Hidden 16/09/2012 5:57:06 p.m. 436
+KEYPRESS UP RControlKey 16/09/2012 5:57:06 p.m. 450
+MOUSE click {X=289,Y=300} 16/09/2012 5:57:06 p.m. 623
+MOUSE release {X=289,Y=300} 16/09/2012 5:57:06 p.m. 709
+KEYPRESS DOWN LControlKey 16/09/2012 5:57:08 p.m. 547
+ExposeHK Activated 16/09/2012 5:57:08 p.m. 548
+ExposeHK Hidden 16/09/2012 5:57:16 p.m. 998
+KEYPRESS UP LControlKey 16/09/2012 5:57:17 p.m. 43
+MOUSE click {X=661,Y=24} 16/09/2012 5:57:28 p.m. 270
+MOUSE release {X=661,Y=24} 16/09/2012 5:57:28 p.m. 366
+Focus Lost 16/09/2012 5:57:28 p.m. 543
+MOUSE click {X=769,Y=444} 16/09/2012 5:57:29 p.m. 870
+MOUSE release {X=769,Y=444} 16/09/2012 5:57:29 p.m. 958
+Focus Gained 16/09/2012 5:57:29 p.m. 965
+Focus Lost 16/09/2012 5:57:29 p.m. 985

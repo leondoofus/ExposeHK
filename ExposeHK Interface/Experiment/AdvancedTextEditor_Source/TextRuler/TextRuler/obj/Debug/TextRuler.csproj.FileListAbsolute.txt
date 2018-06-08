@@ -1,0 +1,52 @@
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.exe
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.pdb
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form1.resources
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Properties.Resources.resources
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.GenerateResource.Cache
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.exe
+C:\Users\Joel\Uni 2012\460\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.pdb
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form1.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Properties.Resources.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.GenerateResource.Cache
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.exe
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.exe
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.pdb
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.pdb
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form1.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Properties.Resources.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.GenerateResource.Cache
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.exe
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.exe
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.pdb
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.pdb
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form1.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Properties.Resources.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.GenerateResource.Cache
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.exe
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.exe
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.pdb
+C:\Users\Joel\Uni 2012\460\EHK Applications Source\After Button Removal\Text Editor with not Font combo Boxes\With Colours\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.pdb
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.exe.config
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.exe
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\bin\Debug\TextRuler.pdb
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csprojAssemblyReference.cache
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form1.resources
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Properties.Resources.resources
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.GenerateResource.cache
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.exe
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.pdb

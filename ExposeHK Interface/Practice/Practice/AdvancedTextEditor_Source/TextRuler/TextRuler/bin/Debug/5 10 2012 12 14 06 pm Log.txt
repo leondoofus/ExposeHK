@@ -1,0 +1,1261 @@
+Focus Gained 5/10/2012 12:14:06 p.m. 795
+MOUSE Move {X=448,Y=371} 5/10/2012 12:14:06 p.m. 993
+MOUSE Move {X=451,Y=371} 5/10/2012 12:14:06 p.m. 998
+MOUSE Move {X=456,Y=372} 5/10/2012 12:14:07 p.m. 7
+MOUSE Move {X=457,Y=373} 5/10/2012 12:14:07 p.m. 23
+MOUSE Move {X=459,Y=373} 5/10/2012 12:14:07 p.m. 177
+MOUSE Move {X=461,Y=370} 5/10/2012 12:14:07 p.m. 182
+MOUSE Move {X=464,Y=367} 5/10/2012 12:14:07 p.m. 184
+MOUSE Move {X=467,Y=362} 5/10/2012 12:14:07 p.m. 192
+MOUSE Move {X=471,Y=358} 5/10/2012 12:14:07 p.m. 198
+MOUSE Move {X=476,Y=353} 5/10/2012 12:14:07 p.m. 207
+MOUSE Move {X=479,Y=350} 5/10/2012 12:14:07 p.m. 215
+MOUSE Move {X=484,Y=347} 5/10/2012 12:14:07 p.m. 222
+MOUSE Move {X=488,Y=342} 5/10/2012 12:14:07 p.m. 232
+MOUSE Move {X=490,Y=339} 5/10/2012 12:14:07 p.m. 240
+MOUSE Move {X=491,Y=338} 5/10/2012 12:14:07 p.m. 248
+MOUSE Move {X=492,Y=336} 5/10/2012 12:14:07 p.m. 254
+MOUSE Move {X=492,Y=333} 5/10/2012 12:14:07 p.m. 271
+MOUSE Move {X=492,Y=330} 5/10/2012 12:14:07 p.m. 288
+MOUSE Move {X=492,Y=328} 5/10/2012 12:14:07 p.m. 304
+MOUSE Move {X=492,Y=327} 5/10/2012 12:14:07 p.m. 312
+MOUSE Move {X=491,Y=324} 5/10/2012 12:14:07 p.m. 320
+MOUSE Move {X=489,Y=319} 5/10/2012 12:14:07 p.m. 328
+MOUSE Move {X=486,Y=315} 5/10/2012 12:14:07 p.m. 336
+MOUSE Move {X=481,Y=310} 5/10/2012 12:14:07 p.m. 344
+MOUSE Move {X=477,Y=307} 5/10/2012 12:14:07 p.m. 350
+MOUSE Move {X=474,Y=302} 5/10/2012 12:14:07 p.m. 358
+MOUSE Move {X=469,Y=298} 5/10/2012 12:14:07 p.m. 366
+MOUSE Move {X=464,Y=295} 5/10/2012 12:14:07 p.m. 376
+MOUSE Move {X=461,Y=292} 5/10/2012 12:14:07 p.m. 383
+MOUSE Move {X=457,Y=289} 5/10/2012 12:14:07 p.m. 392
+MOUSE Move {X=452,Y=286} 5/10/2012 12:14:07 p.m. 400
+MOUSE Move {X=448,Y=281} 5/10/2012 12:14:07 p.m. 407
+MOUSE Move {X=438,Y=275} 5/10/2012 12:14:07 p.m. 415
+MOUSE Move {X=431,Y=270} 5/10/2012 12:14:07 p.m. 423
+MOUSE Move {X=423,Y=262} 5/10/2012 12:14:07 p.m. 431
+MOUSE Move {X=414,Y=257} 5/10/2012 12:14:07 p.m. 439
+MOUSE Move {X=404,Y=251} 5/10/2012 12:14:07 p.m. 447
+MOUSE Move {X=395,Y=245} 5/10/2012 12:14:07 p.m. 455
+MOUSE Move {X=385,Y=239} 5/10/2012 12:14:07 p.m. 463
+MOUSE Move {X=381,Y=236} 5/10/2012 12:14:07 p.m. 471
+MOUSE Move {X=376,Y=233} 5/10/2012 12:14:07 p.m. 479
+MOUSE Move {X=371,Y=230} 5/10/2012 12:14:07 p.m. 487
+MOUSE Move {X=370,Y=229} 5/10/2012 12:14:07 p.m. 495
+MOUSE Move {X=368,Y=228} 5/10/2012 12:14:07 p.m. 503
+MOUSE Move {X=366,Y=225} 5/10/2012 12:14:07 p.m. 511
+MOUSE Move {X=363,Y=222} 5/10/2012 12:14:07 p.m. 519
+MOUSE Move {X=359,Y=219} 5/10/2012 12:14:07 p.m. 527
+MOUSE Move {X=354,Y=216} 5/10/2012 12:14:07 p.m. 535
+MOUSE Move {X=347,Y=211} 5/10/2012 12:14:07 p.m. 544
+MOUSE Move {X=340,Y=206} 5/10/2012 12:14:07 p.m. 554
+MOUSE Move {X=333,Y=200} 5/10/2012 12:14:07 p.m. 559
+MOUSE Move {X=324,Y=195} 5/10/2012 12:14:07 p.m. 566
+MOUSE Move {X=314,Y=191} 5/10/2012 12:14:07 p.m. 574
+MOUSE Move {X=308,Y=187} 5/10/2012 12:14:07 p.m. 582
+MOUSE Move {X=298,Y=184} 5/10/2012 12:14:07 p.m. 590
+MOUSE Move {X=294,Y=181} 5/10/2012 12:14:07 p.m. 599
+MOUSE Move {X=289,Y=178} 5/10/2012 12:14:07 p.m. 607
+MOUSE Move {X=285,Y=176} 5/10/2012 12:14:07 p.m. 614
+MOUSE Move {X=283,Y=173} 5/10/2012 12:14:07 p.m. 622
+MOUSE Move {X=282,Y=172} 5/10/2012 12:14:07 p.m. 630
+MOUSE Move {X=280,Y=171} 5/10/2012 12:14:07 p.m. 639
+MOUSE Move {X=278,Y=170} 5/10/2012 12:14:07 p.m. 646
+MOUSE Move {X=277,Y=167} 5/10/2012 12:14:07 p.m. 654
+MOUSE Move {X=276,Y=166} 5/10/2012 12:14:07 p.m. 662
+MOUSE Move {X=273,Y=165} 5/10/2012 12:14:07 p.m. 671
+MOUSE Move {X=270,Y=162} 5/10/2012 12:14:07 p.m. 679
+MOUSE Move {X=268,Y=160} 5/10/2012 12:14:07 p.m. 687
+MOUSE Move {X=265,Y=159} 5/10/2012 12:14:07 p.m. 694
+MOUSE Move {X=262,Y=158} 5/10/2012 12:14:07 p.m. 703
+MOUSE Move {X=261,Y=158} 5/10/2012 12:14:07 p.m. 710
+MOUSE Move {X=258,Y=156} 5/10/2012 12:14:07 p.m. 718
+MOUSE Move {X=257,Y=156} 5/10/2012 12:14:07 p.m. 862
+MOUSE Move {X=255,Y=156} 5/10/2012 12:14:07 p.m. 870
+MOUSE Move {X=250,Y=156} 5/10/2012 12:14:07 p.m. 880
+MOUSE Move {X=248,Y=156} 5/10/2012 12:14:07 p.m. 887
+MOUSE Move {X=243,Y=157} 5/10/2012 12:14:07 p.m. 894
+MOUSE Move {X=239,Y=158} 5/10/2012 12:14:07 p.m. 903
+MOUSE Move {X=236,Y=160} 5/10/2012 12:14:07 p.m. 910
+MOUSE Move {X=233,Y=163} 5/10/2012 12:14:07 p.m. 918
+MOUSE Move {X=228,Y=166} 5/10/2012 12:14:07 p.m. 926
+MOUSE Move {X=227,Y=168} 5/10/2012 12:14:07 p.m. 935
+MOUSE Move {X=225,Y=173} 5/10/2012 12:14:07 p.m. 942
+MOUSE Move {X=224,Y=177} 5/10/2012 12:14:07 p.m. 951
+MOUSE Move {X=224,Y=184} 5/10/2012 12:14:07 p.m. 958
+MOUSE Move {X=224,Y=190} 5/10/2012 12:14:07 p.m. 966
+MOUSE Move {X=225,Y=198} 5/10/2012 12:14:07 p.m. 974
+MOUSE Move {X=226,Y=204} 5/10/2012 12:14:07 p.m. 982
+MOUSE Move {X=228,Y=211} 5/10/2012 12:14:07 p.m. 990
+MOUSE Move {X=229,Y=217} 5/10/2012 12:14:07 p.m. 998
+MOUSE Move {X=233,Y=224} 5/10/2012 12:14:08 p.m. 6
+MOUSE Move {X=235,Y=233} 5/10/2012 12:14:08 p.m. 14
+MOUSE Move {X=238,Y=240} 5/10/2012 12:14:08 p.m. 22
+MOUSE Move {X=240,Y=251} 5/10/2012 12:14:08 p.m. 30
+MOUSE Move {X=244,Y=260} 5/10/2012 12:14:08 p.m. 39
+MOUSE Move {X=247,Y=272} 5/10/2012 12:14:08 p.m. 46
+MOUSE Move {X=251,Y=284} 5/10/2012 12:14:08 p.m. 54
+MOUSE Move {X=255,Y=293} 5/10/2012 12:14:08 p.m. 63
+MOUSE Move {X=257,Y=302} 5/10/2012 12:14:08 p.m. 72
+MOUSE Move {X=260,Y=307} 5/10/2012 12:14:08 p.m. 80
+MOUSE Move {X=260,Y=309} 5/10/2012 12:14:08 p.m. 88
+MOUSE Move {X=260,Y=312} 5/10/2012 12:14:08 p.m. 137
+MOUSE Move {X=257,Y=313} 5/10/2012 12:14:08 p.m. 144
+MOUSE Move {X=254,Y=315} 5/10/2012 12:14:08 p.m. 152
+MOUSE Move {X=249,Y=316} 5/10/2012 12:14:08 p.m. 160
+MOUSE Move {X=243,Y=316} 5/10/2012 12:14:08 p.m. 168
+MOUSE Move {X=239,Y=318} 5/10/2012 12:14:08 p.m. 175
+MOUSE Move {X=231,Y=318} 5/10/2012 12:14:08 p.m. 184
+MOUSE Move {X=225,Y=318} 5/10/2012 12:14:08 p.m. 191
+MOUSE Move {X=220,Y=318} 5/10/2012 12:14:08 p.m. 200
+MOUSE Move {X=214,Y=318} 5/10/2012 12:14:08 p.m. 208
+MOUSE Move {X=210,Y=317} 5/10/2012 12:14:08 p.m. 216
+MOUSE Move {X=205,Y=314} 5/10/2012 12:14:08 p.m. 223
+MOUSE Move {X=202,Y=313} 5/10/2012 12:14:08 p.m. 232
+MOUSE Move {X=201,Y=312} 5/10/2012 12:14:08 p.m. 248
+MOUSE Move {X=200,Y=311} 5/10/2012 12:14:08 p.m. 256
+MOUSE Move {X=200,Y=308} 5/10/2012 12:14:08 p.m. 264
+MOUSE Move {X=200,Y=305} 5/10/2012 12:14:08 p.m. 272
+MOUSE Move {X=200,Y=303} 5/10/2012 12:14:08 p.m. 278
+MOUSE Move {X=200,Y=300} 5/10/2012 12:14:08 p.m. 286
+MOUSE Move {X=200,Y=297} 5/10/2012 12:14:08 p.m. 294
+MOUSE Move {X=202,Y=295} 5/10/2012 12:14:08 p.m. 302
+MOUSE Move {X=205,Y=290} 5/10/2012 12:14:08 p.m. 312
+MOUSE Move {X=208,Y=285} 5/10/2012 12:14:08 p.m. 320
+MOUSE Move {X=209,Y=283} 5/10/2012 12:14:08 p.m. 328
+MOUSE Move {X=210,Y=281} 5/10/2012 12:14:08 p.m. 335
+MOUSE Move {X=213,Y=276} 5/10/2012 12:14:08 p.m. 377
+MOUSE Move {X=213,Y=275} 5/10/2012 12:14:08 p.m. 383
+MOUSE Move {X=213,Y=274} 5/10/2012 12:14:08 p.m. 398
+MOUSE Move {X=213,Y=273} 5/10/2012 12:14:08 p.m. 414
+MOUSE Move {X=213,Y=271} 5/10/2012 12:14:08 p.m. 422
+MOUSE Move {X=210,Y=271} 5/10/2012 12:14:08 p.m. 430
+MOUSE Move {X=209,Y=270} 5/10/2012 12:14:08 p.m. 438
+MOUSE Move {X=207,Y=270} 5/10/2012 12:14:08 p.m. 446
+MOUSE Move {X=204,Y=270} 5/10/2012 12:14:08 p.m. 454
+MOUSE Move {X=201,Y=270} 5/10/2012 12:14:08 p.m. 462
+MOUSE Move {X=197,Y=270} 5/10/2012 12:14:08 p.m. 470
+MOUSE Move {X=193,Y=270} 5/10/2012 12:14:08 p.m. 478
+MOUSE Move {X=188,Y=269} 5/10/2012 12:14:08 p.m. 488
+MOUSE Move {X=184,Y=269} 5/10/2012 12:14:08 p.m. 496
+MOUSE Move {X=179,Y=269} 5/10/2012 12:14:08 p.m. 504
+MOUSE Move {X=177,Y=269} 5/10/2012 12:14:08 p.m. 512
+MOUSE Move {X=174,Y=269} 5/10/2012 12:14:08 p.m. 518
+MOUSE Move {X=174,Y=266} 5/10/2012 12:14:08 p.m. 560
+MOUSE Move {X=173,Y=265} 5/10/2012 12:14:08 p.m. 568
+MOUSE Move {X=173,Y=263} 5/10/2012 12:14:08 p.m. 576
+MOUSE Move {X=173,Y=258} 5/10/2012 12:14:08 p.m. 583
+MOUSE Move {X=172,Y=252} 5/10/2012 12:14:08 p.m. 592
+MOUSE Move {X=172,Y=248} 5/10/2012 12:14:08 p.m. 600
+MOUSE Move {X=174,Y=243} 5/10/2012 12:14:08 p.m. 607
+MOUSE Move {X=177,Y=236} 5/10/2012 12:14:08 p.m. 615
+MOUSE Move {X=180,Y=232} 5/10/2012 12:14:08 p.m. 623
+MOUSE Move {X=183,Y=225} 5/10/2012 12:14:08 p.m. 631
+MOUSE Move {X=190,Y=220} 5/10/2012 12:14:08 p.m. 639
+MOUSE Move {X=203,Y=209} 5/10/2012 12:14:08 p.m. 655
+MOUSE Move {X=207,Y=208} 5/10/2012 12:14:08 p.m. 664
+MOUSE Move {X=210,Y=205} 5/10/2012 12:14:08 p.m. 671
+MOUSE Move {X=211,Y=204} 5/10/2012 12:14:08 p.m. 687
+MOUSE Move {X=213,Y=203} 5/10/2012 12:14:08 p.m. 753
+MOUSE Move {X=214,Y=202} 5/10/2012 12:14:08 p.m. 760
+MOUSE Move {X=215,Y=200} 5/10/2012 12:14:08 p.m. 768
+MOUSE Move {X=217,Y=199} 5/10/2012 12:14:08 p.m. 779
+MOUSE Move {X=219,Y=198} 5/10/2012 12:14:08 p.m. 784
+MOUSE Move {X=220,Y=197} 5/10/2012 12:14:08 p.m. 790
+MOUSE Move {X=221,Y=196} 5/10/2012 12:14:08 p.m. 807
+MOUSE Move {X=221,Y=194} 5/10/2012 12:14:08 p.m. 839
+MOUSE Move {X=222,Y=193} 5/10/2012 12:14:08 p.m. 855
+MOUSE Move {X=223,Y=193} 5/10/2012 12:14:08 p.m. 862
+MOUSE Move {X=224,Y=192} 5/10/2012 12:14:08 p.m. 870
+MOUSE Move {X=226,Y=192} 5/10/2012 12:14:08 p.m. 878
+MOUSE Move {X=227,Y=191} 5/10/2012 12:14:08 p.m. 886
+MOUSE Move {X=228,Y=190} 5/10/2012 12:14:08 p.m. 902
+MOUSE Move {X=229,Y=189} 5/10/2012 12:14:08 p.m. 912
+MOUSE Move {X=230,Y=189} 5/10/2012 12:14:08 p.m. 928
+MOUSE Move {X=233,Y=187} 5/10/2012 12:14:08 p.m. 936
+MOUSE Move {X=235,Y=187} 5/10/2012 12:14:08 p.m. 943
+MOUSE Move {X=242,Y=187} 5/10/2012 12:14:08 p.m. 952
+MOUSE Move {X=252,Y=187} 5/10/2012 12:14:08 p.m. 959
+MOUSE Move {X=260,Y=187} 5/10/2012 12:14:08 p.m. 968
+MOUSE Move {X=269,Y=187} 5/10/2012 12:14:08 p.m. 976
+MOUSE Move {X=275,Y=186} 5/10/2012 12:14:08 p.m. 983
+MOUSE Move {X=280,Y=186} 5/10/2012 12:14:08 p.m. 991
+MOUSE Move {X=281,Y=186} 5/10/2012 12:14:08 p.m. 999
+MOUSE Move {X=278,Y=186} 5/10/2012 12:14:09 p.m. 135
+MOUSE Move {X=275,Y=186} 5/10/2012 12:14:09 p.m. 142
+MOUSE Move {X=272,Y=186} 5/10/2012 12:14:09 p.m. 150
+MOUSE Move {X=270,Y=186} 5/10/2012 12:14:09 p.m. 158
+MOUSE Move {X=267,Y=186} 5/10/2012 12:14:09 p.m. 166
+MOUSE Move {X=265,Y=186} 5/10/2012 12:14:09 p.m. 184
+MOUSE Move {X=263,Y=186} 5/10/2012 12:14:09 p.m. 214
+MOUSE Move {X=261,Y=186} 5/10/2012 12:14:09 p.m. 230
+MOUSE Move {X=258,Y=186} 5/10/2012 12:14:09 p.m. 246
+MOUSE Move {X=256,Y=186} 5/10/2012 12:14:09 p.m. 262
+MOUSE Move {X=254,Y=186} 5/10/2012 12:14:09 p.m. 278
+MOUSE Move {X=253,Y=186} 5/10/2012 12:14:09 p.m. 294
+MOUSE Move {X=252,Y=186} 5/10/2012 12:14:09 p.m. 310
+MOUSE Move {X=251,Y=186} 5/10/2012 12:14:09 p.m. 318
+MOUSE Move {X=250,Y=186} 5/10/2012 12:14:09 p.m. 326
+MOUSE Move {X=249,Y=186} 5/10/2012 12:14:09 p.m. 342
+MOUSE Move {X=247,Y=186} 5/10/2012 12:14:09 p.m. 382
+MOUSE Move {X=246,Y=185} 5/10/2012 12:14:09 p.m. 510
+MOUSE Move {X=244,Y=185} 5/10/2012 12:14:09 p.m. 519
+MOUSE Move {X=241,Y=185} 5/10/2012 12:14:09 p.m. 526
+MOUSE Move {X=237,Y=185} 5/10/2012 12:14:09 p.m. 534
+MOUSE Move {X=232,Y=185} 5/10/2012 12:14:09 p.m. 542
+MOUSE Move {X=228,Y=185} 5/10/2012 12:14:09 p.m. 550
+MOUSE Move {X=225,Y=185} 5/10/2012 12:14:09 p.m. 558
+MOUSE Move {X=221,Y=185} 5/10/2012 12:14:09 p.m. 566
+MOUSE Move {X=218,Y=185} 5/10/2012 12:14:09 p.m. 574
+MOUSE Move {X=214,Y=185} 5/10/2012 12:14:09 p.m. 582
+MOUSE Move {X=213,Y=185} 5/10/2012 12:14:09 p.m. 590
+MOUSE Move {X=210,Y=185} 5/10/2012 12:14:09 p.m. 605
+MOUSE Move {X=209,Y=185} 5/10/2012 12:14:09 p.m. 608
+MOUSE Move {X=208,Y=185} 5/10/2012 12:14:09 p.m. 616
+MOUSE Move {X=207,Y=185} 5/10/2012 12:14:09 p.m. 624
+MOUSE Move {X=204,Y=185} 5/10/2012 12:14:09 p.m. 638
+MOUSE Move {X=202,Y=185} 5/10/2012 12:14:09 p.m. 646
+MOUSE Move {X=199,Y=185} 5/10/2012 12:14:09 p.m. 654
+MOUSE Move {X=197,Y=185} 5/10/2012 12:14:09 p.m. 662
+MOUSE Move {X=192,Y=185} 5/10/2012 12:14:09 p.m. 670
+MOUSE Move {X=188,Y=185} 5/10/2012 12:14:09 p.m. 678
+MOUSE Move {X=183,Y=185} 5/10/2012 12:14:09 p.m. 686
+MOUSE Move {X=179,Y=185} 5/10/2012 12:14:09 p.m. 694
+MOUSE Move {X=177,Y=185} 5/10/2012 12:14:09 p.m. 702
+MOUSE Move {X=172,Y=185} 5/10/2012 12:14:09 p.m. 710
+MOUSE Move {X=170,Y=185} 5/10/2012 12:14:09 p.m. 718
+MOUSE Move {X=167,Y=185} 5/10/2012 12:14:09 p.m. 726
+MOUSE Move {X=166,Y=185} 5/10/2012 12:14:09 p.m. 734
+MOUSE Move {X=165,Y=185} 5/10/2012 12:14:09 p.m. 742
+MOUSE Move {X=162,Y=185} 5/10/2012 12:14:09 p.m. 750
+MOUSE Move {X=161,Y=185} 5/10/2012 12:14:09 p.m. 766
+MOUSE Move {X=160,Y=185} 5/10/2012 12:14:09 p.m. 774
+MOUSE Move {X=159,Y=185} 5/10/2012 12:14:09 p.m. 782
+MOUSE Move {X=156,Y=185} 5/10/2012 12:14:09 p.m. 790
+MOUSE Move {X=153,Y=185} 5/10/2012 12:14:09 p.m. 799
+MOUSE Move {X=151,Y=185} 5/10/2012 12:14:09 p.m. 806
+MOUSE Move {X=150,Y=185} 5/10/2012 12:14:09 p.m. 814
+MOUSE Move {X=147,Y=185} 5/10/2012 12:14:09 p.m. 822
+MOUSE Move {X=145,Y=185} 5/10/2012 12:14:09 p.m. 838
+MOUSE Move {X=142,Y=183} 5/10/2012 12:14:09 p.m. 854
+MOUSE Move {X=141,Y=183} 5/10/2012 12:14:09 p.m. 870
+MOUSE Move {X=138,Y=183} 5/10/2012 12:14:09 p.m. 878
+MOUSE Move {X=136,Y=183} 5/10/2012 12:14:09 p.m. 886
+MOUSE Move {X=131,Y=182} 5/10/2012 12:14:09 p.m. 894
+MOUSE Move {X=128,Y=182} 5/10/2012 12:14:09 p.m. 902
+MOUSE Move {X=124,Y=182} 5/10/2012 12:14:09 p.m. 910
+MOUSE Move {X=120,Y=180} 5/10/2012 12:14:09 p.m. 919
+MOUSE Move {X=115,Y=180} 5/10/2012 12:14:09 p.m. 926
+MOUSE Move {X=111,Y=180} 5/10/2012 12:14:09 p.m. 934
+MOUSE Move {X=108,Y=180} 5/10/2012 12:14:09 p.m. 942
+MOUSE Move {X=106,Y=180} 5/10/2012 12:14:09 p.m. 950
+MOUSE Move {X=104,Y=180} 5/10/2012 12:14:09 p.m. 958
+MOUSE Move {X=102,Y=180} 5/10/2012 12:14:09 p.m. 966
+MOUSE Move {X=99,Y=180} 5/10/2012 12:14:09 p.m. 982
+MOUSE Move {X=96,Y=179} 5/10/2012 12:14:10 p.m. 10
+MOUSE Move {X=95,Y=179} 5/10/2012 12:14:10 p.m. 12
+MOUSE Move {X=93,Y=179} 5/10/2012 12:14:10 p.m. 14
+MOUSE Move {X=90,Y=179} 5/10/2012 12:14:10 p.m. 22
+MOUSE Move {X=89,Y=178} 5/10/2012 12:14:10 p.m. 30
+MOUSE Move {X=87,Y=178} 5/10/2012 12:14:10 p.m. 38
+MOUSE Move {X=85,Y=178} 5/10/2012 12:14:10 p.m. 46
+MOUSE Move {X=83,Y=177} 5/10/2012 12:14:10 p.m. 54
+MOUSE Move {X=82,Y=175} 5/10/2012 12:14:10 p.m. 70
+MOUSE Move {X=81,Y=175} 5/10/2012 12:14:10 p.m. 78
+MOUSE Move {X=78,Y=174} 5/10/2012 12:14:10 p.m. 94
+MOUSE Move {X=78,Y=173} 5/10/2012 12:14:10 p.m. 112
+MOUSE Move {X=77,Y=172} 5/10/2012 12:14:10 p.m. 128
+MOUSE Move {X=74,Y=171} 5/10/2012 12:14:10 p.m. 144
+MOUSE Move {X=74,Y=169} 5/10/2012 12:14:10 p.m. 151
+MOUSE Move {X=73,Y=168} 5/10/2012 12:14:10 p.m. 160
+MOUSE Move {X=72,Y=168} 5/10/2012 12:14:10 p.m. 176
+MOUSE Move {X=71,Y=167} 5/10/2012 12:14:10 p.m. 240
+MOUSE Move {X=71,Y=166} 5/10/2012 12:14:10 p.m. 256
+MOUSE Move {X=71,Y=165} 5/10/2012 12:14:10 p.m. 272
+MOUSE Move {X=71,Y=164} 5/10/2012 12:14:10 p.m. 286
+MOUSE Move {X=71,Y=162} 5/10/2012 12:14:10 p.m. 302
+MOUSE Move {X=71,Y=161} 5/10/2012 12:14:10 p.m. 385
+MOUSE Move {X=71,Y=160} 5/10/2012 12:14:10 p.m. 400
+MOUSE Move {X=71,Y=159} 5/10/2012 12:14:10 p.m. 416
+MOUSE Move {X=71,Y=158} 5/10/2012 12:14:10 p.m. 431
+MOUSE Move {X=71,Y=157} 5/10/2012 12:14:10 p.m. 577
+MOUSE Move {X=71,Y=159} 5/10/2012 12:14:10 p.m. 912
+MOUSE Move {X=73,Y=164} 5/10/2012 12:14:10 p.m. 924
+MOUSE Move {X=80,Y=171} 5/10/2012 12:14:10 p.m. 928
+MOUSE Move {X=90,Y=184} 5/10/2012 12:14:10 p.m. 936
+MOUSE Move {X=105,Y=197} 5/10/2012 12:14:10 p.m. 945
+MOUSE Move {X=126,Y=215} 5/10/2012 12:14:10 p.m. 951
+MOUSE Move {X=147,Y=236} 5/10/2012 12:14:10 p.m. 958
+MOUSE Move {X=179,Y=262} 5/10/2012 12:14:10 p.m. 966
+MOUSE Move {X=220,Y=297} 5/10/2012 12:14:10 p.m. 974
+MOUSE Move {X=260,Y=328} 5/10/2012 12:14:10 p.m. 982
+MOUSE Move {X=305,Y=360} 5/10/2012 12:14:10 p.m. 990
+MOUSE Move {X=351,Y=393} 5/10/2012 12:14:10 p.m. 998
+MOUSE Move {X=395,Y=421} 5/10/2012 12:14:11 p.m. 6
+MOUSE Move {X=448,Y=448} 5/10/2012 12:14:11 p.m. 14
+MOUSE Move {X=502,Y=475} 5/10/2012 12:14:11 p.m. 22
+MOUSE Move {X=560,Y=502} 5/10/2012 12:14:11 p.m. 30
+MOUSE Move {X=616,Y=519} 5/10/2012 12:14:11 p.m. 46
+MOUSE Move {X=672,Y=535} 5/10/2012 12:14:11 p.m. 49
+MOUSE Move {X=723,Y=551} 5/10/2012 12:14:11 p.m. 55
+MOUSE Move {X=777,Y=564} 5/10/2012 12:14:11 p.m. 63
+MOUSE Move {X=839,Y=581} 5/10/2012 12:14:11 p.m. 71
+MOUSE Move {X=888,Y=593} 5/10/2012 12:14:11 p.m. 79
+MOUSE Move {X=939,Y=609} 5/10/2012 12:14:11 p.m. 87
+MOUSE Move {X=978,Y=620} 5/10/2012 12:14:11 p.m. 95
+MOUSE Move {X=1029,Y=636} 5/10/2012 12:14:11 p.m. 103
+MOUSE Move {X=1069,Y=650} 5/10/2012 12:14:11 p.m. 111
+MOUSE Move {X=1103,Y=661} 5/10/2012 12:14:11 p.m. 119
+MOUSE Move {X=1128,Y=670} 5/10/2012 12:14:11 p.m. 127
+MOUSE Move {X=1153,Y=679} 5/10/2012 12:14:11 p.m. 135
+MOUSE Move {X=1176,Y=688} 5/10/2012 12:14:11 p.m. 143
+MOUSE Move {X=1196,Y=697} 5/10/2012 12:14:11 p.m. 151
+MOUSE Move {X=1216,Y=704} 5/10/2012 12:14:11 p.m. 158
+MOUSE Move {X=1233,Y=710} 5/10/2012 12:14:11 p.m. 166
+MOUSE Move {X=1248,Y=716} 5/10/2012 12:14:11 p.m. 174
+MOUSE Move {X=1265,Y=721} 5/10/2012 12:14:11 p.m. 182
+MOUSE Move {X=1279,Y=727} 5/10/2012 12:14:11 p.m. 190
+MOUSE Move {X=1294,Y=733} 5/10/2012 12:14:11 p.m. 198
+MOUSE Move {X=1309,Y=742} 5/10/2012 12:14:11 p.m. 206
+MOUSE Move {X=1324,Y=750} 5/10/2012 12:14:11 p.m. 215
+MOUSE Move {X=1338,Y=756} 5/10/2012 12:14:11 p.m. 223
+MOUSE Move {X=1353,Y=763} 5/10/2012 12:14:11 p.m. 231
+MOUSE Move {X=1365,Y=767} 5/10/2012 12:14:11 p.m. 239
+MOUSE Move {X=1373,Y=768} 5/10/2012 12:14:11 p.m. 246
+MOUSE Move {X=1372,Y=769} 5/10/2012 12:14:11 p.m. 254
+MOUSE Move {X=1369,Y=767} 5/10/2012 12:14:11 p.m. 262
+MOUSE Move {X=1368,Y=767} 5/10/2012 12:14:11 p.m. 270
+MOUSE Move {X=1366,Y=767} 5/10/2012 12:14:11 p.m. 286
+MOUSE Move {X=1366,Y=766} 5/10/2012 12:14:11 p.m. 312
+MOUSE Move {X=1368,Y=766} 5/10/2012 12:14:11 p.m. 320
+MOUSE Move {X=1367,Y=766} 5/10/2012 12:14:11 p.m. 327
+MOUSE Move {X=1368,Y=766} 5/10/2012 12:14:11 p.m. 335
+MOUSE Move {X=1369,Y=766} 5/10/2012 12:14:11 p.m. 343
+MOUSE Move {X=1368,Y=766} 5/10/2012 12:14:11 p.m. 351
+MOUSE Move {X=1367,Y=766} 5/10/2012 12:14:11 p.m. 359
+MOUSE Move {X=1365,Y=763} 5/10/2012 12:14:11 p.m. 391
+MOUSE Move {X=1364,Y=760} 5/10/2012 12:14:11 p.m. 400
+MOUSE Move {X=1359,Y=757} 5/10/2012 12:14:11 p.m. 408
+MOUSE Move {X=1354,Y=754} 5/10/2012 12:14:11 p.m. 415
+MOUSE Move {X=1350,Y=752} 5/10/2012 12:14:11 p.m. 423
+MOUSE Move {X=1347,Y=750} 5/10/2012 12:14:11 p.m. 431
+MOUSE Move {X=1342,Y=746} 5/10/2012 12:14:11 p.m. 439
+MOUSE Move {X=1340,Y=745} 5/10/2012 12:14:11 p.m. 447
+MOUSE Move {X=1338,Y=742} 5/10/2012 12:14:11 p.m. 455
+MOUSE Move {X=1337,Y=741} 5/10/2012 12:14:11 p.m. 463
+MOUSE Move {X=1336,Y=739} 5/10/2012 12:14:11 p.m. 471
+MOUSE Move {X=1335,Y=737} 5/10/2012 12:14:11 p.m. 479
+MOUSE Move {X=1333,Y=735} 5/10/2012 12:14:11 p.m. 487
+MOUSE Move {X=1332,Y=732} 5/10/2012 12:14:11 p.m. 495
+MOUSE Move {X=1327,Y=729} 5/10/2012 12:14:11 p.m. 503
+MOUSE Move {X=1324,Y=726} 5/10/2012 12:14:11 p.m. 511
+MOUSE Move {X=1321,Y=723} 5/10/2012 12:14:11 p.m. 518
+MOUSE Move {X=1319,Y=722} 5/10/2012 12:14:11 p.m. 526
+MOUSE Move {X=1316,Y=720} 5/10/2012 12:14:11 p.m. 534
+MOUSE Move {X=1315,Y=719} 5/10/2012 12:14:11 p.m. 542
+MOUSE Move {X=1312,Y=718} 5/10/2012 12:14:11 p.m. 552
+MOUSE Move {X=1311,Y=717} 5/10/2012 12:14:11 p.m. 568
+MOUSE Move {X=1310,Y=717} 5/10/2012 12:14:11 p.m. 575
+MOUSE Move {X=1309,Y=716} 5/10/2012 12:14:11 p.m. 591
+MOUSE Move {X=1306,Y=714} 5/10/2012 12:14:11 p.m. 599
+MOUSE Move {X=1305,Y=713} 5/10/2012 12:14:11 p.m. 606
+MOUSE Move {X=1304,Y=712} 5/10/2012 12:14:11 p.m. 622
+MOUSE Move {X=1303,Y=711} 5/10/2012 12:14:11 p.m. 640
+MOUSE Move {X=1301,Y=710} 5/10/2012 12:14:11 p.m. 664
+MOUSE Move {X=1300,Y=708} 5/10/2012 12:14:11 p.m. 688
+MOUSE Move {X=1298,Y=707} 5/10/2012 12:14:11 p.m. 704
+MOUSE Move {X=1296,Y=704} 5/10/2012 12:14:11 p.m. 711
+MOUSE Move {X=1295,Y=702} 5/10/2012 12:14:11 p.m. 728
+MOUSE Move {X=1294,Y=700} 5/10/2012 12:14:11 p.m. 769
+MOUSE Move {X=1294,Y=699} 5/10/2012 12:14:11 p.m. 822
+MOUSE Move {X=1294,Y=698} 5/10/2012 12:14:11 p.m. 838
+MOUSE click {X=1294,Y=698} 5/10/2012 12:14:11 p.m. 896
+MOUSE Move {X=1294,Y=698} 5/10/2012 12:14:11 p.m. 899
+Focus Lost 5/10/2012 12:14:11 p.m. 905
+MOUSE release {X=1294,Y=698} 5/10/2012 12:14:11 p.m. 982
+MOUSE Move {X=1294,Y=698} 5/10/2012 12:14:11 p.m. 983
+MOUSE Move {X=1293,Y=698} 5/10/2012 12:14:12 p.m. 88
+MOUSE Move {X=1287,Y=698} 5/10/2012 12:14:12 p.m. 95
+MOUSE Move {X=1274,Y=696} 5/10/2012 12:14:12 p.m. 104
+MOUSE Move {X=1250,Y=696} 5/10/2012 12:14:12 p.m. 112
+MOUSE Move {X=1225,Y=694} 5/10/2012 12:14:12 p.m. 118
+MOUSE Move {X=1187,Y=691} 5/10/2012 12:14:12 p.m. 126
+MOUSE Move {X=1141,Y=689} 5/10/2012 12:14:12 p.m. 134
+MOUSE Move {X=1094,Y=683} 5/10/2012 12:14:12 p.m. 142
+MOUSE Move {X=1031,Y=679} 5/10/2012 12:14:12 p.m. 150
+MOUSE Move {X=973,Y=673} 5/10/2012 12:14:12 p.m. 158
+MOUSE Move {X=922,Y=670} 5/10/2012 12:14:12 p.m. 166
+MOUSE Move {X=876,Y=667} 5/10/2012 12:14:12 p.m. 174
+MOUSE Move {X=839,Y=662} 5/10/2012 12:14:12 p.m. 182
+MOUSE Move {X=804,Y=659} 5/10/2012 12:14:12 p.m. 190
+MOUSE Move {X=774,Y=657} 5/10/2012 12:14:12 p.m. 198
+MOUSE Move {X=747,Y=655} 5/10/2012 12:14:12 p.m. 206
+MOUSE Move {X=719,Y=652} 5/10/2012 12:14:12 p.m. 214
+MOUSE Move {X=695,Y=650} 5/10/2012 12:14:12 p.m. 222
+MOUSE Move {X=670,Y=648} 5/10/2012 12:14:12 p.m. 230
+MOUSE Move {X=646,Y=648} 5/10/2012 12:14:12 p.m. 238
+MOUSE Move {X=624,Y=646} 5/10/2012 12:14:12 p.m. 246
+MOUSE Move {X=602,Y=646} 5/10/2012 12:14:12 p.m. 254
+MOUSE Move {X=577,Y=644} 5/10/2012 12:14:12 p.m. 262
+MOUSE Move {X=553,Y=644} 5/10/2012 12:14:12 p.m. 270
+MOUSE Move {X=528,Y=644} 5/10/2012 12:14:12 p.m. 278
+MOUSE Move {X=501,Y=644} 5/10/2012 12:14:12 p.m. 286
+MOUSE Move {X=477,Y=641} 5/10/2012 12:14:12 p.m. 294
+MOUSE Move {X=452,Y=641} 5/10/2012 12:14:12 p.m. 302
+MOUSE Move {X=430,Y=641} 5/10/2012 12:14:12 p.m. 310
+MOUSE Move {X=411,Y=641} 5/10/2012 12:14:12 p.m. 318
+MOUSE Move {X=392,Y=641} 5/10/2012 12:14:12 p.m. 326
+MOUSE Move {X=373,Y=639} 5/10/2012 12:14:12 p.m. 334
+MOUSE Move {X=359,Y=639} 5/10/2012 12:14:12 p.m. 342
+Focus Gained 5/10/2012 12:14:12 p.m. 346
+MOUSE Move {X=343,Y=639} 5/10/2012 12:14:12 p.m. 350
+MOUSE Move {X=332,Y=639} 5/10/2012 12:14:12 p.m. 358
+MOUSE Move {X=320,Y=639} 5/10/2012 12:14:12 p.m. 366
+MOUSE Move {X=296,Y=639} 5/10/2012 12:14:12 p.m. 382
+MOUSE Move {X=288,Y=639} 5/10/2012 12:14:12 p.m. 390
+MOUSE Move {X=281,Y=638} 5/10/2012 12:14:12 p.m. 398
+MOUSE Move {X=273,Y=638} 5/10/2012 12:14:12 p.m. 406
+MOUSE Move {X=267,Y=638} 5/10/2012 12:14:12 p.m. 414
+MOUSE Move {X=261,Y=638} 5/10/2012 12:14:12 p.m. 422
+MOUSE Move {X=252,Y=636} 5/10/2012 12:14:12 p.m. 430
+MOUSE Move {X=243,Y=634} 5/10/2012 12:14:12 p.m. 438
+MOUSE Move {X=232,Y=632} 5/10/2012 12:14:12 p.m. 446
+MOUSE Move {X=226,Y=632} 5/10/2012 12:14:12 p.m. 454
+MOUSE Move {X=217,Y=630} 5/10/2012 12:14:12 p.m. 462
+MOUSE Move {X=215,Y=630} 5/10/2012 12:14:12 p.m. 470
+MOUSE Move {X=213,Y=630} 5/10/2012 12:14:12 p.m. 478
+MOUSE Move {X=211,Y=630} 5/10/2012 12:14:12 p.m. 486
+MOUSE Move {X=210,Y=630} 5/10/2012 12:14:12 p.m. 502
+MOUSE Move {X=209,Y=631} 5/10/2012 12:14:12 p.m. 510
+MOUSE Move {X=207,Y=633} 5/10/2012 12:14:12 p.m. 518
+MOUSE Move {X=206,Y=634} 5/10/2012 12:14:12 p.m. 526
+MOUSE Move {X=205,Y=637} 5/10/2012 12:14:12 p.m. 534
+MOUSE Move {X=204,Y=640} 5/10/2012 12:14:12 p.m. 542
+MOUSE Move {X=202,Y=644} 5/10/2012 12:14:12 p.m. 550
+MOUSE Move {X=201,Y=645} 5/10/2012 12:14:12 p.m. 558
+MOUSE Move {X=201,Y=647} 5/10/2012 12:14:12 p.m. 566
+MOUSE Move {X=201,Y=648} 5/10/2012 12:14:12 p.m. 614
+MOUSE Move {X=202,Y=648} 5/10/2012 12:14:12 p.m. 622
+MOUSE Move {X=205,Y=649} 5/10/2012 12:14:12 p.m. 638
+MOUSE Move {X=206,Y=650} 5/10/2012 12:14:12 p.m. 654
+MOUSE Move {X=206,Y=651} 5/10/2012 12:14:12 p.m. 662
+MOUSE Move {X=206,Y=652} 5/10/2012 12:14:12 p.m. 670
+MOUSE Move {X=207,Y=654} 5/10/2012 12:14:12 p.m. 686
+MOUSE Move {X=207,Y=656} 5/10/2012 12:14:12 p.m. 750
+MOUSE Move {X=204,Y=659} 5/10/2012 12:14:12 p.m. 766
+MOUSE Move {X=202,Y=662} 5/10/2012 12:14:12 p.m. 774
+MOUSE Move {X=201,Y=665} 5/10/2012 12:14:12 p.m. 790
+MOUSE Move {X=200,Y=666} 5/10/2012 12:14:12 p.m. 806
+MOUSE click {X=200,Y=666} 5/10/2012 12:14:12 p.m. 830
+MOUSE Move {X=200,Y=666} 5/10/2012 12:14:12 p.m. 831
+MOUSE Move {X=197,Y=666} 5/10/2012 12:14:12 p.m. 902
+MOUSE Move {X=194,Y=661} 5/10/2012 12:14:12 p.m. 910
+MOUSE Move {X=189,Y=654} 5/10/2012 12:14:12 p.m. 918
+MOUSE Move {X=184,Y=645} 5/10/2012 12:14:12 p.m. 926
+Text Selection MOUSE CRAIG TIMBERG
+ 5/10/2012 12:14:12 p.m. 950
+MOUSE Move {X=176,Y=635} 5/10/2012 12:14:12 p.m. 951
+MOUSE Move {X=159,Y=610} 5/10/2012 12:14:12 p.m. 952
+Text Selection MOUSE IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:12 p.m. 959
+MOUSE Move {X=151,Y=598} 5/10/2012 12:14:12 p.m. 960
+Text Selection MOUSE Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:12 p.m. 967
+MOUSE Move {X=143,Y=586} 5/10/2012 12:14:12 p.m. 968
+MOUSE Move {X=137,Y=576} 5/10/2012 12:14:12 p.m. 974
+Text Selection MOUSE Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:12 p.m. 982
+MOUSE Move {X=133,Y=567} 5/10/2012 12:14:12 p.m. 983
+Text Selection MOUSE 
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:12 p.m. 990
+MOUSE Move {X=130,Y=557} 5/10/2012 12:14:12 p.m. 991
+Text Selection MOUSE JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:12 p.m. 998
+MOUSE Move {X=128,Y=549} 5/10/2012 12:14:12 p.m. 999
+MOUSE Move {X=126,Y=540} 5/10/2012 12:14:13 p.m. 6
+Text Selection MOUSE iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 14
+MOUSE Move {X=122,Y=530} 5/10/2012 12:14:13 p.m. 15
+Text Selection MOUSE Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 22
+MOUSE Move {X=121,Y=519} 5/10/2012 12:14:13 p.m. 23
+Text Selection MOUSE somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 30
+MOUSE Move {X=119,Y=507} 5/10/2012 12:14:13 p.m. 31
+Text Selection MOUSE jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 39
+MOUSE Move {X=117,Y=496} 5/10/2012 12:14:13 p.m. 40
+MOUSE Move {X=113,Y=484} 5/10/2012 12:14:13 p.m. 46
+Text Selection MOUSE want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 54
+MOUSE Move {X=109,Y=470} 5/10/2012 12:14:13 p.m. 55
+Text Selection MOUSE "We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 62
+MOUSE Move {X=105,Y=461} 5/10/2012 12:14:13 p.m. 63
+Text Selection MOUSE they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 70
+MOUSE Move {X=101,Y=451} 5/10/2012 12:14:13 p.m. 71
+MOUSE Move {X=99,Y=442} 5/10/2012 12:14:13 p.m. 78
+Text Selection MOUSE Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 86
+MOUSE Move {X=98,Y=436} 5/10/2012 12:14:13 p.m. 87
+MOUSE Move {X=96,Y=430} 5/10/2012 12:14:13 p.m. 94
+Text Selection MOUSE In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 163
+MOUSE Move {X=96,Y=424} 5/10/2012 12:14:13 p.m. 164
+MOUSE Move {X=80,Y=366} 5/10/2012 12:14:13 p.m. 165
+MOUSE Move {X=78,Y=352} 5/10/2012 12:14:13 p.m. 167
+Text Selection MOUSE Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 174
+MOUSE Move {X=74,Y=340} 5/10/2012 12:14:13 p.m. 175
+Text Selection MOUSE Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 182
+MOUSE Move {X=72,Y=328} 5/10/2012 12:14:13 p.m. 183
+Text Selection MOUSE Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 191
+MOUSE Move {X=70,Y=319} 5/10/2012 12:14:13 p.m. 192
+MOUSE Move {X=69,Y=311} 5/10/2012 12:14:13 p.m. 198
+Text Selection MOUSE 
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 206
+MOUSE Move {X=69,Y=304} 5/10/2012 12:14:13 p.m. 207
+Text Selection MOUSE said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 214
+MOUSE Move {X=67,Y=296} 5/10/2012 12:14:13 p.m. 215
+MOUSE Move {X=67,Y=290} 5/10/2012 12:14:13 p.m. 222
+MOUSE Move {X=65,Y=281} 5/10/2012 12:14:13 p.m. 230
+Text Selection MOUSE "The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 238
+MOUSE Move {X=65,Y=273} 5/10/2012 12:14:13 p.m. 239
+MOUSE Move {X=63,Y=264} 5/10/2012 12:14:13 p.m. 246
+Text Selection MOUSE 
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 254
+MOUSE Move {X=63,Y=256} 5/10/2012 12:14:13 p.m. 255
+Text Selection MOUSE which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 262
+MOUSE Move {X=62,Y=247} 5/10/2012 12:14:13 p.m. 263
+MOUSE Move {X=60,Y=238} 5/10/2012 12:14:13 p.m. 270
+Text Selection MOUSE As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 278
+MOUSE Move {X=58,Y=232} 5/10/2012 12:14:13 p.m. 279
+Text Selection MOUSE 
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 286
+MOUSE Move {X=57,Y=225} 5/10/2012 12:14:13 p.m. 287
+MOUSE Move {X=57,Y=221} 5/10/2012 12:14:13 p.m. 294
+MOUSE Move {X=55,Y=216} 5/10/2012 12:14:13 p.m. 302
+Text Selection MOUSE : What can you watch on it?
+
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 310
+MOUSE Move {X=55,Y=212} 5/10/2012 12:14:13 p.m. 311
+MOUSE Move {X=55,Y=209} 5/10/2012 12:14:13 p.m. 318
+MOUSE Move {X=55,Y=203} 5/10/2012 12:14:13 p.m. 326
+Text Selection MOUSE product announcements. But lost amid the speculation about screen size and battery life is something more important to most consumers: What can you watch on it?
+
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 334
+MOUSE Move {X=54,Y=200} 5/10/2012 12:14:13 p.m. 335
+MOUSE Move {X=54,Y=196} 5/10/2012 12:14:13 p.m. 342
+MOUSE Move {X=54,Y=190} 5/10/2012 12:14:13 p.m. 350
+Text Selection MOUSE The blogosphere is crackling with talk of Apple's iPhone 5 launch on Wednesday, the latest in a rush of high-tech product announcements. But lost amid the speculation about screen size and battery life is something more important to most consumers: What can you watch on it?
+
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 358
+MOUSE Move {X=54,Y=187} 5/10/2012 12:14:13 p.m. 359
+MOUSE Move {X=54,Y=183} 5/10/2012 12:14:13 p.m. 366
+MOUSE Move {X=54,Y=179} 5/10/2012 12:14:13 p.m. 374
+MOUSE Move {X=54,Y=176} 5/10/2012 12:14:13 p.m. 382
+MOUSE Move {X=54,Y=172} 5/10/2012 12:14:13 p.m. 390
+Text Selection MOUSE 
+The blogosphere is crackling with talk of Apple's iPhone 5 launch on Wednesday, the latest in a rush of high-tech product announcements. But lost amid the speculation about screen size and battery life is something more important to most consumers: What can you watch on it?
+
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 398
+MOUSE Move {X=52,Y=169} 5/10/2012 12:14:13 p.m. 399
+MOUSE Move {X=52,Y=166} 5/10/2012 12:14:13 p.m. 406
+MOUSE Move {X=52,Y=164} 5/10/2012 12:14:13 p.m. 414
+MOUSE Move {X=51,Y=161} 5/10/2012 12:14:13 p.m. 422
+Text Selection MOUSE Apple iPhone 5 buzz builds as focus shifts
+
+The blogosphere is crackling with talk of Apple's iPhone 5 launch on Wednesday, the latest in a rush of high-tech product announcements. But lost amid the speculation about screen size and battery life is something more important to most consumers: What can you watch on it?
+
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ 5/10/2012 12:14:13 p.m. 438
+MOUSE Move {X=51,Y=156} 5/10/2012 12:14:13 p.m. 439
+MOUSE Move {X=51,Y=154} 5/10/2012 12:14:13 p.m. 454
+MOUSE Move {X=51,Y=153} 5/10/2012 12:14:13 p.m. 478
+MOUSE Move {X=50,Y=150} 5/10/2012 12:14:13 p.m. 501
+MOUSE Move {X=50,Y=147} 5/10/2012 12:14:13 p.m. 510
+MOUSE Move {X=50,Y=146} 5/10/2012 12:14:13 p.m. 761
+MOUSE release {X=50,Y=146} 5/10/2012 12:14:13 p.m. 764
+MOUSE Move {X=50,Y=146} 5/10/2012 12:14:13 p.m. 793
+MOUSE Move {X=50,Y=146} 5/10/2012 12:14:13 p.m. 824
+MOUSE Move {X=59,Y=147} 5/10/2012 12:14:13 p.m. 832
+MOUSE Move {X=71,Y=151} 5/10/2012 12:14:13 p.m. 839
+MOUSE Move {X=85,Y=151} 5/10/2012 12:14:13 p.m. 848
+MOUSE Move {X=109,Y=151} 5/10/2012 12:14:13 p.m. 875
+MOUSE Move {X=161,Y=149} 5/10/2012 12:14:13 p.m. 878
+MOUSE Move {X=191,Y=147} 5/10/2012 12:14:13 p.m. 907
+MOUSE Move {X=307,Y=147} 5/10/2012 12:14:13 p.m. 908
+MOUSE Move {X=340,Y=147} 5/10/2012 12:14:13 p.m. 924
+MOUSE Move {X=368,Y=148} 5/10/2012 12:14:13 p.m. 925
+MOUSE Move {X=387,Y=148} 5/10/2012 12:14:13 p.m. 926
+MOUSE Move {X=398,Y=148} 5/10/2012 12:14:13 p.m. 940
+MOUSE Move {X=402,Y=150} 5/10/2012 12:14:13 p.m. 974
+MOUSE Move {X=404,Y=150} 5/10/2012 12:14:13 p.m. 975
+MOUSE Move {X=406,Y=148} 5/10/2012 12:14:14 p.m. 64
+MOUSE Move {X=407,Y=147} 5/10/2012 12:14:14 p.m. 76
+MOUSE Move {X=409,Y=145} 5/10/2012 12:14:14 p.m. 93
+MOUSE Move {X=410,Y=142} 5/10/2012 12:14:14 p.m. 95
+MOUSE Move {X=410,Y=140} 5/10/2012 12:14:14 p.m. 102
+MOUSE Move {X=410,Y=139} 5/10/2012 12:14:14 p.m. 114
+MOUSE Move {X=410,Y=137} 5/10/2012 12:14:14 p.m. 118
+MOUSE Move {X=410,Y=135} 5/10/2012 12:14:14 p.m. 126
+MOUSE Move {X=410,Y=134} 5/10/2012 12:14:14 p.m. 134
+MOUSE Move {X=408,Y=133} 5/10/2012 12:14:14 p.m. 142
+MOUSE Move {X=407,Y=131} 5/10/2012 12:14:14 p.m. 150
+MOUSE Move {X=406,Y=130} 5/10/2012 12:14:14 p.m. 166
+MOUSE Move {X=405,Y=129} 5/10/2012 12:14:14 p.m. 192
+MOUSE Move {X=405,Y=127} 5/10/2012 12:14:14 p.m. 207
+MOUSE Move {X=404,Y=125} 5/10/2012 12:14:14 p.m. 223
+MOUSE Move {X=404,Y=123} 5/10/2012 12:14:14 p.m. 231
+MOUSE Move {X=404,Y=120} 5/10/2012 12:14:14 p.m. 248
+MOUSE Move {X=404,Y=118} 5/10/2012 12:14:14 p.m. 264
+MOUSE Move {X=403,Y=117} 5/10/2012 12:14:14 p.m. 271
+MOUSE Move {X=403,Y=114} 5/10/2012 12:14:14 p.m. 279
+MOUSE Move {X=403,Y=111} 5/10/2012 12:14:14 p.m. 287
+MOUSE Move {X=403,Y=110} 5/10/2012 12:14:14 p.m. 295
+MOUSE Move {X=403,Y=109} 5/10/2012 12:14:14 p.m. 303
+MOUSE Move {X=403,Y=108} 5/10/2012 12:14:14 p.m. 319
+MOUSE Move {X=403,Y=107} 5/10/2012 12:14:14 p.m. 384
+MOUSE click {X=403,Y=107} 5/10/2012 12:14:14 p.m. 388
+MOUSE Move {X=403,Y=107} 5/10/2012 12:14:14 p.m. 390
+MOUSE release {X=403,Y=107} 5/10/2012 12:14:14 p.m. 504
+MOUSE Move {X=403,Y=107} 5/10/2012 12:14:14 p.m. 507
+COMMAND LimeButton MOUSE G SelText:Apple iPhone 5 buzz builds as focus shifts
+
+The blogosphere is crackling with talk of Apple's iPhone 5 launch on Wednesday, the latest in a rush of high-tech product announcements. But lost amid the speculation about screen size and battery life is something more important to most consumers: What can you watch on it?
+
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+"We want to make money when people use our devices, not when they buy our devices," Bezos said as he paced a brightly lit stage in jeans and blue sport jacket, subtly evoking the product launch style pioneered by Apple's late founder Steve Jobs. "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+
+Mobile OS:
+iOS6
+JellyBean
+
+Mobile Screen Sizes
+Galaxy SIII - 4.7"
+IPhone 5 - 4"
+
+
+CRAIG TIMBERG
+ MOUSE  5/10/2012 12:14:14 p.m. 518
+MOUSE Move {X=403,Y=107} 5/10/2012 12:14:14 p.m. 633
+MOUSE Move {X=401,Y=111} 5/10/2012 12:14:14 p.m. 640
+MOUSE Move {X=396,Y=120} 5/10/2012 12:14:14 p.m. 648
+MOUSE Move {X=393,Y=127} 5/10/2012 12:14:14 p.m. 655
+MOUSE Move {X=389,Y=136} 5/10/2012 12:14:14 p.m. 663
+MOUSE Move {X=385,Y=145} 5/10/2012 12:14:14 p.m. 670
+MOUSE Move {X=382,Y=152} 5/10/2012 12:14:14 p.m. 678
+MOUSE Move {X=380,Y=163} 5/10/2012 12:14:14 p.m. 686
+MOUSE Move {X=376,Y=180} 5/10/2012 12:14:14 p.m. 710
+MOUSE Move {X=374,Y=206} 5/10/2012 12:14:14 p.m. 711
+MOUSE Move {X=372,Y=217} 5/10/2012 12:14:14 p.m. 743
+MOUSE Move {X=370,Y=248} 5/10/2012 12:14:14 p.m. 777
+MOUSE Move {X=359,Y=310} 5/10/2012 12:14:14 p.m. 811
+MOUSE Move {X=343,Y=368} 5/10/2012 12:14:14 p.m. 843
+MOUSE Move {X=339,Y=375} 5/10/2012 12:14:14 p.m. 845
+MOUSE click {X=339,Y=375} 5/10/2012 12:14:14 p.m. 910
+MOUSE Move {X=339,Y=375} 5/10/2012 12:14:14 p.m. 911
+MOUSE Move {X=337,Y=377} 5/10/2012 12:14:14 p.m. 974
+MOUSE release {X=337,Y=377} 5/10/2012 12:14:14 p.m. 975
+MOUSE Move {X=337,Y=377} 5/10/2012 12:14:14 p.m. 976
+MOUSE Move {X=335,Y=377} 5/10/2012 12:14:14 p.m. 985
+MOUSE Move {X=334,Y=379} 5/10/2012 12:14:14 p.m. 990
+MOUSE Move {X=331,Y=382} 5/10/2012 12:14:14 p.m. 998
+MOUSE Move {X=331,Y=387} 5/10/2012 12:14:15 p.m. 6
+MOUSE Move {X=331,Y=389} 5/10/2012 12:14:15 p.m. 14
+MOUSE Move {X=331,Y=395} 5/10/2012 12:14:15 p.m. 22
+MOUSE Move {X=331,Y=397} 5/10/2012 12:14:15 p.m. 31
+MOUSE Move {X=331,Y=399} 5/10/2012 12:14:15 p.m. 47
+MOUSE Move {X=321,Y=391} 5/10/2012 12:14:15 p.m. 326
+MOUSE Move {X=312,Y=376} 5/10/2012 12:14:15 p.m. 334
+MOUSE Move {X=304,Y=364} 5/10/2012 12:14:15 p.m. 342
+MOUSE Move {X=298,Y=349} 5/10/2012 12:14:15 p.m. 350
+MOUSE Move {X=291,Y=334} 5/10/2012 12:14:15 p.m. 358
+MOUSE Move {X=285,Y=322} 5/10/2012 12:14:15 p.m. 366
+MOUSE Move {X=277,Y=307} 5/10/2012 12:14:15 p.m. 374
+MOUSE Move {X=271,Y=295} 5/10/2012 12:14:15 p.m. 382
+MOUSE Move {X=263,Y=283} 5/10/2012 12:14:15 p.m. 390
+MOUSE Move {X=255,Y=273} 5/10/2012 12:14:15 p.m. 398
+MOUSE Move {X=247,Y=261} 5/10/2012 12:14:15 p.m. 406
+MOUSE Move {X=241,Y=251} 5/10/2012 12:14:15 p.m. 414
+MOUSE Move {X=235,Y=244} 5/10/2012 12:14:15 p.m. 422
+MOUSE Move {X=231,Y=239} 5/10/2012 12:14:15 p.m. 430
+MOUSE Move {X=226,Y=235} 5/10/2012 12:14:15 p.m. 438
+MOUSE Move {X=223,Y=230} 5/10/2012 12:14:15 p.m. 446
+MOUSE Move {X=220,Y=227} 5/10/2012 12:14:15 p.m. 454
+MOUSE Move {X=219,Y=224} 5/10/2012 12:14:15 p.m. 462
+MOUSE Move {X=217,Y=223} 5/10/2012 12:14:15 p.m. 470
+MOUSE Move {X=216,Y=222} 5/10/2012 12:14:15 p.m. 478
+MOUSE Move {X=215,Y=219} 5/10/2012 12:14:15 p.m. 510
+MOUSE Move {X=214,Y=217} 5/10/2012 12:14:15 p.m. 535
+MOUSE Move {X=212,Y=215} 5/10/2012 12:14:15 p.m. 543
+MOUSE Move {X=211,Y=215} 5/10/2012 12:14:15 p.m. 551
+MOUSE Move {X=217,Y=215} 5/10/2012 12:14:15 p.m. 590
+MOUSE Move {X=239,Y=215} 5/10/2012 12:14:15 p.m. 600
+MOUSE Move {X=269,Y=215} 5/10/2012 12:14:15 p.m. 607
+MOUSE Move {X=307,Y=213} 5/10/2012 12:14:15 p.m. 615
+MOUSE Move {X=353,Y=210} 5/10/2012 12:14:15 p.m. 623
+MOUSE Move {X=404,Y=207} 5/10/2012 12:14:15 p.m. 630
+MOUSE Move {X=461,Y=204} 5/10/2012 12:14:15 p.m. 638
+MOUSE Move {X=526,Y=194} 5/10/2012 12:14:15 p.m. 647
+MOUSE Move {X=595,Y=187} 5/10/2012 12:14:15 p.m. 655
+MOUSE Move {X=669,Y=180} 5/10/2012 12:14:15 p.m. 663
+MOUSE Move {X=744,Y=169} 5/10/2012 12:14:15 p.m. 671
+MOUSE Move {X=825,Y=158} 5/10/2012 12:14:15 p.m. 679
+MOUSE Move {X=900,Y=147} 5/10/2012 12:14:15 p.m. 687
+MOUSE Move {X=965,Y=137} 5/10/2012 12:14:15 p.m. 695
+MOUSE Move {X=1024,Y=127} 5/10/2012 12:14:15 p.m. 703
+MOUSE Move {X=1077,Y=118} 5/10/2012 12:14:15 p.m. 711
+MOUSE Move {X=1109,Y=113} 5/10/2012 12:14:15 p.m. 719
+MOUSE Move {X=1136,Y=108} 5/10/2012 12:14:15 p.m. 727
+MOUSE Move {X=1159,Y=104} 5/10/2012 12:14:15 p.m. 735
+MOUSE Move {X=1178,Y=100} 5/10/2012 12:14:15 p.m. 743
+MOUSE Move {X=1195,Y=95} 5/10/2012 12:14:15 p.m. 751
+MOUSE Move {X=1209,Y=91} 5/10/2012 12:14:15 p.m. 759
+MOUSE Move {X=1224,Y=87} 5/10/2012 12:14:15 p.m. 767
+MOUSE Move {X=1236,Y=83} 5/10/2012 12:14:15 p.m. 775
+MOUSE Move {X=1247,Y=79} 5/10/2012 12:14:15 p.m. 783
+MOUSE Move {X=1260,Y=73} 5/10/2012 12:14:15 p.m. 791
+MOUSE Move {X=1269,Y=69} 5/10/2012 12:14:15 p.m. 799
+MOUSE Move {X=1278,Y=64} 5/10/2012 12:14:15 p.m. 806
+MOUSE Move {X=1283,Y=61} 5/10/2012 12:14:15 p.m. 814
+MOUSE Move {X=1288,Y=56} 5/10/2012 12:14:15 p.m. 822
+MOUSE Move {X=1290,Y=55} 5/10/2012 12:14:15 p.m. 830
+MOUSE Move {X=1292,Y=53} 5/10/2012 12:14:15 p.m. 838
+MOUSE Move {X=1293,Y=51} 5/10/2012 12:14:15 p.m. 846
+MOUSE Move {X=1293,Y=50} 5/10/2012 12:14:15 p.m. 854
+MOUSE Move {X=1294,Y=47} 5/10/2012 12:14:15 p.m. 862
+MOUSE Move {X=1295,Y=46} 5/10/2012 12:14:15 p.m. 870
+MOUSE Move {X=1298,Y=43} 5/10/2012 12:14:15 p.m. 878
+MOUSE Move {X=1303,Y=39} 5/10/2012 12:14:15 p.m. 886
+MOUSE Move {X=1307,Y=34} 5/10/2012 12:14:15 p.m. 894
+MOUSE Move {X=1310,Y=31} 5/10/2012 12:14:15 p.m. 902
+MOUSE Move {X=1313,Y=26} 5/10/2012 12:14:15 p.m. 910
+MOUSE Move {X=1316,Y=23} 5/10/2012 12:14:15 p.m. 918
+MOUSE Move {X=1318,Y=21} 5/10/2012 12:14:15 p.m. 926
+MOUSE Move {X=1318,Y=19} 5/10/2012 12:14:15 p.m. 940
+MOUSE Move {X=1319,Y=17} 5/10/2012 12:14:15 p.m. 950
+MOUSE Move {X=1319,Y=17} 5/10/2012 12:14:16 p.m. 32
+MOUSE Move {X=1316,Y=17} 5/10/2012 12:14:16 p.m. 40
+MOUSE Move {X=1315,Y=18} 5/10/2012 12:14:16 p.m. 47
+MOUSE Move {X=1314,Y=18} 5/10/2012 12:14:16 p.m. 63
+MOUSE Move {X=1314,Y=21} 5/10/2012 12:14:16 p.m. 112
+MOUSE click {X=1314,Y=21} 5/10/2012 12:14:16 p.m. 208
+MOUSE Move {X=1314,Y=21} 5/10/2012 12:14:16 p.m. 211
+MOUSE release {X=1314,Y=21} 5/10/2012 12:14:16 p.m. 304
+MOUSE Move {X=1314,Y=21} 5/10/2012 12:14:16 p.m. 307
+Focus Lost 5/10/2012 12:14:16 p.m. 318

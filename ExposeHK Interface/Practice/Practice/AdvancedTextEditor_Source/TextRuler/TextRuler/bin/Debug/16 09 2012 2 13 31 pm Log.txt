@@ -1,0 +1,71 @@
+Focus Gained 16/09/2012 2:13:31 p.m. 781
+MOUSE click {X=708,Y=36} 16/09/2012 2:13:34 p.m. 288
+MOUSE release {X=402,Y=33} 16/09/2012 2:13:35 p.m. 387
+MOUSE click {X=366,Y=523} 16/09/2012 2:13:36 p.m. 603
+Text Selection MOUSE P 16/09/2012 2:13:36 p.m. 680
+Text Selection MOUSE Pa 16/09/2012 2:13:36 p.m. 712
+Text Selection MOUSE Pads  16/09/2012 2:13:36 p.m. 736
+Text Selection MOUSE iPads because  16/09/2012 2:13:36 p.m. 995
+MOUSE release {X=401,Y=527} 16/09/2012 2:13:37 p.m. 11
+MOUSE click {X=373,Y=550} 16/09/2012 2:13:39 p.m. 259
+Text Selection MOUSE  16/09/2012 2:13:39 p.m. 313
+MOUSE release {X=373,Y=550} 16/09/2012 2:13:39 p.m. 314
+MOUSE click {X=373,Y=550} 16/09/2012 2:13:39 p.m. 403
+Text Selection MOUSE MGM  16/09/2012 2:13:39 p.m. 457
+MOUSE release {X=373,Y=550} 16/09/2012 2:13:39 p.m. 459
+MOUSE click {X=479,Y=44} 16/09/2012 2:13:46 p.m. 524
+MOUSE release {X=441,Y=36} 16/09/2012 2:13:47 p.m. 443
+MOUSE click {X=498,Y=611} 16/09/2012 2:13:53 p.m. 124
+Text Selection MOUSE  16/09/2012 2:13:53 p.m. 204
+MOUSE release {X=498,Y=611} 16/09/2012 2:13:53 p.m. 208
+MOUSE click {X=498,Y=611} 16/09/2012 2:13:53 p.m. 451
+Text Selection MOUSE deserve  16/09/2012 2:13:53 p.m. 532
+MOUSE release {X=498,Y=611} 16/09/2012 2:13:53 p.m. 535
+MOUSE click {X=494,Y=583} 16/09/2012 2:13:55 p.m. 888
+Text Selection MOUSE  16/09/2012 2:13:55 p.m. 953
+MOUSE release {X=494,Y=583} 16/09/2012 2:13:55 p.m. 955
+MOUSE click {X=494,Y=583} 16/09/2012 2:13:56 p.m. 48
+Text Selection MOUSE Bezos  16/09/2012 2:13:56 p.m. 96
+MOUSE release {X=494,Y=583} 16/09/2012 2:13:56 p.m. 97
+MOUSE click {X=331,Y=600} 16/09/2012 2:14:00 p.m. 51
+Text Selection MOUSE  16/09/2012 2:14:00 p.m. 124
+MOUSE release {X=331,Y=600} 16/09/2012 2:14:00 p.m. 127
+MOUSE click {X=398,Y=595} 16/09/2012 2:14:01 p.m. 371
+MOUSE release {X=398,Y=595} 16/09/2012 2:14:01 p.m. 467
+MOUSE click {X=337,Y=616} 16/09/2012 2:14:02 p.m. 412
+MOUSE release {X=337,Y=616} 16/09/2012 2:14:02 p.m. 491
+MOUSE click {X=246,Y=611} 16/09/2012 2:14:03 p.m. 331
+MOUSE release {X=246,Y=611} 16/09/2012 2:14:03 p.m. 428
+MOUSE click {X=227,Y=591} 16/09/2012 2:14:04 p.m. 395
+MOUSE release {X=227,Y=591} 16/09/2012 2:14:04 p.m. 491
+MOUSE click {X=242,Y=582} 16/09/2012 2:14:05 p.m. 220
+MOUSE release {X=242,Y=582} 16/09/2012 2:14:05 p.m. 314
+MOUSE click {X=309,Y=596} 16/09/2012 2:14:06 p.m. 20
+MOUSE release {X=309,Y=596} 16/09/2012 2:14:06 p.m. 96
+MOUSE click {X=353,Y=596} 16/09/2012 2:14:06 p.m. 879
+MOUSE release {X=353,Y=596} 16/09/2012 2:14:06 p.m. 975
+MOUSE click {X=404,Y=600} 16/09/2012 2:14:07 p.m. 671
+MOUSE release {X=404,Y=600} 16/09/2012 2:14:07 p.m. 763
+MOUSE click {X=434,Y=595} 16/09/2012 2:14:08 p.m. 316
+MOUSE release {X=434,Y=595} 16/09/2012 2:14:08 p.m. 426
+MOUSE click {X=431,Y=616} 16/09/2012 2:14:09 p.m. 18
+MOUSE release {X=431,Y=616} 16/09/2012 2:14:09 p.m. 122
+MOUSE click {X=394,Y=600} 16/09/2012 2:14:09 p.m. 744
+MOUSE release {X=394,Y=600} 16/09/2012 2:14:09 p.m. 848
+MOUSE click {X=378,Y=609} 16/09/2012 2:14:10 p.m. 392
+MOUSE release {X=378,Y=609} 16/09/2012 2:14:10 p.m. 487
+MOUSE click {X=353,Y=598} 16/09/2012 2:14:10 p.m. 992
+MOUSE release {X=353,Y=598} 16/09/2012 2:14:11 p.m. 87
+MOUSE click {X=349,Y=604} 16/09/2012 2:14:11 p.m. 575
+MOUSE release {X=349,Y=608} 16/09/2012 2:14:11 p.m. 675
+MOUSE click {X=360,Y=599} 16/09/2012 2:14:12 p.m. 115
+MOUSE release {X=360,Y=599} 16/09/2012 2:14:12 p.m. 210
+MOUSE click {X=373,Y=619} 16/09/2012 2:14:12 p.m. 570
+MOUSE release {X=373,Y=619} 16/09/2012 2:14:12 p.m. 666
+MOUSE click {X=647,Y=26} 16/09/2012 2:14:13 p.m. 900
+MOUSE release {X=647,Y=26} 16/09/2012 2:14:13 p.m. 980
+Focus Lost 16/09/2012 2:14:14 p.m. 168
+MOUSE click {X=737,Y=450} 16/09/2012 2:14:15 p.m. 373
+MOUSE release {X=737,Y=450} 16/09/2012 2:14:15 p.m. 451
+Focus Gained 16/09/2012 2:14:15 p.m. 469
+Focus Lost 16/09/2012 2:14:15 p.m. 478

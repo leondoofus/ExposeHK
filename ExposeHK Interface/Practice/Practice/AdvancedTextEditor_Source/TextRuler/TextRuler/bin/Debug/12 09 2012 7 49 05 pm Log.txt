@@ -1,0 +1,10 @@
+Focus Gained 12/09/2012 7:49:05 p.m. 414
+KEYPRESS DOWN LControlKey 12/09/2012 7:49:06 p.m. 190
+KEYPRESS UP LControlKey 12/09/2012 7:49:07 p.m. 276
+MOUSE click {X=980,Y=27} 12/09/2012 7:49:07 p.m. 833
+MOUSE release {X=980,Y=27} 12/09/2012 7:49:07 p.m. 938
+Focus Lost 12/09/2012 7:49:07 p.m. 959
+MOUSE click {X=752,Y=440} 12/09/2012 7:49:08 p.m. 745
+MOUSE release {X=752,Y=440} 12/09/2012 7:49:08 p.m. 841
+Focus Gained 12/09/2012 7:49:08 p.m. 849
+Focus Lost 12/09/2012 7:49:08 p.m. 868

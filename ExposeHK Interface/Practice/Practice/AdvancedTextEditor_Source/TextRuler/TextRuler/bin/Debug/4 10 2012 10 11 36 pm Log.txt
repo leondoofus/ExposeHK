@@ -1,0 +1,110 @@
+Focus Gained 4/10/2012 10:11:36 p.m. 915
+MOUSE click {X=532,Y=236} 4/10/2012 10:11:37 p.m. 801
+Text Selection MOUSE see a  4/10/2012 10:11:37 p.m. 883
+Text Selection MOUSE analysts see a  4/10/2012 10:11:37 p.m. 903
+Text Selection MOUSE some analysts see a  4/10/2012 10:11:37 p.m. 911
+Text Selection MOUSE performance, some analysts see a  4/10/2012 10:11:37 p.m. 925
+Text Selection MOUSE and performance, some analysts see a  4/10/2012 10:11:37 p.m. 942
+Text Selection MOUSE As mobile devices increasingly resemble each other in look and performance, some analysts see a  4/10/2012 10:11:37 p.m. 949
+MOUSE release {X=305,Y=223} 4/10/2012 10:11:38 p.m. 184
+MOUSE click {X=348,Y=106} 4/10/2012 10:11:38 p.m. 704
+MOUSE release {X=348,Y=106} 4/10/2012 10:11:38 p.m. 807
+COMMAND BlackButton MOUSE K SelText:As mobile devices increasingly resemble each other in look and performance, some analysts see a  MOUSE  4/10/2012 10:11:38 p.m. 847
+MOUSE click {X=378,Y=299} 4/10/2012 10:11:39 p.m. 64
+MOUSE release {X=378,Y=299} 4/10/2012 10:11:39 p.m. 168
+MOUSE click {X=616,Y=245} 4/10/2012 10:11:40 p.m. 95
+Text Selection MOUSE 
+ 4/10/2012 10:11:40 p.m. 170
+Text Selection MOUSE stories 4/10/2012 10:11:40 p.m. 193
+Text Selection MOUSE fashioned stories 4/10/2012 10:11:40 p.m. 205
+Text Selection MOUSE see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories 4/10/2012 10:11:40 p.m. 610
+Text Selection MOUSE a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories 4/10/2012 10:11:40 p.m. 952
+MOUSE release {X=530,Y=232} 4/10/2012 10:11:40 p.m. 956
+MOUSE click {X=350,Y=95} 4/10/2012 10:11:41 p.m. 472
+MOUSE release {X=350,Y=95} 4/10/2012 10:11:41 p.m. 583
+COMMAND BlackButton MOUSE K SelText:a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories MOUSE  4/10/2012 10:11:41 p.m. 584
+MOUSE click {X=415,Y=293} 4/10/2012 10:11:41 p.m. 888
+MOUSE release {X=415,Y=293} 4/10/2012 10:11:41 p.m. 976
+MOUSE click {X=270,Y=234} 4/10/2012 10:11:42 p.m. 808
+Text Selection MOUSE c 4/10/2012 10:11:42 p.m. 892
+Text Selection MOUSE ch 4/10/2012 10:11:42 p.m. 913
+Text Selection MOUSE each other  4/10/2012 10:11:42 p.m. 937
+Text Selection MOUSE each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers  4/10/2012 10:11:42 p.m. 955
+MOUSE release {X=371,Y=245} 4/10/2012 10:11:43 p.m. 256
+MOUSE click {X=379,Y=103} 4/10/2012 10:11:44 p.m. 614
+MOUSE release {X=379,Y=103} 4/10/2012 10:11:44 p.m. 694
+COMMAND MagentaButton MOUSE M SelText:each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers  MOUSE  4/10/2012 10:11:44 p.m. 696
+MOUSE click {X=366,Y=270} 4/10/2012 10:11:45 p.m. 78
+MOUSE release {X=366,Y=270} 4/10/2012 10:11:45 p.m. 150
+MOUSE click {X=326,Y=233} 4/10/2012 10:11:45 p.m. 568
+Text Selection MOUSE lo 4/10/2012 10:11:45 p.m. 663
+Text Selection MOUSE loo 4/10/2012 10:11:45 p.m. 681
+Text Selection MOUSE look 4/10/2012 10:11:45 p.m. 699
+Text Selection MOUSE look and  4/10/2012 10:11:45 p.m. 715
+Text Selection MOUSE look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers  4/10/2012 10:11:45 p.m. 721
+Text Selection MOUSE look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie  4/10/2012 10:11:45 p.m. 728
+MOUSE release {X=397,Y=245} 4/10/2012 10:11:45 p.m. 952
+MOUSE click {X=352,Y=103} 4/10/2012 10:11:46 p.m. 406
+MOUSE release {X=352,Y=103} 4/10/2012 10:11:46 p.m. 504
+COMMAND BlackButton MOUSE K SelText:look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie  MOUSE  4/10/2012 10:11:46 p.m. 509
+MOUSE click {X=450,Y=300} 4/10/2012 10:11:46 p.m. 776
+MOUSE release {X=450,Y=300} 4/10/2012 10:11:46 p.m. 848
+MOUSE click {X=458,Y=253} 4/10/2012 10:11:47 p.m. 264
+Text Selection MOUSE vie for the best access to old-fashioned stories
+ 4/10/2012 10:11:47 p.m. 370
+Text Selection MOUSE manufacturers vie for the best access to old-fashioned stories
+ 4/10/2012 10:11:47 p.m. 392
+Text Selection MOUSE tech manufacturers vie for the best access to old-fashioned stories
+ 4/10/2012 10:11:47 p.m. 401
+Text Selection MOUSE high-tech manufacturers vie for the best access to old-fashioned stories
+ 4/10/2012 10:11:47 p.m. 416
+Text Selection MOUSE resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+ 4/10/2012 10:11:47 p.m. 428
+Text Selection MOUSE increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+ 4/10/2012 10:11:47 p.m. 481
+MOUSE release {X=177,Y=229} 4/10/2012 10:11:47 p.m. 776
+MOUSE click {X=349,Y=98} 4/10/2012 10:11:48 p.m. 448
+MOUSE release {X=349,Y=98} 4/10/2012 10:11:48 p.m. 558
+COMMAND BlackButton MOUSE K SelText:increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+ MOUSE  4/10/2012 10:11:48 p.m. 560
+MOUSE click {X=432,Y=277} 4/10/2012 10:11:48 p.m. 920
+MOUSE release {X=432,Y=277} 4/10/2012 10:11:49 p.m. 7
+MOUSE click {X=303,Y=238} 4/10/2012 10:11:54 p.m. 534
+Text Selection MOUSE e 4/10/2012 10:11:54 p.m. 598
+Text Selection MOUSE other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech  4/10/2012 10:11:54 p.m. 613
+Text Selection MOUSE other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers  4/10/2012 10:11:54 p.m. 622
+Text Selection MOUSE other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+ 4/10/2012 10:11:54 p.m. 646
+MOUSE release {X=387,Y=262} 4/10/2012 10:11:54 p.m. 857
+MOUSE click {X=377,Y=102} 4/10/2012 10:11:55 p.m. 328
+MOUSE release {X=377,Y=102} 4/10/2012 10:11:55 p.m. 437
+COMMAND MagentaButton MOUSE M SelText:other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+ MOUSE  4/10/2012 10:11:55 p.m. 439
+MOUSE click {X=355,Y=367} 4/10/2012 10:11:55 p.m. 645
+MOUSE release {X=355,Y=367} 4/10/2012 10:11:55 p.m. 741
+MOUSE click {X=280,Y=232} 4/10/2012 10:11:56 p.m. 431
+Text Selection MOUSE h  4/10/2012 10:11:56 p.m. 514
+Text Selection MOUSE each other  4/10/2012 10:11:56 p.m. 523
+Text Selection MOUSE each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers  4/10/2012 10:11:56 p.m. 551
+Text Selection MOUSE each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+ 4/10/2012 10:11:56 p.m. 582
+MOUSE release {X=431,Y=261} 4/10/2012 10:11:57 p.m. 48
+MOUSE click {X=360,Y=104} 4/10/2012 10:11:57 p.m. 695
+MOUSE release {X=360,Y=104} 4/10/2012 10:11:57 p.m. 826
+COMMAND BlackButton MOUSE K SelText:each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+ MOUSE  4/10/2012 10:11:57 p.m. 835
+MOUSE click {X=493,Y=321} 4/10/2012 10:11:58 p.m. 240
+MOUSE release {X=493,Y=321} 4/10/2012 10:11:58 p.m. 328
+MOUSE click {X=1314,Y=35} 4/10/2012 10:11:59 p.m. 120
+MOUSE release {X=1314,Y=35} 4/10/2012 10:11:59 p.m. 232
+MOUSE click {X=1312,Y=25} 4/10/2012 10:11:59 p.m. 496
+MOUSE release {X=1312,Y=25} 4/10/2012 10:11:59 p.m. 601
+Focus Lost 4/10/2012 10:11:59 p.m. 625
+MOUSE click {X=746,Y=435} 4/10/2012 10:12:00 p.m. 768
+MOUSE release {X=746,Y=435} 4/10/2012 10:12:00 p.m. 864
+Focus Gained 4/10/2012 10:12:00 p.m. 872
+Focus Lost 4/10/2012 10:12:00 p.m. 895

@@ -1,0 +1,42 @@
+Focus Gained 12/09/2012 6:09:30 p.m. 286
+MOUSE click {X=166,Y=746} 12/09/2012 6:09:34 p.m. 911
+Focus Lost 12/09/2012 6:09:34 p.m. 935
+MOUSE release {X=166,Y=746} 12/09/2012 6:09:34 p.m. 998
+MOUSE click {X=1287,Y=8} 12/09/2012 6:09:36 p.m. 358
+MOUSE release {X=1287,Y=8} 12/09/2012 6:09:36 p.m. 463
+Focus Gained 12/09/2012 6:09:36 p.m. 481
+MOUSE click {X=693,Y=43} 12/09/2012 6:09:38 p.m. 199
+MOUSE release {X=693,Y=43} 12/09/2012 6:09:38 p.m. 271
+MOUSE click {X=861,Y=297} 12/09/2012 6:09:39 p.m. 333
+MOUSE release {X=861,Y=297} 12/09/2012 6:09:39 p.m. 413
+MOUSE click {X=148,Y=760} 12/09/2012 6:09:43 p.m. 607
+Focus Lost 12/09/2012 6:09:43 p.m. 623
+MOUSE release {X=148,Y=760} 12/09/2012 6:09:43 p.m. 711
+MOUSE click {X=334,Y=752} 12/09/2012 6:09:46 p.m. 447
+MOUSE release {X=334,Y=752} 12/09/2012 6:09:46 p.m. 541
+MOUSE click {X=521,Y=754} 12/09/2012 6:09:52 p.m. 103
+MOUSE release {X=521,Y=754} 12/09/2012 6:09:52 p.m. 198
+Focus Gained 12/09/2012 6:09:52 p.m. 213
+MOUSE click {X=337,Y=753} 12/09/2012 6:09:53 p.m. 566
+Focus Lost 12/09/2012 6:09:53 p.m. 583
+MOUSE release {X=337,Y=753} 12/09/2012 6:09:53 p.m. 654
+MOUSE click {X=513,Y=744} 12/09/2012 6:10:04 p.m. 143
+MOUSE release {X=513,Y=744} 12/09/2012 6:10:04 p.m. 231
+MOUSE click {X=513,Y=744} 12/09/2012 6:10:04 p.m. 887
+MOUSE release {X=513,Y=744} 12/09/2012 6:10:04 p.m. 982
+Focus Gained 12/09/2012 6:10:04 p.m. 989
+MOUSE click {X=356,Y=755} 12/09/2012 6:10:06 p.m. 998
+Focus Lost 12/09/2012 6:10:07 p.m. 8
+MOUSE release {X=356,Y=755} 12/09/2012 6:10:07 p.m. 94
+MOUSE click {X=522,Y=744} 12/09/2012 6:10:11 p.m. 996
+MOUSE release {X=522,Y=744} 12/09/2012 6:10:12 p.m. 84
+MOUSE click {X=522,Y=763} 12/09/2012 6:10:13 p.m. 94
+MOUSE release {X=522,Y=763} 12/09/2012 6:10:13 p.m. 190
+Focus Gained 12/09/2012 6:10:13 p.m. 199
+MOUSE click {X=1002,Y=23} 12/09/2012 6:10:14 p.m. 501
+MOUSE release {X=1002,Y=23} 12/09/2012 6:10:14 p.m. 581
+Focus Lost 12/09/2012 6:10:14 p.m. 589
+MOUSE click {X=761,Y=446} 12/09/2012 6:10:15 p.m. 431
+MOUSE release {X=761,Y=446} 12/09/2012 6:10:15 p.m. 535
+Focus Gained 12/09/2012 6:10:15 p.m. 542
+Focus Lost 12/09/2012 6:10:15 p.m. 568

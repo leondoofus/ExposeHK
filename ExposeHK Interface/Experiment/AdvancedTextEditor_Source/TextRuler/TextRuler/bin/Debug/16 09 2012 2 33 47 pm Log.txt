@@ -1,0 +1,69 @@
+Focus Gained 16/09/2012 2:33:47 p.m. 613
+MOUSE click {X=607,Y=44} 16/09/2012 2:33:49 p.m. 342
+MOUSE release {X=279,Y=37} 16/09/2012 2:33:50 p.m. 673
+MOUSE click {X=377,Y=290} 16/09/2012 2:33:52 p.m. 272
+MOUSE release {X=377,Y=290} 16/09/2012 2:33:52 p.m. 328
+MOUSE click {X=357,Y=290} 16/09/2012 2:33:52 p.m. 760
+MOUSE release {X=357,Y=290} 16/09/2012 2:33:52 p.m. 848
+MOUSE click {X=357,Y=290} 16/09/2012 2:33:53 p.m. 464
+MOUSE release {X=357,Y=290} 16/09/2012 2:33:53 p.m. 544
+MOUSE click {X=378,Y=286} 16/09/2012 2:33:56 p.m. 152
+MOUSE release {X=378,Y=286} 16/09/2012 2:33:56 p.m. 216
+MOUSE click {X=378,Y=286} 16/09/2012 2:33:56 p.m. 296
+Text Selection MOUSE performance 16/09/2012 2:33:56 p.m. 352
+MOUSE release {X=378,Y=286} 16/09/2012 2:33:56 p.m. 354
+MOUSE click {X=347,Y=297} 16/09/2012 2:33:59 p.m. 383
+MOUSE release {X=347,Y=297} 16/09/2012 2:33:59 p.m. 456
+MOUSE click {X=347,Y=297} 16/09/2012 2:33:59 p.m. 495
+Text Selection MOUSE manufacturers  16/09/2012 2:33:59 p.m. 552
+MOUSE release {X=347,Y=297} 16/09/2012 2:33:59 p.m. 554
+MOUSE click {X=374,Y=341} 16/09/2012 2:34:02 p.m. 566
+Text Selection MOUSE  increasingly  16/09/2012 2:34:02 p.m. 702
+MOUSE release {X=403,Y=341} 16/09/2012 2:34:03 p.m. 232
+MOUSE click {X=270,Y=505} 16/09/2012 2:34:07 p.m. 32
+Text Selection MOUSE F 16/09/2012 2:34:07 p.m. 146
+Text Selection MOUSE Fi 16/09/2012 2:34:07 p.m. 306
+Text Selection MOUSE Fir 16/09/2012 2:34:07 p.m. 433
+Text Selection MOUSE Fire  16/09/2012 2:34:07 p.m. 598
+Text Selection MOUSE Fire tablets  16/09/2012 2:34:07 p.m. 968
+Text Selection MOUSE Fire tablets last  16/09/2012 2:34:08 p.m. 963
+Text Selection MOUSE Fire tablets last week 16/09/2012 2:34:09 p.m. 604
+Text Selection MOUSE Fire tablets last week, " 16/09/2012 2:34:10 p.m. 374
+Text Selection MOUSE Fire tablets last week, "Another  16/09/2012 2:34:11 p.m. 29
+MOUSE release {X=387,Y=507} 16/09/2012 2:34:11 p.m. 31
+MOUSE click {X=339,Y=526} 16/09/2012 2:34:13 p.m. 382
+MOUSE release {X=339,Y=526} 16/09/2012 2:34:13 p.m. 448
+KEYPRESS DOWN Left 16/09/2012 2:34:14 p.m. 478
+KEYPRESS UP Left 16/09/2012 2:34:14 p.m. 562
+KEYPRESS DOWN Left 16/09/2012 2:34:14 p.m. 756
+KEYPRESS UP Left 16/09/2012 2:34:14 p.m. 837
+KEYPRESS DOWN LShiftKey 16/09/2012 2:34:15 p.m. 527
+KEYPRESS DOWN Right 16/09/2012 2:34:15 p.m. 791
+Text Selection KEYBOARD 1 16/09/2012 2:34:15 p.m. 860
+KEYPRESS UP Right 16/09/2012 2:34:15 p.m. 861
+KEYPRESS DOWN Right 16/09/2012 2:34:19 p.m. 38
+Text Selection KEYBOARD 18 16/09/2012 2:34:19 p.m. 118
+KEYPRESS UP Right 16/09/2012 2:34:19 p.m. 121
+KEYPRESS DOWN Right 16/09/2012 2:34:21 p.m. 47
+Text Selection KEYBOARD 180 16/09/2012 2:34:21 p.m. 127
+KEYPRESS UP Right 16/09/2012 2:34:21 p.m. 130
+KEYPRESS DOWN Right 16/09/2012 2:34:22 p.m. 549
+Text Selection KEYBOARD 180, 16/09/2012 2:34:22 p.m. 645
+KEYPRESS UP Right 16/09/2012 2:34:22 p.m. 646
+KEYPRESS DOWN Right 16/09/2012 2:34:23 p.m. 383
+Text Selection KEYBOARD 180,0 16/09/2012 2:34:23 p.m. 461
+KEYPRESS UP Right 16/09/2012 2:34:23 p.m. 462
+KEYPRESS DOWN Right 16/09/2012 2:34:24 p.m. 79
+Text Selection KEYBOARD 180,00 16/09/2012 2:34:24 p.m. 159
+KEYPRESS UP Right 16/09/2012 2:34:24 p.m. 162
+KEYPRESS DOWN Right 16/09/2012 2:34:24 p.m. 791
+Text Selection KEYBOARD 180,000 16/09/2012 2:34:24 p.m. 895
+KEYPRESS UP Right 16/09/2012 2:34:24 p.m. 897
+KEYPRESS UP LShiftKey 16/09/2012 2:34:25 p.m. 607
+MOUSE click {X=665,Y=30} 16/09/2012 2:34:26 p.m. 960
+MOUSE release {X=665,Y=30} 16/09/2012 2:34:27 p.m. 24
+Focus Lost 16/09/2012 2:34:27 p.m. 213
+MOUSE click {X=740,Y=456} 16/09/2012 2:34:28 p.m. 288
+MOUSE release {X=740,Y=456} 16/09/2012 2:34:28 p.m. 376
+Focus Gained 16/09/2012 2:34:28 p.m. 384
+Focus Lost 16/09/2012 2:34:28 p.m. 407

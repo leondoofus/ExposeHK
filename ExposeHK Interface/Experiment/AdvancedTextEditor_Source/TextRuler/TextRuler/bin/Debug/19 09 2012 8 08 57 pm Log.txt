@@ -1,0 +1,16 @@
+Focus Gained 19/09/2012 8:08:57 p.m. 112
+KEYPRESS DOWN LControlKey 19/09/2012 8:08:57 p.m. 946
+ExposeHK Activated 19/09/2012 8:08:57 p.m. 954
+ExposeHK Hidden 19/09/2012 8:09:00 p.m. 311
+KEYPRESS UP LControlKey 19/09/2012 8:09:00 p.m. 332
+KEYPRESS DOWN LControlKey 19/09/2012 8:09:00 p.m. 623
+ExposeHK Activated 19/09/2012 8:09:00 p.m. 626
+ExposeHK Hidden 19/09/2012 8:09:06 p.m. 449
+KEYPRESS UP LControlKey 19/09/2012 8:09:06 p.m. 480
+MOUSE click {X=996,Y=32} 19/09/2012 8:09:07 p.m. 358
+MOUSE release {X=996,Y=32} 19/09/2012 8:09:07 p.m. 470
+Focus Lost 19/09/2012 8:09:07 p.m. 656
+MOUSE click {X=763,Y=449} 19/09/2012 8:09:08 p.m. 982
+MOUSE release {X=763,Y=449} 19/09/2012 8:09:09 p.m. 60
+Focus Gained 19/09/2012 8:09:09 p.m. 62
+Focus Lost 19/09/2012 8:09:09 p.m. 68

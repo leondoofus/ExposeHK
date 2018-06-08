@@ -1,0 +1,50 @@
+Focus Gained 16/09/2012 2:25:41 p.m. 743
+MOUSE click {X=499,Y=356} 16/09/2012 2:25:43 p.m. 12
+Text Selection MOUSE a 16/09/2012 2:25:43 p.m. 67
+Text Selection MOUSE a former  16/09/2012 2:25:43 p.m. 75
+Text Selection MOUSE a former head  16/09/2012 2:25:43 p.m. 124
+MOUSE release {X=551,Y=356} 16/09/2012 2:25:43 p.m. 299
+MOUSE click {X=589,Y=33} 16/09/2012 2:25:44 p.m. 44
+MOUSE release {X=237,Y=26} 16/09/2012 2:25:45 p.m. 452
+MOUSE click {X=356,Y=517} 16/09/2012 2:25:48 p.m. 369
+Text Selection MOUSE  16/09/2012 2:25:48 p.m. 401
+Text Selection MOUSE c 16/09/2012 2:25:48 p.m. 441
+Text Selection MOUSE ca 16/09/2012 2:25:48 p.m. 465
+Text Selection MOUSE cau 16/09/2012 2:25:48 p.m. 707
+MOUSE release {X=374,Y=517} 16/09/2012 2:25:48 p.m. 710
+MOUSE click {X=242,Y=546} 16/09/2012 2:25:50 p.m. 411
+Text Selection MOUSE  16/09/2012 2:25:50 p.m. 435
+Text Selection MOUSE m 16/09/2012 2:25:50 p.m. 455
+Text Selection MOUSE m  16/09/2012 2:25:50 p.m. 475
+Text Selection MOUSE consortium of Paramount 16/09/2012 2:25:50 p.m. 483
+MOUSE release {X=270,Y=551} 16/09/2012 2:25:50 p.m. 746
+MOUSE click {X=370,Y=536} 16/09/2012 2:25:53 p.m. 170
+Text Selection MOUSE  16/09/2012 2:25:53 p.m. 202
+Text Selection MOUSE exclusive books to download. He also highlighted last week's multi-year deal with Epix, a movie consortium of Paramount, MGM and Lionsgate 16/09/2012 2:25:53 p.m. 237
+Text Selection MOUSE exclusive books to download. He also highlighted last week's multi-year deal with Epix, a movie consortium of Paramount, MGM and Lionsgate, giving it exclusive rights to stream such hits as The Avengers and Iron Man 2.
+ 16/09/2012 2:25:53 p.m. 317
+MOUSE release {X=374,Y=556} 16/09/2012 2:25:53 p.m. 458
+MOUSE click {X=272,Y=508} 16/09/2012 2:25:57 p.m. 68
+Text Selection MOUSE  16/09/2012 2:25:57 p.m. 117
+Text Selection MOUSE tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular  16/09/2012 2:25:57 p.m. 192
+Text Selection MOUSE tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads  16/09/2012 2:25:57 p.m. 266
+MOUSE release {X=331,Y=523} 16/09/2012 2:25:57 p.m. 267
+MOUSE click {X=307,Y=547} 16/09/2012 2:25:57 p.m. 972
+Text Selection MOUSE  16/09/2012 2:25:57 p.m. 995
+Text Selection MOUSE Paramount,  16/09/2012 2:25:58 p.m. 13
+Text Selection MOUSE Paramount, MGM  16/09/2012 2:25:58 p.m. 26
+MOUSE release {X=339,Y=549} 16/09/2012 2:25:58 p.m. 99
+MOUSE click {X=246,Y=527} 16/09/2012 2:25:58 p.m. 698
+Text Selection MOUSE  16/09/2012 2:25:58 p.m. 719
+Text Selection MOUSE e  16/09/2012 2:25:58 p.m. 726
+Text Selection MOUSE Kindle library  16/09/2012 2:25:58 p.m. 735
+Text Selection MOUSE Kindle library has  16/09/2012 2:25:58 p.m. 750
+Text Selection MOUSE Kindle library has 180 16/09/2012 2:25:58 p.m. 769
+MOUSE release {X=311,Y=533} 16/09/2012 2:25:58 p.m. 809
+MOUSE click {X=635,Y=21} 16/09/2012 2:25:59 p.m. 899
+MOUSE release {X=635,Y=21} 16/09/2012 2:26:00 p.m. 3
+Focus Lost 16/09/2012 2:26:00 p.m. 209
+MOUSE click {X=745,Y=446} 16/09/2012 2:26:01 p.m. 996
+MOUSE release {X=745,Y=446} 16/09/2012 2:26:02 p.m. 51
+Focus Gained 16/09/2012 2:26:02 p.m. 60
+Focus Lost 16/09/2012 2:26:02 p.m. 78

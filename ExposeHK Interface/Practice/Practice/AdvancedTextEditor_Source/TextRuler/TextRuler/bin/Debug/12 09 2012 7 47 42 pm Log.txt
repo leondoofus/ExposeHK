@@ -1,0 +1,10 @@
+Focus Gained 12/09/2012 7:47:42 p.m. 383
+MOUSE click {X=361,Y=107} 12/09/2012 7:47:46 p.m. 674
+MOUSE release {X=370,Y=106} 12/09/2012 7:47:47 p.m. 9
+MOUSE click {X=983,Y=28} 12/09/2012 7:47:48 p.m. 409
+MOUSE release {X=983,Y=28} 12/09/2012 7:47:48 p.m. 498
+Focus Lost 12/09/2012 7:47:48 p.m. 520
+MOUSE click {X=776,Y=446} 12/09/2012 7:47:49 p.m. 631
+MOUSE release {X=776,Y=446} 12/09/2012 7:47:49 p.m. 681
+Focus Gained 12/09/2012 7:47:49 p.m. 688
+Focus Lost 12/09/2012 7:47:49 p.m. 696

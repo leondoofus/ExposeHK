@@ -1,0 +1,143 @@
+Focus Gained 16/09/2012 6:02:10 p.m. 625
+MOUSE click {X=708,Y=40} 16/09/2012 6:02:11 p.m. 869
+MOUSE release {X=354,Y=37} 16/09/2012 6:02:12 p.m. 820
+MOUSE click {X=323,Y=107} 16/09/2012 6:02:13 p.m. 829
+MOUSE release {X=323,Y=107} 16/09/2012 6:02:13 p.m. 924
+COMMAND BlackButton MOUSE K SelText:   16/09/2012 6:02:13 p.m. 941
+MOUSE click {X=341,Y=107} 16/09/2012 6:02:22 p.m. 466
+MOUSE release {X=341,Y=107} 16/09/2012 6:02:22 p.m. 570
+COMMAND MagentaButton MOUSE M SelText:   16/09/2012 6:02:22 p.m. 577
+MOUSE click {X=395,Y=241} 16/09/2012 6:02:24 p.m. 708
+MOUSE release {X=395,Y=241} 16/09/2012 6:02:24 p.m. 788
+MOUSE click {X=396,Y=241} 16/09/2012 6:02:24 p.m. 858
+Text Selection MOUSE latest  16/09/2012 6:02:24 p.m. 924
+MOUSE release {X=396,Y=241} 16/09/2012 6:02:24 p.m. 927
+MOUSE click {X=351,Y=107} 16/09/2012 6:02:26 p.m. 4
+MOUSE release {X=351,Y=107} 16/09/2012 6:02:26 p.m. 92
+COMMAND MagentaButton MOUSE M SelText:latest  MOUSE  16/09/2012 6:02:26 p.m. 97
+MOUSE click {X=440,Y=227} 16/09/2012 6:02:29 p.m. 188
+MOUSE release {X=440,Y=227} 16/09/2012 6:02:29 p.m. 276
+MOUSE click {X=371,Y=111} 16/09/2012 6:02:30 p.m. 418
+MOUSE release {X=371,Y=111} 16/09/2012 6:02:30 p.m. 514
+COMMAND LimeButton MOUSE G SelText: MOUSE  16/09/2012 6:02:30 p.m. 517
+MOUSE click {X=397,Y=108} 16/09/2012 6:02:33 p.m. 2
+MOUSE release {X=397,Y=108} 16/09/2012 6:02:33 p.m. 103
+COMMAND CyanButton MOUSE H SelText: MOUSE  16/09/2012 6:02:33 p.m. 105
+MOUSE click {X=372,Y=108} 16/09/2012 6:02:34 p.m. 549
+MOUSE release {X=372,Y=108} 16/09/2012 6:02:34 p.m. 652
+COMMAND LimeButton MOUSE G SelText: MOUSE  16/09/2012 6:02:34 p.m. 657
+MOUSE click {X=342,Y=116} 16/09/2012 6:02:35 p.m. 221
+MOUSE release {X=342,Y=116} 16/09/2012 6:02:35 p.m. 316
+COMMAND MagentaButton MOUSE M SelText: MOUSE  16/09/2012 6:02:35 p.m. 333
+MOUSE click {X=330,Y=113} 16/09/2012 6:02:36 p.m. 13
+MOUSE release {X=330,Y=113} 16/09/2012 6:02:36 p.m. 115
+COMMAND BlackButton MOUSE K SelText: MOUSE  16/09/2012 6:02:36 p.m. 123
+KEYPRESS DOWN LControlKey 16/09/2012 6:02:37 p.m. 123
+ExposeHK Activated 16/09/2012 6:02:37 p.m. 147
+KEYPRESS DOWN K 16/09/2012 6:02:39 p.m. 211
+COMMAND BlackButton HOTKEY K SelText: MOUSE  16/09/2012 6:02:39 p.m. 214
+KEYPRESS UP K 16/09/2012 6:02:39 p.m. 295
+ExposeHK Hidden 16/09/2012 6:02:44 p.m. 310
+KEYPRESS UP LControlKey 16/09/2012 6:02:44 p.m. 340
+MOUSE click {X=436,Y=360} 16/09/2012 6:02:46 p.m. 100
+MOUSE release {X=436,Y=360} 16/09/2012 6:02:46 p.m. 171
+KEYPRESS DOWN LShiftKey 16/09/2012 6:02:46 p.m. 642
+KEYPRESS DOWN Left 16/09/2012 6:02:46 p.m. 778
+Text Selection KEYBOARD i 16/09/2012 6:02:46 p.m. 859
+KEYPRESS UP Left 16/09/2012 6:02:46 p.m. 862
+KEYPRESS DOWN Left 16/09/2012 6:02:46 p.m. 922
+Text Selection KEYBOARD di 16/09/2012 6:02:46 p.m. 978
+KEYPRESS UP Left 16/09/2012 6:02:46 p.m. 981
+KEYPRESS DOWN Left 16/09/2012 6:02:47 p.m. 58
+Text Selection KEYBOARD edi 16/09/2012 6:02:47 p.m. 139
+KEYPRESS UP Left 16/09/2012 6:02:47 p.m. 141
+KEYPRESS DOWN Left 16/09/2012 6:02:47 p.m. 218
+Text Selection KEYBOARD medi 16/09/2012 6:02:47 p.m. 257
+KEYPRESS UP Left 16/09/2012 6:02:47 p.m. 258
+KEYPRESS UP LShiftKey 16/09/2012 6:02:47 p.m. 595
+KEYPRESS DOWN LControlKey 16/09/2012 6:02:47 p.m. 835
+ExposeHK Activated 16/09/2012 6:02:47 p.m. 837
+KEYPRESS DOWN K 16/09/2012 6:02:48 p.m. 427
+COMMAND BlackButton HOTKEY K SelText:medi KEYBOARD  16/09/2012 6:02:48 p.m. 430
+KEYPRESS UP K 16/09/2012 6:02:48 p.m. 507
+ExposeHK Hidden 16/09/2012 6:02:48 p.m. 748
+KEYPRESS UP LControlKey 16/09/2012 6:02:48 p.m. 793
+KEYPRESS DOWN LControlKey 16/09/2012 6:02:51 p.m. 721
+ExposeHK Activated 16/09/2012 6:02:51 p.m. 722
+KEYPRESS DOWN M 16/09/2012 6:02:52 p.m. 675
+COMMAND MagentaButton HOTKEY M SelText:medi KEYBOARD  16/09/2012 6:02:52 p.m. 677
+KEYPRESS UP M 16/09/2012 6:02:52 p.m. 755
+ExposeHK Hidden 16/09/2012 6:02:52 p.m. 947
+KEYPRESS UP LControlKey 16/09/2012 6:02:52 p.m. 981
+KEYPRESS DOWN LControlKey 16/09/2012 6:02:55 p.m. 947
+ExposeHK Activated 16/09/2012 6:02:55 p.m. 951
+KEYPRESS DOWN G 16/09/2012 6:02:56 p.m. 939
+COMMAND LimeButton HOTKEY G SelText:medi KEYBOARD  16/09/2012 6:02:56 p.m. 942
+KEYPRESS UP G 16/09/2012 6:02:57 p.m. 35
+ExposeHK Hidden 16/09/2012 6:02:57 p.m. 219
+KEYPRESS UP LControlKey 16/09/2012 6:02:57 p.m. 262
+KEYPRESS DOWN LControlKey 16/09/2012 6:02:59 p.m. 987
+ExposeHK Activated 16/09/2012 6:02:59 p.m. 991
+KEYPRESS DOWN H 16/09/2012 6:03:00 p.m. 860
+COMMAND CyanButton HOTKEY H SelText:medi KEYBOARD  16/09/2012 6:03:00 p.m. 863
+KEYPRESS UP H 16/09/2012 6:03:00 p.m. 963
+ExposeHK Hidden 16/09/2012 6:03:01 p.m. 59
+KEYPRESS UP LControlKey 16/09/2012 6:03:01 p.m. 102
+MOUSE click {X=184,Y=265} 16/09/2012 6:03:15 p.m. 190
+Text Selection MOUSE 
+ 16/09/2012 6:03:15 p.m. 250
+Text Selection MOUSE tablets. 16/09/2012 6:03:15 p.m. 292
+Text Selection MOUSE and tablets. 16/09/2012 6:03:15 p.m. 323
+Text Selection MOUSE smartphones and tablets. 16/09/2012 6:03:15 p.m. 365
+Text Selection MOUSE , are becoming even more critical as several of the biggest technology companies fight for an edge in the lucrative market for smartphones and tablets. 16/09/2012 6:03:15 p.m. 419
+Text Selection MOUSE appeal, are becoming even more critical as several of the biggest technology companies fight for an edge in the lucrative market for smartphones and tablets. 16/09/2012 6:03:15 p.m. 452
+Text Selection MOUSE The licensing deals that allow movies, books and music to stream into the latest mobile devices, while long at the heart of their appeal, are becoming even more critical as several of the biggest technology companies fight for an edge in the lucrative market for smartphones and tablets. 16/09/2012 6:03:15 p.m. 735
+MOUSE release {X=26,Y=238} 16/09/2012 6:03:16 p.m. 12
+MOUSE click {X=344,Y=100} 16/09/2012 6:03:16 p.m. 644
+MOUSE release {X=344,Y=100} 16/09/2012 6:03:16 p.m. 747
+COMMAND MagentaButton MOUSE M SelText:The licensing deals that allow movies, books and music to stream into the latest mobile devices, while long at the heart of their appeal, are becoming even more critical as several of the biggest technology companies fight for an edge in the lucrative market for smartphones and tablets. MOUSE  16/09/2012 6:03:16 p.m. 753
+MOUSE click {X=304,Y=430} 16/09/2012 6:03:20 p.m. 148
+MOUSE release {X=304,Y=430} 16/09/2012 6:03:20 p.m. 227
+MOUSE click {X=83,Y=444} 16/09/2012 6:03:21 p.m. 19
+MOUSE release {X=83,Y=444} 16/09/2012 6:03:21 p.m. 83
+MOUSE click {X=83,Y=444} 16/09/2012 6:03:21 p.m. 163
+Text Selection MOUSE Pricing 16/09/2012 6:03:21 p.m. 209
+MOUSE release {X=83,Y=444} 16/09/2012 6:03:21 p.m. 210
+MOUSE click {X=365,Y=102} 16/09/2012 6:03:21 p.m. 993
+MOUSE release {X=365,Y=102} 16/09/2012 6:03:22 p.m. 77
+COMMAND LimeButton MOUSE G SelText:Pricing MOUSE  16/09/2012 6:03:22 p.m. 89
+MOUSE click {X=288,Y=355} 16/09/2012 6:03:40 p.m. 148
+MOUSE release {X=288,Y=355} 16/09/2012 6:03:40 p.m. 281
+MOUSE click {X=129,Y=482} 16/09/2012 6:03:42 p.m. 892
+Text Selection MOUSE 32GB = $1300  16/09/2012 6:03:42 p.m. 989
+Text Selection MOUSE 1100
+32GB = $1300  16/09/2012 6:03:43 p.m. 7
+Text Selection MOUSE 900
+16GB = $1100
+32GB = $1300  16/09/2012 6:03:43 p.m. 18
+Text Selection MOUSE = $900
+16GB = $1100
+32GB = $1300  16/09/2012 6:03:43 p.m. 26
+Text Selection MOUSE 8GB = $900
+16GB = $1100
+32GB = $1300  16/09/2012 6:03:43 p.m. 59
+Text Selection MOUSE IPhone Pricing:
+8GB = $900
+16GB = $1100
+32GB = $1300  16/09/2012 6:03:43 p.m. 90
+MOUSE release {X=29,Y=449} 16/09/2012 6:03:43 p.m. 388
+KEYPRESS DOWN LControlKey 16/09/2012 6:03:44 p.m. 51
+ExposeHK Activated 16/09/2012 6:03:44 p.m. 54
+KEYPRESS DOWN E 16/09/2012 6:03:46 p.m. 705
+COMMAND btnAlignCenter HOTKEY E SelText:IPhone Pricing:
+8GB = $900
+16GB = $1100
+32GB = $1300  MOUSE  16/09/2012 6:03:46 p.m. 713
+KEYPRESS UP E 16/09/2012 6:03:46 p.m. 840
+ExposeHK Hidden 16/09/2012 6:03:46 p.m. 880
+KEYPRESS UP LControlKey 16/09/2012 6:03:46 p.m. 894
+MOUSE click {X=925,Y=624} 16/09/2012 6:04:03 p.m. 84
+Focus Lost 16/09/2012 6:04:03 p.m. 112
+MOUSE release {X=925,Y=624} 16/09/2012 6:04:03 p.m. 146
+MOUSE click {X=1080,Y=76} 16/09/2012 6:04:17 p.m. 28
+MOUSE release {X=1080,Y=76} 16/09/2012 6:04:17 p.m. 123
