@@ -761,7 +761,7 @@ namespace gma.System.Windows
         /// </returns>
         private int KeyboardHookProc(int nCode, Int32 wParam, IntPtr lParam)
         {
-
+            
             //Debug.WriteLine("Keyboard Input");
             //Debug.WriteLine(KeyDown != null && GetKeyState(VK_CONTROL) != 0);
             //indicates if any of underlaing events set e.Handled flag
@@ -771,6 +771,7 @@ namespace gma.System.Windows
             {
                 //read structure KeyboardHookStruct at lParam
                 KeyboardHookStruct MyKeyboardHookStruct = (KeyboardHookStruct)Marshal.PtrToStructure(lParam, typeof(KeyboardHookStruct));
+                
                 //raise KeyDown
                 if (KeyDown != null && (wParam == WM_KEYDOWN || wParam == WM_SYSKEYDOWN))
                 {
@@ -779,7 +780,7 @@ namespace gma.System.Windows
                     KeyDown(this, e);
                     handled = handled || e.Handled;
                 }
-
+                
                 // raise KeyPress
                 if (KeyPress != null && wParam == WM_KEYDOWN)
                 {
@@ -802,7 +803,7 @@ namespace gma.System.Windows
                         handled = handled || e.Handled;
                     }
                 }
-
+                
                 // raise KeyUp
                 if (KeyUp != null && (wParam == WM_KEYUP || wParam == WM_SYSKEYUP))
                 {
@@ -811,7 +812,7 @@ namespace gma.System.Windows
                     KeyUp(this, e);
                     handled = handled || e.Handled;
                 }
-
+                
             }
 
             //if event handled in application do not handoff to other listeners
