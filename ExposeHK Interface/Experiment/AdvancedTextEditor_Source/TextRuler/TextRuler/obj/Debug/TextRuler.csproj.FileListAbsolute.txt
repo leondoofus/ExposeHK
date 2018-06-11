@@ -50,3 +50,4 @@ C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTex
 C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.CoreCompileInputs.cache
 C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.exe
 C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.pdb
+C:\Users\Thanh\Desktop\ExposeHK Source\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form2.resources

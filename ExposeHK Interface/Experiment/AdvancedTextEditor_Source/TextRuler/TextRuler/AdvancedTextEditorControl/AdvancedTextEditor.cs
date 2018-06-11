@@ -14,6 +14,7 @@ namespace TextRuler.AdvancedTextEditorControl
     internal partial class AdvancedTextEditor : UserControl
     {
         UserActivityHook hook;
+        Form2 keyboard;
 
         public AdvancedTextEditor()
         {
@@ -25,6 +26,9 @@ namespace TextRuler.AdvancedTextEditorControl
             hook.KeyUp += new KeyEventHandler(MyKeyUp);
             hook.OnMouseActivity += new MouseEventHandler(MyMouseMove);
             hook.Start();
+
+            keyboard = new Form2();
+            //keyboard.Start();
 
 
             // Backgrounf Worker Stuff
@@ -350,6 +354,7 @@ namespace TextRuler.AdvancedTextEditorControl
         bool exposed = false;
         public void ExposeHK()
         {
+            keyboard.Show();
             if (exposed == false)
             {
                 log("ExposeHK Activated");
@@ -364,6 +369,7 @@ namespace TextRuler.AdvancedTextEditorControl
 
         public void hideHK()
         {
+            keyboard.Hide();
             if (exposed == true)
             {
                 log("ExposeHK Hidden");
