@@ -355,6 +355,11 @@ namespace TextRuler.AdvancedTextEditorControl
         public void ExposeHK()
         {
             keyboard.Show();
+            if (shift)
+                keyboard.Shifted();
+            else
+                keyboard.UnShifted();
+            
             if (exposed == false)
             {
                 log("ExposeHK Activated");

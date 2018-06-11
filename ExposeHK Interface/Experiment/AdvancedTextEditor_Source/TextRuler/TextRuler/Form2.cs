@@ -15,6 +15,7 @@ namespace TextRuler
         public Form2()
         {
             InitializeComponent();
+            Create();
             this.Text = "Virtual Keyboard";
             this.StartPosition = FormStartPosition.Manual;
             this.Left = Screen.PrimaryScreen.Bounds.Width - this.Bounds.Width;
