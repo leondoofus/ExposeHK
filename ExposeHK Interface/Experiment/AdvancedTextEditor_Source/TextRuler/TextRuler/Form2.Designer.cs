@@ -31,22 +31,6 @@ namespace TextRuler
             this.undo = ((System.Drawing.Image)(resources.GetObject("btnUndo.Image")));
             this.redo = ((System.Drawing.Image)(resources.GetObject("btnRedo.Image")));
             this.cut = ((System.Drawing.Image)(resources.GetObject("btnCut.Image")));
-            button54.Image = this.copy;
-            button52.Image = this.bold;
-            button21.Image = this.italic;
-            button55.Image = this.cut;
-            button53.Image = this.paste;
-            button27.Image = this.undo;
-            button23.Image = this.redo;
-            button22.Image = this.underline;
-            button42.Image = this.strike;
-            button56.Image = this.bullet;
-            button40.Image = this.number;
-            button35.BackColor = Color.Black;
-            button33.BackColor = Color.Magenta;
-            button38.BackColor = Color.LimeGreen;
-            button37.BackColor = Color.DarkCyan;
-            button57.Image = increase;
         }
 
         public void Shifted()
@@ -67,11 +51,31 @@ namespace TextRuler
             button17.Text = "£";
             button32.Text = "%";
             button31.Text = "µ";
-            button57.Text = "<";
+            button57.Text = ">";
             button50.Text = "?";
             button49.Text = ".";
             button48.Text = "/";
             button47.Text = "§";
+            button54.Image = null;
+            button52.Image = null;
+            button21.Image = null;
+            button55.Image = null;
+            button53.Image = null;
+            button27.Image = null;
+            button23.Image = null;
+            button22.Image = null;
+            button42.Image = null;
+            button56.Image = null;
+            button40.Image = null;
+            button36.Image = null;
+            button25.Image = null;
+            button34.Image = null;
+            button26.Image = null;
+            button35.BackColor = Color.White;
+            button33.BackColor = Color.White;
+            button38.BackColor = Color.White;
+            button37.BackColor = Color.White;
+            button57.Image = this.decrease;
         }
 
         public void UnShifted()
@@ -97,6 +101,26 @@ namespace TextRuler
             button49.Text = ";";
             button48.Text = ":";
             button47.Text = "!";
+            button54.Image = this.copy;
+            button52.Image = this.bold;
+            button21.Image = this.italic;
+            button55.Image = this.cut;
+            button53.Image = this.paste;
+            button27.Image = this.undo;
+            button23.Image = this.redo;
+            button22.Image = this.underline;
+            button42.Image = this.strike;
+            button56.Image = this.bullet;
+            button40.Image = this.number;
+            button36.Image = this.justify;
+            button25.Image = this.aRight;
+            button34.Image = this.aLeft;
+            button26.Image = this.aCenter;
+            button35.BackColor = Color.Black;
+            button33.BackColor = Color.Magenta;
+            button38.BackColor = Color.LimeGreen;
+            button37.BackColor = Color.DarkCyan;
+            button57.Image = this.increase;
         }
         /// <summary>
         /// Clean up any resources being used.

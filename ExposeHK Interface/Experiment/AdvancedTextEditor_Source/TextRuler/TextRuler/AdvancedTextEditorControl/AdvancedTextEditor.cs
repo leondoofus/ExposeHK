@@ -274,6 +274,7 @@ namespace TextRuler.AdvancedTextEditorControl
             if (e.KeyData == Keys.LShiftKey || e.KeyData == Keys.RShiftKey)
             {
                 shift = true;
+                keyboard.Shifted();
             }
 
             if (e.KeyData == Keys.LMenu || e.KeyData == Keys.RMenu)
@@ -312,6 +313,7 @@ namespace TextRuler.AdvancedTextEditorControl
             if (e.KeyData == Keys.LShiftKey || e.KeyData == Keys.RShiftKey)
             {
                 shift = false;
+                keyboard.UnShifted();
             }
 
             if (e.KeyData == Keys.LMenu || e.KeyData == Keys.RMenu)
@@ -354,11 +356,15 @@ namespace TextRuler.AdvancedTextEditorControl
         bool exposed = false;
         public void ExposeHK()
         {
-            keyboard.Show();
             if (shift)
+            {
                 keyboard.Shifted();
+            }
             else
+            {
                 keyboard.UnShifted();
+            }
+            keyboard.Show();
             
             if (exposed == false)
             {
