@@ -340,15 +340,15 @@ namespace TextRuler.AdvancedTextEditorControl
 
             if (e.Clicks > 0)
             {
-                log("MOUSE click " + e.Location);
+                //log("MOUSE click " + e.Location);
             }
 
             if (e.Clicks == -1)
             {
-                log("MOUSE release " + e.Location);
+                //log("MOUSE release " + e.Location);
             }
 
-            log("MOUSE Move " + e.Location);
+            //log("MOUSE Move " + e.Location);
         }
 
         List<Label> overlayLabels = new List<Label>();

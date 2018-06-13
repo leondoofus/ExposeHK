@@ -1,4 +1,5 @@
-﻿using System.Drawing;
+﻿using System.Collections.Generic;
+using System.Drawing;
 using TextRuler.AdvancedTextEditorControl;
 
 namespace TextRuler
@@ -12,6 +13,8 @@ namespace TextRuler
         System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AdvancedTextEditor));
         private Image decrease, increase, bold, italic, underline, strike, bullet, number, justify, aLeft, aRight;
         private Image aCenter, copy, paste, undo, redo, cut;
+        private List<System.Windows.Forms.Button> allButtons = new List<System.Windows.Forms.Button>();
+
         public void Create ()
         {
             this.decrease = ((System.Drawing.Image)(resources.GetObject("DecreaseSizeBtn.Image")));
@@ -31,6 +34,60 @@ namespace TextRuler
             this.undo = ((System.Drawing.Image)(resources.GetObject("btnUndo.Image")));
             this.redo = ((System.Drawing.Image)(resources.GetObject("btnRedo.Image")));
             this.cut = ((System.Drawing.Image)(resources.GetObject("btnCut.Image")));
+
+            this.allButtons.Add(this.button30);
+            this.allButtons.Add(this.button29);
+            this.allButtons.Add(this.button16);
+            this.allButtons.Add(this.button15);
+            this.allButtons.Add(this.button57);
+            this.allButtons.Add(this.button47);
+            this.allButtons.Add(this.button48);
+            this.allButtons.Add(this.button49);
+            this.allButtons.Add(this.button50);
+            this.allButtons.Add(this.button51);
+            this.allButtons.Add(this.button52);
+            this.allButtons.Add(this.button53);
+            this.allButtons.Add(this.button54);
+            this.allButtons.Add(this.button55);
+            this.allButtons.Add(this.button56);
+            this.allButtons.Add(this.button31);
+            this.allButtons.Add(this.button32);
+            this.allButtons.Add(this.button33);
+            this.allButtons.Add(this.button34);
+            this.allButtons.Add(this.button35);
+            this.allButtons.Add(this.button36);
+            this.allButtons.Add(this.button37);
+            this.allButtons.Add(this.button38);
+            this.allButtons.Add(this.button39);
+            this.allButtons.Add(this.button40);
+            this.allButtons.Add(this.button41);
+            this.allButtons.Add(this.button42);
+            this.allButtons.Add(this.button17);
+            this.allButtons.Add(this.button18);
+            this.allButtons.Add(this.button19);
+            this.allButtons.Add(this.button20);
+            this.allButtons.Add(this.button21);
+            this.allButtons.Add(this.button22);
+            this.allButtons.Add(this.button23);
+            this.allButtons.Add(this.button24);
+            this.allButtons.Add(this.button25);
+            this.allButtons.Add(this.button26);
+            this.allButtons.Add(this.button27);
+            this.allButtons.Add(this.button28);
+            this.allButtons.Add(this.button14);
+            this.allButtons.Add(this.button13);
+            this.allButtons.Add(this.button12);
+            this.allButtons.Add(this.button11);
+            this.allButtons.Add(this.button10);
+            this.allButtons.Add(this.button9);
+            this.allButtons.Add(this.button8);
+            this.allButtons.Add(this.button7);
+            this.allButtons.Add(this.button6);
+            this.allButtons.Add(this.button5);
+            this.allButtons.Add(this.button4);
+            this.allButtons.Add(this.button3);
+            this.allButtons.Add(this.button2);
+            this.allButtons.Add(this.button1);
         }
 
         public void Shifted()
@@ -200,6 +257,7 @@ namespace TextRuler
             // 
             // button1
             // 
+            this.button1.AutoSize = true;
             this.button1.BackColor = System.Drawing.Color.White;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button1.ForeColor = System.Drawing.Color.Black;
@@ -213,6 +271,7 @@ namespace TextRuler
             // 
             // button2
             // 
+            this.button2.AutoSize = true;
             this.button2.BackColor = System.Drawing.Color.White;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button2.ForeColor = System.Drawing.Color.Black;
@@ -226,6 +285,7 @@ namespace TextRuler
             // 
             // button3
             // 
+            this.button3.AutoSize = true;
             this.button3.BackColor = System.Drawing.Color.White;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button3.ForeColor = System.Drawing.Color.Black;
@@ -239,6 +299,7 @@ namespace TextRuler
             // 
             // button4
             // 
+            this.button4.AutoSize = true;
             this.button4.BackColor = System.Drawing.Color.White;
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button4.ForeColor = System.Drawing.Color.Black;
@@ -252,6 +313,7 @@ namespace TextRuler
             // 
             // button5
             // 
+            this.button5.AutoSize = true;
             this.button5.BackColor = System.Drawing.Color.White;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button5.ForeColor = System.Drawing.Color.Black;
@@ -265,6 +327,7 @@ namespace TextRuler
             // 
             // button6
             // 
+            this.button6.AutoSize = true;
             this.button6.BackColor = System.Drawing.Color.White;
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button6.ForeColor = System.Drawing.Color.Black;
@@ -278,6 +341,7 @@ namespace TextRuler
             // 
             // button7
             // 
+            this.button7.AutoSize = true;
             this.button7.BackColor = System.Drawing.Color.White;
             this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button7.ForeColor = System.Drawing.Color.Black;
@@ -291,6 +355,7 @@ namespace TextRuler
             // 
             // button8
             // 
+            this.button8.AutoSize = true;
             this.button8.BackColor = System.Drawing.Color.White;
             this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button8.ForeColor = System.Drawing.Color.Black;
@@ -304,6 +369,7 @@ namespace TextRuler
             // 
             // button9
             // 
+            this.button9.AutoSize = true;
             this.button9.BackColor = System.Drawing.Color.White;
             this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button9.ForeColor = System.Drawing.Color.Black;
@@ -317,6 +383,7 @@ namespace TextRuler
             // 
             // button10
             // 
+            this.button10.AutoSize = true;
             this.button10.BackColor = System.Drawing.Color.White;
             this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button10.ForeColor = System.Drawing.Color.Black;
@@ -330,6 +397,7 @@ namespace TextRuler
             // 
             // button11
             // 
+            this.button11.AutoSize = true;
             this.button11.BackColor = System.Drawing.Color.White;
             this.button11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button11.ForeColor = System.Drawing.Color.Black;
@@ -343,6 +411,7 @@ namespace TextRuler
             // 
             // button12
             // 
+            this.button12.AutoSize = true;
             this.button12.BackColor = System.Drawing.Color.White;
             this.button12.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button12.ForeColor = System.Drawing.Color.Black;
@@ -356,6 +425,7 @@ namespace TextRuler
             // 
             // button13
             // 
+            this.button13.AutoSize = true;
             this.button13.BackColor = System.Drawing.Color.White;
             this.button13.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button13.ForeColor = System.Drawing.Color.Black;
@@ -369,6 +439,7 @@ namespace TextRuler
             // 
             // button14
             // 
+            this.button14.AutoSize = true;
             this.button14.BackColor = System.Drawing.Color.White;
             this.button14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button14.ForeColor = System.Drawing.Color.Black;
@@ -382,10 +453,11 @@ namespace TextRuler
             // 
             // button17
             // 
+            this.button17.AutoSize = true;
             this.button17.BackColor = System.Drawing.Color.White;
             this.button17.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button17.ForeColor = System.Drawing.Color.Black;
-            this.button17.Location = new System.Drawing.Point(586, 58);
+            this.button17.Location = new System.Drawing.Point(584, 58);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(40, 40);
             this.button17.TabIndex = 25;
@@ -395,10 +467,11 @@ namespace TextRuler
             // 
             // button18
             // 
+            this.button18.AutoSize = true;
             this.button18.BackColor = System.Drawing.Color.White;
             this.button18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button18.ForeColor = System.Drawing.Color.Black;
-            this.button18.Location = new System.Drawing.Point(540, 58);
+            this.button18.Location = new System.Drawing.Point(538, 58);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(40, 40);
             this.button18.TabIndex = 24;
@@ -408,10 +481,11 @@ namespace TextRuler
             // 
             // button19
             // 
+            this.button19.AutoSize = true;
             this.button19.BackColor = System.Drawing.Color.White;
             this.button19.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button19.ForeColor = System.Drawing.Color.Black;
-            this.button19.Location = new System.Drawing.Point(494, 58);
+            this.button19.Location = new System.Drawing.Point(492, 58);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(40, 40);
             this.button19.TabIndex = 23;
@@ -421,10 +495,11 @@ namespace TextRuler
             // 
             // button20
             // 
+            this.button20.AutoSize = true;
             this.button20.BackColor = System.Drawing.Color.White;
             this.button20.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button20.ForeColor = System.Drawing.Color.Black;
-            this.button20.Location = new System.Drawing.Point(448, 58);
+            this.button20.Location = new System.Drawing.Point(446, 58);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(40, 40);
             this.button20.TabIndex = 22;
@@ -434,10 +509,11 @@ namespace TextRuler
             // 
             // button21
             // 
+            this.button21.AutoSize = true;
             this.button21.BackColor = System.Drawing.Color.White;
             this.button21.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button21.ForeColor = System.Drawing.Color.Black;
-            this.button21.Location = new System.Drawing.Point(402, 58);
+            this.button21.Location = new System.Drawing.Point(400, 58);
             this.button21.Name = "button21";
             this.button21.Size = new System.Drawing.Size(40, 40);
             this.button21.TabIndex = 21;
@@ -447,10 +523,11 @@ namespace TextRuler
             // 
             // button22
             // 
+            this.button22.AutoSize = true;
             this.button22.BackColor = System.Drawing.Color.White;
             this.button22.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button22.ForeColor = System.Drawing.Color.Black;
-            this.button22.Location = new System.Drawing.Point(356, 58);
+            this.button22.Location = new System.Drawing.Point(354, 58);
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(40, 40);
             this.button22.TabIndex = 20;
@@ -460,10 +537,11 @@ namespace TextRuler
             // 
             // button23
             // 
+            this.button23.AutoSize = true;
             this.button23.BackColor = System.Drawing.Color.White;
             this.button23.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button23.ForeColor = System.Drawing.Color.Black;
-            this.button23.Location = new System.Drawing.Point(310, 58);
+            this.button23.Location = new System.Drawing.Point(308, 58);
             this.button23.Name = "button23";
             this.button23.Size = new System.Drawing.Size(40, 40);
             this.button23.TabIndex = 19;
@@ -473,10 +551,11 @@ namespace TextRuler
             // 
             // button24
             // 
+            this.button24.AutoSize = true;
             this.button24.BackColor = System.Drawing.Color.White;
             this.button24.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button24.ForeColor = System.Drawing.Color.Black;
-            this.button24.Location = new System.Drawing.Point(264, 58);
+            this.button24.Location = new System.Drawing.Point(262, 58);
             this.button24.Name = "button24";
             this.button24.Size = new System.Drawing.Size(40, 40);
             this.button24.TabIndex = 18;
@@ -486,10 +565,11 @@ namespace TextRuler
             // 
             // button25
             // 
+            this.button25.AutoSize = true;
             this.button25.BackColor = System.Drawing.Color.White;
             this.button25.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button25.ForeColor = System.Drawing.Color.Black;
-            this.button25.Location = new System.Drawing.Point(218, 58);
+            this.button25.Location = new System.Drawing.Point(216, 58);
             this.button25.Name = "button25";
             this.button25.Size = new System.Drawing.Size(40, 40);
             this.button25.TabIndex = 17;
@@ -499,10 +579,11 @@ namespace TextRuler
             // 
             // button26
             // 
+            this.button26.AutoSize = true;
             this.button26.BackColor = System.Drawing.Color.White;
             this.button26.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button26.ForeColor = System.Drawing.Color.Black;
-            this.button26.Location = new System.Drawing.Point(172, 58);
+            this.button26.Location = new System.Drawing.Point(170, 58);
             this.button26.Name = "button26";
             this.button26.Size = new System.Drawing.Size(40, 40);
             this.button26.TabIndex = 16;
@@ -512,10 +593,11 @@ namespace TextRuler
             // 
             // button27
             // 
+            this.button27.AutoSize = true;
             this.button27.BackColor = System.Drawing.Color.White;
             this.button27.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button27.ForeColor = System.Drawing.Color.Black;
-            this.button27.Location = new System.Drawing.Point(126, 58);
+            this.button27.Location = new System.Drawing.Point(124, 58);
             this.button27.Name = "button27";
             this.button27.Size = new System.Drawing.Size(40, 40);
             this.button27.TabIndex = 15;
@@ -525,10 +607,11 @@ namespace TextRuler
             // 
             // button28
             // 
+            this.button28.AutoSize = true;
             this.button28.BackColor = System.Drawing.Color.White;
             this.button28.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button28.ForeColor = System.Drawing.Color.Black;
-            this.button28.Location = new System.Drawing.Point(80, 58);
+            this.button28.Location = new System.Drawing.Point(78, 58);
             this.button28.Name = "button28";
             this.button28.Size = new System.Drawing.Size(40, 40);
             this.button28.TabIndex = 14;
@@ -538,6 +621,7 @@ namespace TextRuler
             // 
             // button31
             // 
+            this.button31.AutoSize = true;
             this.button31.BackColor = System.Drawing.Color.White;
             this.button31.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button31.ForeColor = System.Drawing.Color.Black;
@@ -551,6 +635,7 @@ namespace TextRuler
             // 
             // button32
             // 
+            this.button32.AutoSize = true;
             this.button32.BackColor = System.Drawing.Color.White;
             this.button32.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button32.ForeColor = System.Drawing.Color.Black;
@@ -564,6 +649,7 @@ namespace TextRuler
             // 
             // button33
             // 
+            this.button33.AutoSize = true;
             this.button33.BackColor = System.Drawing.Color.White;
             this.button33.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button33.ForeColor = System.Drawing.Color.Black;
@@ -577,6 +663,7 @@ namespace TextRuler
             // 
             // button34
             // 
+            this.button34.AutoSize = true;
             this.button34.BackColor = System.Drawing.Color.White;
             this.button34.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button34.ForeColor = System.Drawing.Color.Black;
@@ -590,6 +677,7 @@ namespace TextRuler
             // 
             // button35
             // 
+            this.button35.AutoSize = true;
             this.button35.BackColor = System.Drawing.Color.White;
             this.button35.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button35.ForeColor = System.Drawing.Color.Black;
@@ -603,6 +691,7 @@ namespace TextRuler
             // 
             // button36
             // 
+            this.button36.AutoSize = true;
             this.button36.BackColor = System.Drawing.Color.White;
             this.button36.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button36.ForeColor = System.Drawing.Color.Black;
@@ -616,6 +705,7 @@ namespace TextRuler
             // 
             // button37
             // 
+            this.button37.AutoSize = true;
             this.button37.BackColor = System.Drawing.Color.White;
             this.button37.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button37.ForeColor = System.Drawing.Color.Black;
@@ -629,6 +719,7 @@ namespace TextRuler
             // 
             // button38
             // 
+            this.button38.AutoSize = true;
             this.button38.BackColor = System.Drawing.Color.White;
             this.button38.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button38.ForeColor = System.Drawing.Color.Black;
@@ -642,6 +733,7 @@ namespace TextRuler
             // 
             // button39
             // 
+            this.button39.AutoSize = true;
             this.button39.BackColor = System.Drawing.Color.White;
             this.button39.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button39.ForeColor = System.Drawing.Color.Black;
@@ -655,6 +747,7 @@ namespace TextRuler
             // 
             // button40
             // 
+            this.button40.AutoSize = true;
             this.button40.BackColor = System.Drawing.Color.White;
             this.button40.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button40.ForeColor = System.Drawing.Color.Black;
@@ -668,6 +761,7 @@ namespace TextRuler
             // 
             // button41
             // 
+            this.button41.AutoSize = true;
             this.button41.BackColor = System.Drawing.Color.White;
             this.button41.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button41.ForeColor = System.Drawing.Color.Black;
@@ -681,6 +775,7 @@ namespace TextRuler
             // 
             // button42
             // 
+            this.button42.AutoSize = true;
             this.button42.BackColor = System.Drawing.Color.White;
             this.button42.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button42.ForeColor = System.Drawing.Color.Black;
@@ -694,10 +789,11 @@ namespace TextRuler
             // 
             // button47
             // 
+            this.button47.AutoSize = true;
             this.button47.BackColor = System.Drawing.Color.White;
             this.button47.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button47.ForeColor = System.Drawing.Color.Black;
-            this.button47.Location = new System.Drawing.Point(540, 150);
+            this.button47.Location = new System.Drawing.Point(538, 150);
             this.button47.Name = "button47";
             this.button47.Size = new System.Drawing.Size(40, 40);
             this.button47.TabIndex = 51;
@@ -707,10 +803,11 @@ namespace TextRuler
             // 
             // button48
             // 
+            this.button48.AutoSize = true;
             this.button48.BackColor = System.Drawing.Color.White;
             this.button48.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button48.ForeColor = System.Drawing.Color.Black;
-            this.button48.Location = new System.Drawing.Point(494, 150);
+            this.button48.Location = new System.Drawing.Point(492, 150);
             this.button48.Name = "button48";
             this.button48.Size = new System.Drawing.Size(40, 40);
             this.button48.TabIndex = 50;
@@ -720,10 +817,11 @@ namespace TextRuler
             // 
             // button49
             // 
+            this.button49.AutoSize = true;
             this.button49.BackColor = System.Drawing.Color.White;
             this.button49.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button49.ForeColor = System.Drawing.Color.Black;
-            this.button49.Location = new System.Drawing.Point(448, 150);
+            this.button49.Location = new System.Drawing.Point(446, 150);
             this.button49.Name = "button49";
             this.button49.Size = new System.Drawing.Size(40, 40);
             this.button49.TabIndex = 49;
@@ -733,10 +831,11 @@ namespace TextRuler
             // 
             // button50
             // 
+            this.button50.AutoSize = true;
             this.button50.BackColor = System.Drawing.Color.White;
             this.button50.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button50.ForeColor = System.Drawing.Color.Black;
-            this.button50.Location = new System.Drawing.Point(402, 150);
+            this.button50.Location = new System.Drawing.Point(400, 150);
             this.button50.Name = "button50";
             this.button50.Size = new System.Drawing.Size(40, 40);
             this.button50.TabIndex = 48;
@@ -746,10 +845,11 @@ namespace TextRuler
             // 
             // button51
             // 
+            this.button51.AutoSize = true;
             this.button51.BackColor = System.Drawing.Color.White;
             this.button51.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button51.ForeColor = System.Drawing.Color.Black;
-            this.button51.Location = new System.Drawing.Point(356, 150);
+            this.button51.Location = new System.Drawing.Point(354, 150);
             this.button51.Name = "button51";
             this.button51.Size = new System.Drawing.Size(40, 40);
             this.button51.TabIndex = 47;
@@ -759,10 +859,11 @@ namespace TextRuler
             // 
             // button52
             // 
+            this.button52.AutoSize = true;
             this.button52.BackColor = System.Drawing.Color.White;
             this.button52.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button52.ForeColor = System.Drawing.Color.Black;
-            this.button52.Location = new System.Drawing.Point(310, 150);
+            this.button52.Location = new System.Drawing.Point(308, 150);
             this.button52.Name = "button52";
             this.button52.Size = new System.Drawing.Size(40, 40);
             this.button52.TabIndex = 46;
@@ -772,10 +873,11 @@ namespace TextRuler
             // 
             // button53
             // 
+            this.button53.AutoSize = true;
             this.button53.BackColor = System.Drawing.Color.White;
             this.button53.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button53.ForeColor = System.Drawing.Color.Black;
-            this.button53.Location = new System.Drawing.Point(264, 150);
+            this.button53.Location = new System.Drawing.Point(262, 150);
             this.button53.Name = "button53";
             this.button53.Size = new System.Drawing.Size(40, 40);
             this.button53.TabIndex = 45;
@@ -785,10 +887,11 @@ namespace TextRuler
             // 
             // button54
             // 
+            this.button54.AutoSize = true;
             this.button54.BackColor = System.Drawing.Color.White;
             this.button54.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button54.ForeColor = System.Drawing.Color.Black;
-            this.button54.Location = new System.Drawing.Point(218, 150);
+            this.button54.Location = new System.Drawing.Point(216, 150);
             this.button54.Name = "button54";
             this.button54.Size = new System.Drawing.Size(40, 40);
             this.button54.TabIndex = 44;
@@ -798,10 +901,11 @@ namespace TextRuler
             // 
             // button55
             // 
+            this.button55.AutoSize = true;
             this.button55.BackColor = System.Drawing.Color.White;
             this.button55.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button55.ForeColor = System.Drawing.Color.Black;
-            this.button55.Location = new System.Drawing.Point(172, 150);
+            this.button55.Location = new System.Drawing.Point(170, 150);
             this.button55.Name = "button55";
             this.button55.Size = new System.Drawing.Size(40, 40);
             this.button55.TabIndex = 43;
@@ -811,10 +915,11 @@ namespace TextRuler
             // 
             // button56
             // 
+            this.button56.AutoSize = true;
             this.button56.BackColor = System.Drawing.Color.White;
             this.button56.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button56.ForeColor = System.Drawing.Color.Black;
-            this.button56.Location = new System.Drawing.Point(126, 150);
+            this.button56.Location = new System.Drawing.Point(124, 150);
             this.button56.Name = "button56";
             this.button56.Size = new System.Drawing.Size(40, 40);
             this.button56.TabIndex = 42;
@@ -824,10 +929,11 @@ namespace TextRuler
             // 
             // button57
             // 
+            this.button57.AutoSize = true;
             this.button57.BackColor = System.Drawing.Color.White;
             this.button57.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
             this.button57.ForeColor = System.Drawing.Color.Black;
-            this.button57.Location = new System.Drawing.Point(80, 150);
+            this.button57.Location = new System.Drawing.Point(78, 150);
             this.button57.Name = "button57";
             this.button57.Size = new System.Drawing.Size(40, 40);
             this.button57.TabIndex = 56;
@@ -837,18 +943,20 @@ namespace TextRuler
             // 
             // button15
             // 
+            this.button15.AutoSize = true;
             this.button15.BackColor = System.Drawing.Color.White;
             this.button15.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button15.ForeColor = System.Drawing.Color.Black;
             this.button15.Location = new System.Drawing.Point(12, 58);
             this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(62, 40);
+            this.button15.Size = new System.Drawing.Size(60, 40);
             this.button15.TabIndex = 57;
             this.button15.Text = "Tab";
             this.button15.UseVisualStyleBackColor = false;
             // 
             // button16
             // 
+            this.button16.AutoSize = true;
             this.button16.BackColor = System.Drawing.Color.White;
             this.button16.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button16.ForeColor = System.Drawing.Color.Black;
@@ -861,24 +969,26 @@ namespace TextRuler
             // 
             // button29
             // 
+            this.button29.AutoSize = true;
             this.button29.BackColor = System.Drawing.Color.White;
             this.button29.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button29.ForeColor = System.Drawing.Color.Black;
             this.button29.Location = new System.Drawing.Point(12, 150);
             this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(62, 40);
+            this.button29.Size = new System.Drawing.Size(60, 40);
             this.button29.TabIndex = 59;
             this.button29.Text = "Shft";
             this.button29.UseVisualStyleBackColor = false;
             // 
             // button30
             // 
+            this.button30.AutoSize = true;
             this.button30.BackColor = System.Drawing.Color.White;
             this.button30.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button30.ForeColor = System.Drawing.Color.Black;
-            this.button30.Location = new System.Drawing.Point(586, 150);
+            this.button30.Location = new System.Drawing.Point(584, 150);
             this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(64, 40);
+            this.button30.Size = new System.Drawing.Size(66, 40);
             this.button30.TabIndex = 60;
             this.button30.Text = "Shft";
             this.button30.UseVisualStyleBackColor = false;
@@ -887,7 +997,7 @@ namespace TextRuler
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(664, 201);
+            this.ClientSize = new System.Drawing.Size(658, 202);
             this.Controls.Add(this.button30);
             this.Controls.Add(this.button29);
             this.Controls.Add(this.button16);
@@ -945,7 +1055,10 @@ namespace TextRuler
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.Text = " ";
             this.TopMost = true;
+            this.Load += new System.EventHandler(this.Form2_Load);
+            this.Resize += new System.EventHandler(this.Form2_Resize);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
