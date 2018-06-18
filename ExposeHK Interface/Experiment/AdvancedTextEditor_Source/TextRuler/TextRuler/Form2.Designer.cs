@@ -133,6 +133,7 @@ namespace TextRuler
             button38.BackColor = Color.White;
             button37.BackColor = Color.White;
             button57.Image = this.decrease;
+            button35.ForeColor = System.Drawing.Color.Black;
         }
 
         public void UnShifted()
@@ -178,6 +179,7 @@ namespace TextRuler
             button38.BackColor = Color.LimeGreen;
             button37.BackColor = Color.DarkCyan;
             button57.Image = this.increase;
+            button35.ForeColor = System.Drawing.Color.White;
         }
         /// <summary>
         /// Clean up any resources being used.
@@ -680,7 +682,7 @@ namespace TextRuler
             this.button35.AutoSize = true;
             this.button35.BackColor = System.Drawing.Color.White;
             this.button35.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            this.button35.ForeColor = System.Drawing.Color.Black;
+            this.button35.ForeColor = System.Drawing.Color.White;
             this.button35.Location = new System.Drawing.Point(426, 104);
             this.button35.Name = "button35";
             this.button35.Size = new System.Drawing.Size(40, 40);

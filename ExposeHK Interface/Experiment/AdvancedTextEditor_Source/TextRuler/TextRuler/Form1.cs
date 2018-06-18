@@ -5,6 +5,9 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using System.Diagnostics;
+using OfficeWord = Microsoft.Office.Interop.Word;
+using Microsoft.Office.Interop.Word;
+using System.IO;
 
 namespace TextRuler
 {
@@ -23,7 +26,7 @@ namespace TextRuler
         {
             //this.TopMost = true;
 
-            this.Location = new Point(Screen.PrimaryScreen.Bounds.Width / 2 - this.Bounds.Width / 2, Screen.PrimaryScreen.Bounds.Height / 2 - this.Bounds.Height / 2);
+            this.Location = new System.Drawing.Point(Screen.PrimaryScreen.Bounds.Width / 2 - this.Bounds.Width / 2, Screen.PrimaryScreen.Bounds.Height / 2 - this.Bounds.Height / 2);
             
 
             this.Focus();
@@ -50,6 +53,29 @@ namespace TextRuler
             }
             ***/
             //this.advancedTextEditor1.TextEditor.SaveFile(advancedTextEditor1.logFile + "TextFile.rtf", RichTextBoxStreamType.RichText);
+            this.advancedTextEditor1.TextEditor.SaveFile("tmp.rtf", RichTextBoxStreamType.RichText);
+            OfficeWord.Application wordApp = new OfficeWord.Application();
+            wordApp.Visible = true;
+            string dir = Directory.GetCurrentDirectory();
+            object filename1 = dir+"/test.docx";
+            object filename2 = dir+"tmp.rtf";
+            object missing = System.Reflection.Missing.Value;
+            object readonlyobj = false;
+            OfficeWord.Application app = new OfficeWord.Application();
+            /*Document doc1 = app.Documents.Open(
+            ref filename1, ref missing, ref readonlyobj, ref missing, ref missing,
+            ref missing, ref missing, ref missing, ref missing, ref missing, ref missing, ref missing);*/
+            /*doc1.TrackRevisions = true;
+            doc1.ShowRevisions = false;
+            doc1.PrintRevisions = true;*/
+            Document doc2 = app.Documents.Open(
+            ref filename2, ref missing, ref readonlyobj, ref missing, ref missing,
+            ref missing, ref missing, ref missing, ref missing, ref missing, ref missing, ref missing);
+            /*doc2.TrackRevisions = true;
+            doc2.ShowRevisions = false;
+            doc2.PrintRevisions = true;*/
+            //Document docx = wordApp.CompareDocuments(doc1, doc2, WdCompareDestination.wdCompareDestinationNew, WdGranularity.wdGranularityWordLevel,
+            //    true, true, true, true, true, true, true, true, true, true, "", true);
         }
 
         private void Form1_Activated(object sender, EventArgs e)

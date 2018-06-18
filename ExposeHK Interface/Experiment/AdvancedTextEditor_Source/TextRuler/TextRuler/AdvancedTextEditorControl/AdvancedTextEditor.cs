@@ -28,7 +28,6 @@ namespace TextRuler.AdvancedTextEditorControl
             hook.Start();
 
             keyboard = new Form2();
-            //keyboard.Start();
 
 
             // Backgrounf Worker Stuff
