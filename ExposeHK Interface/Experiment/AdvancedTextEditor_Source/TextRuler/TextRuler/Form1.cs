@@ -49,7 +49,7 @@ namespace TextRuler
                 default: Debug.Assert(false); return;
             }
             ***/
-            this.advancedTextEditor1.TextEditor.SaveFile(advancedTextEditor1.logFile + "TextFile.rtf", RichTextBoxStreamType.RichText);
+            //this.advancedTextEditor1.TextEditor.SaveFile(advancedTextEditor1.logFile + "TextFile.rtf", RichTextBoxStreamType.RichText);
         }
 
         private void Form1_Activated(object sender, EventArgs e)
