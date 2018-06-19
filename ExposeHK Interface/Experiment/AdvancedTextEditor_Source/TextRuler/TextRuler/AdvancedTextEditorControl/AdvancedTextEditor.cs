@@ -179,7 +179,6 @@ namespace TextRuler.AdvancedTextEditorControl
 
 
             logKeyPress("DOWN " + e.KeyData);
-
             if (ctrl)
             {
                 switch (e.KeyData)
@@ -241,12 +240,13 @@ namespace TextRuler.AdvancedTextEditorControl
                     case Keys.Z:
                         btnUndo_Click(btnUndo, null);
                         break;
+                    /* QWERTY keyboard
                     case Keys.Oemcomma:
                         DecreaseSizeBtn_Click(DecreaseSizeBtn, null);
                         break;
                     case Keys.OemPeriod:
                         IncreaseSizeButton_Click(IncreaseSizeButton, null);
-                        break;
+                        break;*/
                     case Keys.G:
                         LimeButton_Click(LimeButton, null);
                         break;
@@ -258,6 +258,17 @@ namespace TextRuler.AdvancedTextEditorControl
                         break;
                     case Keys.M:
                         MagentaButton_Click(MagentaButton, null);
+                        break;
+                    //AZERTY keyboard
+                    case Keys.OemBackslash:
+                        if (!shift)
+                        {
+                            IncreaseSizeButton_Click(IncreaseSizeButton, null);
+                        }
+                        else
+                        {
+                            DecreaseSizeBtn_Click(DecreaseSizeBtn, null);
+                        }
                         break;
                 }
                 //e.Handled = true; // THIS SHOULD BE UNCOMMENTED - is commented for taking screenshots
@@ -1583,7 +1594,6 @@ namespace TextRuler.AdvancedTextEditorControl
                     logKeyPress("DOWN " + e.KeyData);
                 }
             }
-
             if (ctrl)
             {
                 switch (e.KeyData)

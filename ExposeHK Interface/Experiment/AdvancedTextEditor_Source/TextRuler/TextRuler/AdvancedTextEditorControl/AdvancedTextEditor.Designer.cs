@@ -31,10 +31,10 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            ExtendedRichTextBox.CharStyle charStyle2 = new ExtendedRichTextBox.CharStyle();
+            ExtendedRichTextBox.ParaLineSpacing paraLineSpacing2 = new ExtendedRichTextBox.ParaLineSpacing();
+            ExtendedRichTextBox.ParaListStyle paraListStyle2 = new ExtendedRichTextBox.ParaListStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AdvancedTextEditor));
-            ExtendedRichTextBox.CharStyle charStyle1 = new ExtendedRichTextBox.CharStyle();
-            ExtendedRichTextBox.ParaLineSpacing paraLineSpacing1 = new ExtendedRichTextBox.ParaLineSpacing();
-            ExtendedRichTextBox.ParaListStyle paraListStyle1 = new ExtendedRichTextBox.ParaListStyle();
             this.tlpEditorLayout = new System.Windows.Forms.TableLayoutPanel();
             this.Toolbox_Formatting = new System.Windows.Forms.ToolStrip();
             this.cmbFontName = new System.Windows.Forms.ToolStripComboBox();
@@ -59,8 +59,6 @@
             this.MagentaButton = new System.Windows.Forms.ToolStripButton();
             this.LimeButton = new System.Windows.Forms.ToolStripButton();
             this.CyanButton = new System.Windows.Forms.ToolStripButton();
-            this.TextEditor = new ExtendedRichTextBox();
-            this.Ruler = new TextRuler.TextRulerControl.TextRuler();
             this.TextEditorMenu = new System.Windows.Forms.MenuStrip();
             this.mnuHelp = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuAbout = new System.Windows.Forms.ToolStripMenuItem();
@@ -117,6 +115,11 @@
             this.PageSettings = new System.Windows.Forms.PageSetupDialog();
             this.PrintWnd = new System.Windows.Forms.PrintDialog();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.TextEditor = new ExtendedRichTextBox();
+            this.Ruler = new TextRuler.TextRulerControl.TextRuler();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
             this.tlpEditorLayout.SuspendLayout();
             this.Toolbox_Formatting.SuspendLayout();
             this.TextEditorMenu.SuspendLayout();
@@ -436,64 +439,6 @@
             this.CyanButton.Text = "toolStripButton4";
             this.CyanButton.ToolTipText = "Blue";
             this.CyanButton.Click += new System.EventHandler(this.CyanButton_Click);
-            // 
-            // TextEditor
-            // 
-            this.TextEditor.AcceptsTab = true;
-            this.TextEditor.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.TextEditor.EnableAutoDragDrop = true;
-            this.TextEditor.HideSelection = false;
-            this.TextEditor.Location = new System.Drawing.Point(30, 102);
-            this.TextEditor.Name = "TextEditor";
-            charStyle1.Bold = false;
-            charStyle1.Italic = false;
-            charStyle1.Link = false;
-            charStyle1.Strikeout = false;
-            charStyle1.Underline = false;
-            this.TextEditor.SelectionCharStyle = charStyle1;
-            this.TextEditor.SelectionFont2 = new System.Drawing.Font("Microsoft Sans Serif", 1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Inch);
-            paraLineSpacing1.ExactSpacing = 0;
-            paraLineSpacing1.SpacingStyle = ExtendedRichTextBox.ParaLineSpacing.LineSpacingStyle.Unknown;
-            this.TextEditor.SelectionLineSpacing = paraLineSpacing1;
-            paraListStyle1.BulletCharCode = ((short)(0));
-            paraListStyle1.NumberingStart = ((short)(0));
-            paraListStyle1.Style = ExtendedRichTextBox.ParaListStyle.ListStyle.NumberAndParenthesis;
-            paraListStyle1.Type = ExtendedRichTextBox.ParaListStyle.ListType.None;
-            this.TextEditor.SelectionListType = paraListStyle1;
-            this.TextEditor.SelectionOffsetType = ExtendedRichTextBox.OffsetType.None;
-            this.TextEditor.SelectionSpaceAfter = 0;
-            this.TextEditor.SelectionSpaceBefore = 0;
-            this.TextEditor.Size = new System.Drawing.Size(654, 397);
-            this.TextEditor.TabIndex = 5;
-            this.TextEditor.Text = "";
-            this.TextEditor.LinkClicked += new System.Windows.Forms.LinkClickedEventHandler(this.TextEditor_LinkClicked);
-            this.TextEditor.SelectionChanged += new System.EventHandler(this.TextEditor_SelectionChanged);
-            this.TextEditor.MouseMove += new System.Windows.Forms.MouseEventHandler(this.TextEditor_MouseMove);
-            this.TextEditor.MouseUp += new System.Windows.Forms.MouseEventHandler(this.TextEditor_MouseUp);
-            // 
-            // Ruler
-            // 
-            this.Ruler.BackColor = System.Drawing.Color.Transparent;
-            this.Ruler.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.Ruler.Font = new System.Drawing.Font("Arial", 7.25F);
-            this.Ruler.LeftHangingIndent = 19;
-            this.Ruler.LeftIndent = 19;
-            this.Ruler.LeftMargin = 1;
-            this.Ruler.Location = new System.Drawing.Point(30, 78);
-            this.Ruler.Name = "Ruler";
-            this.Ruler.NoMargins = true;
-            this.Ruler.RightIndent = 14;
-            this.Ruler.RightMargin = 1;
-            this.Ruler.Size = new System.Drawing.Size(654, 20);
-            this.Ruler.TabIndex = 8;
-            this.Ruler.TabsEnabled = true;
-            this.Ruler.LeftHangingIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_LeftHangingIndentChanging);
-            this.Ruler.LeftIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_LeftIndentChanging);
-            this.Ruler.RightIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_RightIndentChanging);
-            this.Ruler.BothLeftIndentsChanged += new TextRuler.TextRulerControl.TextRuler.MultiIndentChangedEventHandler(this.Ruler_BothLeftIndentsChanged);
-            this.Ruler.TabAdded += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabAdded);
-            this.Ruler.TabRemoved += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabRemoved);
-            this.Ruler.TabChanged += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabChanged);
             // 
             // TextEditorMenu
             // 
@@ -877,7 +822,10 @@
             this.sepTBMain3,
             this.btnUndo,
             this.btnRedo,
-            this.toolStripSeparator6});
+            this.toolStripSeparator6,
+            this.toolStripButton1,
+            this.toolStripButton2,
+            this.toolStripButton3});
             this.Toolbox_Main.Location = new System.Drawing.Point(0, 23);
             this.Toolbox_Main.Name = "Toolbox_Main";
             this.Toolbox_Main.RenderMode = System.Windows.Forms.ToolStripRenderMode.System;
@@ -990,6 +938,91 @@
             this.toolTip1.UseAnimation = false;
             this.toolTip1.UseFading = false;
             // 
+            // TextEditor
+            // 
+            this.TextEditor.AcceptsTab = true;
+            this.TextEditor.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.TextEditor.EnableAutoDragDrop = true;
+            this.TextEditor.HideSelection = false;
+            this.TextEditor.Location = new System.Drawing.Point(30, 102);
+            this.TextEditor.Name = "TextEditor";
+            charStyle2.Bold = false;
+            charStyle2.Italic = false;
+            charStyle2.Link = false;
+            charStyle2.Strikeout = false;
+            charStyle2.Underline = false;
+            this.TextEditor.SelectionCharStyle = charStyle2;
+            this.TextEditor.SelectionFont2 = new System.Drawing.Font("Microsoft Sans Serif", 1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Inch);
+            paraLineSpacing2.ExactSpacing = 0;
+            paraLineSpacing2.SpacingStyle = ExtendedRichTextBox.ParaLineSpacing.LineSpacingStyle.Unknown;
+            this.TextEditor.SelectionLineSpacing = paraLineSpacing2;
+            paraListStyle2.BulletCharCode = ((short)(0));
+            paraListStyle2.NumberingStart = ((short)(0));
+            paraListStyle2.Style = ExtendedRichTextBox.ParaListStyle.ListStyle.NumberAndParenthesis;
+            paraListStyle2.Type = ExtendedRichTextBox.ParaListStyle.ListType.None;
+            this.TextEditor.SelectionListType = paraListStyle2;
+            this.TextEditor.SelectionOffsetType = ExtendedRichTextBox.OffsetType.None;
+            this.TextEditor.SelectionSpaceAfter = 0;
+            this.TextEditor.SelectionSpaceBefore = 0;
+            this.TextEditor.Size = new System.Drawing.Size(654, 397);
+            this.TextEditor.TabIndex = 5;
+            this.TextEditor.Text = "";
+            this.TextEditor.LinkClicked += new System.Windows.Forms.LinkClickedEventHandler(this.TextEditor_LinkClicked);
+            this.TextEditor.SelectionChanged += new System.EventHandler(this.TextEditor_SelectionChanged);
+            this.TextEditor.MouseMove += new System.Windows.Forms.MouseEventHandler(this.TextEditor_MouseMove);
+            this.TextEditor.MouseUp += new System.Windows.Forms.MouseEventHandler(this.TextEditor_MouseUp);
+            // 
+            // Ruler
+            // 
+            this.Ruler.BackColor = System.Drawing.Color.Transparent;
+            this.Ruler.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.Ruler.Font = new System.Drawing.Font("Arial", 7.25F);
+            this.Ruler.LeftHangingIndent = 19;
+            this.Ruler.LeftIndent = 19;
+            this.Ruler.LeftMargin = 1;
+            this.Ruler.Location = new System.Drawing.Point(30, 78);
+            this.Ruler.Name = "Ruler";
+            this.Ruler.NoMargins = true;
+            this.Ruler.RightIndent = 14;
+            this.Ruler.RightMargin = 1;
+            this.Ruler.Size = new System.Drawing.Size(654, 20);
+            this.Ruler.TabIndex = 8;
+            this.Ruler.TabsEnabled = true;
+            this.Ruler.LeftHangingIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_LeftHangingIndentChanging);
+            this.Ruler.LeftIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_LeftIndentChanging);
+            this.Ruler.RightIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_RightIndentChanging);
+            this.Ruler.BothLeftIndentsChanged += new TextRuler.TextRulerControl.TextRuler.MultiIndentChangedEventHandler(this.Ruler_BothLeftIndentsChanged);
+            this.Ruler.TabAdded += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabAdded);
+            this.Ruler.TabRemoved += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabRemoved);
+            this.Ruler.TabChanged += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabChanged);
+            // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton1.Text = "toolStripButton1";
+            // 
+            // toolStripButton2
+            // 
+            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton2.Image")));
+            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton2.Name = "toolStripButton2";
+            this.toolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton2.Text = "toolStripButton2";
+            // 
+            // toolStripButton3
+            // 
+            this.toolStripButton3.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton3.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton3.Image")));
+            this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton3.Name = "toolStripButton3";
+            this.toolStripButton3.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton3.Text = "toolStripButton3";
+            // 
             // AdvancedTextEditor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1094,5 +1127,8 @@
         private System.Windows.Forms.ToolStripButton MagentaButton;
         private System.Windows.Forms.ToolStripButton LimeButton;
         private System.Windows.Forms.ToolStripButton CyanButton;
+        private System.Windows.Forms.ToolStripButton toolStripButton1;
+        private System.Windows.Forms.ToolStripButton toolStripButton2;
+        private System.Windows.Forms.ToolStripButton toolStripButton3;
     }
 }
