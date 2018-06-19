@@ -50,9 +50,8 @@ namespace TextRuler
                 default: Debug.Assert(false); return;
             }
             ***/
-            //this.advancedTextEditor1.TextEditor.SaveFile(advancedTextEditor1.logFile + "TextFile.rtf", RichTextBoxStreamType.RichText);
-            //string txt = advancedTextEditor1.TextEditor.Rtf[advancedTextEditor1.TextEditor.Rtf.Length - 1];
-            Debug.WriteLine(advancedTextEditor1.TextEditor.Rtf);
+            this.advancedTextEditor1.TextEditor.SaveFile(advancedTextEditor1.logFile + "TextFile.rtf", RichTextBoxStreamType.RichText);
+            //Debug.WriteLine(advancedTextEditor1.TextEditor.Rtf);
             Compare(advancedTextEditor1.TextEditor.Rtf);
         }
 
@@ -94,7 +93,8 @@ namespace TextRuler
 
         private bool Compare (string rtfText)
         {
-            string def = File.ReadAllText("startPoint.rtf", Encoding.Default);
+            string def = File.ReadAllText("check.rtf", Encoding.Default);
+            Debug.WriteLine(def);
             Debug.WriteLine(String.Compare(def, rtfText));
             return String.Compare(def, rtfText) == 0;
         }
