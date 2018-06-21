@@ -8,6 +8,8 @@ using System.IO;
 using System.Threading;
 using System.Diagnostics;
 using gma.System.Windows;
+using System.Timers;
+using System.Runtime.CompilerServices;
 
 namespace TextRuler.AdvancedTextEditorControl
 {
@@ -15,6 +17,12 @@ namespace TextRuler.AdvancedTextEditorControl
     {
         UserActivityHook hook;
         Form2 keyboard;
+
+        bool ctrl = false;
+        bool alt = false;
+        bool shift = false;
+        System.Timers.Timer timer;
+        private BackgroundWorker backgroundWorker1;
 
         public AdvancedTextEditor()
         {
@@ -28,7 +36,7 @@ namespace TextRuler.AdvancedTextEditorControl
             hook.Start();
 
             keyboard = new Form2();
-
+            keyboard.UnShifted();
 
             // Backgrounf Worker Stuff
             bw.WorkerReportsProgress = true;
@@ -114,6 +122,51 @@ namespace TextRuler.AdvancedTextEditorControl
             this.TextEditor.SelectionIndent = 0;
             this.TextEditor.SelectionRightIndent = 0;
             this.TextEditor.SelectionHangingIndent = 0;
+           
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.backgroundWorker1.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.backgroundWorker1_RunWorkerCompleted);
+            timer = new System.Timers.Timer();
+            timer.Interval = 1000;
+            timer.Enabled = true;
+            //timer.Elapsed += new ElapsedEventHandler(OnTimedEvent);
+        }
+
+        private void OnTimedEvent(object sender, ElapsedEventArgs e)
+        {
+            Debug.WriteLine("ici");
+            this.backgroundWorker1.RunWorkerAsync();
+            
+        }
+
+        private void backgroundWorker1_RunWorkerCompleted(
+            object sender,
+            RunWorkerCompletedEventArgs e)
+        {
+            if (ctrl)
+                if (!exposedK)
+                {
+                    ExposeKeyboard();
+                }
+        }
+
+        static bool showed = false;
+        private bool Compare()
+        {
+                string rtfText = TextEditor.Rtf;
+                string def = File.ReadAllText("check2.rtf", Encoding.Default);
+                //Debug.WriteLine(rtfText);
+                if (String.Compare(def, rtfText) == 0)
+                {
+                    if (!showed)
+                    {
+                        MessageBox.Show("You live for the applause");
+                        showed = true;
+                    }
+
+                    return true;
+                }
+                showed = false;
+                return false;
         }
 
         public void logKeyPress(String k)
@@ -276,9 +329,16 @@ namespace TextRuler.AdvancedTextEditorControl
 
             if (e.KeyData == Keys.LControlKey || e.KeyData == Keys.RControlKey)
             {
+                if (!ctrl)
+                {
+                    timer.Start();
+                }
+                else
+                {
+                }
                 ctrl = true;
-                ExposeHK();
-                this.Update();
+                //ExposeHK();
+                ExposeKeyboard();
             }
 
             if (e.KeyData == Keys.LShiftKey || e.KeyData == Keys.RShiftKey)
@@ -291,14 +351,8 @@ namespace TextRuler.AdvancedTextEditorControl
             {
                 alt = true;
             }
-            
-
+            Compare();
         }
-
-        bool ctrl = false;
-        bool alt = false;
-        bool shift = false;
-
 
         public void MyKeyUp(object sender, KeyEventArgs e)
         {
@@ -316,8 +370,9 @@ namespace TextRuler.AdvancedTextEditorControl
             if (e.KeyData == Keys.LControlKey || e.KeyData == Keys.RControlKey)
             {
                 ctrl = false;
-                hideHK();
-                this.Update();
+                //timer.Stop();
+                //hideHK();
+                HideKeyboard();
             }
 
             if (e.KeyData == Keys.LShiftKey || e.KeyData == Keys.RShiftKey)
@@ -332,6 +387,7 @@ namespace TextRuler.AdvancedTextEditorControl
             }
 
             logKeyPress("UP " + e.KeyData);
+            Compare();
         }
 
         public void MyMouseMove(object sender, MouseEventArgs e)
@@ -350,11 +406,13 @@ namespace TextRuler.AdvancedTextEditorControl
 
             if (e.Clicks > 0)
             {
+                Compare();
                 //log("MOUSE click " + e.Location);
             }
 
             if (e.Clicks == -1)
             {
+                Compare();
                 //log("MOUSE release " + e.Location);
             }
 
@@ -364,18 +422,9 @@ namespace TextRuler.AdvancedTextEditorControl
         List<Label> overlayLabels = new List<Label>();
 
         bool exposed = false;
+
         public void ExposeHK()
-        {
-            if (shift)
-            {
-                keyboard.Shifted();
-            }
-            else
-            {
-                keyboard.UnShifted();
-            }
-            keyboard.Show();
-            
+        {            
             if (exposed == false)
             {
                 log("ExposeHK Activated");
@@ -390,7 +439,6 @@ namespace TextRuler.AdvancedTextEditorControl
 
         public void hideHK()
         {
-            keyboard.Hide();
             if (exposed == true)
             {
                 log("ExposeHK Hidden");
@@ -401,6 +449,20 @@ namespace TextRuler.AdvancedTextEditorControl
                 l.SendToBack();
             }
             exposed = false;
+        }
+
+        bool exposedK = false;
+
+        private void ExposeKeyboard()
+        {
+            keyboard.Show();
+            exposedK = true;
+        }
+
+        private void HideKeyboard()
+        {
+            keyboard.Hide();
+            exposedK = false;
         }
 
 
@@ -1564,6 +1626,7 @@ namespace TextRuler.AdvancedTextEditorControl
             find.Show(this);
         }
 
+        /*
         private void TextEditor_KeyUp(object sender, KeyEventArgs e)
         {
             Debug.WriteLine("Hello");
@@ -1682,7 +1745,7 @@ namespace TextRuler.AdvancedTextEditorControl
 
 
 
-            /***
+            This block was commented
             if (e.KeyCode == Keys.B && e.Control == true)
             {
                 this.btnBold.PerformClick();
@@ -1698,8 +1761,8 @@ namespace TextRuler.AdvancedTextEditorControl
             {
                 this.btnUnderline.PerformClick();
             }
-            ***/
-        }
+            
+        }*/
 
         private void btnJustify_Click(object sender, EventArgs e)
         {
@@ -1820,7 +1883,7 @@ namespace TextRuler.AdvancedTextEditorControl
         {
             this.TextEditor.SelectionUnderlineStyle = ExtendedRichTextBox.UnderlineStyle.DashDotDot;
         }
-
+        /*
         private void TextEditorMenu_KeyDown(object sender, KeyEventArgs e)
         {
             // Increase Text Size
@@ -1839,7 +1902,7 @@ namespace TextRuler.AdvancedTextEditorControl
             }
             
 
-        }
+        }*/
 
         private void Button_MouseHover(object sender, EventArgs e)
         {

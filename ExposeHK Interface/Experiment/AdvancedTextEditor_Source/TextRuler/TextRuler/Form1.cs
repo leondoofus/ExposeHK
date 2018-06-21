@@ -5,7 +5,6 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using System.Diagnostics;
-using System.IO;
 
 namespace TextRuler
 {
@@ -18,6 +17,7 @@ namespace TextRuler
             filetoOpen = "startPoint.rtf";
             InitializeComponent();
             this.advancedTextEditor1.openFile(filetoOpen);
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -50,9 +50,8 @@ namespace TextRuler
                 default: Debug.Assert(false); return;
             }
             ***/
-            this.advancedTextEditor1.TextEditor.SaveFile(advancedTextEditor1.logFile + "TextFile.rtf", RichTextBoxStreamType.RichText);
+            //this.advancedTextEditor1.TextEditor.SaveFile(advancedTextEditor1.logFile + "TextFile.rtf", RichTextBoxStreamType.RichText);
             //Debug.WriteLine(advancedTextEditor1.TextEditor.Rtf);
-            Compare(advancedTextEditor1.TextEditor.Rtf);
         }
 
         private void Form1_Activated(object sender, EventArgs e)
@@ -90,13 +89,5 @@ namespace TextRuler
             base.WndProc(ref message);
         }
         ***/
-
-        private bool Compare (string rtfText)
-        {
-            string def = File.ReadAllText("check.rtf", Encoding.Default);
-            Debug.WriteLine(def);
-            Debug.WriteLine(String.Compare(def, rtfText));
-            return String.Compare(def, rtfText) == 0;
-        }
     }
 }
