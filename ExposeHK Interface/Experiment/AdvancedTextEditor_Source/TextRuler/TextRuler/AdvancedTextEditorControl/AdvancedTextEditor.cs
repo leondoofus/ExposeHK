@@ -37,6 +37,8 @@ namespace TextRuler.AdvancedTextEditorControl
 
             keyboard = new Form2();
             keyboard.UnShifted();
+            //keyboard.ShowDialog();
+            //keyboard.Visible = false;
 
             // Backgrounf Worker Stuff
             bw.WorkerReportsProgress = true;
@@ -128,14 +130,19 @@ namespace TextRuler.AdvancedTextEditorControl
             timer = new System.Timers.Timer();
             timer.Interval = 1000;
             timer.Enabled = true;
-            //timer.Elapsed += new ElapsedEventHandler(OnTimedEvent);
+            timer.Elapsed += new ElapsedEventHandler(OnTimedEvent);
         }
 
         private void OnTimedEvent(object sender, ElapsedEventArgs e)
         {
             Debug.WriteLine("ici");
-            this.backgroundWorker1.RunWorkerAsync();
-            
+            //if (keyboard.Dispose())
+            //this.backgroundWorker1.RunWorkerAsync();
+            Debug.WriteLine(keyboard.Text);
+            if (ctrl)
+                if (!exposedK)
+                    ExposeKeyboard();
+
         }
 
         private void backgroundWorker1_RunWorkerCompleted(
@@ -144,9 +151,9 @@ namespace TextRuler.AdvancedTextEditorControl
         {
             if (ctrl)
                 if (!exposedK)
-                {
                     ExposeKeyboard();
-                }
+                else
+                    HideKeyboard();
         }
 
         static bool showed = false;
@@ -338,7 +345,7 @@ namespace TextRuler.AdvancedTextEditorControl
                 }
                 ctrl = true;
                 //ExposeHK();
-                ExposeKeyboard();
+                //ExposeKeyboard();
             }
 
             if (e.KeyData == Keys.LShiftKey || e.KeyData == Keys.RShiftKey)
@@ -452,16 +459,25 @@ namespace TextRuler.AdvancedTextEditorControl
         }
 
         bool exposedK = false;
+        bool keyboardCreated = false;
 
         private void ExposeKeyboard()
         {
-            keyboard.Show();
+            //keyboard.Visible = true;
+            if (!keyboardCreated)
+            {
+                keyboard.ShowDialog();
+                keyboardCreated = true;
+            }
+            else
+                keyboard.Visible = true;
             exposedK = true;
         }
 
         private void HideKeyboard()
         {
-            keyboard.Hide();
+            keyboard.Visible = false; ;
+            //keyboard.Hide();
             exposedK = false;
         }
 
