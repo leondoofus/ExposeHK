@@ -1,15 +1,14 @@
-﻿using System;
+﻿using gma.System.Windows;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Drawing;
-using System.Text;
-using System.Windows.Forms;
-using System.IO;
-using System.Threading;
 using System.Diagnostics;
-using gma.System.Windows;
+using System.Drawing;
+using System.IO;
+using System.Text;
+using System.Threading;
 using System.Timers;
-using System.Runtime.CompilerServices;
+using System.Windows.Forms;
 
 namespace TextRuler.AdvancedTextEditorControl
 {
@@ -38,7 +37,6 @@ namespace TextRuler.AdvancedTextEditorControl
             keyboard = new Form2();
             keyboard.UnShifted();
             //keyboard.ShowDialog();
-            //keyboard.Visible = false;
 
             // Backgrounf Worker Stuff
             bw.WorkerReportsProgress = true;
@@ -133,15 +131,19 @@ namespace TextRuler.AdvancedTextEditorControl
             timer.Elapsed += new ElapsedEventHandler(OnTimedEvent);
         }
 
+
         private void OnTimedEvent(object sender, ElapsedEventArgs e)
         {
-            Debug.WriteLine("ici");
             //if (keyboard.Dispose())
-            //this.backgroundWorker1.RunWorkerAsync();
-            Debug.WriteLine(keyboard.Text);
             if (ctrl)
-                if (!exposedK)
-                    ExposeKeyboard();
+            {
+                this.backgroundWorker1.RunWorkerAsync();
+                //ExposeKeyboard();
+            }
+            //else
+                //HideKeyboard();
+            //Debug.WriteLine(keyboard.Text);
+            
 
         }
 
@@ -149,11 +151,7 @@ namespace TextRuler.AdvancedTextEditorControl
             object sender,
             RunWorkerCompletedEventArgs e)
         {
-            if (ctrl)
-                if (!exposedK)
-                    ExposeKeyboard();
-                else
-                    HideKeyboard();
+            ExposeKeyboard();
         }
 
         static bool showed = false;
@@ -459,26 +457,37 @@ namespace TextRuler.AdvancedTextEditorControl
         }
 
         bool exposedK = false;
+        private Thread interfaceThread = null;
         bool keyboardCreated = false;
+        private readonly object _sync = new object();
 
         private void ExposeKeyboard()
         {
-            //keyboard.Visible = true;
-            if (!keyboardCreated)
+            lock (_sync)
             {
-                keyboard.ShowDialog();
-                keyboardCreated = true;
+                keyboard.WindowState = FormWindowState.Normal;
+                keyboard.ShowInTaskbar = true;
+                if (!keyboardCreated)
+                {
+                    keyboard.ShowDialog();
+                    keyboardCreated = true;
+                }
+                else
+                    keyboard.Visible = true;
+                exposedK = true;
             }
-            else
-                keyboard.Visible = true;
-            exposedK = true;
         }
 
         private void HideKeyboard()
         {
-            keyboard.Visible = false; ;
-            //keyboard.Hide();
-            exposedK = false;
+            lock (_sync)
+            {
+                Debug.WriteLine("iciiiiiiiii");
+                //keyboard.WindowState = FormWindowState.Minimized;
+                //keyboard.ShowInTaskbar = false;
+                //keyboard.Hide();
+                exposedK = false;
+            }
         }
 
 
