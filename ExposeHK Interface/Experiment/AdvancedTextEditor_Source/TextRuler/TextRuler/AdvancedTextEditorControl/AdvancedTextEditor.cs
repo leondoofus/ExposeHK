@@ -7,7 +7,6 @@ using System.Drawing;
 using System.IO;
 using System.Text;
 using System.Threading;
-using System.Timers;
 using System.Windows.Forms;
 
 namespace TextRuler.AdvancedTextEditorControl
@@ -20,8 +19,7 @@ namespace TextRuler.AdvancedTextEditorControl
         bool ctrl = false;
         bool alt = false;
         bool shift = false;
-        System.Timers.Timer timer;
-        private BackgroundWorker backgroundWorker1;
+        Stopwatch watch;
 
         public AdvancedTextEditor()
         {
@@ -122,38 +120,10 @@ namespace TextRuler.AdvancedTextEditorControl
             this.TextEditor.SelectionIndent = 0;
             this.TextEditor.SelectionRightIndent = 0;
             this.TextEditor.SelectionHangingIndent = 0;
-           
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.backgroundWorker1.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.backgroundWorker1_RunWorkerCompleted);
-            timer = new System.Timers.Timer();
-            timer.Interval = 1000;
-            timer.Enabled = true;
-            timer.Elapsed += new ElapsedEventHandler(OnTimedEvent);
-        }
-
-
-        private void OnTimedEvent(object sender, ElapsedEventArgs e)
-        {
-            //if (keyboard.Dispose())
-            if (ctrl)
-            {
-                this.backgroundWorker1.RunWorkerAsync();
-                //ExposeKeyboard();
-            }
-            //else
-                //HideKeyboard();
-            //Debug.WriteLine(keyboard.Text);
             
-
+            watch = new Stopwatch();
         }
 
-        private void backgroundWorker1_RunWorkerCompleted(
-            object sender,
-            RunWorkerCompletedEventArgs e)
-        {
-            //ExposeHK();
-            ExposeKeyboard();
-        }
 
         static bool showed = false;
         private bool Compare()
@@ -337,10 +307,13 @@ namespace TextRuler.AdvancedTextEditorControl
             {
                 if (!ctrl)
                 {
-                    timer.Start();
+                    watch.Start();
                 }
                 else
                 {
+                    Debug.WriteLine(watch.ElapsedMilliseconds);
+                    if (watch.ElapsedMilliseconds > 1000)
+                        ExposeKeyboard();
                 }
                 ctrl = true;
                 //ExposeHK();
@@ -376,9 +349,12 @@ namespace TextRuler.AdvancedTextEditorControl
             if (e.KeyData == Keys.LControlKey || e.KeyData == Keys.RControlKey)
             {
                 ctrl = false;
+                //keyboard.Hide();
                 //timer.Stop();
                 //hideHK();
-                //HideKeyboard();
+                watch.Stop();
+                watch.Reset();
+                HideKeyboard();
             }
 
             if (e.KeyData == Keys.LShiftKey || e.KeyData == Keys.RShiftKey)
@@ -457,47 +433,14 @@ namespace TextRuler.AdvancedTextEditorControl
             exposed = false;
         }
 
-        bool exposedK = false;
-        bool keyboardCreated = false;
-        private readonly object _sync = new object();
-
         private void ExposeKeyboard()
         {
-            if (exposedK)
-                return;
-            lock (_sync)
-            {
-                if (exposedK)
-                    return;
-                Debug.WriteLine(keyboard);
-                //keyboard.WindowState = FormWindowState.Normal;
-                //keyboard.ShowInTaskbar = true;
-                if (!keyboardCreated)
-                {
-                    keyboard.ShowDialog();
-                    keyboardCreated = true;
-                }
-                else
-                    keyboard.myDispose(true);
-                    //keyboard.Visible = true;
-                exposedK = true;
-            }
+            keyboard.Show();
         }
 
         private void HideKeyboard()
         {
-            lock (_sync)
-            {
-                //keyboard.Close();
-                //Debug.WriteLine("ici");
-                //keyboard.myDispose(false);
-                //exposedK = false;
-                //keyboard.WindowState = FormWindowState.Minimized;
-                //keyboard.ShowInTaskbar = false;
-                //keyboard.Hide();
-                //keyboard = null;
-                //exposedK = false;
-            }
+            keyboard.Hide();
         }
 
 
