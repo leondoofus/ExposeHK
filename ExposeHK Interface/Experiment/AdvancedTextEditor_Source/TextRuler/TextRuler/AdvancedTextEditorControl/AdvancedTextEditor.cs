@@ -151,6 +151,7 @@ namespace TextRuler.AdvancedTextEditorControl
             object sender,
             RunWorkerCompletedEventArgs e)
         {
+            //ExposeHK();
             ExposeKeyboard();
         }
 
@@ -377,7 +378,7 @@ namespace TextRuler.AdvancedTextEditorControl
                 ctrl = false;
                 //timer.Stop();
                 //hideHK();
-                HideKeyboard();
+                //HideKeyboard();
             }
 
             if (e.KeyData == Keys.LShiftKey || e.KeyData == Keys.RShiftKey)
@@ -457,23 +458,28 @@ namespace TextRuler.AdvancedTextEditorControl
         }
 
         bool exposedK = false;
-        private Thread interfaceThread = null;
         bool keyboardCreated = false;
         private readonly object _sync = new object();
 
         private void ExposeKeyboard()
         {
+            if (exposedK)
+                return;
             lock (_sync)
             {
-                keyboard.WindowState = FormWindowState.Normal;
-                keyboard.ShowInTaskbar = true;
+                if (exposedK)
+                    return;
+                Debug.WriteLine(keyboard);
+                //keyboard.WindowState = FormWindowState.Normal;
+                //keyboard.ShowInTaskbar = true;
                 if (!keyboardCreated)
                 {
                     keyboard.ShowDialog();
                     keyboardCreated = true;
                 }
                 else
-                    keyboard.Visible = true;
+                    keyboard.myDispose(true);
+                    //keyboard.Visible = true;
                 exposedK = true;
             }
         }
@@ -482,11 +488,15 @@ namespace TextRuler.AdvancedTextEditorControl
         {
             lock (_sync)
             {
-                Debug.WriteLine("iciiiiiiiii");
+                //keyboard.Close();
+                //Debug.WriteLine("ici");
+                //keyboard.myDispose(false);
+                //exposedK = false;
                 //keyboard.WindowState = FormWindowState.Minimized;
                 //keyboard.ShowInTaskbar = false;
                 //keyboard.Hide();
-                exposedK = false;
+                //keyboard = null;
+                //exposedK = false;
             }
         }
 

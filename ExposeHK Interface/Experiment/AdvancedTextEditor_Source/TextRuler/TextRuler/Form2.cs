@@ -200,6 +200,11 @@ namespace TextRuler
             control.Location = new Point(newX, newY);
             control.Size = new Size(newWidth, newHeight);
         }
+
+        public void myDispose(bool disposing)
+        {
+            Dispose(disposing);
+        }
     }
 
     
