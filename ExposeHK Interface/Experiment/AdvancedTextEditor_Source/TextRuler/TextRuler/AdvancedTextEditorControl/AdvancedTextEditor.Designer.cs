@@ -31,10 +31,10 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            ExtendedRichTextBox.CharStyle charStyle2 = new ExtendedRichTextBox.CharStyle();
-            ExtendedRichTextBox.ParaLineSpacing paraLineSpacing2 = new ExtendedRichTextBox.ParaLineSpacing();
-            ExtendedRichTextBox.ParaListStyle paraListStyle2 = new ExtendedRichTextBox.ParaListStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AdvancedTextEditor));
+            ExtendedRichTextBox.CharStyle charStyle1 = new ExtendedRichTextBox.CharStyle();
+            ExtendedRichTextBox.ParaLineSpacing paraLineSpacing1 = new ExtendedRichTextBox.ParaLineSpacing();
+            ExtendedRichTextBox.ParaListStyle paraListStyle1 = new ExtendedRichTextBox.ParaListStyle();
             this.tlpEditorLayout = new System.Windows.Forms.TableLayoutPanel();
             this.Toolbox_Formatting = new System.Windows.Forms.ToolStrip();
             this.cmbFontName = new System.Windows.Forms.ToolStripComboBox();
@@ -109,6 +109,9 @@
             this.btnUndo = new System.Windows.Forms.ToolStripButton();
             this.btnRedo = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator6 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
             this.LineNumbers = new System.Windows.Forms.Label();
             this.prtDoc = new System.Drawing.Printing.PrintDocument();
             this.DocPreview = new System.Windows.Forms.PrintPreviewDialog();
@@ -117,9 +120,6 @@
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.TextEditor = new ExtendedRichTextBox();
             this.Ruler = new TextRuler.TextRulerControl.TextRuler();
-            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
             this.tlpEditorLayout.SuspendLayout();
             this.Toolbox_Formatting.SuspendLayout();
             this.TextEditorMenu.SuspendLayout();
@@ -898,6 +898,30 @@
             this.toolStripSeparator6.Name = "toolStripSeparator6";
             this.toolStripSeparator6.Size = new System.Drawing.Size(6, 25);
             // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton1.Text = "toolStripButton1";
+            // 
+            // toolStripButton2
+            // 
+            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton2.Name = "toolStripButton2";
+            this.toolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton2.Text = "toolStripButton2";
+            // 
+            // toolStripButton3
+            // 
+            this.toolStripButton3.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton3.Name = "toolStripButton3";
+            this.toolStripButton3.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton3.Text = "toolStripButton3";
+            // 
             // LineNumbers
             // 
             this.LineNumbers.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -946,21 +970,21 @@
             this.TextEditor.HideSelection = false;
             this.TextEditor.Location = new System.Drawing.Point(30, 102);
             this.TextEditor.Name = "TextEditor";
-            charStyle2.Bold = false;
-            charStyle2.Italic = false;
-            charStyle2.Link = false;
-            charStyle2.Strikeout = false;
-            charStyle2.Underline = false;
-            this.TextEditor.SelectionCharStyle = charStyle2;
+            charStyle1.Bold = false;
+            charStyle1.Italic = false;
+            charStyle1.Link = false;
+            charStyle1.Strikeout = false;
+            charStyle1.Underline = false;
+            this.TextEditor.SelectionCharStyle = charStyle1;
             this.TextEditor.SelectionFont2 = new System.Drawing.Font("Microsoft Sans Serif", 1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Inch);
-            paraLineSpacing2.ExactSpacing = 0;
-            paraLineSpacing2.SpacingStyle = ExtendedRichTextBox.ParaLineSpacing.LineSpacingStyle.Unknown;
-            this.TextEditor.SelectionLineSpacing = paraLineSpacing2;
-            paraListStyle2.BulletCharCode = ((short)(0));
-            paraListStyle2.NumberingStart = ((short)(0));
-            paraListStyle2.Style = ExtendedRichTextBox.ParaListStyle.ListStyle.NumberAndParenthesis;
-            paraListStyle2.Type = ExtendedRichTextBox.ParaListStyle.ListType.None;
-            this.TextEditor.SelectionListType = paraListStyle2;
+            paraLineSpacing1.ExactSpacing = 0;
+            paraLineSpacing1.SpacingStyle = ExtendedRichTextBox.ParaLineSpacing.LineSpacingStyle.Unknown;
+            this.TextEditor.SelectionLineSpacing = paraLineSpacing1;
+            paraListStyle1.BulletCharCode = ((short)(0));
+            paraListStyle1.NumberingStart = ((short)(0));
+            paraListStyle1.Style = ExtendedRichTextBox.ParaListStyle.ListStyle.NumberAndParenthesis;
+            paraListStyle1.Type = ExtendedRichTextBox.ParaListStyle.ListType.None;
+            this.TextEditor.SelectionListType = paraListStyle1;
             this.TextEditor.SelectionOffsetType = ExtendedRichTextBox.OffsetType.None;
             this.TextEditor.SelectionSpaceAfter = 0;
             this.TextEditor.SelectionSpaceBefore = 0;
@@ -995,33 +1019,6 @@
             this.Ruler.TabAdded += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabAdded);
             this.Ruler.TabRemoved += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabRemoved);
             this.Ruler.TabChanged += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabChanged);
-            // 
-            // toolStripButton1
-            // 
-            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
-            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.toolStripButton1.Text = "toolStripButton1";
-            // 
-            // toolStripButton2
-            // 
-            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton2.Image")));
-            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton2.Name = "toolStripButton2";
-            this.toolStripButton2.Size = new System.Drawing.Size(23, 22);
-            this.toolStripButton2.Text = "toolStripButton2";
-            // 
-            // toolStripButton3
-            // 
-            this.toolStripButton3.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton3.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton3.Image")));
-            this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton3.Name = "toolStripButton3";
-            this.toolStripButton3.Size = new System.Drawing.Size(23, 22);
-            this.toolStripButton3.Text = "toolStripButton3";
             // 
             // AdvancedTextEditor
             // 
