@@ -8,6 +8,10 @@ namespace TextRuler
 {
     static class Program
     {
+        public static int rep = 2;
+        public static String name;
+        public static int phase;
+        public static int help;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -34,8 +38,9 @@ namespace TextRuler
                 return;
             }
             ***/
-            
-            Application.Run(new Form1(fileName));
+            Application.Run(new Form3());
+            Console.WriteLine(name + phase + help);
+            //Application.Run(new Form1(fileName));
         }
     }
 }
