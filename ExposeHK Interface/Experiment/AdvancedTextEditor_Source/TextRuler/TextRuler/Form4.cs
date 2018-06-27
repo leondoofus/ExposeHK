@@ -388,6 +388,7 @@ namespace TextRuler
 
         private void button1_Click(object sender, EventArgs e)
         {
+            log("CLICK submit");
             for (int i = 0; i < allShortcuts.Count; i++)
             {
                 if (!allShortcuts[i].Text.Equals("Shortcut ..."))
@@ -416,16 +417,23 @@ namespace TextRuler
             {
                 if (allShortcuts[i].Text.Equals("Shortcut ..."))
                 {
+                    Debug.WriteLine("null\t0\tnull");
                     file.WriteLine("null\t0\tnull");
                 }
                 else
                 {
                     if(allRadios[i * 2].Checked)
                     {
-                        if(allAids[i].Equals(""))
-                            file.WriteLine(allShortcuts[i].Text+"\t0\tnull");
+                        if (allAids[i].Equals(""))
+                        {
+                            Debug.WriteLine(allShortcuts[i].Text + "\t0\tnull");
+                            file.WriteLine(allShortcuts[i].Text + "\t0\tnull");
+                        }
                         else
-                            file.WriteLine(allShortcuts[i].Text + "\t1\t"+allAids[i].Text);
+                        {
+                            Debug.WriteLine(allShortcuts[i].Text + "\t1\t" + allAids[i].Text);
+                            file.WriteLine(allShortcuts[i].Text + "\t1\t" + allAids[i].Text);
+                        }
                     }
                 }
             }

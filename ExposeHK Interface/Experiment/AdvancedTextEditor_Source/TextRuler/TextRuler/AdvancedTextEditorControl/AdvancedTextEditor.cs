@@ -15,6 +15,8 @@ namespace TextRuler.AdvancedTextEditorControl
     {
         UserActivityHook hook;
         Form2 keyboard;
+        
+        static int blocId = 1;
 
         bool ctrl = false;
         bool alt = false;
@@ -43,7 +45,8 @@ namespace TextRuler.AdvancedTextEditorControl
             bw.RunWorkerCompleted += new RunWorkerCompletedEventHandler(bw_RunWorkerCompleted);
 
 
-            logFile = DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
+            logFile = Program.name + "_" + Program.phase.ToString() + "-" + blocId.ToString() + "_" + Program.help.ToString() + "_" +
+                DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
 
             ToolStrip currentToolStrip = this.Toolbox_Main;
             for (int i = 0; i < 2; i++)
@@ -132,7 +135,15 @@ namespace TextRuler.AdvancedTextEditorControl
             //Debug.WriteLine(rtfText);
             if (String.Compare(def, rtfText) == 0)
             {
-                    Application.Exit();
+                blocId += 1;
+                if (blocId > Program.rep) Application.Exit();
+                else
+                {
+                    logFile = Program.name + "_" + Program.phase.ToString() + "-" + blocId.ToString() + "_" + Program.help.ToString() + "_" +
+                    DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
+                    openFile("startPoint.rtf");
+                }
+
             }
         }
 
@@ -304,7 +315,10 @@ namespace TextRuler.AdvancedTextEditorControl
                 {
                     Debug.WriteLine(watch.ElapsedMilliseconds);
                     if (watch.ElapsedMilliseconds > 1000)
-                        ExposeKeyboard();
+                        if (Program.phase == 2 && Program.help == 1)
+                            ExposeHK();
+                        else if (Program.phase == 2 && Program.help == 2)
+                            ExposeKeyboard();
                 }
                 ctrl = true;
                 //ExposeHK();
@@ -340,12 +354,12 @@ namespace TextRuler.AdvancedTextEditorControl
             if (e.KeyData == Keys.LControlKey || e.KeyData == Keys.RControlKey)
             {
                 ctrl = false;
-                //keyboard.Hide();
-                //timer.Stop();
-                //hideHK();
                 watch.Stop();
                 watch.Reset();
-                HideKeyboard();
+                if (Program.phase == 2 && Program.help == 1)
+                    hideHK();
+                else if (Program.phase == 2 && Program.help == 2)
+                    HideKeyboard();
             }
 
             if (e.KeyData == Keys.LShiftKey || e.KeyData == Keys.RShiftKey)

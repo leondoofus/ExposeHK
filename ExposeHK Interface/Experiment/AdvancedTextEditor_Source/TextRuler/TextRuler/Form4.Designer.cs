@@ -2118,6 +2118,7 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.toolStripContainer1);
             this.Name = "Form4";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Memorization Test";
             this.toolStripContainer1.ContentPanel.ResumeLayout(false);
             this.toolStripContainer1.ContentPanel.PerformLayout();

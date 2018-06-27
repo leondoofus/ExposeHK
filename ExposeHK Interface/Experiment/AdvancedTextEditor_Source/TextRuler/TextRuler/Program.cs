@@ -38,10 +38,11 @@ namespace TextRuler
                 return;
             }
             ***/
-            //Application.Run(new Form3());
-            Application.Run(new Form4());
-            //Console.WriteLine(name + phase + help);
-            //Application.Run(new Form1(fileName));
+            Application.Run(new Form3());
+            if (phase == 3 || phase == 5)
+                Application.Run(new Form4());
+            else
+                Application.Run(new Form1(fileName));
         }
     }
 }
