@@ -38,6 +38,7 @@ namespace TextRuler
                 return;
             }
             ***/
+            //Application.Run(new Form3());
             Application.Run(new Form4());
             //Console.WriteLine(name + phase + help);
             //Application.Run(new Form1(fileName));

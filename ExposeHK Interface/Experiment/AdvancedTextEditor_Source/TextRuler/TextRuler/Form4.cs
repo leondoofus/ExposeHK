@@ -1,7 +1,9 @@
-﻿using System;
+﻿using gma.System.Windows;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -14,6 +16,14 @@ namespace TextRuler
     public partial class Form4 : Form
     {
         ComponentResourceManager resources = new ComponentResourceManager(typeof(AdvancedTextEditor));
+        UserActivityHook hook;
+        bool ctrl = false;
+        bool alt = false;
+        bool shift = false;
+        private List<TextBox> allShortcuts = new List<TextBox>();
+        private List<RadioButton> allRadios = new List<RadioButton>();
+        private List<TextBox> allAids = new List<TextBox>();
+        private string logFile;
 
         public Form4()
         {
@@ -35,14 +45,147 @@ namespace TextRuler
             this.toolStripButton4.Image = ((System.Drawing.Image)(resources.GetObject("btnUndo.Image")));
             this.toolStripButton5.Image = ((System.Drawing.Image)(resources.GetObject("btnRedo.Image")));
             this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("btnCut.Image")));
+
+            allShortcuts.Add(textBox1);
+            allShortcuts.Add(textBox2);
+            allShortcuts.Add(textBox3);
+            allShortcuts.Add(textBox4);
+            allShortcuts.Add(textBox5);
+            allShortcuts.Add(textBox6);
+            allShortcuts.Add(textBox7);
+            allShortcuts.Add(textBox8);
+            allShortcuts.Add(textBox9);
+            allShortcuts.Add(textBox10);
+            allShortcuts.Add(textBox11);
+            allShortcuts.Add(textBox12);
+            allShortcuts.Add(textBox13);
+            allShortcuts.Add(textBox14);
+            allShortcuts.Add(textBox15);
+            allShortcuts.Add(textBox16);
+            allShortcuts.Add(textBox17);
+            allShortcuts.Add(textBox18);
+            allShortcuts.Add(textBox19);
+            allShortcuts.Add(textBox20);
+            allShortcuts.Add(textBox21);
+
+            allRadios.Add(radioButton1);
+            allRadios.Add(radioButton2);
+            allRadios.Add(radioButton3);
+            allRadios.Add(radioButton4);
+            allRadios.Add(radioButton5);
+            allRadios.Add(radioButton6);
+            allRadios.Add(radioButton7);
+            allRadios.Add(radioButton8);
+            allRadios.Add(radioButton9);
+            allRadios.Add(radioButton10);
+            allRadios.Add(radioButton11);
+            allRadios.Add(radioButton12);
+            allRadios.Add(radioButton13);
+            allRadios.Add(radioButton14);
+            allRadios.Add(radioButton15);
+            allRadios.Add(radioButton16);
+            allRadios.Add(radioButton17);
+            allRadios.Add(radioButton18);
+            allRadios.Add(radioButton19);
+            allRadios.Add(radioButton20);
+            allRadios.Add(radioButton21);
+            allRadios.Add(radioButton22);
+            allRadios.Add(radioButton23);
+            allRadios.Add(radioButton24);
+            allRadios.Add(radioButton25);
+            allRadios.Add(radioButton26);
+            allRadios.Add(radioButton27);
+            allRadios.Add(radioButton28);
+            allRadios.Add(radioButton29);
+            allRadios.Add(radioButton30);
+            allRadios.Add(radioButton31);
+            allRadios.Add(radioButton32);
+            allRadios.Add(radioButton33);
+            allRadios.Add(radioButton34);
+            allRadios.Add(radioButton35);
+            allRadios.Add(radioButton36);
+            allRadios.Add(radioButton37);
+            allRadios.Add(radioButton38);
+            allRadios.Add(radioButton39);
+            allRadios.Add(radioButton40);
+            allRadios.Add(radioButton41);
+            allRadios.Add(radioButton42);
+            allRadios.Add(radioButton43);
+            allRadios.Add(radioButton44);
+
+            allAids.Add(textBox22);
+            allAids.Add(textBox23);
+            allAids.Add(textBox24);
+            allAids.Add(textBox25);
+            allAids.Add(textBox26);
+            allAids.Add(textBox27);
+            allAids.Add(textBox28);
+            allAids.Add(textBox29);
+            allAids.Add(textBox30);
+            allAids.Add(textBox31);
+            allAids.Add(textBox32);
+            allAids.Add(textBox33);
+            allAids.Add(textBox34);
+            allAids.Add(textBox35);
+            allAids.Add(textBox36);
+            allAids.Add(textBox37);
+            allAids.Add(textBox38);
+            allAids.Add(textBox39);
+            allAids.Add(textBox40);
+            allAids.Add(textBox41);
+            allAids.Add(textBox42);
+
+            hook = new UserActivityHook();
+            hook.KeyDown += new KeyEventHandler(hook_KeyDown);
+            hook.KeyUp += new KeyEventHandler(sender_KeyUp);
+            hook.OnMouseActivity += new MouseEventHandler(hook_MouseMove);
+            hook.Start();
+
+            logFile = Program.name + "_" + Program.phase.ToString() + "_" + Program.help.ToString() + "_" +
+                DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
         }
 
-        bool ctrl = false;
-        bool alt = false;
-        bool shift = false;
+        public void log(String s)
+        {
+
+            Debug.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
+
+            // create a writer and open the file
+            System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
+
+            // write a    line of text to the file
+            file.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
+
+            // close the stream
+            file.Close();
+
+        }
+
+        private void hook_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (e.Clicks > 0)
+            {
+                log("MOUSE click " + e.Location);
+            }
+
+            if (e.Clicks == -1)
+            {
+                log("MOUSE release " + e.Location);
+            }
+            log("MOUSE Move " + e.Location);
+        }
+
+        private void hook_KeyDown(object sender, KeyEventArgs e)
+        {
+            log("KEYPRESS DOWN " + e.KeyData);
+            for (int i = 0; i < allShortcuts.Count; i++)
+                if (allShortcuts[i].Focused)
+                    sender_KeyDown(allShortcuts[i], e);
+        }
 
         private void setTextBox (TextBox textbox, String s)
         {
+            Console.WriteLine("ICI");
             String val = "";
             if (ctrl) val += "Ctrl + ";
             if (shift) val += "Shift + ";
@@ -54,6 +197,7 @@ namespace TextRuler
 
         private void sender_KeyDown(TextBox textBox, KeyEventArgs e)
         {
+            log("KEYPRESS DOWN " + e.KeyData);
             switch (e.KeyCode)
             {
                 case Keys.A : setTextBox(textBox, "A"); break;
@@ -240,6 +384,68 @@ namespace TextRuler
         private void textBox21_KeyDown(object sender, KeyEventArgs e)
         {
             sender_KeyDown(textBox21, e);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < allShortcuts.Count; i++)
+            {
+                if (!allShortcuts[i].Text.Equals("Shortcut ..."))
+                {
+                    if (!allRadios[i*2].Checked && !allRadios[i * 2 + 1].Checked)
+                    {
+                        MessageBox.Show("Error in line " + (i+1).ToString(), "Warning",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Information);
+                        return;
+                    }
+                }
+            }
+            write_log();
+            Close();
+        }
+
+        private void write_log()
+        {
+            logFile += "_Data";
+
+            // create a writer and open the file
+            System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
+            
+            for (int i = 0; i < allShortcuts.Count; i++)
+            {
+                if (allShortcuts[i].Text.Equals("Shortcut ..."))
+                {
+                    file.WriteLine("null\t0\tnull");
+                }
+                else
+                {
+                    if(allRadios[i * 2].Checked)
+                    {
+                        if(allAids[i].Equals(""))
+                            file.WriteLine(allShortcuts[i].Text+"\t0\tnull");
+                        else
+                            file.WriteLine(allShortcuts[i].Text + "\t1\t"+allAids[i].Text);
+                    }
+                }
+            }
+            // close the stream
+            file.Close();
+        }
+
+        private void textBox_Click(object sender, EventArgs e)
+        {
+            log("CLICK " + ((TextBox)sender).Name);
+        }
+
+        private void toolStrip_Click(object sender, EventArgs e)
+        {
+            log("CLICK " + ((ToolStripButton)sender).Name);
+        }
+
+        private void radio_Click(object sender, EventArgs e)
+        {
+            log("CLICK " + ((RadioButton)sender).Name);
         }
     }
 }

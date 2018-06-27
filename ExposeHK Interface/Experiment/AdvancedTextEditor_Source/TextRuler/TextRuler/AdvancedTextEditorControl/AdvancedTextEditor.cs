@@ -125,24 +125,15 @@ namespace TextRuler.AdvancedTextEditorControl
         }
 
 
-        static bool showed = false;
-        private bool Compare()
+        private void Compare()
         {
-                string rtfText = TextEditor.Rtf;
-                string def = File.ReadAllText("check2.rtf", Encoding.Default);
-                //Debug.WriteLine(rtfText);
-                if (String.Compare(def, rtfText) == 0)
-                {
-                    if (!showed)
-                    {
-                        MessageBox.Show("You live for the applause");
-                        showed = true;
-                    }
-
-                    return true;
-                }
-                showed = false;
-                return false;
+            string rtfText = TextEditor.Rtf;
+            string def = File.ReadAllText("check2.rtf", Encoding.Default);
+            //Debug.WriteLine(rtfText);
+            if (String.Compare(def, rtfText) == 0)
+            {
+                    Application.Exit();
+            }
         }
 
         public void logKeyPress(String k)
@@ -389,16 +380,16 @@ namespace TextRuler.AdvancedTextEditorControl
             if (e.Clicks > 0)
             {
                 Compare();
-                //log("MOUSE click " + e.Location);
+                log("MOUSE click " + e.Location);
             }
 
             if (e.Clicks == -1)
             {
                 Compare();
-                //log("MOUSE release " + e.Location);
+                log("MOUSE release " + e.Location);
             }
 
-            //log("MOUSE Move " + e.Location);
+            log("MOUSE Move " + e.Location);
         }
 
         List<Label> overlayLabels = new List<Label>();

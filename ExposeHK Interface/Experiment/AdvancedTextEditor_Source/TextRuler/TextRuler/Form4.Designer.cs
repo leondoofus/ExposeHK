@@ -115,6 +115,95 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.radioButton3 = new System.Windows.Forms.RadioButton();
+            this.radioButton4 = new System.Windows.Forms.RadioButton();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.radioButton5 = new System.Windows.Forms.RadioButton();
+            this.radioButton6 = new System.Windows.Forms.RadioButton();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.radioButton7 = new System.Windows.Forms.RadioButton();
+            this.radioButton8 = new System.Windows.Forms.RadioButton();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.radioButton9 = new System.Windows.Forms.RadioButton();
+            this.radioButton10 = new System.Windows.Forms.RadioButton();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.radioButton11 = new System.Windows.Forms.RadioButton();
+            this.radioButton12 = new System.Windows.Forms.RadioButton();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.radioButton13 = new System.Windows.Forms.RadioButton();
+            this.radioButton14 = new System.Windows.Forms.RadioButton();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.radioButton15 = new System.Windows.Forms.RadioButton();
+            this.radioButton16 = new System.Windows.Forms.RadioButton();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.radioButton19 = new System.Windows.Forms.RadioButton();
+            this.radioButton20 = new System.Windows.Forms.RadioButton();
+            this.radioButton17 = new System.Windows.Forms.RadioButton();
+            this.radioButton18 = new System.Windows.Forms.RadioButton();
+            this.panel12 = new System.Windows.Forms.Panel();
+            this.radioButton21 = new System.Windows.Forms.RadioButton();
+            this.radioButton22 = new System.Windows.Forms.RadioButton();
+            this.panel13 = new System.Windows.Forms.Panel();
+            this.radioButton23 = new System.Windows.Forms.RadioButton();
+            this.radioButton24 = new System.Windows.Forms.RadioButton();
+            this.panel14 = new System.Windows.Forms.Panel();
+            this.radioButton25 = new System.Windows.Forms.RadioButton();
+            this.radioButton26 = new System.Windows.Forms.RadioButton();
+            this.panel15 = new System.Windows.Forms.Panel();
+            this.radioButton27 = new System.Windows.Forms.RadioButton();
+            this.radioButton28 = new System.Windows.Forms.RadioButton();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.radioButton29 = new System.Windows.Forms.RadioButton();
+            this.radioButton30 = new System.Windows.Forms.RadioButton();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.radioButton31 = new System.Windows.Forms.RadioButton();
+            this.radioButton32 = new System.Windows.Forms.RadioButton();
+            this.panel18 = new System.Windows.Forms.Panel();
+            this.radioButton33 = new System.Windows.Forms.RadioButton();
+            this.radioButton34 = new System.Windows.Forms.RadioButton();
+            this.panel19 = new System.Windows.Forms.Panel();
+            this.radioButton35 = new System.Windows.Forms.RadioButton();
+            this.radioButton36 = new System.Windows.Forms.RadioButton();
+            this.panel20 = new System.Windows.Forms.Panel();
+            this.radioButton37 = new System.Windows.Forms.RadioButton();
+            this.radioButton38 = new System.Windows.Forms.RadioButton();
+            this.panel21 = new System.Windows.Forms.Panel();
+            this.radioButton39 = new System.Windows.Forms.RadioButton();
+            this.radioButton40 = new System.Windows.Forms.RadioButton();
+            this.panel22 = new System.Windows.Forms.Panel();
+            this.radioButton41 = new System.Windows.Forms.RadioButton();
+            this.radioButton42 = new System.Windows.Forms.RadioButton();
+            this.panel23 = new System.Windows.Forms.Panel();
+            this.radioButton43 = new System.Windows.Forms.RadioButton();
+            this.radioButton44 = new System.Windows.Forms.RadioButton();
+            this.textBox22 = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.textBox23 = new System.Windows.Forms.TextBox();
+            this.textBox24 = new System.Windows.Forms.TextBox();
+            this.textBox25 = new System.Windows.Forms.TextBox();
+            this.textBox26 = new System.Windows.Forms.TextBox();
+            this.textBox27 = new System.Windows.Forms.TextBox();
+            this.textBox28 = new System.Windows.Forms.TextBox();
+            this.textBox29 = new System.Windows.Forms.TextBox();
+            this.textBox30 = new System.Windows.Forms.TextBox();
+            this.textBox31 = new System.Windows.Forms.TextBox();
+            this.textBox32 = new System.Windows.Forms.TextBox();
+            this.textBox33 = new System.Windows.Forms.TextBox();
+            this.textBox34 = new System.Windows.Forms.TextBox();
+            this.textBox35 = new System.Windows.Forms.TextBox();
+            this.textBox36 = new System.Windows.Forms.TextBox();
+            this.textBox37 = new System.Windows.Forms.TextBox();
+            this.textBox38 = new System.Windows.Forms.TextBox();
+            this.textBox39 = new System.Windows.Forms.TextBox();
+            this.textBox40 = new System.Windows.Forms.TextBox();
+            this.textBox41 = new System.Windows.Forms.TextBox();
+            this.textBox42 = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.toolStripContainer1.ContentPanel.SuspendLayout();
             this.toolStripContainer1.SuspendLayout();
             this.toolStrip2.SuspendLayout();
@@ -139,6 +228,28 @@
             this.toolStrip3.SuspendLayout();
             this.toolStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.panel5.SuspendLayout();
+            this.panel6.SuspendLayout();
+            this.panel7.SuspendLayout();
+            this.panel8.SuspendLayout();
+            this.panel9.SuspendLayout();
+            this.panel10.SuspendLayout();
+            this.panel11.SuspendLayout();
+            this.panel12.SuspendLayout();
+            this.panel13.SuspendLayout();
+            this.panel14.SuspendLayout();
+            this.panel15.SuspendLayout();
+            this.panel16.SuspendLayout();
+            this.panel17.SuspendLayout();
+            this.panel18.SuspendLayout();
+            this.panel19.SuspendLayout();
+            this.panel20.SuspendLayout();
+            this.panel21.SuspendLayout();
+            this.panel22.SuspendLayout();
+            this.panel23.SuspendLayout();
             this.SuspendLayout();
             // 
             // toolStripContainer1
@@ -194,6 +305,7 @@
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton2.Text = "Copy";
+            this.toolStripButton2.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel2
             // 
@@ -221,6 +333,7 @@
             this.toolStripButton21.Name = "toolStripButton21";
             this.toolStripButton21.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton21.Text = "Blue";
+            this.toolStripButton21.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel21
             // 
@@ -248,6 +361,7 @@
             this.toolStripButton20.Name = "toolStripButton20";
             this.toolStripButton20.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton20.Text = "Green";
+            this.toolStripButton20.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel20
             // 
@@ -275,6 +389,7 @@
             this.toolStripButton19.Name = "toolStripButton19";
             this.toolStripButton19.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton19.Text = "Magenta";
+            this.toolStripButton19.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel19
             // 
@@ -302,6 +417,7 @@
             this.toolStripButton18.Name = "toolStripButton18";
             this.toolStripButton18.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton18.Text = "Black";
+            this.toolStripButton18.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel18
             // 
@@ -329,6 +445,7 @@
             this.toolStripButton17.Name = "toolStripButton17";
             this.toolStripButton17.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton17.Text = "Left Align";
+            this.toolStripButton17.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel17
             // 
@@ -356,6 +473,7 @@
             this.toolStripButton16.Name = "toolStripButton16";
             this.toolStripButton16.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton16.Text = "Center Align";
+            this.toolStripButton16.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel16
             // 
@@ -383,6 +501,7 @@
             this.toolStripButton15.Name = "toolStripButton15";
             this.toolStripButton15.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton15.Text = "Right Align";
+            this.toolStripButton15.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel15
             // 
@@ -410,6 +529,7 @@
             this.toolStripButton14.Name = "toolStripButton14";
             this.toolStripButton14.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton14.Text = "Justify Align";
+            this.toolStripButton14.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel14
             // 
@@ -437,6 +557,7 @@
             this.toolStripButton13.Name = "toolStripButton13";
             this.toolStripButton13.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton13.Text = "Numbered List";
+            this.toolStripButton13.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel13
             // 
@@ -464,6 +585,7 @@
             this.toolStripButton12.Name = "toolStripButton12";
             this.toolStripButton12.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton12.Text = "Bulleted List";
+            this.toolStripButton12.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel12
             // 
@@ -491,6 +613,7 @@
             this.toolStripButton11.Name = "toolStripButton11";
             this.toolStripButton11.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton11.Text = "Strikethrough";
+            this.toolStripButton11.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel11
             // 
@@ -518,6 +641,7 @@
             this.toolStripButton10.Name = "toolStripButton10";
             this.toolStripButton10.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton10.Text = "Underline";
+            this.toolStripButton10.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel10
             // 
@@ -545,6 +669,7 @@
             this.toolStripButton9.Name = "toolStripButton9";
             this.toolStripButton9.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton9.Text = "Italics";
+            this.toolStripButton9.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel9
             // 
@@ -572,6 +697,7 @@
             this.toolStripButton8.Name = "toolStripButton8";
             this.toolStripButton8.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton8.Text = "Bold";
+            this.toolStripButton8.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel8
             // 
@@ -599,6 +725,7 @@
             this.toolStripButton7.Name = "toolStripButton7";
             this.toolStripButton7.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton7.Text = "Increase Font Size";
+            this.toolStripButton7.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel7
             // 
@@ -626,6 +753,7 @@
             this.toolStripButton6.Name = "toolStripButton6";
             this.toolStripButton6.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton6.Text = "Decrease Font Size";
+            this.toolStripButton6.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel6
             // 
@@ -652,7 +780,8 @@
             this.toolStripButton5.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton5.Name = "toolStripButton5";
             this.toolStripButton5.Size = new System.Drawing.Size(23, 22);
-            this.toolStripButton5.Text = "toolStripButton1";
+            this.toolStripButton5.Text = "Redo";
+            this.toolStripButton5.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel5
             // 
@@ -680,6 +809,7 @@
             this.toolStripButton4.Name = "toolStripButton4";
             this.toolStripButton4.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton4.Text = "Undo";
+            this.toolStripButton4.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel4
             // 
@@ -707,6 +837,7 @@
             this.toolStripButton3.Name = "toolStripButton3";
             this.toolStripButton3.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton3.Text = "Paste";
+            this.toolStripButton3.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel3
             // 
@@ -734,6 +865,7 @@
             this.toolStripButton1.Name = "toolStripButton1";
             this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton1.Text = "Cut";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStrip_Click);
             // 
             // toolStripLabel1
             // 
@@ -777,6 +909,7 @@
             this.textBox21.Size = new System.Drawing.Size(105, 20);
             this.textBox21.TabIndex = 21;
             this.textBox21.Text = "Shortcut ...";
+            this.textBox21.Click += new System.EventHandler(this.textBox_Click);
             this.textBox21.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox21_KeyDown);
             this.textBox21.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -788,6 +921,7 @@
             this.textBox20.Size = new System.Drawing.Size(105, 20);
             this.textBox20.TabIndex = 20;
             this.textBox20.Text = "Shortcut ...";
+            this.textBox20.Click += new System.EventHandler(this.textBox_Click);
             this.textBox20.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox20_KeyDown);
             this.textBox20.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -799,6 +933,7 @@
             this.textBox19.Size = new System.Drawing.Size(105, 20);
             this.textBox19.TabIndex = 19;
             this.textBox19.Text = "Shortcut ...";
+            this.textBox19.Click += new System.EventHandler(this.textBox_Click);
             this.textBox19.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox19_KeyDown);
             this.textBox19.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -810,6 +945,7 @@
             this.textBox18.Size = new System.Drawing.Size(105, 20);
             this.textBox18.TabIndex = 18;
             this.textBox18.Text = "Shortcut ...";
+            this.textBox18.Click += new System.EventHandler(this.textBox_Click);
             this.textBox18.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox18_KeyDown);
             this.textBox18.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -821,6 +957,7 @@
             this.textBox17.Size = new System.Drawing.Size(105, 20);
             this.textBox17.TabIndex = 17;
             this.textBox17.Text = "Shortcut ...";
+            this.textBox17.Click += new System.EventHandler(this.textBox_Click);
             this.textBox17.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox17_KeyDown);
             this.textBox17.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -832,6 +969,7 @@
             this.textBox16.Size = new System.Drawing.Size(105, 20);
             this.textBox16.TabIndex = 16;
             this.textBox16.Text = "Shortcut ...";
+            this.textBox16.Click += new System.EventHandler(this.textBox_Click);
             this.textBox16.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox16_KeyDown);
             this.textBox16.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -843,6 +981,7 @@
             this.textBox15.Size = new System.Drawing.Size(105, 20);
             this.textBox15.TabIndex = 15;
             this.textBox15.Text = "Shortcut ...";
+            this.textBox15.Click += new System.EventHandler(this.textBox_Click);
             this.textBox15.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox15_KeyDown);
             this.textBox15.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -854,6 +993,7 @@
             this.textBox14.Size = new System.Drawing.Size(105, 20);
             this.textBox14.TabIndex = 14;
             this.textBox14.Text = "Shortcut ...";
+            this.textBox14.Click += new System.EventHandler(this.textBox_Click);
             this.textBox14.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox14_KeyDown);
             this.textBox14.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -865,6 +1005,7 @@
             this.textBox13.Size = new System.Drawing.Size(105, 20);
             this.textBox13.TabIndex = 13;
             this.textBox13.Text = "Shortcut ...";
+            this.textBox13.Click += new System.EventHandler(this.textBox_Click);
             this.textBox13.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox13_KeyDown);
             this.textBox13.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -876,6 +1017,7 @@
             this.textBox12.Size = new System.Drawing.Size(105, 20);
             this.textBox12.TabIndex = 12;
             this.textBox12.Text = "Shortcut ...";
+            this.textBox12.Click += new System.EventHandler(this.textBox_Click);
             this.textBox12.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox12_KeyDown);
             this.textBox12.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -887,6 +1029,7 @@
             this.textBox11.Size = new System.Drawing.Size(105, 20);
             this.textBox11.TabIndex = 11;
             this.textBox11.Text = "Shortcut ...";
+            this.textBox11.Click += new System.EventHandler(this.textBox_Click);
             this.textBox11.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox11_KeyDown);
             this.textBox11.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -898,6 +1041,7 @@
             this.textBox10.Size = new System.Drawing.Size(105, 20);
             this.textBox10.TabIndex = 10;
             this.textBox10.Text = "Shortcut ...";
+            this.textBox10.Click += new System.EventHandler(this.textBox_Click);
             this.textBox10.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox10_KeyDown);
             this.textBox10.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -909,6 +1053,7 @@
             this.textBox9.Size = new System.Drawing.Size(105, 20);
             this.textBox9.TabIndex = 9;
             this.textBox9.Text = "Shortcut ...";
+            this.textBox9.Click += new System.EventHandler(this.textBox_Click);
             this.textBox9.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox9_KeyDown);
             this.textBox9.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -920,6 +1065,7 @@
             this.textBox8.Size = new System.Drawing.Size(105, 20);
             this.textBox8.TabIndex = 8;
             this.textBox8.Text = "Shortcut ...";
+            this.textBox8.Click += new System.EventHandler(this.textBox_Click);
             this.textBox8.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox8_KeyDown);
             this.textBox8.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -931,6 +1077,7 @@
             this.textBox7.Size = new System.Drawing.Size(105, 20);
             this.textBox7.TabIndex = 7;
             this.textBox7.Text = "Shortcut ...";
+            this.textBox7.Click += new System.EventHandler(this.textBox_Click);
             this.textBox7.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox7_KeyDown);
             this.textBox7.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -942,6 +1089,7 @@
             this.textBox6.Size = new System.Drawing.Size(105, 20);
             this.textBox6.TabIndex = 6;
             this.textBox6.Text = "Shortcut ...";
+            this.textBox6.Click += new System.EventHandler(this.textBox_Click);
             this.textBox6.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox6_KeyDown);
             this.textBox6.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -953,6 +1101,7 @@
             this.textBox5.Size = new System.Drawing.Size(105, 20);
             this.textBox5.TabIndex = 5;
             this.textBox5.Text = "Shortcut ...";
+            this.textBox5.Click += new System.EventHandler(this.textBox_Click);
             this.textBox5.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox5_KeyDown);
             this.textBox5.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -964,6 +1113,7 @@
             this.textBox4.Size = new System.Drawing.Size(105, 20);
             this.textBox4.TabIndex = 4;
             this.textBox4.Text = "Shortcut ...";
+            this.textBox4.Click += new System.EventHandler(this.textBox_Click);
             this.textBox4.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox4_KeyDown);
             this.textBox4.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -975,6 +1125,7 @@
             this.textBox3.Size = new System.Drawing.Size(105, 20);
             this.textBox3.TabIndex = 3;
             this.textBox3.Text = "Shortcut ...";
+            this.textBox3.Click += new System.EventHandler(this.textBox_Click);
             this.textBox3.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox3_KeyDown);
             this.textBox3.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -986,6 +1137,7 @@
             this.textBox2.Size = new System.Drawing.Size(105, 20);
             this.textBox2.TabIndex = 2;
             this.textBox2.Text = "Shortcut ...";
+            this.textBox2.Click += new System.EventHandler(this.textBox_Click);
             this.textBox2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox2_KeyDown);
             this.textBox2.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
@@ -997,14 +1149,972 @@
             this.textBox1.Size = new System.Drawing.Size(105, 20);
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "Shortcut ...";
+            this.textBox1.Click += new System.EventHandler(this.textBox_Click);
             this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
             this.textBox1.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.radioButton2);
+            this.panel2.Controls.Add(this.radioButton1);
+            this.panel2.Location = new System.Drawing.Point(317, 12);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(266, 26);
+            this.panel2.TabIndex = 2;
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(4, 6);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(111, 17);
+            this.radioButton2.TabIndex = 1;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "I knew it by myself";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(138, 6);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(124, 17);
+            this.radioButton1.TabIndex = 0;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "I used your visual aid";
+            this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.radioButton3);
+            this.panel3.Controls.Add(this.radioButton4);
+            this.panel3.Location = new System.Drawing.Point(317, 37);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(266, 26);
+            this.panel3.TabIndex = 3;
+            // 
+            // radioButton3
+            // 
+            this.radioButton3.AutoSize = true;
+            this.radioButton3.Location = new System.Drawing.Point(138, 6);
+            this.radioButton3.Name = "radioButton3";
+            this.radioButton3.Size = new System.Drawing.Size(124, 17);
+            this.radioButton3.TabIndex = 1;
+            this.radioButton3.TabStop = true;
+            this.radioButton3.Text = "I used your visual aid";
+            this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton4
+            // 
+            this.radioButton4.AutoSize = true;
+            this.radioButton4.Location = new System.Drawing.Point(4, 6);
+            this.radioButton4.Name = "radioButton4";
+            this.radioButton4.Size = new System.Drawing.Size(111, 17);
+            this.radioButton4.TabIndex = 0;
+            this.radioButton4.TabStop = true;
+            this.radioButton4.Text = "I knew it by myself";
+            this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.radioButton5);
+            this.panel4.Controls.Add(this.radioButton6);
+            this.panel4.Location = new System.Drawing.Point(317, 63);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(266, 26);
+            this.panel4.TabIndex = 3;
+            // 
+            // radioButton5
+            // 
+            this.radioButton5.AutoSize = true;
+            this.radioButton5.Location = new System.Drawing.Point(138, 6);
+            this.radioButton5.Name = "radioButton5";
+            this.radioButton5.Size = new System.Drawing.Size(124, 17);
+            this.radioButton5.TabIndex = 1;
+            this.radioButton5.TabStop = true;
+            this.radioButton5.Text = "I used your visual aid";
+            this.radioButton5.UseVisualStyleBackColor = true;
+            this.radioButton5.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton6
+            // 
+            this.radioButton6.AutoSize = true;
+            this.radioButton6.Location = new System.Drawing.Point(4, 6);
+            this.radioButton6.Name = "radioButton6";
+            this.radioButton6.Size = new System.Drawing.Size(111, 17);
+            this.radioButton6.TabIndex = 0;
+            this.radioButton6.TabStop = true;
+            this.radioButton6.Text = "I knew it by myself";
+            this.radioButton6.UseVisualStyleBackColor = true;
+            this.radioButton6.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel5
+            // 
+            this.panel5.Controls.Add(this.radioButton7);
+            this.panel5.Controls.Add(this.radioButton8);
+            this.panel5.Location = new System.Drawing.Point(317, 87);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(266, 26);
+            this.panel5.TabIndex = 4;
+            // 
+            // radioButton7
+            // 
+            this.radioButton7.AutoSize = true;
+            this.radioButton7.Location = new System.Drawing.Point(138, 6);
+            this.radioButton7.Name = "radioButton7";
+            this.radioButton7.Size = new System.Drawing.Size(124, 17);
+            this.radioButton7.TabIndex = 1;
+            this.radioButton7.TabStop = true;
+            this.radioButton7.Text = "I used your visual aid";
+            this.radioButton7.UseVisualStyleBackColor = true;
+            this.radioButton7.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton8
+            // 
+            this.radioButton8.AutoSize = true;
+            this.radioButton8.Location = new System.Drawing.Point(4, 6);
+            this.radioButton8.Name = "radioButton8";
+            this.radioButton8.Size = new System.Drawing.Size(111, 17);
+            this.radioButton8.TabIndex = 0;
+            this.radioButton8.TabStop = true;
+            this.radioButton8.Text = "I knew it by myself";
+            this.radioButton8.UseVisualStyleBackColor = true;
+            this.radioButton8.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel6
+            // 
+            this.panel6.Controls.Add(this.radioButton9);
+            this.panel6.Controls.Add(this.radioButton10);
+            this.panel6.Location = new System.Drawing.Point(317, 113);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(266, 26);
+            this.panel6.TabIndex = 5;
+            // 
+            // radioButton9
+            // 
+            this.radioButton9.AutoSize = true;
+            this.radioButton9.Location = new System.Drawing.Point(138, 6);
+            this.radioButton9.Name = "radioButton9";
+            this.radioButton9.Size = new System.Drawing.Size(124, 17);
+            this.radioButton9.TabIndex = 1;
+            this.radioButton9.TabStop = true;
+            this.radioButton9.Text = "I used your visual aid";
+            this.radioButton9.UseVisualStyleBackColor = true;
+            this.radioButton9.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton10
+            // 
+            this.radioButton10.AutoSize = true;
+            this.radioButton10.Location = new System.Drawing.Point(4, 6);
+            this.radioButton10.Name = "radioButton10";
+            this.radioButton10.Size = new System.Drawing.Size(111, 17);
+            this.radioButton10.TabIndex = 0;
+            this.radioButton10.TabStop = true;
+            this.radioButton10.Text = "I knew it by myself";
+            this.radioButton10.UseVisualStyleBackColor = true;
+            this.radioButton10.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel7
+            // 
+            this.panel7.Controls.Add(this.radioButton11);
+            this.panel7.Controls.Add(this.radioButton12);
+            this.panel7.Location = new System.Drawing.Point(317, 137);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(266, 26);
+            this.panel7.TabIndex = 6;
+            // 
+            // radioButton11
+            // 
+            this.radioButton11.AutoSize = true;
+            this.radioButton11.Location = new System.Drawing.Point(138, 6);
+            this.radioButton11.Name = "radioButton11";
+            this.radioButton11.Size = new System.Drawing.Size(124, 17);
+            this.radioButton11.TabIndex = 1;
+            this.radioButton11.TabStop = true;
+            this.radioButton11.Text = "I used your visual aid";
+            this.radioButton11.UseVisualStyleBackColor = true;
+            this.radioButton11.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton12
+            // 
+            this.radioButton12.AutoSize = true;
+            this.radioButton12.Location = new System.Drawing.Point(4, 6);
+            this.radioButton12.Name = "radioButton12";
+            this.radioButton12.Size = new System.Drawing.Size(111, 17);
+            this.radioButton12.TabIndex = 0;
+            this.radioButton12.TabStop = true;
+            this.radioButton12.Text = "I knew it by myself";
+            this.radioButton12.UseVisualStyleBackColor = true;
+            this.radioButton12.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel8
+            // 
+            this.panel8.Controls.Add(this.radioButton13);
+            this.panel8.Controls.Add(this.radioButton14);
+            this.panel8.Location = new System.Drawing.Point(317, 163);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(266, 26);
+            this.panel8.TabIndex = 7;
+            // 
+            // radioButton13
+            // 
+            this.radioButton13.AutoSize = true;
+            this.radioButton13.Location = new System.Drawing.Point(138, 6);
+            this.radioButton13.Name = "radioButton13";
+            this.radioButton13.Size = new System.Drawing.Size(124, 17);
+            this.radioButton13.TabIndex = 1;
+            this.radioButton13.TabStop = true;
+            this.radioButton13.Text = "I used your visual aid";
+            this.radioButton13.UseVisualStyleBackColor = true;
+            this.radioButton13.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton14
+            // 
+            this.radioButton14.AutoSize = true;
+            this.radioButton14.Location = new System.Drawing.Point(4, 6);
+            this.radioButton14.Name = "radioButton14";
+            this.radioButton14.Size = new System.Drawing.Size(111, 17);
+            this.radioButton14.TabIndex = 0;
+            this.radioButton14.TabStop = true;
+            this.radioButton14.Text = "I knew it by myself";
+            this.radioButton14.UseVisualStyleBackColor = true;
+            this.radioButton14.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel9
+            // 
+            this.panel9.Controls.Add(this.radioButton15);
+            this.panel9.Controls.Add(this.radioButton16);
+            this.panel9.Location = new System.Drawing.Point(317, 187);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(266, 26);
+            this.panel9.TabIndex = 3;
+            // 
+            // radioButton15
+            // 
+            this.radioButton15.AutoSize = true;
+            this.radioButton15.Location = new System.Drawing.Point(138, 6);
+            this.radioButton15.Name = "radioButton15";
+            this.radioButton15.Size = new System.Drawing.Size(124, 17);
+            this.radioButton15.TabIndex = 1;
+            this.radioButton15.TabStop = true;
+            this.radioButton15.Text = "I used your visual aid";
+            this.radioButton15.UseVisualStyleBackColor = true;
+            this.radioButton15.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton16
+            // 
+            this.radioButton16.AutoSize = true;
+            this.radioButton16.Location = new System.Drawing.Point(4, 6);
+            this.radioButton16.Name = "radioButton16";
+            this.radioButton16.Size = new System.Drawing.Size(111, 17);
+            this.radioButton16.TabIndex = 0;
+            this.radioButton16.TabStop = true;
+            this.radioButton16.Text = "I knew it by myself";
+            this.radioButton16.UseVisualStyleBackColor = true;
+            this.radioButton16.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel10
+            // 
+            this.panel10.Controls.Add(this.panel11);
+            this.panel10.Controls.Add(this.radioButton17);
+            this.panel10.Controls.Add(this.radioButton18);
+            this.panel10.Location = new System.Drawing.Point(317, 213);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(266, 26);
+            this.panel10.TabIndex = 8;
+            // 
+            // panel11
+            // 
+            this.panel11.Controls.Add(this.radioButton19);
+            this.panel11.Controls.Add(this.radioButton20);
+            this.panel11.Location = new System.Drawing.Point(0, 25);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(266, 26);
+            this.panel11.TabIndex = 3;
+            // 
+            // radioButton19
+            // 
+            this.radioButton19.AutoSize = true;
+            this.radioButton19.Location = new System.Drawing.Point(138, 6);
+            this.radioButton19.Name = "radioButton19";
+            this.radioButton19.Size = new System.Drawing.Size(124, 17);
+            this.radioButton19.TabIndex = 1;
+            this.radioButton19.TabStop = true;
+            this.radioButton19.Text = "I used your visual aid";
+            this.radioButton19.UseVisualStyleBackColor = true;
+            // 
+            // radioButton20
+            // 
+            this.radioButton20.AutoSize = true;
+            this.radioButton20.Location = new System.Drawing.Point(4, 6);
+            this.radioButton20.Name = "radioButton20";
+            this.radioButton20.Size = new System.Drawing.Size(111, 17);
+            this.radioButton20.TabIndex = 0;
+            this.radioButton20.TabStop = true;
+            this.radioButton20.Text = "I knew it by myself";
+            this.radioButton20.UseVisualStyleBackColor = true;
+            // 
+            // radioButton17
+            // 
+            this.radioButton17.AutoSize = true;
+            this.radioButton17.Location = new System.Drawing.Point(138, 6);
+            this.radioButton17.Name = "radioButton17";
+            this.radioButton17.Size = new System.Drawing.Size(124, 17);
+            this.radioButton17.TabIndex = 1;
+            this.radioButton17.TabStop = true;
+            this.radioButton17.Text = "I used your visual aid";
+            this.radioButton17.UseVisualStyleBackColor = true;
+            this.radioButton17.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton18
+            // 
+            this.radioButton18.AutoSize = true;
+            this.radioButton18.Location = new System.Drawing.Point(4, 6);
+            this.radioButton18.Name = "radioButton18";
+            this.radioButton18.Size = new System.Drawing.Size(111, 17);
+            this.radioButton18.TabIndex = 0;
+            this.radioButton18.TabStop = true;
+            this.radioButton18.Text = "I knew it by myself";
+            this.radioButton18.UseVisualStyleBackColor = true;
+            this.radioButton18.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel12
+            // 
+            this.panel12.Controls.Add(this.radioButton21);
+            this.panel12.Controls.Add(this.radioButton22);
+            this.panel12.Location = new System.Drawing.Point(317, 238);
+            this.panel12.Name = "panel12";
+            this.panel12.Size = new System.Drawing.Size(266, 26);
+            this.panel12.TabIndex = 3;
+            // 
+            // radioButton21
+            // 
+            this.radioButton21.AutoSize = true;
+            this.radioButton21.Location = new System.Drawing.Point(138, 6);
+            this.radioButton21.Name = "radioButton21";
+            this.radioButton21.Size = new System.Drawing.Size(124, 17);
+            this.radioButton21.TabIndex = 1;
+            this.radioButton21.TabStop = true;
+            this.radioButton21.Text = "I used your visual aid";
+            this.radioButton21.UseVisualStyleBackColor = true;
+            this.radioButton21.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton22
+            // 
+            this.radioButton22.AutoSize = true;
+            this.radioButton22.Location = new System.Drawing.Point(4, 6);
+            this.radioButton22.Name = "radioButton22";
+            this.radioButton22.Size = new System.Drawing.Size(111, 17);
+            this.radioButton22.TabIndex = 0;
+            this.radioButton22.TabStop = true;
+            this.radioButton22.Text = "I knew it by myself";
+            this.radioButton22.UseVisualStyleBackColor = true;
+            this.radioButton22.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel13
+            // 
+            this.panel13.Controls.Add(this.radioButton23);
+            this.panel13.Controls.Add(this.radioButton24);
+            this.panel13.Location = new System.Drawing.Point(317, 263);
+            this.panel13.Name = "panel13";
+            this.panel13.Size = new System.Drawing.Size(266, 26);
+            this.panel13.TabIndex = 9;
+            // 
+            // radioButton23
+            // 
+            this.radioButton23.AutoSize = true;
+            this.radioButton23.Location = new System.Drawing.Point(138, 6);
+            this.radioButton23.Name = "radioButton23";
+            this.radioButton23.Size = new System.Drawing.Size(124, 17);
+            this.radioButton23.TabIndex = 1;
+            this.radioButton23.TabStop = true;
+            this.radioButton23.Text = "I used your visual aid";
+            this.radioButton23.UseVisualStyleBackColor = true;
+            this.radioButton23.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton24
+            // 
+            this.radioButton24.AutoSize = true;
+            this.radioButton24.Location = new System.Drawing.Point(4, 6);
+            this.radioButton24.Name = "radioButton24";
+            this.radioButton24.Size = new System.Drawing.Size(111, 17);
+            this.radioButton24.TabIndex = 0;
+            this.radioButton24.TabStop = true;
+            this.radioButton24.Text = "I knew it by myself";
+            this.radioButton24.UseVisualStyleBackColor = true;
+            this.radioButton24.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel14
+            // 
+            this.panel14.Controls.Add(this.radioButton25);
+            this.panel14.Controls.Add(this.radioButton26);
+            this.panel14.Location = new System.Drawing.Point(317, 288);
+            this.panel14.Name = "panel14";
+            this.panel14.Size = new System.Drawing.Size(266, 26);
+            this.panel14.TabIndex = 3;
+            // 
+            // radioButton25
+            // 
+            this.radioButton25.AutoSize = true;
+            this.radioButton25.Location = new System.Drawing.Point(138, 6);
+            this.radioButton25.Name = "radioButton25";
+            this.radioButton25.Size = new System.Drawing.Size(124, 17);
+            this.radioButton25.TabIndex = 1;
+            this.radioButton25.TabStop = true;
+            this.radioButton25.Text = "I used your visual aid";
+            this.radioButton25.UseVisualStyleBackColor = true;
+            this.radioButton25.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton26
+            // 
+            this.radioButton26.AutoSize = true;
+            this.radioButton26.Location = new System.Drawing.Point(4, 6);
+            this.radioButton26.Name = "radioButton26";
+            this.radioButton26.Size = new System.Drawing.Size(111, 17);
+            this.radioButton26.TabIndex = 0;
+            this.radioButton26.TabStop = true;
+            this.radioButton26.Text = "I knew it by myself";
+            this.radioButton26.UseVisualStyleBackColor = true;
+            this.radioButton26.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel15
+            // 
+            this.panel15.Controls.Add(this.radioButton27);
+            this.panel15.Controls.Add(this.radioButton28);
+            this.panel15.Location = new System.Drawing.Point(317, 312);
+            this.panel15.Name = "panel15";
+            this.panel15.Size = new System.Drawing.Size(266, 26);
+            this.panel15.TabIndex = 3;
+            // 
+            // radioButton27
+            // 
+            this.radioButton27.AutoSize = true;
+            this.radioButton27.Location = new System.Drawing.Point(138, 6);
+            this.radioButton27.Name = "radioButton27";
+            this.radioButton27.Size = new System.Drawing.Size(124, 17);
+            this.radioButton27.TabIndex = 1;
+            this.radioButton27.TabStop = true;
+            this.radioButton27.Text = "I used your visual aid";
+            this.radioButton27.UseVisualStyleBackColor = true;
+            this.radioButton27.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton28
+            // 
+            this.radioButton28.AutoSize = true;
+            this.radioButton28.Location = new System.Drawing.Point(4, 6);
+            this.radioButton28.Name = "radioButton28";
+            this.radioButton28.Size = new System.Drawing.Size(111, 17);
+            this.radioButton28.TabIndex = 0;
+            this.radioButton28.TabStop = true;
+            this.radioButton28.Text = "I knew it by myself";
+            this.radioButton28.UseVisualStyleBackColor = true;
+            this.radioButton28.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel16
+            // 
+            this.panel16.Controls.Add(this.radioButton29);
+            this.panel16.Controls.Add(this.radioButton30);
+            this.panel16.Location = new System.Drawing.Point(317, 338);
+            this.panel16.Name = "panel16";
+            this.panel16.Size = new System.Drawing.Size(266, 26);
+            this.panel16.TabIndex = 10;
+            // 
+            // radioButton29
+            // 
+            this.radioButton29.AutoSize = true;
+            this.radioButton29.Location = new System.Drawing.Point(138, 6);
+            this.radioButton29.Name = "radioButton29";
+            this.radioButton29.Size = new System.Drawing.Size(124, 17);
+            this.radioButton29.TabIndex = 1;
+            this.radioButton29.TabStop = true;
+            this.radioButton29.Text = "I used your visual aid";
+            this.radioButton29.UseVisualStyleBackColor = true;
+            this.radioButton29.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton30
+            // 
+            this.radioButton30.AutoSize = true;
+            this.radioButton30.Location = new System.Drawing.Point(4, 6);
+            this.radioButton30.Name = "radioButton30";
+            this.radioButton30.Size = new System.Drawing.Size(111, 17);
+            this.radioButton30.TabIndex = 0;
+            this.radioButton30.TabStop = true;
+            this.radioButton30.Text = "I knew it by myself";
+            this.radioButton30.UseVisualStyleBackColor = true;
+            this.radioButton30.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel17
+            // 
+            this.panel17.Controls.Add(this.radioButton31);
+            this.panel17.Controls.Add(this.radioButton32);
+            this.panel17.Location = new System.Drawing.Point(317, 363);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(266, 26);
+            this.panel17.TabIndex = 11;
+            // 
+            // radioButton31
+            // 
+            this.radioButton31.AutoSize = true;
+            this.radioButton31.Location = new System.Drawing.Point(138, 6);
+            this.radioButton31.Name = "radioButton31";
+            this.radioButton31.Size = new System.Drawing.Size(124, 17);
+            this.radioButton31.TabIndex = 1;
+            this.radioButton31.TabStop = true;
+            this.radioButton31.Text = "I used your visual aid";
+            this.radioButton31.UseVisualStyleBackColor = true;
+            this.radioButton31.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton32
+            // 
+            this.radioButton32.AutoSize = true;
+            this.radioButton32.Location = new System.Drawing.Point(4, 6);
+            this.radioButton32.Name = "radioButton32";
+            this.radioButton32.Size = new System.Drawing.Size(111, 17);
+            this.radioButton32.TabIndex = 0;
+            this.radioButton32.TabStop = true;
+            this.radioButton32.Text = "I knew it by myself";
+            this.radioButton32.UseVisualStyleBackColor = true;
+            this.radioButton32.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel18
+            // 
+            this.panel18.Controls.Add(this.radioButton33);
+            this.panel18.Controls.Add(this.radioButton34);
+            this.panel18.Location = new System.Drawing.Point(317, 387);
+            this.panel18.Name = "panel18";
+            this.panel18.Size = new System.Drawing.Size(266, 26);
+            this.panel18.TabIndex = 12;
+            // 
+            // radioButton33
+            // 
+            this.radioButton33.AutoSize = true;
+            this.radioButton33.Location = new System.Drawing.Point(138, 6);
+            this.radioButton33.Name = "radioButton33";
+            this.radioButton33.Size = new System.Drawing.Size(124, 17);
+            this.radioButton33.TabIndex = 1;
+            this.radioButton33.TabStop = true;
+            this.radioButton33.Text = "I used your visual aid";
+            this.radioButton33.UseVisualStyleBackColor = true;
+            this.radioButton33.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton34
+            // 
+            this.radioButton34.AutoSize = true;
+            this.radioButton34.Location = new System.Drawing.Point(4, 6);
+            this.radioButton34.Name = "radioButton34";
+            this.radioButton34.Size = new System.Drawing.Size(111, 17);
+            this.radioButton34.TabIndex = 0;
+            this.radioButton34.TabStop = true;
+            this.radioButton34.Text = "I knew it by myself";
+            this.radioButton34.UseVisualStyleBackColor = true;
+            this.radioButton34.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel19
+            // 
+            this.panel19.Controls.Add(this.radioButton35);
+            this.panel19.Controls.Add(this.radioButton36);
+            this.panel19.Location = new System.Drawing.Point(317, 412);
+            this.panel19.Name = "panel19";
+            this.panel19.Size = new System.Drawing.Size(266, 26);
+            this.panel19.TabIndex = 3;
+            // 
+            // radioButton35
+            // 
+            this.radioButton35.AutoSize = true;
+            this.radioButton35.Location = new System.Drawing.Point(138, 6);
+            this.radioButton35.Name = "radioButton35";
+            this.radioButton35.Size = new System.Drawing.Size(124, 17);
+            this.radioButton35.TabIndex = 1;
+            this.radioButton35.TabStop = true;
+            this.radioButton35.Text = "I used your visual aid";
+            this.radioButton35.UseVisualStyleBackColor = true;
+            this.radioButton35.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton36
+            // 
+            this.radioButton36.AutoSize = true;
+            this.radioButton36.Location = new System.Drawing.Point(4, 6);
+            this.radioButton36.Name = "radioButton36";
+            this.radioButton36.Size = new System.Drawing.Size(111, 17);
+            this.radioButton36.TabIndex = 0;
+            this.radioButton36.TabStop = true;
+            this.radioButton36.Text = "I knew it by myself";
+            this.radioButton36.UseVisualStyleBackColor = true;
+            this.radioButton36.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel20
+            // 
+            this.panel20.Controls.Add(this.radioButton37);
+            this.panel20.Controls.Add(this.radioButton38);
+            this.panel20.Location = new System.Drawing.Point(317, 437);
+            this.panel20.Name = "panel20";
+            this.panel20.Size = new System.Drawing.Size(266, 26);
+            this.panel20.TabIndex = 3;
+            // 
+            // radioButton37
+            // 
+            this.radioButton37.AutoSize = true;
+            this.radioButton37.Location = new System.Drawing.Point(138, 6);
+            this.radioButton37.Name = "radioButton37";
+            this.radioButton37.Size = new System.Drawing.Size(124, 17);
+            this.radioButton37.TabIndex = 1;
+            this.radioButton37.TabStop = true;
+            this.radioButton37.Text = "I used your visual aid";
+            this.radioButton37.UseVisualStyleBackColor = true;
+            this.radioButton37.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton38
+            // 
+            this.radioButton38.AutoSize = true;
+            this.radioButton38.Location = new System.Drawing.Point(4, 6);
+            this.radioButton38.Name = "radioButton38";
+            this.radioButton38.Size = new System.Drawing.Size(111, 17);
+            this.radioButton38.TabIndex = 0;
+            this.radioButton38.TabStop = true;
+            this.radioButton38.Text = "I knew it by myself";
+            this.radioButton38.UseVisualStyleBackColor = true;
+            this.radioButton38.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel21
+            // 
+            this.panel21.Controls.Add(this.radioButton39);
+            this.panel21.Controls.Add(this.radioButton40);
+            this.panel21.Location = new System.Drawing.Point(317, 463);
+            this.panel21.Name = "panel21";
+            this.panel21.Size = new System.Drawing.Size(266, 26);
+            this.panel21.TabIndex = 3;
+            // 
+            // radioButton39
+            // 
+            this.radioButton39.AutoSize = true;
+            this.radioButton39.Location = new System.Drawing.Point(138, 6);
+            this.radioButton39.Name = "radioButton39";
+            this.radioButton39.Size = new System.Drawing.Size(124, 17);
+            this.radioButton39.TabIndex = 1;
+            this.radioButton39.TabStop = true;
+            this.radioButton39.Text = "I used your visual aid";
+            this.radioButton39.UseVisualStyleBackColor = true;
+            this.radioButton39.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton40
+            // 
+            this.radioButton40.AutoSize = true;
+            this.radioButton40.Location = new System.Drawing.Point(4, 6);
+            this.radioButton40.Name = "radioButton40";
+            this.radioButton40.Size = new System.Drawing.Size(111, 17);
+            this.radioButton40.TabIndex = 0;
+            this.radioButton40.TabStop = true;
+            this.radioButton40.Text = "I knew it by myself";
+            this.radioButton40.UseVisualStyleBackColor = true;
+            this.radioButton40.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel22
+            // 
+            this.panel22.Controls.Add(this.radioButton41);
+            this.panel22.Controls.Add(this.radioButton42);
+            this.panel22.Location = new System.Drawing.Point(317, 488);
+            this.panel22.Name = "panel22";
+            this.panel22.Size = new System.Drawing.Size(266, 26);
+            this.panel22.TabIndex = 3;
+            // 
+            // radioButton41
+            // 
+            this.radioButton41.AutoSize = true;
+            this.radioButton41.Location = new System.Drawing.Point(138, 6);
+            this.radioButton41.Name = "radioButton41";
+            this.radioButton41.Size = new System.Drawing.Size(124, 17);
+            this.radioButton41.TabIndex = 1;
+            this.radioButton41.TabStop = true;
+            this.radioButton41.Text = "I used your visual aid";
+            this.radioButton41.UseVisualStyleBackColor = true;
+            this.radioButton41.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton42
+            // 
+            this.radioButton42.AutoSize = true;
+            this.radioButton42.Location = new System.Drawing.Point(4, 6);
+            this.radioButton42.Name = "radioButton42";
+            this.radioButton42.Size = new System.Drawing.Size(111, 17);
+            this.radioButton42.TabIndex = 0;
+            this.radioButton42.TabStop = true;
+            this.radioButton42.Text = "I knew it by myself";
+            this.radioButton42.UseVisualStyleBackColor = true;
+            this.radioButton42.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // panel23
+            // 
+            this.panel23.Controls.Add(this.radioButton43);
+            this.panel23.Controls.Add(this.radioButton44);
+            this.panel23.Location = new System.Drawing.Point(317, 513);
+            this.panel23.Name = "panel23";
+            this.panel23.Size = new System.Drawing.Size(266, 26);
+            this.panel23.TabIndex = 3;
+            // 
+            // radioButton43
+            // 
+            this.radioButton43.AutoSize = true;
+            this.radioButton43.Location = new System.Drawing.Point(138, 6);
+            this.radioButton43.Name = "radioButton43";
+            this.radioButton43.Size = new System.Drawing.Size(124, 17);
+            this.radioButton43.TabIndex = 1;
+            this.radioButton43.TabStop = true;
+            this.radioButton43.Text = "I used your visual aid";
+            this.radioButton43.UseVisualStyleBackColor = true;
+            this.radioButton43.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // radioButton44
+            // 
+            this.radioButton44.AutoSize = true;
+            this.radioButton44.Location = new System.Drawing.Point(4, 6);
+            this.radioButton44.Name = "radioButton44";
+            this.radioButton44.Size = new System.Drawing.Size(111, 17);
+            this.radioButton44.TabIndex = 0;
+            this.radioButton44.TabStop = true;
+            this.radioButton44.Text = "I knew it by myself";
+            this.radioButton44.UseVisualStyleBackColor = true;
+            this.radioButton44.Click += new System.EventHandler(this.radio_Click);
+            // 
+            // textBox22
+            // 
+            this.textBox22.Location = new System.Drawing.Point(600, 17);
+            this.textBox22.Name = "textBox22";
+            this.textBox22.Size = new System.Drawing.Size(372, 20);
+            this.textBox22.TabIndex = 13;
+            this.textBox22.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(597, 2);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(132, 13);
+            this.label1.TabIndex = 14;
+            this.label1.Text = "Memorization aid (optional)";
+            // 
+            // textBox23
+            // 
+            this.textBox23.Location = new System.Drawing.Point(600, 42);
+            this.textBox23.Name = "textBox23";
+            this.textBox23.Size = new System.Drawing.Size(372, 20);
+            this.textBox23.TabIndex = 15;
+            this.textBox23.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox24
+            // 
+            this.textBox24.Location = new System.Drawing.Point(600, 68);
+            this.textBox24.Name = "textBox24";
+            this.textBox24.Size = new System.Drawing.Size(372, 20);
+            this.textBox24.TabIndex = 16;
+            this.textBox24.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox25
+            // 
+            this.textBox25.Location = new System.Drawing.Point(600, 92);
+            this.textBox25.Name = "textBox25";
+            this.textBox25.Size = new System.Drawing.Size(372, 20);
+            this.textBox25.TabIndex = 17;
+            this.textBox25.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox26
+            // 
+            this.textBox26.Location = new System.Drawing.Point(600, 118);
+            this.textBox26.Name = "textBox26";
+            this.textBox26.Size = new System.Drawing.Size(372, 20);
+            this.textBox26.TabIndex = 18;
+            this.textBox26.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox27
+            // 
+            this.textBox27.Location = new System.Drawing.Point(600, 142);
+            this.textBox27.Name = "textBox27";
+            this.textBox27.Size = new System.Drawing.Size(372, 20);
+            this.textBox27.TabIndex = 19;
+            this.textBox27.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox28
+            // 
+            this.textBox28.Location = new System.Drawing.Point(600, 168);
+            this.textBox28.Name = "textBox28";
+            this.textBox28.Size = new System.Drawing.Size(372, 20);
+            this.textBox28.TabIndex = 20;
+            this.textBox28.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox29
+            // 
+            this.textBox29.Location = new System.Drawing.Point(600, 192);
+            this.textBox29.Name = "textBox29";
+            this.textBox29.Size = new System.Drawing.Size(372, 20);
+            this.textBox29.TabIndex = 21;
+            this.textBox29.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox30
+            // 
+            this.textBox30.Location = new System.Drawing.Point(600, 218);
+            this.textBox30.Name = "textBox30";
+            this.textBox30.Size = new System.Drawing.Size(372, 20);
+            this.textBox30.TabIndex = 22;
+            this.textBox30.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox31
+            // 
+            this.textBox31.Location = new System.Drawing.Point(600, 243);
+            this.textBox31.Name = "textBox31";
+            this.textBox31.Size = new System.Drawing.Size(372, 20);
+            this.textBox31.TabIndex = 23;
+            this.textBox31.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox32
+            // 
+            this.textBox32.Location = new System.Drawing.Point(600, 268);
+            this.textBox32.Name = "textBox32";
+            this.textBox32.Size = new System.Drawing.Size(372, 20);
+            this.textBox32.TabIndex = 24;
+            this.textBox32.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox33
+            // 
+            this.textBox33.Location = new System.Drawing.Point(600, 293);
+            this.textBox33.Name = "textBox33";
+            this.textBox33.Size = new System.Drawing.Size(372, 20);
+            this.textBox33.TabIndex = 25;
+            this.textBox33.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox34
+            // 
+            this.textBox34.Location = new System.Drawing.Point(600, 318);
+            this.textBox34.Name = "textBox34";
+            this.textBox34.Size = new System.Drawing.Size(372, 20);
+            this.textBox34.TabIndex = 26;
+            this.textBox34.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox35
+            // 
+            this.textBox35.Location = new System.Drawing.Point(600, 343);
+            this.textBox35.Name = "textBox35";
+            this.textBox35.Size = new System.Drawing.Size(372, 20);
+            this.textBox35.TabIndex = 27;
+            this.textBox35.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox36
+            // 
+            this.textBox36.Location = new System.Drawing.Point(600, 368);
+            this.textBox36.Name = "textBox36";
+            this.textBox36.Size = new System.Drawing.Size(372, 20);
+            this.textBox36.TabIndex = 28;
+            this.textBox36.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox37
+            // 
+            this.textBox37.Location = new System.Drawing.Point(600, 393);
+            this.textBox37.Name = "textBox37";
+            this.textBox37.Size = new System.Drawing.Size(372, 20);
+            this.textBox37.TabIndex = 29;
+            this.textBox37.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox38
+            // 
+            this.textBox38.Location = new System.Drawing.Point(600, 418);
+            this.textBox38.Name = "textBox38";
+            this.textBox38.Size = new System.Drawing.Size(372, 20);
+            this.textBox38.TabIndex = 30;
+            this.textBox38.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox39
+            // 
+            this.textBox39.Location = new System.Drawing.Point(600, 442);
+            this.textBox39.Name = "textBox39";
+            this.textBox39.Size = new System.Drawing.Size(372, 20);
+            this.textBox39.TabIndex = 31;
+            this.textBox39.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox40
+            // 
+            this.textBox40.Location = new System.Drawing.Point(600, 468);
+            this.textBox40.Name = "textBox40";
+            this.textBox40.Size = new System.Drawing.Size(372, 20);
+            this.textBox40.TabIndex = 32;
+            this.textBox40.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox41
+            // 
+            this.textBox41.Location = new System.Drawing.Point(600, 493);
+            this.textBox41.Name = "textBox41";
+            this.textBox41.Size = new System.Drawing.Size(372, 20);
+            this.textBox41.TabIndex = 33;
+            this.textBox41.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // textBox42
+            // 
+            this.textBox42.Location = new System.Drawing.Point(600, 518);
+            this.textBox42.Name = "textBox42";
+            this.textBox42.Size = new System.Drawing.Size(372, 20);
+            this.textBox42.TabIndex = 34;
+            this.textBox42.Click += new System.EventHandler(this.textBox_Click);
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(843, 544);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(129, 56);
+            this.button1.TabIndex = 35;
+            this.button1.Text = "Submit";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(784, 612);
+            this.ClientSize = new System.Drawing.Size(984, 612);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.textBox42);
+            this.Controls.Add(this.textBox41);
+            this.Controls.Add(this.textBox40);
+            this.Controls.Add(this.textBox39);
+            this.Controls.Add(this.textBox38);
+            this.Controls.Add(this.textBox37);
+            this.Controls.Add(this.textBox36);
+            this.Controls.Add(this.textBox35);
+            this.Controls.Add(this.textBox34);
+            this.Controls.Add(this.textBox33);
+            this.Controls.Add(this.textBox32);
+            this.Controls.Add(this.textBox31);
+            this.Controls.Add(this.textBox30);
+            this.Controls.Add(this.textBox29);
+            this.Controls.Add(this.textBox28);
+            this.Controls.Add(this.textBox27);
+            this.Controls.Add(this.textBox26);
+            this.Controls.Add(this.textBox25);
+            this.Controls.Add(this.textBox24);
+            this.Controls.Add(this.textBox23);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.textBox22);
+            this.Controls.Add(this.panel23);
+            this.Controls.Add(this.panel22);
+            this.Controls.Add(this.panel21);
+            this.Controls.Add(this.panel20);
+            this.Controls.Add(this.panel19);
+            this.Controls.Add(this.panel18);
+            this.Controls.Add(this.panel17);
+            this.Controls.Add(this.panel16);
+            this.Controls.Add(this.panel15);
+            this.Controls.Add(this.panel14);
+            this.Controls.Add(this.panel13);
+            this.Controls.Add(this.panel12);
+            this.Controls.Add(this.panel10);
+            this.Controls.Add(this.panel9);
+            this.Controls.Add(this.panel8);
+            this.Controls.Add(this.panel7);
+            this.Controls.Add(this.panel6);
+            this.Controls.Add(this.panel5);
+            this.Controls.Add(this.panel4);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.toolStripContainer1);
             this.Name = "Form4";
@@ -1057,7 +2167,52 @@
             this.toolStrip1.PerformLayout();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
+            this.panel8.ResumeLayout(false);
+            this.panel8.PerformLayout();
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
+            this.panel12.ResumeLayout(false);
+            this.panel12.PerformLayout();
+            this.panel13.ResumeLayout(false);
+            this.panel13.PerformLayout();
+            this.panel14.ResumeLayout(false);
+            this.panel14.PerformLayout();
+            this.panel15.ResumeLayout(false);
+            this.panel15.PerformLayout();
+            this.panel16.ResumeLayout(false);
+            this.panel16.PerformLayout();
+            this.panel17.ResumeLayout(false);
+            this.panel17.PerformLayout();
+            this.panel18.ResumeLayout(false);
+            this.panel18.PerformLayout();
+            this.panel19.ResumeLayout(false);
+            this.panel19.PerformLayout();
+            this.panel20.ResumeLayout(false);
+            this.panel20.PerformLayout();
+            this.panel21.ResumeLayout(false);
+            this.panel21.PerformLayout();
+            this.panel22.ResumeLayout(false);
+            this.panel22.PerformLayout();
+            this.panel23.ResumeLayout(false);
+            this.panel23.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -1149,5 +2304,94 @@
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.RadioButton radioButton2;
+        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.RadioButton radioButton3;
+        private System.Windows.Forms.RadioButton radioButton4;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.RadioButton radioButton5;
+        private System.Windows.Forms.RadioButton radioButton6;
+        private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.RadioButton radioButton7;
+        private System.Windows.Forms.RadioButton radioButton8;
+        private System.Windows.Forms.Panel panel6;
+        private System.Windows.Forms.RadioButton radioButton9;
+        private System.Windows.Forms.RadioButton radioButton10;
+        private System.Windows.Forms.Panel panel7;
+        private System.Windows.Forms.RadioButton radioButton11;
+        private System.Windows.Forms.RadioButton radioButton12;
+        private System.Windows.Forms.Panel panel8;
+        private System.Windows.Forms.RadioButton radioButton13;
+        private System.Windows.Forms.RadioButton radioButton14;
+        private System.Windows.Forms.Panel panel9;
+        private System.Windows.Forms.RadioButton radioButton15;
+        private System.Windows.Forms.RadioButton radioButton16;
+        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.Panel panel11;
+        private System.Windows.Forms.RadioButton radioButton19;
+        private System.Windows.Forms.RadioButton radioButton20;
+        private System.Windows.Forms.RadioButton radioButton17;
+        private System.Windows.Forms.RadioButton radioButton18;
+        private System.Windows.Forms.Panel panel12;
+        private System.Windows.Forms.RadioButton radioButton21;
+        private System.Windows.Forms.RadioButton radioButton22;
+        private System.Windows.Forms.Panel panel13;
+        private System.Windows.Forms.RadioButton radioButton23;
+        private System.Windows.Forms.RadioButton radioButton24;
+        private System.Windows.Forms.Panel panel14;
+        private System.Windows.Forms.RadioButton radioButton25;
+        private System.Windows.Forms.RadioButton radioButton26;
+        private System.Windows.Forms.Panel panel15;
+        private System.Windows.Forms.RadioButton radioButton27;
+        private System.Windows.Forms.RadioButton radioButton28;
+        private System.Windows.Forms.Panel panel16;
+        private System.Windows.Forms.RadioButton radioButton29;
+        private System.Windows.Forms.RadioButton radioButton30;
+        private System.Windows.Forms.Panel panel17;
+        private System.Windows.Forms.RadioButton radioButton31;
+        private System.Windows.Forms.RadioButton radioButton32;
+        private System.Windows.Forms.Panel panel18;
+        private System.Windows.Forms.RadioButton radioButton33;
+        private System.Windows.Forms.RadioButton radioButton34;
+        private System.Windows.Forms.Panel panel19;
+        private System.Windows.Forms.RadioButton radioButton35;
+        private System.Windows.Forms.RadioButton radioButton36;
+        private System.Windows.Forms.Panel panel20;
+        private System.Windows.Forms.RadioButton radioButton37;
+        private System.Windows.Forms.RadioButton radioButton38;
+        private System.Windows.Forms.Panel panel21;
+        private System.Windows.Forms.RadioButton radioButton39;
+        private System.Windows.Forms.RadioButton radioButton40;
+        private System.Windows.Forms.Panel panel22;
+        private System.Windows.Forms.RadioButton radioButton41;
+        private System.Windows.Forms.RadioButton radioButton42;
+        private System.Windows.Forms.Panel panel23;
+        private System.Windows.Forms.RadioButton radioButton43;
+        private System.Windows.Forms.RadioButton radioButton44;
+        private System.Windows.Forms.TextBox textBox22;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox textBox23;
+        private System.Windows.Forms.TextBox textBox24;
+        private System.Windows.Forms.TextBox textBox25;
+        private System.Windows.Forms.TextBox textBox26;
+        private System.Windows.Forms.TextBox textBox27;
+        private System.Windows.Forms.TextBox textBox28;
+        private System.Windows.Forms.TextBox textBox29;
+        private System.Windows.Forms.TextBox textBox30;
+        private System.Windows.Forms.TextBox textBox31;
+        private System.Windows.Forms.TextBox textBox32;
+        private System.Windows.Forms.TextBox textBox33;
+        private System.Windows.Forms.TextBox textBox34;
+        private System.Windows.Forms.TextBox textBox35;
+        private System.Windows.Forms.TextBox textBox36;
+        private System.Windows.Forms.TextBox textBox37;
+        private System.Windows.Forms.TextBox textBox38;
+        private System.Windows.Forms.TextBox textBox39;
+        private System.Windows.Forms.TextBox textBox40;
+        private System.Windows.Forms.TextBox textBox41;
+        private System.Windows.Forms.TextBox textBox42;
+        private System.Windows.Forms.Button button1;
     }
 }
