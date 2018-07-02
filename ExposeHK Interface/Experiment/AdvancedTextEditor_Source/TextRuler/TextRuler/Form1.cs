@@ -71,6 +71,16 @@ namespace TextRuler
 
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            advancedTextEditor1.Close();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            this.advancedTextEditor1.Close();
+        }
+
         /***
         protected override void WndProc(ref Message message)
         {

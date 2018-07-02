@@ -44,10 +44,10 @@ namespace TextRuler
                     MessageBoxIcon.Information);
                 return;
             }
-            if (radioButton6.Checked) Program.help = 1;
-            else if (radioButton7.Checked) Program.help = 2;
-            else if (radioButton8.Checked) Program.help = 3;
-            else if (radioButton9.Checked) Program.help = 4;
+            if (radioButton6.Checked) Program.help = "ExposeHK";
+            else if (radioButton7.Checked) Program.help = "ExposeKeyboard";
+            else if (radioButton8.Checked) Program.help = "StickerKeyboard";
+            else if (radioButton9.Checked) Program.help = "Optimus";
             else
             {
                 MessageBox.Show("You must fill all the sections", "Warning",

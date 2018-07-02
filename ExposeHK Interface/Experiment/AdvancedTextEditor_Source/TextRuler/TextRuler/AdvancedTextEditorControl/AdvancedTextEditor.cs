@@ -15,19 +15,21 @@ namespace TextRuler.AdvancedTextEditorControl
     {
         UserActivityHook hook;
         Form2 keyboard;
-        
+
         static int blocId = 1;
 
         bool ctrl = false;
         bool alt = false;
         bool shift = false;
-        Stopwatch watch;
+        Stopwatch ctrlWatch;
+        Stopwatch textSelectionWatch;
+        Stopwatch globalWatch;
 
         public AdvancedTextEditor()
         {
             InitializeComponent();
 
-            
+
             hook = new UserActivityHook();
             hook.KeyDown += new KeyEventHandler(MyKeyDown);
             hook.KeyUp += new KeyEventHandler(MyKeyUp);
@@ -47,6 +49,8 @@ namespace TextRuler.AdvancedTextEditorControl
 
             logFile = Program.name + "_" + Program.phase.ToString() + "-" + blocId.ToString() + "_" + Program.help.ToString() + "_" +
                 DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
+
+            logFile2 = logFile + "_Data";
 
             ToolStrip currentToolStrip = this.Toolbox_Main;
             for (int i = 0; i < 2; i++)
@@ -82,7 +86,7 @@ namespace TextRuler.AdvancedTextEditorControl
                             hotkey.Text = hotkeyText;
 
                             button.MouseHover += new System.EventHandler(this.Button_MouseHover);
-                            
+
 
                             hotkey.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
 
@@ -123,11 +127,29 @@ namespace TextRuler.AdvancedTextEditorControl
             this.TextEditor.SelectionIndent = 0;
             this.TextEditor.SelectionRightIndent = 0;
             this.TextEditor.SelectionHangingIndent = 0;
-            
-            watch = new Stopwatch();
+
+            ctrlWatch = new Stopwatch();
+            textSelectionWatch = new Stopwatch();
+            globalWatch = new Stopwatch();
+            globalWatch.Start();
         }
 
-
+        internal void Close ()
+        {
+            globalWatch.Stop();
+            log2("Total time " + globalWatch.ElapsedMilliseconds);
+            globalWatch.Reset();
+            blocId += 1;
+            if (blocId > Program.rep) Application.Exit();
+            else
+            {
+                logFile = Program.name + "_" + Program.phase.ToString() + "-" + blocId.ToString() + "_" + Program.help.ToString() + "_" +
+                DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
+                logFile2 = logFile + "_Data";
+                openFile("startPoint.rtf");
+                globalWatch.Start();
+            }
+        }
         private void Compare()
         {
             string rtfText = TextEditor.Rtf;
@@ -135,15 +157,7 @@ namespace TextRuler.AdvancedTextEditorControl
             //Debug.WriteLine(rtfText);
             if (String.Compare(def, rtfText) == 0)
             {
-                blocId += 1;
-                if (blocId > Program.rep) Application.Exit();
-                else
-                {
-                    logFile = Program.name + "_" + Program.phase.ToString() + "-" + blocId.ToString() + "_" + Program.help.ToString() + "_" +
-                    DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
-                    openFile("startPoint.rtf");
-                }
-
+                Close();
             }
         }
 
@@ -154,17 +168,32 @@ namespace TextRuler.AdvancedTextEditorControl
 
 
         public String logFile = "I've Made a Huge Mistake";
+        public String logFile2 = "I've Made a Huge Mistake2";
 
         public void log(String s)
         {
-
-            Debug.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
+            //Debug.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
 
             // create a writer and open the file
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
 
             // write a    line of text to the file
             file.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
+
+            // close the stream
+            file.Close();
+
+        }
+
+        public void log2(String s)
+        {
+            Debug.WriteLine(s);
+
+            // create a writer and open the file
+            System.IO.StreamWriter file = new System.IO.StreamWriter(logFile2 + ".txt", true);
+
+            // write a    line of text to the file
+            file.WriteLine(s);
 
             // close the stream
             file.Close();
@@ -181,10 +210,14 @@ namespace TextRuler.AdvancedTextEditorControl
                 if (e == null)
                 {
                     message = message + " HOTKEY " + b.Tag.ToString() + " SelText:" + selectedText + " " + textSelTech + " ";
+                    log2("COMMAND " + b.Name + " HOTKEY " + textSelectionWatch.ElapsedMilliseconds + " " + ctrlWatch.ElapsedMilliseconds + " "
+                        + exposed);
                 }
                 else
                 {
                     message = message + " MOUSE " + b.Tag.ToString() + " SelText:" + selectedText + " " + textSelTech + " ";
+                    log2("COMMAND " + b.Name + " MOUSE " + textSelectionWatch.ElapsedMilliseconds + " " + ctrlWatch.ElapsedMilliseconds + " "
+                        + exposed);
                 }
                 log(message);
             }
@@ -195,6 +228,11 @@ namespace TextRuler.AdvancedTextEditorControl
 
         public void MyKeyDown(object sender, KeyEventArgs e)
         {
+            if (ctrl && !exposed && ctrlWatch.ElapsedMilliseconds > 1000)
+                if (Program.phase == 2 && Program.help.Equals("ExposeHK"))
+                    ExposeHK();
+                else if (Program.phase == 2 && Program.help.Equals("ExposeKeyboard"))
+                    ExposeKeyboard();
 
             if (String.IsNullOrEmpty(this.TextEditor.SelectedText))
             {
@@ -206,6 +244,7 @@ namespace TextRuler.AdvancedTextEditorControl
                 log("Text Selection KEYBOARD " + this.TextEditor.SelectedText);
                 selectedText = this.TextEditor.SelectedText;
                 textSelTech = "KEYBOARD";
+                textSelectionWatch.Restart();
             }
 
 
@@ -304,20 +343,19 @@ namespace TextRuler.AdvancedTextEditorControl
                 }
                 //e.Handled = true; // THIS SHOULD BE UNCOMMENTED - is commented for taking screenshots
             }
-
             if (e.KeyData == Keys.LControlKey || e.KeyData == Keys.RControlKey)
             {
                 if (!ctrl)
                 {
-                    watch.Start();
+                    ctrlWatch.Start();
                 }
                 else
                 {
-                    Debug.WriteLine(watch.ElapsedMilliseconds);
-                    if (watch.ElapsedMilliseconds > 1000)
-                        if (Program.phase == 2 && Program.help == 1)
+                    //Debug.WriteLine(ctrlWatch.ElapsedMilliseconds);
+                    if (ctrlWatch.ElapsedMilliseconds > 1000)
+                        if (Program.phase == 2 && Program.help.Equals("ExposeHK"))
                             ExposeHK();
-                        else if (Program.phase == 2 && Program.help == 2)
+                        else if (Program.phase == 2 && Program.help.Equals("ExposeKeyboard"))
                             ExposeKeyboard();
                 }
                 ctrl = true;
@@ -340,7 +378,8 @@ namespace TextRuler.AdvancedTextEditorControl
 
         public void MyKeyUp(object sender, KeyEventArgs e)
         {
-            if(String.IsNullOrEmpty(this.TextEditor.SelectedText)){
+            if (String.IsNullOrEmpty(this.TextEditor.SelectedText))
+            {
                 selectedText = "";
             }
 
@@ -349,16 +388,17 @@ namespace TextRuler.AdvancedTextEditorControl
                 log("Text Selection KEYBOARD " + this.TextEditor.SelectedText);
                 selectedText = this.TextEditor.SelectedText;
                 textSelTech = "KEYBOARD";
+                textSelectionWatch.Restart();
             }
 
             if (e.KeyData == Keys.LControlKey || e.KeyData == Keys.RControlKey)
             {
                 ctrl = false;
-                watch.Stop();
-                watch.Reset();
-                if (Program.phase == 2 && Program.help == 1)
+                ctrlWatch.Stop();
+                ctrlWatch.Reset();
+                if (Program.phase == 2 && Program.help.Equals("ExposeHK"))
                     hideHK();
-                else if (Program.phase == 2 && Program.help == 2)
+                else if (Program.phase == 2 && Program.help.Equals("ExposeKeyboard"))
                     HideKeyboard();
             }
 
@@ -389,6 +429,7 @@ namespace TextRuler.AdvancedTextEditorControl
                 log("Text Selection MOUSE " + this.TextEditor.SelectedText);
                 selectedText = this.TextEditor.SelectedText;
                 textSelTech = "MOUSE";
+                textSelectionWatch.Restart();
             }
 
             if (e.Clicks > 0)
@@ -411,7 +452,7 @@ namespace TextRuler.AdvancedTextEditorControl
         bool exposed = false;
 
         public void ExposeHK()
-        {            
+        {
             if (exposed == false)
             {
                 log("ExposeHK Activated");
@@ -440,11 +481,13 @@ namespace TextRuler.AdvancedTextEditorControl
 
         private void ExposeKeyboard()
         {
+            exposed = true;
             keyboard.Show();
         }
 
         private void HideKeyboard()
         {
+            exposed = false;
             keyboard.Hide();
         }
 
@@ -489,7 +532,7 @@ namespace TextRuler.AdvancedTextEditorControl
 
 
         string _path = "";
-        int checkPrint = 0;        
+        int checkPrint = 0;
 
         private string GetFilePath()
         {
@@ -665,7 +708,7 @@ namespace TextRuler.AdvancedTextEditorControl
             {
             }
         }
-       
+
 
         private void btnNew_Click(object sender, EventArgs e)
         {
@@ -916,7 +959,7 @@ namespace TextRuler.AdvancedTextEditorControl
                         break;
                 }
 
-                this.TextEditor.UpdateObjects();                
+                this.TextEditor.UpdateObjects();
             }
             catch (Exception)
             {
@@ -942,7 +985,7 @@ namespace TextRuler.AdvancedTextEditorControl
             }
             catch (Exception)
             {
-                
+
             }
         }
 
@@ -1081,7 +1124,7 @@ namespace TextRuler.AdvancedTextEditorControl
         private void btnBold_Click(object sender, EventArgs e)
         {
             logCommandSelection(sender, e);
-            
+
             if (this.TextEditor.SelectionCharStyle.Bold == true)
             {
                 this.btnBold.Checked = false;
@@ -1135,7 +1178,7 @@ namespace TextRuler.AdvancedTextEditorControl
             try
             {
                 this.TextEditor.SelectionIndent = (int)(this.Ruler.LeftIndent * this.Ruler.DotsPerMillimeter);
-                this.TextEditor.SelectionHangingIndent = (int)(this.Ruler.LeftHangingIndent * this.Ruler.DotsPerMillimeter) - (int)(this.Ruler.LeftIndent * this.Ruler.DotsPerMillimeter);                
+                this.TextEditor.SelectionHangingIndent = (int)(this.Ruler.LeftHangingIndent * this.Ruler.DotsPerMillimeter) - (int)(this.Ruler.LeftIndent * this.Ruler.DotsPerMillimeter);
             }
             catch (Exception)
             {
@@ -1145,7 +1188,7 @@ namespace TextRuler.AdvancedTextEditorControl
         private void Ruler_LeftHangingIndentChanging(int NewValue)
         {
             try
-            {                
+            {
                 this.TextEditor.SelectionHangingIndent = (int)(this.Ruler.LeftHangingIndent * this.Ruler.DotsPerMillimeter) - (int)(this.Ruler.LeftIndent * this.Ruler.DotsPerMillimeter);
             }
             catch (Exception)
@@ -1172,7 +1215,7 @@ namespace TextRuler.AdvancedTextEditorControl
                 this.TextEditor.SelectionFont2 = new Font(this.cmbFontName.Text, Convert.ToInt32(this.cmbFontSize.Text));
             }
             catch (Exception)
-            {                
+            {
             }
         }
 
@@ -1187,7 +1230,7 @@ namespace TextRuler.AdvancedTextEditorControl
                 }
             }
             catch (Exception)
-            {                
+            {
             }
         }
 
@@ -1322,7 +1365,7 @@ namespace TextRuler.AdvancedTextEditorControl
         {
             string _imgPath = GetImagePath();
             if (_imgPath == "")
-                return;            
+                return;
             this.TextEditor.InsertImage(_imgPath);
         }
 
@@ -1392,12 +1435,12 @@ namespace TextRuler.AdvancedTextEditorControl
                 this.prtDoc.Print();
             }
         }
-        
+
         private void btnPrint_Click(object sender, EventArgs e)
         {
             logCommandSelection(sender, e);
             freeze = true;
-            Thread t = new Thread(PrintHelpThread);            
+            Thread t = new Thread(PrintHelpThread);
             t.Start();
             freeze = false;
         }
@@ -1414,7 +1457,7 @@ namespace TextRuler.AdvancedTextEditorControl
             freeze = true;
             Save(false);
             freeze = false;
-            
+
         }
 
 
@@ -1434,7 +1477,7 @@ namespace TextRuler.AdvancedTextEditorControl
 
         private void bw_DoWork(object sender, DoWorkEventArgs e)
         {
-            
+
         }
 
         private void bw_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
@@ -1497,7 +1540,7 @@ namespace TextRuler.AdvancedTextEditorControl
                     this.TextEditor.AppendText(Environment.NewLine + DateTime.Now.ToString(txtCustom.Text));
                 }
                 catch (Exception)
-                {                    
+                {
                 }
                 txtCustom.Text = "specify custom date/time format";
                 this.mnuInsert.DropDown.Close();
@@ -1544,7 +1587,7 @@ namespace TextRuler.AdvancedTextEditorControl
             }
             catch (Exception)
             {
-            }            
+            }
         }
 
         private void btnUnderline_Click(object sender, EventArgs e)
@@ -1760,7 +1803,7 @@ namespace TextRuler.AdvancedTextEditorControl
         private void Ruler_BothLeftIndentsChanged(int LeftIndent, int HangIndent)
         {
             this.TextEditor.SelectionIndent = (int)(this.Ruler.LeftIndent * this.Ruler.DotsPerMillimeter);
-            this.TextEditor.SelectionHangingIndent = (int)(this.Ruler.LeftHangingIndent * this.Ruler.DotsPerMillimeter) - (int)(this.Ruler.LeftIndent * this.Ruler.DotsPerMillimeter);            
+            this.TextEditor.SelectionHangingIndent = (int)(this.Ruler.LeftHangingIndent * this.Ruler.DotsPerMillimeter) - (int)(this.Ruler.LeftIndent * this.Ruler.DotsPerMillimeter);
         }
 
         private void TextEditor_LinkClicked(object sender, LinkClickedEventArgs e)
@@ -1854,7 +1897,7 @@ namespace TextRuler.AdvancedTextEditorControl
 
         private void TextEditor_MouseMove(object sender, MouseEventArgs e)
         {
-            
+
         }
 
         private void mnuULWave_Click(object sender, EventArgs e)
@@ -1970,6 +2013,6 @@ namespace TextRuler.AdvancedTextEditorControl
         {
             logCommandSelection(sender, e);
             this.TextEditor.SelectionColor = Color.FromArgb(0, 192, 192);
-        }        
+        }
     }
 }

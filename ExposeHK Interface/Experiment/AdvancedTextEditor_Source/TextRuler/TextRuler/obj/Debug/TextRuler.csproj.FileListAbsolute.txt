@@ -57,6 +57,8 @@ C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor
 C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csprojAssemblyReference.cache
 C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form1.resources
 C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form2.resources
+C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form3.resources
+C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form4.resources
 C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Properties.Resources.resources
 C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
 C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Dialogs.dlgFind.resources
@@ -64,5 +66,3 @@ C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor
 C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.CoreCompileInputs.cache
 C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.exe
 C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.pdb
-C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form3.resources
-C:\Users\Luong\Desktop\ExposeHK\ExposeHK Interface\Experiment\AdvancedTextEditor_Source\TextRuler\TextRuler\obj\Debug\TextRuler.Form4.resources

@@ -11,7 +11,7 @@ namespace TextRuler
         public static int rep = 2;
         public static String name;
         public static int phase;
-        public static int help;
+        public static String help;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

@@ -910,7 +910,7 @@
             this.textBox21.TabIndex = 21;
             this.textBox21.Text = "Shortcut ...";
             this.textBox21.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox21.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox21_KeyDown);
+            this.textBox21.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox21.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox20
@@ -922,7 +922,7 @@
             this.textBox20.TabIndex = 20;
             this.textBox20.Text = "Shortcut ...";
             this.textBox20.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox20.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox20_KeyDown);
+            this.textBox20.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox20.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox19
@@ -934,7 +934,7 @@
             this.textBox19.TabIndex = 19;
             this.textBox19.Text = "Shortcut ...";
             this.textBox19.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox19.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox19_KeyDown);
+            this.textBox19.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox19.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox18
@@ -946,7 +946,7 @@
             this.textBox18.TabIndex = 18;
             this.textBox18.Text = "Shortcut ...";
             this.textBox18.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox18.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox18_KeyDown);
+            this.textBox18.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox18.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox17
@@ -958,7 +958,7 @@
             this.textBox17.TabIndex = 17;
             this.textBox17.Text = "Shortcut ...";
             this.textBox17.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox17.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox17_KeyDown);
+            this.textBox17.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox17.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox16
@@ -970,7 +970,7 @@
             this.textBox16.TabIndex = 16;
             this.textBox16.Text = "Shortcut ...";
             this.textBox16.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox16.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox16_KeyDown);
+            this.textBox16.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox16.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox15
@@ -982,7 +982,7 @@
             this.textBox15.TabIndex = 15;
             this.textBox15.Text = "Shortcut ...";
             this.textBox15.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox15.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox15_KeyDown);
+            this.textBox15.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox15.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox14
@@ -994,7 +994,7 @@
             this.textBox14.TabIndex = 14;
             this.textBox14.Text = "Shortcut ...";
             this.textBox14.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox14.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox14_KeyDown);
+            this.textBox14.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox14.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox13
@@ -1006,7 +1006,7 @@
             this.textBox13.TabIndex = 13;
             this.textBox13.Text = "Shortcut ...";
             this.textBox13.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox13.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox13_KeyDown);
+            this.textBox13.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox13.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox12
@@ -1018,7 +1018,7 @@
             this.textBox12.TabIndex = 12;
             this.textBox12.Text = "Shortcut ...";
             this.textBox12.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox12.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox12_KeyDown);
+            this.textBox12.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox12.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox11
@@ -1030,7 +1030,7 @@
             this.textBox11.TabIndex = 11;
             this.textBox11.Text = "Shortcut ...";
             this.textBox11.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox11.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox11_KeyDown);
+            this.textBox11.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox11.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox10
@@ -1042,7 +1042,7 @@
             this.textBox10.TabIndex = 10;
             this.textBox10.Text = "Shortcut ...";
             this.textBox10.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox10.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox10_KeyDown);
+            this.textBox10.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox10.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox9
@@ -1054,7 +1054,7 @@
             this.textBox9.TabIndex = 9;
             this.textBox9.Text = "Shortcut ...";
             this.textBox9.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox9.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox9_KeyDown);
+            this.textBox9.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox9.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox8
@@ -1066,7 +1066,7 @@
             this.textBox8.TabIndex = 8;
             this.textBox8.Text = "Shortcut ...";
             this.textBox8.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox8.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox8_KeyDown);
+            this.textBox8.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox8.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox7
@@ -1078,7 +1078,7 @@
             this.textBox7.TabIndex = 7;
             this.textBox7.Text = "Shortcut ...";
             this.textBox7.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox7.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox7_KeyDown);
+            this.textBox7.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox7.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox6
@@ -1090,7 +1090,7 @@
             this.textBox6.TabIndex = 6;
             this.textBox6.Text = "Shortcut ...";
             this.textBox6.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox6.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox6_KeyDown);
+            this.textBox6.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox6.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox5
@@ -1102,7 +1102,7 @@
             this.textBox5.TabIndex = 5;
             this.textBox5.Text = "Shortcut ...";
             this.textBox5.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox5.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox5_KeyDown);
+            this.textBox5.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox5.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox4
@@ -1114,7 +1114,7 @@
             this.textBox4.TabIndex = 4;
             this.textBox4.Text = "Shortcut ...";
             this.textBox4.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox4.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox4_KeyDown);
+            this.textBox4.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox4.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox3
@@ -1126,7 +1126,7 @@
             this.textBox3.TabIndex = 3;
             this.textBox3.Text = "Shortcut ...";
             this.textBox3.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox3.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox3_KeyDown);
+            this.textBox3.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox3.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox2
@@ -1138,7 +1138,7 @@
             this.textBox2.TabIndex = 2;
             this.textBox2.Text = "Shortcut ...";
             this.textBox2.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox2_KeyDown);
+            this.textBox2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox2.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // textBox1
@@ -1150,7 +1150,7 @@
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "Shortcut ...";
             this.textBox1.Click += new System.EventHandler(this.textBox_Click);
-            this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
+            this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             this.textBox1.KeyUp += new System.Windows.Forms.KeyEventHandler(this.sender_KeyUp);
             // 
             // panel2
