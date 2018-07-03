@@ -15,10 +15,14 @@ namespace TextRuler
         public Form3()
         {
             InitializeComponent();
+            panel3.Location = new Point(
+                this.ClientSize.Width / 2 - panel3.Size.Width / 2,
+                this.ClientSize.Height / 2 - panel3.Size.Height / 2);
+            panel3.Anchor = AnchorStyles.None;
             String text = "Hello, \r\n\r\n" +
                 "You are going to edit a text on one side that we will give you so that it is the same as the one on the other side.\r\n\r\n" +
                 "You will edit this text " + Program.rep.ToString() + " times and you have the buttons and keyboard shortcuts to format the text.\r\n\r\n" +
-                "In phase 2 we will provide you with a visual aid .Phases 3 and 5 consist of shortcut memorization tests.\r\n\r\n" +
+                "In phase 2 we will provide you with a visual aid. Phases 3 and 5 consist of shortcut memorization tests.\r\n\r\n" +
                 "Thank you for your participation in our experiment.";
             instruction.Text = text;
         }

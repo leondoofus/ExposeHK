@@ -28,6 +28,10 @@ namespace TextRuler
         public Form4()
         {
             InitializeComponent();
+            panel11.Location = new Point(
+                this.ClientSize.Width / 2 - panel11.Size.Width / 2,
+                this.ClientSize.Height / 2 - panel11.Size.Height / 2);
+            panel11.Anchor = AnchorStyles.None;
             this.toolStripButton6.Image = ((System.Drawing.Image)(resources.GetObject("DecreaseSizeBtn.Image")));
             this.toolStripButton7.Image = ((System.Drawing.Image)(resources.GetObject("IncreaseSizeButton.Image")));
             this.toolStripButton8.Image = ((System.Drawing.Image)(resources.GetObject("btnBold.Image")));
@@ -86,8 +90,6 @@ namespace TextRuler
             allRadios.Add(radioButton16);
             allRadios.Add(radioButton17);
             allRadios.Add(radioButton18);
-            allRadios.Add(radioButton19);
-            allRadios.Add(radioButton20);
             allRadios.Add(radioButton21);
             allRadios.Add(radioButton22);
             allRadios.Add(radioButton23);
@@ -185,7 +187,6 @@ namespace TextRuler
 
         private void setTextBox (TextBox textbox, String s)
         {
-            Console.WriteLine("ICI");
             String val = "";
             if (ctrl) val += "Ctrl + ";
             if (shift) val += "Shift + ";
@@ -291,15 +292,12 @@ namespace TextRuler
             log("CLICK submit");
             for (int i = 0; i < allShortcuts.Count; i++)
             {
-                if (!allShortcuts[i].Text.Equals("Shortcut ..."))
+                if(allShortcuts[i].Text.Equals("Shortcut ...") || (!allRadios[i * 2].Checked && !allRadios[i * 2 + 1].Checked))
                 {
-                    if (!allRadios[i*2].Checked && !allRadios[i * 2 + 1].Checked)
-                    {
-                        MessageBox.Show("Error in line " + (i+1).ToString(), "Warning",
+                        MessageBox.Show("You must fill all the shortcuts' propeties", "Warning",
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Information);
                         return;
-                    }
                 }
             }
             write_log();

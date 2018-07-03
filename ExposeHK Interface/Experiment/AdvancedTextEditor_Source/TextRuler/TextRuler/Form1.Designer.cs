@@ -39,17 +39,17 @@
             // 
             this.advancedTextEditor1.Dock = System.Windows.Forms.DockStyle.Left;
             this.advancedTextEditor1.Location = new System.Drawing.Point(0, 0);
-            this.advancedTextEditor1.MaximumSize = new System.Drawing.Size(652, 662);
-            this.advancedTextEditor1.MinimumSize = new System.Drawing.Size(652, 662);
+            this.advancedTextEditor1.MaximumSize = new System.Drawing.Size(652, 692);
+            this.advancedTextEditor1.MinimumSize = new System.Drawing.Size(652, 692);
             this.advancedTextEditor1.Name = "advancedTextEditor1";
-            this.advancedTextEditor1.Size = new System.Drawing.Size(652, 662);
+            this.advancedTextEditor1.Size = new System.Drawing.Size(652, 692);
             this.advancedTextEditor1.TabIndex = 0;
             this.advancedTextEditor1.Load += new System.EventHandler(this.advancedTextEditor1_Load);
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(664, 1);
+            this.pictureBox1.Location = new System.Drawing.Point(664, 31);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(663, 687);
             this.pictureBox1.TabIndex = 1;
@@ -57,7 +57,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(1176, 667);
+            this.button1.Location = new System.Drawing.Point(1176, 35);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(106, 33);
             this.button1.TabIndex = 2;

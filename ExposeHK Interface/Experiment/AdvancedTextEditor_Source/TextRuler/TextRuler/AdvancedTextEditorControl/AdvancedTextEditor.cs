@@ -352,7 +352,7 @@ namespace TextRuler.AdvancedTextEditorControl
                 else
                 {
                     //Debug.WriteLine(ctrlWatch.ElapsedMilliseconds);
-                    if (ctrlWatch.ElapsedMilliseconds > 1000)
+                    if (ctrlWatch.ElapsedMilliseconds > 300)
                         if (Program.phase == 2 && Program.help.Equals("ExposeHK"))
                             ExposeHK();
                         else if (Program.phase == 2 && Program.help.Equals("ExposeKeyboard"))
