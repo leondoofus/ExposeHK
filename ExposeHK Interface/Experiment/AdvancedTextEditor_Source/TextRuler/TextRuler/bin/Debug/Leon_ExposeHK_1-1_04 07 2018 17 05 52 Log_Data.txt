@@ -1,0 +1,6 @@
+Timestamp;Participant;Aid;Phase;BlockID;;Command;Alternative;TimeSinceTextSelected;TimeSinceCtrlPressed;AidDisplayed
+04/07/2018 17:05:57 764;Leon;ExposeHK;1;1;LimeButton;HOTKEY;2654;1543;False
+04/07/2018 17:06:00 309;Leon;ExposeHK;1;1;IncreaseSizeButton;HOTKEY;5192;4080;False
+04/07/2018 17:06:01 861;Leon;ExposeHK;1;1;btnAlignCenter;HOTKEY;6750;5639;False
+04/07/2018 17:06:03 571;Leon;ExposeHK;1;1;btnBold;HOTKEY;8455;7343;False
+04/07/2018 17:06:04 53;Leon;ExposeHK;1;1;IncreaseSizeButton;HOTKEY;8942;7830;False

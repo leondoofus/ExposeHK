@@ -24,6 +24,8 @@ namespace TextRuler
         private List<RadioButton> allRadios = new List<RadioButton>();
         private List<TextBox> allAids = new List<TextBox>();
         private string logFile;
+        private string date;
+        private string pending = "";
 
         public Form4()
         {
@@ -143,20 +145,28 @@ namespace TextRuler
             hook.OnMouseActivity += new MouseEventHandler(hook_MouseMove);
             hook.Start();
 
-            logFile = Program.name + "_" + Program.phase.ToString() + "_" + Program.help.ToString() + "_" +
-                DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
+            date = DateTime.Now.ToString();
+            logFile = Program.name + "_" + Program.help + "_" + Program.phase + "-1_" +
+                date.Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
+        }
+
+        public void log_init()
+        {
+            System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
+            file.WriteLine("Timestamp;Participant;Aid;Phase;BlockID;Event");
+            file.Close();
         }
 
         public void log(String s)
         {
 
-            Debug.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
+            //Debug.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
 
             // create a writer and open the file
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
 
             // write a    line of text to the file
-            file.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
+            file.WriteLine(DateTime.Now + " " + DateTime.Now.Millisecond + ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";1;" + s);
 
             // close the stream
             file.Close();
@@ -187,13 +197,25 @@ namespace TextRuler
 
         private void setTextBox (TextBox textbox, String s)
         {
+            if (s.Equals(pending)) return;
             String val = "";
             if (ctrl) val += "Ctrl + ";
             if (shift) val += "Shift + ";
             if (alt) val += "Alt + ";
             val += s;
-            if (val.Equals(s)) { textbox.Text = "Shorcut ..."; return; }
+            if (val.Equals(s)) { textbox.Text = "Shortcut ..."; return; }
+            pending = s;
             textbox.Text = val;
+            int i = 0;
+            for (; i < allShortcuts.Count; i++)
+            {
+                if (allShortcuts[i] == textbox)
+                    break;
+            }
+            if (i < allShortcuts.Count - 1)
+            {
+                allShortcuts[i + 1].Focus();
+            }
         }
 
         private void sender_KeyDown(TextBox textBox, KeyEventArgs e)
@@ -253,20 +275,24 @@ namespace TextRuler
             if (e.KeyCode == Keys.ControlKey)
             {
                 ctrl = true;
+                pending = "";
             }
 
             if (e.KeyCode == Keys.ShiftKey)
             {
                 shift = true;
+                pending = "";
             }
             if (e.KeyCode == Keys.Menu)
             {
                 alt = true;
+                pending = "";
             }
         }
 
         private void sender_KeyUp(object sender, KeyEventArgs e)
         {
+            pending = "";
             if (e.KeyCode == Keys.ControlKey)
             {
                 ctrl = false;
@@ -310,28 +336,34 @@ namespace TextRuler
 
             // create a writer and open the file
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
-            
+            file.WriteLine("Timestamp;Participant;Aid;Phase;BlockID;Shortcut;LearnedByAid;Comment");
+            String tmp = date.Replace(" ", ";") + ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";" + "1;";
             for (int i = 0; i < allShortcuts.Count; i++)
             {
-                if (allShortcuts[i].Text.Equals("Shortcut ..."))
+                if(allRadios[i * 2].Checked)
                 {
-                    Debug.WriteLine("null\t0\tnull");
-                    file.WriteLine("null\t0\tnull");
+                    if (allAids[i].Equals(""))
+                    {
+                        Debug.WriteLine(tmp + allShortcuts[i].Text + ";0;null");
+                        file.WriteLine(tmp + allShortcuts[i].Text + ";0;null");
+                    }
+                    else
+                    {
+                        Debug.WriteLine(tmp + allShortcuts[i].Text + ";0;" + allAids[i].Text);
+                        file.WriteLine(tmp + allShortcuts[i].Text + ";0;" + allAids[i].Text);
+                    }
                 }
                 else
                 {
-                    if(allRadios[i * 2].Checked)
+                    if (allAids[i].Equals(""))
                     {
-                        if (allAids[i].Equals(""))
-                        {
-                            Debug.WriteLine(allShortcuts[i].Text + "\t0\tnull");
-                            file.WriteLine(allShortcuts[i].Text + "\t0\tnull");
-                        }
-                        else
-                        {
-                            Debug.WriteLine(allShortcuts[i].Text + "\t1\t" + allAids[i].Text);
-                            file.WriteLine(allShortcuts[i].Text + "\t1\t" + allAids[i].Text);
-                        }
+                        Debug.WriteLine(tmp + allShortcuts[i].Text + ";1;null");
+                        file.WriteLine(tmp + allShortcuts[i].Text + ";1;null");
+                    }
+                    else
+                    {
+                        Debug.WriteLine(tmp + allShortcuts[i].Text + ";1;" + allAids[i].Text);
+                        file.WriteLine(tmp + allShortcuts[i].Text + ";1;" + allAids[i].Text);
                     }
                 }
             }

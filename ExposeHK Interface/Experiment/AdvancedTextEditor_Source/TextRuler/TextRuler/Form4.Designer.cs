@@ -277,7 +277,7 @@
             this.toolStripContainer1.ContentPanel.Controls.Add(this.toolStrip3);
             this.toolStripContainer1.ContentPanel.Controls.Add(this.toolStrip1);
             this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(150, 562);
-            this.toolStripContainer1.Location = new System.Drawing.Point(137, 11);
+            this.toolStripContainer1.Location = new System.Drawing.Point(10, 10);
             this.toolStripContainer1.Name = "toolStripContainer1";
             this.toolStripContainer1.Size = new System.Drawing.Size(150, 587);
             this.toolStripContainer1.TabIndex = 0;
@@ -894,7 +894,7 @@
             this.panel1.Controls.Add(this.textBox3);
             this.panel1.Controls.Add(this.textBox2);
             this.panel1.Controls.Add(this.textBox1);
-            this.panel1.Location = new System.Drawing.Point(6, 10);
+            this.panel1.Location = new System.Drawing.Point(166, 10);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(125, 587);
             this.panel1.TabIndex = 1;
@@ -904,7 +904,7 @@
             this.textBox21.Location = new System.Drawing.Point(0, 506);
             this.textBox21.Name = "textBox21";
             this.textBox21.ReadOnly = true;
-            this.textBox21.Size = new System.Drawing.Size(105, 20);
+            this.textBox21.Size = new System.Drawing.Size(122, 20);
             this.textBox21.TabIndex = 21;
             this.textBox21.Text = "Shortcut ...";
             this.textBox21.Click += new System.EventHandler(this.textBox_Click);
@@ -916,7 +916,7 @@
             this.textBox20.Location = new System.Drawing.Point(0, 481);
             this.textBox20.Name = "textBox20";
             this.textBox20.ReadOnly = true;
-            this.textBox20.Size = new System.Drawing.Size(105, 20);
+            this.textBox20.Size = new System.Drawing.Size(122, 20);
             this.textBox20.TabIndex = 20;
             this.textBox20.Text = "Shortcut ...";
             this.textBox20.Click += new System.EventHandler(this.textBox_Click);
@@ -928,7 +928,7 @@
             this.textBox19.Location = new System.Drawing.Point(0, 456);
             this.textBox19.Name = "textBox19";
             this.textBox19.ReadOnly = true;
-            this.textBox19.Size = new System.Drawing.Size(105, 20);
+            this.textBox19.Size = new System.Drawing.Size(122, 20);
             this.textBox19.TabIndex = 19;
             this.textBox19.Text = "Shortcut ...";
             this.textBox19.Click += new System.EventHandler(this.textBox_Click);
@@ -940,7 +940,7 @@
             this.textBox18.Location = new System.Drawing.Point(0, 431);
             this.textBox18.Name = "textBox18";
             this.textBox18.ReadOnly = true;
-            this.textBox18.Size = new System.Drawing.Size(105, 20);
+            this.textBox18.Size = new System.Drawing.Size(122, 20);
             this.textBox18.TabIndex = 18;
             this.textBox18.Text = "Shortcut ...";
             this.textBox18.Click += new System.EventHandler(this.textBox_Click);
@@ -952,7 +952,7 @@
             this.textBox17.Location = new System.Drawing.Point(0, 406);
             this.textBox17.Name = "textBox17";
             this.textBox17.ReadOnly = true;
-            this.textBox17.Size = new System.Drawing.Size(105, 20);
+            this.textBox17.Size = new System.Drawing.Size(122, 20);
             this.textBox17.TabIndex = 17;
             this.textBox17.Text = "Shortcut ...";
             this.textBox17.Click += new System.EventHandler(this.textBox_Click);
@@ -964,7 +964,7 @@
             this.textBox16.Location = new System.Drawing.Point(0, 381);
             this.textBox16.Name = "textBox16";
             this.textBox16.ReadOnly = true;
-            this.textBox16.Size = new System.Drawing.Size(105, 20);
+            this.textBox16.Size = new System.Drawing.Size(122, 20);
             this.textBox16.TabIndex = 16;
             this.textBox16.Text = "Shortcut ...";
             this.textBox16.Click += new System.EventHandler(this.textBox_Click);
@@ -976,7 +976,7 @@
             this.textBox15.Location = new System.Drawing.Point(0, 356);
             this.textBox15.Name = "textBox15";
             this.textBox15.ReadOnly = true;
-            this.textBox15.Size = new System.Drawing.Size(105, 20);
+            this.textBox15.Size = new System.Drawing.Size(122, 20);
             this.textBox15.TabIndex = 15;
             this.textBox15.Text = "Shortcut ...";
             this.textBox15.Click += new System.EventHandler(this.textBox_Click);
@@ -988,7 +988,7 @@
             this.textBox14.Location = new System.Drawing.Point(0, 331);
             this.textBox14.Name = "textBox14";
             this.textBox14.ReadOnly = true;
-            this.textBox14.Size = new System.Drawing.Size(105, 20);
+            this.textBox14.Size = new System.Drawing.Size(122, 20);
             this.textBox14.TabIndex = 14;
             this.textBox14.Text = "Shortcut ...";
             this.textBox14.Click += new System.EventHandler(this.textBox_Click);
@@ -1000,7 +1000,7 @@
             this.textBox13.Location = new System.Drawing.Point(0, 306);
             this.textBox13.Name = "textBox13";
             this.textBox13.ReadOnly = true;
-            this.textBox13.Size = new System.Drawing.Size(105, 20);
+            this.textBox13.Size = new System.Drawing.Size(122, 20);
             this.textBox13.TabIndex = 13;
             this.textBox13.Text = "Shortcut ...";
             this.textBox13.Click += new System.EventHandler(this.textBox_Click);
@@ -1012,7 +1012,7 @@
             this.textBox12.Location = new System.Drawing.Point(0, 281);
             this.textBox12.Name = "textBox12";
             this.textBox12.ReadOnly = true;
-            this.textBox12.Size = new System.Drawing.Size(105, 20);
+            this.textBox12.Size = new System.Drawing.Size(122, 20);
             this.textBox12.TabIndex = 12;
             this.textBox12.Text = "Shortcut ...";
             this.textBox12.Click += new System.EventHandler(this.textBox_Click);
@@ -1024,7 +1024,7 @@
             this.textBox11.Location = new System.Drawing.Point(0, 256);
             this.textBox11.Name = "textBox11";
             this.textBox11.ReadOnly = true;
-            this.textBox11.Size = new System.Drawing.Size(105, 20);
+            this.textBox11.Size = new System.Drawing.Size(122, 20);
             this.textBox11.TabIndex = 11;
             this.textBox11.Text = "Shortcut ...";
             this.textBox11.Click += new System.EventHandler(this.textBox_Click);
@@ -1036,7 +1036,7 @@
             this.textBox10.Location = new System.Drawing.Point(0, 231);
             this.textBox10.Name = "textBox10";
             this.textBox10.ReadOnly = true;
-            this.textBox10.Size = new System.Drawing.Size(105, 20);
+            this.textBox10.Size = new System.Drawing.Size(122, 20);
             this.textBox10.TabIndex = 10;
             this.textBox10.Text = "Shortcut ...";
             this.textBox10.Click += new System.EventHandler(this.textBox_Click);
@@ -1048,7 +1048,7 @@
             this.textBox9.Location = new System.Drawing.Point(0, 206);
             this.textBox9.Name = "textBox9";
             this.textBox9.ReadOnly = true;
-            this.textBox9.Size = new System.Drawing.Size(105, 20);
+            this.textBox9.Size = new System.Drawing.Size(122, 20);
             this.textBox9.TabIndex = 9;
             this.textBox9.Text = "Shortcut ...";
             this.textBox9.Click += new System.EventHandler(this.textBox_Click);
@@ -1060,7 +1060,7 @@
             this.textBox8.Location = new System.Drawing.Point(0, 181);
             this.textBox8.Name = "textBox8";
             this.textBox8.ReadOnly = true;
-            this.textBox8.Size = new System.Drawing.Size(105, 20);
+            this.textBox8.Size = new System.Drawing.Size(122, 20);
             this.textBox8.TabIndex = 8;
             this.textBox8.Text = "Shortcut ...";
             this.textBox8.Click += new System.EventHandler(this.textBox_Click);
@@ -1072,7 +1072,7 @@
             this.textBox7.Location = new System.Drawing.Point(0, 156);
             this.textBox7.Name = "textBox7";
             this.textBox7.ReadOnly = true;
-            this.textBox7.Size = new System.Drawing.Size(105, 20);
+            this.textBox7.Size = new System.Drawing.Size(122, 20);
             this.textBox7.TabIndex = 7;
             this.textBox7.Text = "Shortcut ...";
             this.textBox7.Click += new System.EventHandler(this.textBox_Click);
@@ -1084,7 +1084,7 @@
             this.textBox6.Location = new System.Drawing.Point(0, 131);
             this.textBox6.Name = "textBox6";
             this.textBox6.ReadOnly = true;
-            this.textBox6.Size = new System.Drawing.Size(105, 20);
+            this.textBox6.Size = new System.Drawing.Size(122, 20);
             this.textBox6.TabIndex = 6;
             this.textBox6.Text = "Shortcut ...";
             this.textBox6.Click += new System.EventHandler(this.textBox_Click);
@@ -1096,7 +1096,7 @@
             this.textBox5.Location = new System.Drawing.Point(0, 106);
             this.textBox5.Name = "textBox5";
             this.textBox5.ReadOnly = true;
-            this.textBox5.Size = new System.Drawing.Size(105, 20);
+            this.textBox5.Size = new System.Drawing.Size(122, 20);
             this.textBox5.TabIndex = 5;
             this.textBox5.Text = "Shortcut ...";
             this.textBox5.Click += new System.EventHandler(this.textBox_Click);
@@ -1108,7 +1108,7 @@
             this.textBox4.Location = new System.Drawing.Point(0, 81);
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(105, 20);
+            this.textBox4.Size = new System.Drawing.Size(122, 20);
             this.textBox4.TabIndex = 4;
             this.textBox4.Text = "Shortcut ...";
             this.textBox4.Click += new System.EventHandler(this.textBox_Click);
@@ -1120,7 +1120,7 @@
             this.textBox3.Location = new System.Drawing.Point(0, 56);
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(105, 20);
+            this.textBox3.Size = new System.Drawing.Size(122, 20);
             this.textBox3.TabIndex = 3;
             this.textBox3.Text = "Shortcut ...";
             this.textBox3.Click += new System.EventHandler(this.textBox_Click);
@@ -1132,7 +1132,7 @@
             this.textBox2.Location = new System.Drawing.Point(0, 31);
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(105, 20);
+            this.textBox2.Size = new System.Drawing.Size(122, 20);
             this.textBox2.TabIndex = 2;
             this.textBox2.Text = "Shortcut ...";
             this.textBox2.Click += new System.EventHandler(this.textBox_Click);
@@ -1144,7 +1144,7 @@
             this.textBox1.Location = new System.Drawing.Point(0, 6);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(105, 20);
+            this.textBox1.Size = new System.Drawing.Size(122, 20);
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "Shortcut ...";
             this.textBox1.Click += new System.EventHandler(this.textBox_Click);
@@ -1155,9 +1155,9 @@
             // 
             this.panel2.Controls.Add(this.radioButton2);
             this.panel2.Controls.Add(this.radioButton1);
-            this.panel2.Location = new System.Drawing.Point(311, 10);
+            this.panel2.Location = new System.Drawing.Point(297, 12);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(266, 26);
+            this.panel2.Size = new System.Drawing.Size(288, 26);
             this.panel2.TabIndex = 2;
             // 
             // radioButton2
@@ -1177,10 +1177,10 @@
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(138, 6);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(124, 17);
+            this.radioButton1.Size = new System.Drawing.Size(150, 17);
             this.radioButton1.TabIndex = 0;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "I used your visual aid";
+            this.radioButton1.Text = "I learned by your visual aid";
             this.radioButton1.UseVisualStyleBackColor = true;
             this.radioButton1.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1188,9 +1188,9 @@
             // 
             this.panel3.Controls.Add(this.radioButton3);
             this.panel3.Controls.Add(this.radioButton4);
-            this.panel3.Location = new System.Drawing.Point(311, 35);
+            this.panel3.Location = new System.Drawing.Point(297, 37);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(266, 26);
+            this.panel3.Size = new System.Drawing.Size(288, 26);
             this.panel3.TabIndex = 3;
             // 
             // radioButton3
@@ -1198,10 +1198,10 @@
             this.radioButton3.AutoSize = true;
             this.radioButton3.Location = new System.Drawing.Point(138, 6);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(124, 17);
+            this.radioButton3.Size = new System.Drawing.Size(150, 17);
             this.radioButton3.TabIndex = 1;
             this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "I used your visual aid";
+            this.radioButton3.Text = "I learned by your visual aid";
             this.radioButton3.UseVisualStyleBackColor = true;
             this.radioButton3.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1221,9 +1221,9 @@
             // 
             this.panel4.Controls.Add(this.radioButton5);
             this.panel4.Controls.Add(this.radioButton6);
-            this.panel4.Location = new System.Drawing.Point(311, 61);
+            this.panel4.Location = new System.Drawing.Point(297, 63);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(266, 26);
+            this.panel4.Size = new System.Drawing.Size(288, 26);
             this.panel4.TabIndex = 3;
             // 
             // radioButton5
@@ -1231,10 +1231,10 @@
             this.radioButton5.AutoSize = true;
             this.radioButton5.Location = new System.Drawing.Point(138, 6);
             this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(124, 17);
+            this.radioButton5.Size = new System.Drawing.Size(150, 17);
             this.radioButton5.TabIndex = 1;
             this.radioButton5.TabStop = true;
-            this.radioButton5.Text = "I used your visual aid";
+            this.radioButton5.Text = "I learned by your visual aid";
             this.radioButton5.UseVisualStyleBackColor = true;
             this.radioButton5.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1254,9 +1254,9 @@
             // 
             this.panel5.Controls.Add(this.radioButton7);
             this.panel5.Controls.Add(this.radioButton8);
-            this.panel5.Location = new System.Drawing.Point(311, 85);
+            this.panel5.Location = new System.Drawing.Point(297, 87);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(266, 26);
+            this.panel5.Size = new System.Drawing.Size(288, 26);
             this.panel5.TabIndex = 4;
             // 
             // radioButton7
@@ -1264,10 +1264,10 @@
             this.radioButton7.AutoSize = true;
             this.radioButton7.Location = new System.Drawing.Point(138, 6);
             this.radioButton7.Name = "radioButton7";
-            this.radioButton7.Size = new System.Drawing.Size(124, 17);
+            this.radioButton7.Size = new System.Drawing.Size(150, 17);
             this.radioButton7.TabIndex = 1;
             this.radioButton7.TabStop = true;
-            this.radioButton7.Text = "I used your visual aid";
+            this.radioButton7.Text = "I learned by your visual aid";
             this.radioButton7.UseVisualStyleBackColor = true;
             this.radioButton7.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1287,9 +1287,9 @@
             // 
             this.panel6.Controls.Add(this.radioButton9);
             this.panel6.Controls.Add(this.radioButton10);
-            this.panel6.Location = new System.Drawing.Point(311, 111);
+            this.panel6.Location = new System.Drawing.Point(297, 113);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(266, 26);
+            this.panel6.Size = new System.Drawing.Size(288, 26);
             this.panel6.TabIndex = 5;
             // 
             // radioButton9
@@ -1297,10 +1297,10 @@
             this.radioButton9.AutoSize = true;
             this.radioButton9.Location = new System.Drawing.Point(138, 6);
             this.radioButton9.Name = "radioButton9";
-            this.radioButton9.Size = new System.Drawing.Size(124, 17);
+            this.radioButton9.Size = new System.Drawing.Size(150, 17);
             this.radioButton9.TabIndex = 1;
             this.radioButton9.TabStop = true;
-            this.radioButton9.Text = "I used your visual aid";
+            this.radioButton9.Text = "I learned by your visual aid";
             this.radioButton9.UseVisualStyleBackColor = true;
             this.radioButton9.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1320,9 +1320,9 @@
             // 
             this.panel7.Controls.Add(this.radioButton11);
             this.panel7.Controls.Add(this.radioButton12);
-            this.panel7.Location = new System.Drawing.Point(311, 135);
+            this.panel7.Location = new System.Drawing.Point(297, 137);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(266, 26);
+            this.panel7.Size = new System.Drawing.Size(288, 26);
             this.panel7.TabIndex = 6;
             // 
             // radioButton11
@@ -1330,10 +1330,10 @@
             this.radioButton11.AutoSize = true;
             this.radioButton11.Location = new System.Drawing.Point(138, 6);
             this.radioButton11.Name = "radioButton11";
-            this.radioButton11.Size = new System.Drawing.Size(124, 17);
+            this.radioButton11.Size = new System.Drawing.Size(150, 17);
             this.radioButton11.TabIndex = 1;
             this.radioButton11.TabStop = true;
-            this.radioButton11.Text = "I used your visual aid";
+            this.radioButton11.Text = "I learned by your visual aid";
             this.radioButton11.UseVisualStyleBackColor = true;
             this.radioButton11.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1353,9 +1353,9 @@
             // 
             this.panel8.Controls.Add(this.radioButton13);
             this.panel8.Controls.Add(this.radioButton14);
-            this.panel8.Location = new System.Drawing.Point(311, 161);
+            this.panel8.Location = new System.Drawing.Point(297, 163);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(266, 26);
+            this.panel8.Size = new System.Drawing.Size(288, 26);
             this.panel8.TabIndex = 7;
             // 
             // radioButton13
@@ -1363,10 +1363,10 @@
             this.radioButton13.AutoSize = true;
             this.radioButton13.Location = new System.Drawing.Point(138, 6);
             this.radioButton13.Name = "radioButton13";
-            this.radioButton13.Size = new System.Drawing.Size(124, 17);
+            this.radioButton13.Size = new System.Drawing.Size(150, 17);
             this.radioButton13.TabIndex = 1;
             this.radioButton13.TabStop = true;
-            this.radioButton13.Text = "I used your visual aid";
+            this.radioButton13.Text = "I learned by your visual aid";
             this.radioButton13.UseVisualStyleBackColor = true;
             this.radioButton13.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1386,9 +1386,9 @@
             // 
             this.panel9.Controls.Add(this.radioButton15);
             this.panel9.Controls.Add(this.radioButton16);
-            this.panel9.Location = new System.Drawing.Point(311, 185);
+            this.panel9.Location = new System.Drawing.Point(297, 187);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(266, 26);
+            this.panel9.Size = new System.Drawing.Size(288, 26);
             this.panel9.TabIndex = 3;
             // 
             // radioButton15
@@ -1396,10 +1396,10 @@
             this.radioButton15.AutoSize = true;
             this.radioButton15.Location = new System.Drawing.Point(138, 6);
             this.radioButton15.Name = "radioButton15";
-            this.radioButton15.Size = new System.Drawing.Size(124, 17);
+            this.radioButton15.Size = new System.Drawing.Size(150, 17);
             this.radioButton15.TabIndex = 1;
             this.radioButton15.TabStop = true;
-            this.radioButton15.Text = "I used your visual aid";
+            this.radioButton15.Text = "I learned by your visual aid";
             this.radioButton15.UseVisualStyleBackColor = true;
             this.radioButton15.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1419,9 +1419,9 @@
             // 
             this.panel10.Controls.Add(this.radioButton17);
             this.panel10.Controls.Add(this.radioButton18);
-            this.panel10.Location = new System.Drawing.Point(311, 211);
+            this.panel10.Location = new System.Drawing.Point(297, 213);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(266, 26);
+            this.panel10.Size = new System.Drawing.Size(288, 26);
             this.panel10.TabIndex = 8;
             // 
             // radioButton17
@@ -1429,10 +1429,10 @@
             this.radioButton17.AutoSize = true;
             this.radioButton17.Location = new System.Drawing.Point(138, 6);
             this.radioButton17.Name = "radioButton17";
-            this.radioButton17.Size = new System.Drawing.Size(124, 17);
+            this.radioButton17.Size = new System.Drawing.Size(150, 17);
             this.radioButton17.TabIndex = 1;
             this.radioButton17.TabStop = true;
-            this.radioButton17.Text = "I used your visual aid";
+            this.radioButton17.Text = "I learned by your visual aid";
             this.radioButton17.UseVisualStyleBackColor = true;
             this.radioButton17.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1452,9 +1452,9 @@
             // 
             this.panel12.Controls.Add(this.radioButton21);
             this.panel12.Controls.Add(this.radioButton22);
-            this.panel12.Location = new System.Drawing.Point(311, 236);
+            this.panel12.Location = new System.Drawing.Point(297, 238);
             this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(266, 26);
+            this.panel12.Size = new System.Drawing.Size(288, 26);
             this.panel12.TabIndex = 3;
             // 
             // radioButton21
@@ -1462,10 +1462,10 @@
             this.radioButton21.AutoSize = true;
             this.radioButton21.Location = new System.Drawing.Point(138, 6);
             this.radioButton21.Name = "radioButton21";
-            this.radioButton21.Size = new System.Drawing.Size(124, 17);
+            this.radioButton21.Size = new System.Drawing.Size(150, 17);
             this.radioButton21.TabIndex = 1;
             this.radioButton21.TabStop = true;
-            this.radioButton21.Text = "I used your visual aid";
+            this.radioButton21.Text = "I learned by your visual aid";
             this.radioButton21.UseVisualStyleBackColor = true;
             this.radioButton21.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1485,9 +1485,9 @@
             // 
             this.panel13.Controls.Add(this.radioButton23);
             this.panel13.Controls.Add(this.radioButton24);
-            this.panel13.Location = new System.Drawing.Point(311, 261);
+            this.panel13.Location = new System.Drawing.Point(297, 263);
             this.panel13.Name = "panel13";
-            this.panel13.Size = new System.Drawing.Size(266, 26);
+            this.panel13.Size = new System.Drawing.Size(288, 26);
             this.panel13.TabIndex = 9;
             // 
             // radioButton23
@@ -1495,10 +1495,10 @@
             this.radioButton23.AutoSize = true;
             this.radioButton23.Location = new System.Drawing.Point(138, 6);
             this.radioButton23.Name = "radioButton23";
-            this.radioButton23.Size = new System.Drawing.Size(124, 17);
+            this.radioButton23.Size = new System.Drawing.Size(150, 17);
             this.radioButton23.TabIndex = 1;
             this.radioButton23.TabStop = true;
-            this.radioButton23.Text = "I used your visual aid";
+            this.radioButton23.Text = "I learned by your visual aid";
             this.radioButton23.UseVisualStyleBackColor = true;
             this.radioButton23.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1518,9 +1518,9 @@
             // 
             this.panel14.Controls.Add(this.radioButton25);
             this.panel14.Controls.Add(this.radioButton26);
-            this.panel14.Location = new System.Drawing.Point(311, 286);
+            this.panel14.Location = new System.Drawing.Point(297, 288);
             this.panel14.Name = "panel14";
-            this.panel14.Size = new System.Drawing.Size(266, 26);
+            this.panel14.Size = new System.Drawing.Size(288, 26);
             this.panel14.TabIndex = 3;
             // 
             // radioButton25
@@ -1528,10 +1528,10 @@
             this.radioButton25.AutoSize = true;
             this.radioButton25.Location = new System.Drawing.Point(138, 6);
             this.radioButton25.Name = "radioButton25";
-            this.radioButton25.Size = new System.Drawing.Size(124, 17);
+            this.radioButton25.Size = new System.Drawing.Size(150, 17);
             this.radioButton25.TabIndex = 1;
             this.radioButton25.TabStop = true;
-            this.radioButton25.Text = "I used your visual aid";
+            this.radioButton25.Text = "I learned by your visual aid";
             this.radioButton25.UseVisualStyleBackColor = true;
             this.radioButton25.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1551,9 +1551,9 @@
             // 
             this.panel15.Controls.Add(this.radioButton27);
             this.panel15.Controls.Add(this.radioButton28);
-            this.panel15.Location = new System.Drawing.Point(311, 310);
+            this.panel15.Location = new System.Drawing.Point(297, 312);
             this.panel15.Name = "panel15";
-            this.panel15.Size = new System.Drawing.Size(266, 26);
+            this.panel15.Size = new System.Drawing.Size(288, 26);
             this.panel15.TabIndex = 3;
             // 
             // radioButton27
@@ -1561,10 +1561,10 @@
             this.radioButton27.AutoSize = true;
             this.radioButton27.Location = new System.Drawing.Point(138, 6);
             this.radioButton27.Name = "radioButton27";
-            this.radioButton27.Size = new System.Drawing.Size(124, 17);
+            this.radioButton27.Size = new System.Drawing.Size(150, 17);
             this.radioButton27.TabIndex = 1;
             this.radioButton27.TabStop = true;
-            this.radioButton27.Text = "I used your visual aid";
+            this.radioButton27.Text = "I learned by your visual aid";
             this.radioButton27.UseVisualStyleBackColor = true;
             this.radioButton27.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1584,9 +1584,9 @@
             // 
             this.panel16.Controls.Add(this.radioButton29);
             this.panel16.Controls.Add(this.radioButton30);
-            this.panel16.Location = new System.Drawing.Point(311, 336);
+            this.panel16.Location = new System.Drawing.Point(297, 338);
             this.panel16.Name = "panel16";
-            this.panel16.Size = new System.Drawing.Size(266, 26);
+            this.panel16.Size = new System.Drawing.Size(288, 26);
             this.panel16.TabIndex = 10;
             // 
             // radioButton29
@@ -1594,10 +1594,10 @@
             this.radioButton29.AutoSize = true;
             this.radioButton29.Location = new System.Drawing.Point(138, 6);
             this.radioButton29.Name = "radioButton29";
-            this.radioButton29.Size = new System.Drawing.Size(124, 17);
+            this.radioButton29.Size = new System.Drawing.Size(150, 17);
             this.radioButton29.TabIndex = 1;
             this.radioButton29.TabStop = true;
-            this.radioButton29.Text = "I used your visual aid";
+            this.radioButton29.Text = "I learned by your visual aid";
             this.radioButton29.UseVisualStyleBackColor = true;
             this.radioButton29.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1617,9 +1617,9 @@
             // 
             this.panel17.Controls.Add(this.radioButton31);
             this.panel17.Controls.Add(this.radioButton32);
-            this.panel17.Location = new System.Drawing.Point(311, 361);
+            this.panel17.Location = new System.Drawing.Point(297, 363);
             this.panel17.Name = "panel17";
-            this.panel17.Size = new System.Drawing.Size(266, 26);
+            this.panel17.Size = new System.Drawing.Size(288, 26);
             this.panel17.TabIndex = 11;
             // 
             // radioButton31
@@ -1627,10 +1627,10 @@
             this.radioButton31.AutoSize = true;
             this.radioButton31.Location = new System.Drawing.Point(138, 6);
             this.radioButton31.Name = "radioButton31";
-            this.radioButton31.Size = new System.Drawing.Size(124, 17);
+            this.radioButton31.Size = new System.Drawing.Size(150, 17);
             this.radioButton31.TabIndex = 1;
             this.radioButton31.TabStop = true;
-            this.radioButton31.Text = "I used your visual aid";
+            this.radioButton31.Text = "I learned by your visual aid";
             this.radioButton31.UseVisualStyleBackColor = true;
             this.radioButton31.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1650,9 +1650,9 @@
             // 
             this.panel18.Controls.Add(this.radioButton33);
             this.panel18.Controls.Add(this.radioButton34);
-            this.panel18.Location = new System.Drawing.Point(311, 385);
+            this.panel18.Location = new System.Drawing.Point(297, 387);
             this.panel18.Name = "panel18";
-            this.panel18.Size = new System.Drawing.Size(266, 26);
+            this.panel18.Size = new System.Drawing.Size(288, 26);
             this.panel18.TabIndex = 12;
             // 
             // radioButton33
@@ -1660,10 +1660,10 @@
             this.radioButton33.AutoSize = true;
             this.radioButton33.Location = new System.Drawing.Point(138, 6);
             this.radioButton33.Name = "radioButton33";
-            this.radioButton33.Size = new System.Drawing.Size(124, 17);
+            this.radioButton33.Size = new System.Drawing.Size(150, 17);
             this.radioButton33.TabIndex = 1;
             this.radioButton33.TabStop = true;
-            this.radioButton33.Text = "I used your visual aid";
+            this.radioButton33.Text = "I learned by your visual aid";
             this.radioButton33.UseVisualStyleBackColor = true;
             this.radioButton33.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1683,9 +1683,9 @@
             // 
             this.panel19.Controls.Add(this.radioButton35);
             this.panel19.Controls.Add(this.radioButton36);
-            this.panel19.Location = new System.Drawing.Point(311, 410);
+            this.panel19.Location = new System.Drawing.Point(297, 412);
             this.panel19.Name = "panel19";
-            this.panel19.Size = new System.Drawing.Size(266, 26);
+            this.panel19.Size = new System.Drawing.Size(288, 26);
             this.panel19.TabIndex = 3;
             // 
             // radioButton35
@@ -1693,10 +1693,10 @@
             this.radioButton35.AutoSize = true;
             this.radioButton35.Location = new System.Drawing.Point(138, 6);
             this.radioButton35.Name = "radioButton35";
-            this.radioButton35.Size = new System.Drawing.Size(124, 17);
+            this.radioButton35.Size = new System.Drawing.Size(150, 17);
             this.radioButton35.TabIndex = 1;
             this.radioButton35.TabStop = true;
-            this.radioButton35.Text = "I used your visual aid";
+            this.radioButton35.Text = "I learned by your visual aid";
             this.radioButton35.UseVisualStyleBackColor = true;
             this.radioButton35.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1716,9 +1716,9 @@
             // 
             this.panel20.Controls.Add(this.radioButton37);
             this.panel20.Controls.Add(this.radioButton38);
-            this.panel20.Location = new System.Drawing.Point(311, 435);
+            this.panel20.Location = new System.Drawing.Point(297, 437);
             this.panel20.Name = "panel20";
-            this.panel20.Size = new System.Drawing.Size(266, 26);
+            this.panel20.Size = new System.Drawing.Size(288, 26);
             this.panel20.TabIndex = 3;
             // 
             // radioButton37
@@ -1726,10 +1726,10 @@
             this.radioButton37.AutoSize = true;
             this.radioButton37.Location = new System.Drawing.Point(138, 6);
             this.radioButton37.Name = "radioButton37";
-            this.radioButton37.Size = new System.Drawing.Size(124, 17);
+            this.radioButton37.Size = new System.Drawing.Size(150, 17);
             this.radioButton37.TabIndex = 1;
             this.radioButton37.TabStop = true;
-            this.radioButton37.Text = "I used your visual aid";
+            this.radioButton37.Text = "I learned by your visual aid";
             this.radioButton37.UseVisualStyleBackColor = true;
             this.radioButton37.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1749,9 +1749,9 @@
             // 
             this.panel21.Controls.Add(this.radioButton39);
             this.panel21.Controls.Add(this.radioButton40);
-            this.panel21.Location = new System.Drawing.Point(311, 461);
+            this.panel21.Location = new System.Drawing.Point(297, 463);
             this.panel21.Name = "panel21";
-            this.panel21.Size = new System.Drawing.Size(266, 26);
+            this.panel21.Size = new System.Drawing.Size(288, 26);
             this.panel21.TabIndex = 3;
             // 
             // radioButton39
@@ -1759,10 +1759,10 @@
             this.radioButton39.AutoSize = true;
             this.radioButton39.Location = new System.Drawing.Point(138, 6);
             this.radioButton39.Name = "radioButton39";
-            this.radioButton39.Size = new System.Drawing.Size(124, 17);
+            this.radioButton39.Size = new System.Drawing.Size(150, 17);
             this.radioButton39.TabIndex = 1;
             this.radioButton39.TabStop = true;
-            this.radioButton39.Text = "I used your visual aid";
+            this.radioButton39.Text = "I learned by your visual aid";
             this.radioButton39.UseVisualStyleBackColor = true;
             this.radioButton39.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1782,9 +1782,9 @@
             // 
             this.panel22.Controls.Add(this.radioButton41);
             this.panel22.Controls.Add(this.radioButton42);
-            this.panel22.Location = new System.Drawing.Point(311, 486);
+            this.panel22.Location = new System.Drawing.Point(297, 488);
             this.panel22.Name = "panel22";
-            this.panel22.Size = new System.Drawing.Size(266, 26);
+            this.panel22.Size = new System.Drawing.Size(288, 26);
             this.panel22.TabIndex = 3;
             // 
             // radioButton41
@@ -1792,10 +1792,10 @@
             this.radioButton41.AutoSize = true;
             this.radioButton41.Location = new System.Drawing.Point(138, 6);
             this.radioButton41.Name = "radioButton41";
-            this.radioButton41.Size = new System.Drawing.Size(124, 17);
+            this.radioButton41.Size = new System.Drawing.Size(150, 17);
             this.radioButton41.TabIndex = 1;
             this.radioButton41.TabStop = true;
-            this.radioButton41.Text = "I used your visual aid";
+            this.radioButton41.Text = "I learned by your visual aid";
             this.radioButton41.UseVisualStyleBackColor = true;
             this.radioButton41.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -1815,9 +1815,9 @@
             // 
             this.panel23.Controls.Add(this.radioButton43);
             this.panel23.Controls.Add(this.radioButton44);
-            this.panel23.Location = new System.Drawing.Point(311, 511);
+            this.panel23.Location = new System.Drawing.Point(297, 513);
             this.panel23.Name = "panel23";
-            this.panel23.Size = new System.Drawing.Size(266, 26);
+            this.panel23.Size = new System.Drawing.Size(288, 26);
             this.panel23.TabIndex = 3;
             // 
             // radioButton43
@@ -1825,10 +1825,10 @@
             this.radioButton43.AutoSize = true;
             this.radioButton43.Location = new System.Drawing.Point(138, 6);
             this.radioButton43.Name = "radioButton43";
-            this.radioButton43.Size = new System.Drawing.Size(124, 17);
+            this.radioButton43.Size = new System.Drawing.Size(150, 17);
             this.radioButton43.TabIndex = 1;
             this.radioButton43.TabStop = true;
-            this.radioButton43.Text = "I used your visual aid";
+            this.radioButton43.Text = "I learned by your visual aid";
             this.radioButton43.UseVisualStyleBackColor = true;
             this.radioButton43.Click += new System.EventHandler(this.radio_Click);
             // 
@@ -2082,7 +2082,7 @@
             this.panel11.Controls.Add(this.panel23);
             this.panel11.Location = new System.Drawing.Point(0, 0);
             this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(984, 650);
+            this.panel11.Size = new System.Drawing.Size(972, 650);
             this.panel11.TabIndex = 36;
             // 
             // Form4

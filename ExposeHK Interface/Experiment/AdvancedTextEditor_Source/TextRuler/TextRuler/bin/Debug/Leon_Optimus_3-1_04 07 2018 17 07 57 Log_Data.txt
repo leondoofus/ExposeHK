@@ -1,0 +1,22 @@
+Timestamp;Participant;Aid;Phase;BlockID;Event;Shortcut;LearnedByAid;Comment
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + H;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + T;0;Thanks
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + R;0;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + H;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + E;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + H;0;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + E;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + H;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + B;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + C;0;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + B;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + N;0;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + B;0;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + N;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + H;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + D;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + H;1;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + C;0;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + N;0;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + R;0;
+04/07/2018;17:07:57;Leon;Optimus;3;1;Ctrl + F;1;

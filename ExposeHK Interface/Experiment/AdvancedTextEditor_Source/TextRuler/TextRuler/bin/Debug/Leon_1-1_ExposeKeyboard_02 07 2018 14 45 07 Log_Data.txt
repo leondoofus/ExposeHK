@@ -1,6 +1,0 @@
-COMMAND btnBold HOTKEY 1222 295 False
-COMMAND LimeButton HOTKEY 9101 4791 False
-COMMAND IncreaseSizeButton HOTKEY 11525 447 False
-COMMAND btnAlignCenter MOUSE 15769 0 False
-COMMAND IncreaseSizeButton MOUSE 18323 0 False
-Total time 24405

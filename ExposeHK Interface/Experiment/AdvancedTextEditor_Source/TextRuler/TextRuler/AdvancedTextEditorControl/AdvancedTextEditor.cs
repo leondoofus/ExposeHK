@@ -47,10 +47,14 @@ namespace TextRuler.AdvancedTextEditorControl
             bw.RunWorkerCompleted += new RunWorkerCompletedEventHandler(bw_RunWorkerCompleted);
 
 
-            logFile = Program.name + "_" + Program.phase.ToString() + "-" + blocId.ToString() + "_" + Program.help.ToString() + "_" +
+            logFile = Program.name + "_" + Program.help + "_" + Program.phase + "-" + blocId  + "_" +
                 DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
 
             logFile2 = logFile + "_Data";
+            log_init();
+            log2_init();
+            if (Program.phase == 2 && (Program.help.Equals("StickerKeyboard") || Program.help.Equals("Optimus")))
+                exposed = true;
 
             ToolStrip currentToolStrip = this.Toolbox_Main;
             for (int i = 0; i < 2; i++)
@@ -137,16 +141,19 @@ namespace TextRuler.AdvancedTextEditorControl
         internal void Close ()
         {
             globalWatch.Stop();
-            log2("Total time " + globalWatch.ElapsedMilliseconds);
+            log("Total time " + globalWatch.ElapsedMilliseconds);
+            TextEditor.SaveFile(logFile + "TextFile.rtf", RichTextBoxStreamType.RichText);
             globalWatch.Reset();
             blocId += 1;
             if (blocId > Program.rep) Application.Exit();
             else
             {
-                logFile = Program.name + "_" + Program.phase.ToString() + "-" + blocId.ToString() + "_" + Program.help.ToString() + "_" +
+                logFile = Program.name + "_" + Program.help.ToString() + "_" + Program.phase.ToString() + "-" + blocId.ToString() + "_" +
                 DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
                 logFile2 = logFile + "_Data";
                 openFile("startPoint.rtf");
+                log_init();
+                log2_init();
                 globalWatch.Start();
             }
         }
@@ -170,6 +177,13 @@ namespace TextRuler.AdvancedTextEditorControl
         public String logFile = "I've Made a Huge Mistake";
         public String logFile2 = "I've Made a Huge Mistake2";
 
+        public void log_init()
+        {
+            System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
+            file.WriteLine("Timestamp;Participant;Aid;Phase;BlockID;Event");
+            file.Close();
+        }
+
         public void log(String s)
         {
             //Debug.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
@@ -178,22 +192,29 @@ namespace TextRuler.AdvancedTextEditorControl
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
 
             // write a    line of text to the file
-            file.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
+            file.WriteLine(DateTime.Now + " " + DateTime.Now.Millisecond + ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";" + blocId + ";" + s);
 
             // close the stream
             file.Close();
 
         }
 
+        public void log2_init()
+        {
+            System.IO.StreamWriter file = new System.IO.StreamWriter(logFile2 + ".txt", true);
+            file.WriteLine("Timestamp;Participant;Aid;Phase;BlockID;;Command;Alternative;TimeSinceTextSelected;TimeSinceCtrlPressed;AidDisplayed");
+            file.Close();
+        }
+
         public void log2(String s)
         {
-            Debug.WriteLine(s);
+            Debug.WriteLine(DateTime.Now + " " + DateTime.Now.Millisecond + ";" + s);
 
             // create a writer and open the file
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile2 + ".txt", true);
 
             // write a    line of text to the file
-            file.WriteLine(s);
+            file.WriteLine(DateTime.Now + " " + DateTime.Now.Millisecond + ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";" + blocId + ";" + s);
 
             // close the stream
             file.Close();
@@ -210,13 +231,13 @@ namespace TextRuler.AdvancedTextEditorControl
                 if (e == null)
                 {
                     message = message + " HOTKEY " + b.Tag.ToString() + " SelText:" + selectedText + " " + textSelTech + " ";
-                    log2("COMMAND " + b.Name + " HOTKEY " + textSelectionWatch.ElapsedMilliseconds + " " + ctrlWatch.ElapsedMilliseconds + " "
+                    log2(b.Name + ";HOTKEY;" + textSelectionWatch.ElapsedMilliseconds + ";" + ctrlWatch.ElapsedMilliseconds + ";"
                         + exposed);
                 }
                 else
                 {
                     message = message + " MOUSE " + b.Tag.ToString() + " SelText:" + selectedText + " " + textSelTech + " ";
-                    log2("COMMAND " + b.Name + " MOUSE " + textSelectionWatch.ElapsedMilliseconds + " " + ctrlWatch.ElapsedMilliseconds + " "
+                    log2(b.Name + ";MOUSE;" + textSelectionWatch.ElapsedMilliseconds + ";" + ctrlWatch.ElapsedMilliseconds + ";"
                         + exposed);
                 }
                 log(message);
