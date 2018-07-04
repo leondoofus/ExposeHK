@@ -16,6 +16,10 @@ namespace TextRuler
             filetoOpen = file;
             filetoOpen = "startPoint.rtf";
             InitializeComponent();
+            panel1.Location = new Point(
+                this.ClientSize.Width / 2 - panel1.Size.Width / 2,
+                this.ClientSize.Height / 2 - panel1.Size.Height / 2);
+            panel1.Anchor = AnchorStyles.None;
             this.advancedTextEditor1.openFile(filetoOpen);
             
         }
