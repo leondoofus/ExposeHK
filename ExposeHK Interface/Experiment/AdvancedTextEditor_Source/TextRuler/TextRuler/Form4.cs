@@ -26,6 +26,7 @@ namespace TextRuler
         private string logFile;
         private string date;
         private string pending = "";
+        Stopwatch globalWatch;
 
         public Form4()
         {
@@ -148,6 +149,8 @@ namespace TextRuler
             date = DateTime.Now.ToString();
             logFile = Program.name + "_" + Program.help + "_" + Program.phase + "-1_" +
                 date.Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
+            globalWatch = new Stopwatch();
+            globalWatch.Start();
         }
 
         public void log_init()
@@ -316,6 +319,8 @@ namespace TextRuler
         private void button1_Click(object sender, EventArgs e)
         {
             log("CLICK submit");
+            globalWatch.Stop();
+            log("Total time " + globalWatch.ElapsedMilliseconds);
             for (int i = 0; i < allShortcuts.Count; i++)
             {
                 if(allShortcuts[i].Text.Equals("Shortcut ...") || (!allRadios[i * 2].Checked && !allRadios[i * 2 + 1].Checked))

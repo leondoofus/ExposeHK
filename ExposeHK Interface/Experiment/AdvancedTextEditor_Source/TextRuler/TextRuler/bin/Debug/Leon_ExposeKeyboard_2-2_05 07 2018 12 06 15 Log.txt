@@ -1,0 +1,7 @@
+Timestamp;Participant;Aid;Phase;BlockID;Event
+05/07/2018 12:06:17 100;Leon;ExposeKeyboard;2;2;MOUSE click {X=1399,Y=206}
+05/07/2018 12:06:17 100;Leon;ExposeKeyboard;2;2;MOUSE Move {X=1399,Y=206}
+05/07/2018 12:06:17 242;Leon;ExposeKeyboard;2;2;MOUSE release {X=1399,Y=206}
+05/07/2018 12:06:17 242;Leon;ExposeKeyboard;2;2;MOUSE Move {X=1399,Y=206}
+05/07/2018 12:06:17 243;Leon;ExposeKeyboard;2;2;Total time 1808
+05/07/2018 12:06:17 269;Leon;ExposeKeyboard;2;3;Focus Lost
