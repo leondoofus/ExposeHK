@@ -223,7 +223,7 @@ namespace TextRuler
 
         private void sender_KeyDown(TextBox textBox, KeyEventArgs e)
         {
-            log("KEYPRESS DOWN " + e.KeyData);
+            //log("KEYPRESS DOWN " + e.KeyData);
             switch (e.KeyCode)
             {
                 case Keys.A : setTextBox(textBox, "A"); break;
@@ -295,6 +295,7 @@ namespace TextRuler
 
         private void sender_KeyUp(object sender, KeyEventArgs e)
         {
+            log("KEYPRESS UP " + e.KeyData);
             pending = "";
             if (e.KeyCode == Keys.ControlKey)
             {

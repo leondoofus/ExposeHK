@@ -1,7 +1,9 @@
-﻿using System;
+﻿using gma.System.Windows;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -12,6 +14,9 @@ namespace TextRuler
 {
     public partial class Form3 : Form
     {
+        UserActivityHook hook;
+        Stopwatch globalWatch;
+        String logFile;
         public Form3()
         {
             InitializeComponent();
@@ -26,10 +31,65 @@ namespace TextRuler
                 "In phase 2 we will provide you with a visual aid. Phases 3 and 5 consist of shortcut memorization tests.\r\n\r\n" +
                 "Thank you for your participation in our experiment.";
             instruction.Text = text;
+            hook = new UserActivityHook();
+            hook.KeyDown += new KeyEventHandler(hook_KeyDown);
+            hook.KeyUp += new KeyEventHandler(hook_KeyUp);
+            hook.OnMouseActivity += new MouseEventHandler(hook_MouseMove);
+            hook.Start();
+            logFile = "RequestForm_" +
+                DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
+            globalWatch = new Stopwatch();
+            globalWatch.Start();
+        }
+
+        public void log_init()
+        {
+            System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
+            file.WriteLine("Timestamp;Event");
+            file.Close();
+        }
+
+        private void log(string s)
+        {
+            //Debug.WriteLine(s + " " + DateTime.Now + " " + DateTime.Now.Millisecond);
+
+            // create a writer and open the file
+            System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
+
+            // write a    line of text to the file
+            file.WriteLine(DateTime.Now + " " + DateTime.Now.Millisecond + ";" + s);
+
+            // close the stream
+            file.Close();
+        }
+
+        private void hook_KeyUp(object sender, KeyEventArgs e)
+        {
+            log("KEYPRESS UP " + e.KeyData);
+        }
+
+        private void hook_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (e.Clicks > 0)
+            {
+                log("MOUSE click " + e.Location);
+            }
+
+            if (e.Clicks == -1)
+            {
+                log("MOUSE release " + e.Location);
+            }
+            log("MOUSE Move " + e.Location);
+        }
+
+        private void hook_KeyDown(object sender, KeyEventArgs e)
+        {
+            log("KEYPRESS DOWN " + e.KeyData);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            log("CLICK " + ((Button)sender).Name);
             if (textBox1.Text.Equals(""))
             {
                 MessageBox.Show("You must fill all the sections", "Warning",
@@ -61,7 +121,20 @@ namespace TextRuler
                 return;
             }
             Program.name = textBox1.Text;
+            globalWatch.Stop();
+            log("Total time " + globalWatch.ElapsedMilliseconds);
+            hook.Stop();
             Close();
+        }
+
+        private void radioButton_Click(object sender, EventArgs e)
+        {
+            log("CLICK " + ((RadioButton)sender).Name);
+        }
+
+        private void textBox1_Click(object sender, EventArgs e)
+        {
+            log("CLICK " + ((TextBox)sender).Name);
         }
     }
 }

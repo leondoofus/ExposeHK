@@ -57,6 +57,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(208, 26);
             this.textBox1.TabIndex = 1;
+            this.textBox1.Click += new System.EventHandler(this.textBox1_Click);
             // 
             // label1
             // 
@@ -116,6 +117,7 @@
             this.radioButton5.TabStop = true;
             this.radioButton5.Text = "Phase 5 (Memorization Test)";
             this.radioButton5.UseVisualStyleBackColor = true;
+            this.radioButton5.Click += new System.EventHandler(this.radioButton_Click);
             // 
             // radioButton4
             // 
@@ -127,6 +129,7 @@
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Phase 4";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.Click += new System.EventHandler(this.radioButton_Click);
             // 
             // radioButton3
             // 
@@ -138,6 +141,7 @@
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Phase 3 (Memorization Test)";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.Click += new System.EventHandler(this.radioButton_Click);
             // 
             // radioButton2
             // 
@@ -149,6 +153,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Phase 2";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.Click += new System.EventHandler(this.radioButton_Click);
             // 
             // radioButton1
             // 
@@ -160,6 +165,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Phase 1";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.Click += new System.EventHandler(this.radioButton_Click);
             // 
             // panel2
             // 
@@ -182,6 +188,7 @@
             this.radioButton9.TabStop = true;
             this.radioButton9.Text = "Optimus";
             this.radioButton9.UseVisualStyleBackColor = true;
+            this.radioButton9.Click += new System.EventHandler(this.radioButton_Click);
             // 
             // radioButton8
             // 
@@ -193,6 +200,7 @@
             this.radioButton8.TabStop = true;
             this.radioButton8.Text = "StickerKeyboard";
             this.radioButton8.UseVisualStyleBackColor = true;
+            this.radioButton8.Click += new System.EventHandler(this.radioButton_Click);
             // 
             // radioButton7
             // 
@@ -204,6 +212,7 @@
             this.radioButton7.TabStop = true;
             this.radioButton7.Text = "ExposeKeyboard";
             this.radioButton7.UseVisualStyleBackColor = true;
+            this.radioButton7.Click += new System.EventHandler(this.radioButton_Click);
             // 
             // radioButton6
             // 
@@ -215,6 +224,7 @@
             this.radioButton6.TabStop = true;
             this.radioButton6.Text = "ExposeHK";
             this.radioButton6.UseVisualStyleBackColor = true;
+            this.radioButton6.Click += new System.EventHandler(this.radioButton_Click);
             // 
             // button1
             // 
