@@ -63,6 +63,7 @@ namespace TextRuler
         private Rectangle button55OriginalRect;
         private Rectangle button56OriginalRect;
         private Rectangle button57OriginalRect;
+        private Rectangle panel1OriginalRect;
         System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AdvancedTextEditor));
         private Image decrease, increase, bold, italic, underline, strike, bullet, number, justify, aLeft, aRight;
         private Image aCenter, copy, paste, undo, redo, cut;
@@ -72,7 +73,10 @@ namespace TextRuler
         {
             InitializeComponent();
             Create();
-            this.Text = "Virtual Keyboard";
+            panel1.Location = new Point(
+                this.ClientSize.Width / 2 - panel1.Size.Width / 2,
+                this.ClientSize.Height / 2 - panel1.Size.Height / 2);
+            panel1.Anchor = AnchorStyles.None;
             this.StartPosition = FormStartPosition.Manual;
             this.Left = Screen.PrimaryScreen.Bounds.Width/2 - this.Bounds.Width/2   ;
             this.Top = Screen.PrimaryScreen.Bounds.Height - this.Bounds.Height;
@@ -270,6 +274,7 @@ namespace TextRuler
             button49.Text = "";
             button48.Text = "";
             button47.Text = "";
+            button26.Text = "€";
             button54.Image = null;
             button52.Image = null;
             button21.Image = null;
@@ -317,6 +322,7 @@ namespace TextRuler
             button49.Text = ";";
             button48.Text = ":";
             button47.Text = "!";
+            button26.Text = "E";
             button54.Image = this.copy;
             button52.Image = this.bold;
             button21.Image = this.italic;
@@ -397,10 +403,12 @@ namespace TextRuler
             button55OriginalRect = new Rectangle(button55.Location.X, button55.Location.Y, button55.Width, button55.Height);
             button56OriginalRect = new Rectangle(button56.Location.X, button56.Location.Y, button56.Width, button56.Height);
             button57OriginalRect = new Rectangle(button57.Location.X, button57.Location.Y, button57.Width, button57.Height);
+            panel1OriginalRect = new Rectangle(panel1.Location.X, panel1.Location.Y, panel1.Width, panel1.Height);
         }
 
         private void Form2_Resize(object sender, EventArgs e)
         {
+            resizeControl(panel1OriginalRect, panel1);
             resizeControl(button1OriginalRect, button1);
             resizeControl(button2OriginalRect, button2);
             resizeControl(button3OriginalRect, button3);
