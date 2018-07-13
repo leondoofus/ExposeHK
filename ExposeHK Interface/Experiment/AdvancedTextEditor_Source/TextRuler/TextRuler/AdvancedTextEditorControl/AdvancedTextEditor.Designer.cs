@@ -59,6 +59,8 @@
             this.MagentaButton = new System.Windows.Forms.ToolStripButton();
             this.LimeButton = new System.Windows.Forms.ToolStripButton();
             this.CyanButton = new System.Windows.Forms.ToolStripButton();
+            this.TextEditor = new ExtendedRichTextBox();
+            this.Ruler = new TextRuler.TextRulerControl.TextRuler();
             this.TextEditorMenu = new System.Windows.Forms.MenuStrip();
             this.mnuHelp = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuAbout = new System.Windows.Forms.ToolStripMenuItem();
@@ -119,8 +121,6 @@
             this.PageSettings = new System.Windows.Forms.PageSetupDialog();
             this.PrintWnd = new System.Windows.Forms.PrintDialog();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
-            this.TextEditor = new ExtendedRichTextBox();
-            this.Ruler = new TextRuler.TextRulerControl.TextRuler();
             this.tlpEditorLayout.SuspendLayout();
             this.Toolbox_Formatting.SuspendLayout();
             this.TextEditorMenu.SuspendLayout();
@@ -242,7 +242,7 @@
             this.DecreaseSizeBtn.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.DecreaseSizeBtn.Name = "DecreaseSizeBtn";
             this.DecreaseSizeBtn.Size = new System.Drawing.Size(23, 23);
-            this.DecreaseSizeBtn.Tag = "<";
+            this.DecreaseSizeBtn.Tag = "(";
             this.DecreaseSizeBtn.Text = "toolStripButton1";
             this.DecreaseSizeBtn.ToolTipText = "Decrease Font Size";
             this.DecreaseSizeBtn.Click += new System.EventHandler(this.DecreaseSizeBtn_Click);
@@ -254,7 +254,7 @@
             this.IncreaseSizeButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.IncreaseSizeButton.Name = "IncreaseSizeButton";
             this.IncreaseSizeButton.Size = new System.Drawing.Size(23, 23);
-            this.IncreaseSizeButton.Tag = ">";
+            this.IncreaseSizeButton.Tag = ")";
             this.IncreaseSizeButton.Text = "toolStripButton2";
             this.IncreaseSizeButton.ToolTipText = "Increase Font Size";
             this.IncreaseSizeButton.Click += new System.EventHandler(this.IncreaseSizeButton_Click);
@@ -442,6 +442,64 @@
             this.CyanButton.Text = "toolStripButton4";
             this.CyanButton.ToolTipText = "Blue";
             this.CyanButton.Click += new System.EventHandler(this.CyanButton_Click);
+            // 
+            // TextEditor
+            // 
+            this.TextEditor.AcceptsTab = true;
+            this.TextEditor.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.TextEditor.EnableAutoDragDrop = true;
+            this.TextEditor.HideSelection = false;
+            this.TextEditor.Location = new System.Drawing.Point(30, 132);
+            this.TextEditor.Name = "TextEditor";
+            charStyle1.Bold = false;
+            charStyle1.Italic = false;
+            charStyle1.Link = false;
+            charStyle1.Strikeout = false;
+            charStyle1.Underline = false;
+            this.TextEditor.SelectionCharStyle = charStyle1;
+            this.TextEditor.SelectionFont2 = new System.Drawing.Font("Microsoft Sans Serif", 1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Inch);
+            paraLineSpacing1.ExactSpacing = 0;
+            paraLineSpacing1.SpacingStyle = ExtendedRichTextBox.ParaLineSpacing.LineSpacingStyle.Unknown;
+            this.TextEditor.SelectionLineSpacing = paraLineSpacing1;
+            paraListStyle1.BulletCharCode = ((short)(0));
+            paraListStyle1.NumberingStart = ((short)(0));
+            paraListStyle1.Style = ExtendedRichTextBox.ParaListStyle.ListStyle.NumberAndParenthesis;
+            paraListStyle1.Type = ExtendedRichTextBox.ParaListStyle.ListType.None;
+            this.TextEditor.SelectionListType = paraListStyle1;
+            this.TextEditor.SelectionOffsetType = ExtendedRichTextBox.OffsetType.None;
+            this.TextEditor.SelectionSpaceAfter = 0;
+            this.TextEditor.SelectionSpaceBefore = 0;
+            this.TextEditor.Size = new System.Drawing.Size(654, 367);
+            this.TextEditor.TabIndex = 5;
+            this.TextEditor.Text = "";
+            this.TextEditor.LinkClicked += new System.Windows.Forms.LinkClickedEventHandler(this.TextEditor_LinkClicked);
+            this.TextEditor.SelectionChanged += new System.EventHandler(this.TextEditor_SelectionChanged);
+            this.TextEditor.MouseMove += new System.Windows.Forms.MouseEventHandler(this.TextEditor_MouseMove);
+            this.TextEditor.MouseUp += new System.Windows.Forms.MouseEventHandler(this.TextEditor_MouseUp);
+            // 
+            // Ruler
+            // 
+            this.Ruler.BackColor = System.Drawing.Color.Transparent;
+            this.Ruler.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.Ruler.Font = new System.Drawing.Font("Arial", 7.25F);
+            this.Ruler.LeftHangingIndent = 19;
+            this.Ruler.LeftIndent = 19;
+            this.Ruler.LeftMargin = 1;
+            this.Ruler.Location = new System.Drawing.Point(30, 108);
+            this.Ruler.Name = "Ruler";
+            this.Ruler.NoMargins = true;
+            this.Ruler.RightIndent = 14;
+            this.Ruler.RightMargin = 1;
+            this.Ruler.Size = new System.Drawing.Size(654, 20);
+            this.Ruler.TabIndex = 8;
+            this.Ruler.TabsEnabled = true;
+            this.Ruler.LeftHangingIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_LeftHangingIndentChanging);
+            this.Ruler.LeftIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_LeftIndentChanging);
+            this.Ruler.RightIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_RightIndentChanging);
+            this.Ruler.BothLeftIndentsChanged += new TextRuler.TextRulerControl.TextRuler.MultiIndentChangedEventHandler(this.Ruler_BothLeftIndentsChanged);
+            this.Ruler.TabAdded += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabAdded);
+            this.Ruler.TabRemoved += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabRemoved);
+            this.Ruler.TabChanged += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabChanged);
             // 
             // TextEditorMenu
             // 
@@ -972,64 +1030,6 @@
             this.toolTip1.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
             this.toolTip1.UseAnimation = false;
             this.toolTip1.UseFading = false;
-            // 
-            // TextEditor
-            // 
-            this.TextEditor.AcceptsTab = true;
-            this.TextEditor.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.TextEditor.EnableAutoDragDrop = true;
-            this.TextEditor.HideSelection = false;
-            this.TextEditor.Location = new System.Drawing.Point(30, 132);
-            this.TextEditor.Name = "TextEditor";
-            charStyle1.Bold = false;
-            charStyle1.Italic = false;
-            charStyle1.Link = false;
-            charStyle1.Strikeout = false;
-            charStyle1.Underline = false;
-            this.TextEditor.SelectionCharStyle = charStyle1;
-            this.TextEditor.SelectionFont2 = new System.Drawing.Font("Microsoft Sans Serif", 1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Inch);
-            paraLineSpacing1.ExactSpacing = 0;
-            paraLineSpacing1.SpacingStyle = ExtendedRichTextBox.ParaLineSpacing.LineSpacingStyle.Unknown;
-            this.TextEditor.SelectionLineSpacing = paraLineSpacing1;
-            paraListStyle1.BulletCharCode = ((short)(0));
-            paraListStyle1.NumberingStart = ((short)(0));
-            paraListStyle1.Style = ExtendedRichTextBox.ParaListStyle.ListStyle.NumberAndParenthesis;
-            paraListStyle1.Type = ExtendedRichTextBox.ParaListStyle.ListType.None;
-            this.TextEditor.SelectionListType = paraListStyle1;
-            this.TextEditor.SelectionOffsetType = ExtendedRichTextBox.OffsetType.None;
-            this.TextEditor.SelectionSpaceAfter = 0;
-            this.TextEditor.SelectionSpaceBefore = 0;
-            this.TextEditor.Size = new System.Drawing.Size(654, 367);
-            this.TextEditor.TabIndex = 5;
-            this.TextEditor.Text = "";
-            this.TextEditor.LinkClicked += new System.Windows.Forms.LinkClickedEventHandler(this.TextEditor_LinkClicked);
-            this.TextEditor.SelectionChanged += new System.EventHandler(this.TextEditor_SelectionChanged);
-            this.TextEditor.MouseMove += new System.Windows.Forms.MouseEventHandler(this.TextEditor_MouseMove);
-            this.TextEditor.MouseUp += new System.Windows.Forms.MouseEventHandler(this.TextEditor_MouseUp);
-            // 
-            // Ruler
-            // 
-            this.Ruler.BackColor = System.Drawing.Color.Transparent;
-            this.Ruler.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.Ruler.Font = new System.Drawing.Font("Arial", 7.25F);
-            this.Ruler.LeftHangingIndent = 19;
-            this.Ruler.LeftIndent = 19;
-            this.Ruler.LeftMargin = 1;
-            this.Ruler.Location = new System.Drawing.Point(30, 108);
-            this.Ruler.Name = "Ruler";
-            this.Ruler.NoMargins = true;
-            this.Ruler.RightIndent = 14;
-            this.Ruler.RightMargin = 1;
-            this.Ruler.Size = new System.Drawing.Size(654, 20);
-            this.Ruler.TabIndex = 8;
-            this.Ruler.TabsEnabled = true;
-            this.Ruler.LeftHangingIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_LeftHangingIndentChanging);
-            this.Ruler.LeftIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_LeftIndentChanging);
-            this.Ruler.RightIndentChanging += new TextRuler.TextRulerControl.TextRuler.IndentChangedEventHandler(this.Ruler_RightIndentChanging);
-            this.Ruler.BothLeftIndentsChanged += new TextRuler.TextRulerControl.TextRuler.MultiIndentChangedEventHandler(this.Ruler_BothLeftIndentsChanged);
-            this.Ruler.TabAdded += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabAdded);
-            this.Ruler.TabRemoved += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabRemoved);
-            this.Ruler.TabChanged += new TextRuler.TextRulerControl.TextRuler.TabChangedEventHandler(this.Ruler_TabChanged);
             // 
             // AdvancedTextEditor
             // 

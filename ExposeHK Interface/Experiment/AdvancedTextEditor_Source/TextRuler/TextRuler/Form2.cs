@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
 using System.Windows.Forms;
+using TextRuler.AdvancedTextEditorControl;
 
 namespace TextRuler
 {
@@ -61,6 +63,10 @@ namespace TextRuler
         private Rectangle button55OriginalRect;
         private Rectangle button56OriginalRect;
         private Rectangle button57OriginalRect;
+        System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AdvancedTextEditor));
+        private Image decrease, increase, bold, italic, underline, strike, bullet, number, justify, aLeft, aRight;
+        private Image aCenter, copy, paste, undo, redo, cut;
+        private List<Button> allButtons = new List<Button>();
 
         public Form2()
         {
@@ -70,6 +76,269 @@ namespace TextRuler
             this.StartPosition = FormStartPosition.Manual;
             this.Left = Screen.PrimaryScreen.Bounds.Width/2 - this.Bounds.Width/2   ;
             this.Top = Screen.PrimaryScreen.Bounds.Height - this.Bounds.Height;
+        }
+
+        public void Create()
+        {
+            this.decrease = ((System.Drawing.Image)(resources.GetObject("DecreaseSizeBtn.Image")));
+            this.increase = ((System.Drawing.Image)(resources.GetObject("IncreaseSizeButton.Image")));
+            this.bold = ((System.Drawing.Image)(resources.GetObject("btnBold.Image")));
+            this.italic = ((System.Drawing.Image)(resources.GetObject("btnItalic.Image")));
+            this.underline = ((System.Drawing.Image)(resources.GetObject("btnUnderline.Image")));
+            this.strike = ((System.Drawing.Image)(resources.GetObject("btnStrikeThrough.Image")));
+            this.bullet = ((System.Drawing.Image)(resources.GetObject("btnBulletedList.Image")));
+            this.number = ((System.Drawing.Image)(resources.GetObject("btnNumberedList.Image")));
+            this.justify = ((System.Drawing.Image)(resources.GetObject("btnJustify.Image")));
+            this.aLeft = ((System.Drawing.Image)(resources.GetObject("btnAlignLeft.Image")));
+            this.aRight = ((System.Drawing.Image)(resources.GetObject("btnAlignRight.Image")));
+            this.aCenter = ((System.Drawing.Image)(resources.GetObject("btnAlignCenter.Image")));
+            this.copy = ((System.Drawing.Image)(resources.GetObject("btnCopy.Image")));
+            this.paste = ((System.Drawing.Image)(resources.GetObject("btnPaste.Image")));
+            this.undo = ((System.Drawing.Image)(resources.GetObject("btnUndo.Image")));
+            this.redo = ((System.Drawing.Image)(resources.GetObject("btnRedo.Image")));
+            this.cut = ((System.Drawing.Image)(resources.GetObject("btnCut.Image")));
+
+            this.allButtons.Add(this.button30);
+            this.allButtons.Add(this.button29);
+            this.allButtons.Add(this.button16);
+            this.allButtons.Add(this.button15);
+            this.allButtons.Add(this.button57);
+            this.allButtons.Add(this.button47);
+            this.allButtons.Add(this.button48);
+            this.allButtons.Add(this.button49);
+            this.allButtons.Add(this.button50);
+            this.allButtons.Add(this.button51);
+            this.allButtons.Add(this.button52);
+            this.allButtons.Add(this.button53);
+            this.allButtons.Add(this.button54);
+            this.allButtons.Add(this.button55);
+            this.allButtons.Add(this.button56);
+            this.allButtons.Add(this.button31);
+            this.allButtons.Add(this.button32);
+            this.allButtons.Add(this.button33);
+            this.allButtons.Add(this.button34);
+            this.allButtons.Add(this.button35);
+            this.allButtons.Add(this.button36);
+            this.allButtons.Add(this.button37);
+            this.allButtons.Add(this.button38);
+            this.allButtons.Add(this.button39);
+            this.allButtons.Add(this.button40);
+            this.allButtons.Add(this.button41);
+            this.allButtons.Add(this.button42);
+            this.allButtons.Add(this.button17);
+            this.allButtons.Add(this.button18);
+            this.allButtons.Add(this.button19);
+            this.allButtons.Add(this.button20);
+            this.allButtons.Add(this.button21);
+            this.allButtons.Add(this.button22);
+            this.allButtons.Add(this.button23);
+            this.allButtons.Add(this.button24);
+            this.allButtons.Add(this.button25);
+            this.allButtons.Add(this.button26);
+            this.allButtons.Add(this.button27);
+            this.allButtons.Add(this.button28);
+            this.allButtons.Add(this.button14);
+            this.allButtons.Add(this.button13);
+            this.allButtons.Add(this.button12);
+            this.allButtons.Add(this.button11);
+            this.allButtons.Add(this.button10);
+            this.allButtons.Add(this.button9);
+            this.allButtons.Add(this.button8);
+            this.allButtons.Add(this.button7);
+            this.allButtons.Add(this.button6);
+            this.allButtons.Add(this.button5);
+            this.allButtons.Add(this.button4);
+            this.allButtons.Add(this.button3);
+            this.allButtons.Add(this.button2);
+            this.allButtons.Add(this.button1);
+        }
+
+        public void Shifted()
+        {
+            button2.Text = "1";
+            button3.Text = "2";
+            button4.Text = "3";
+            button5.Text = "4";
+            button6.Text = "5";
+            button7.Text = "6";
+            button8.Text = "7";
+            button9.Text = "8";
+            button10.Text = "9";
+            button11.Text = "0";
+            button12.Text = "°";
+            button13.Text = "+";
+            button18.Text = "¨";
+            button17.Text = "£";
+            button32.Text = "%";
+            button31.Text = "µ";
+            button57.Text = ">";
+            button50.Text = "?";
+            button49.Text = ".";
+            button48.Text = "/";
+            button47.Text = "§";
+            button54.Image = null;
+            button52.Image = null;
+            button21.Image = null;
+            button55.Image = null;
+            button53.Image = null;
+            button27.Image = null;
+            button23.Image = null;
+            button22.Image = null;
+            button42.Image = null;
+            button56.Image = null;
+            button40.Image = null;
+            button36.Image = null;
+            button25.Image = null;
+            button34.Image = null;
+            button26.Image = null;
+            button6.Image = null;
+            button12.Image = null;
+            button35.BackColor = Color.White;
+            button33.BackColor = Color.White;
+            button38.BackColor = Color.White;
+            button37.BackColor = Color.White;
+            button35.ForeColor = System.Drawing.Color.Black;
+        }
+
+        public void UnShifted()
+        {
+            button2.Text = "&&";
+            button3.Text = "é";
+            button4.Text = "\"";
+            button5.Text = "\'";
+            button6.Text = "(";
+            button7.Text = "-";
+            button8.Text = "è";
+            button9.Text = "_";
+            button10.Text = "ç";
+            button11.Text = "à";
+            button12.Text = ")";
+            button13.Text = "=";
+            button18.Text = "^";
+            button17.Text = "$";
+            button32.Text = "ù";
+            button31.Text = "*";
+            button57.Text = "<";
+            button50.Text = ",";
+            button49.Text = ";";
+            button48.Text = ":";
+            button47.Text = "!";
+            button54.Image = this.copy;
+            button52.Image = this.bold;
+            button21.Image = this.italic;
+            button55.Image = this.cut;
+            button53.Image = this.paste;
+            button27.Image = this.undo;
+            button23.Image = this.redo;
+            button22.Image = this.underline;
+            button42.Image = this.strike;
+            button56.Image = this.bullet;
+            button40.Image = this.number;
+            button36.Image = this.justify;
+            button25.Image = this.aRight;
+            button34.Image = this.aLeft;
+            button26.Image = this.aCenter;
+            button35.BackColor = Color.Black;
+            button33.BackColor = Color.Magenta;
+            button38.BackColor = Color.LimeGreen;
+            button37.BackColor = Color.DarkCyan;
+            button6.Image = this.decrease;
+            button12.Image = this.increase;
+            button35.ForeColor = System.Drawing.Color.White;
+        }
+
+        public void Alted()
+        {
+            button2.Text = "&";
+            button3.Text = "~";
+            button4.Text = "#";
+            button5.Text = "{";
+            button6.Text = "[";
+            button7.Text = "|";
+            button8.Text = "`";
+            button9.Text = "\\";
+            button10.Text = "^";
+            button11.Text = "@";
+            button12.Text = "]";
+            button13.Text = "}";
+            button18.Text = "";
+            button17.Text = "¤";
+            button32.Text = "";
+            button31.Text = "";
+            button57.Text = "";
+            button50.Text = "";
+            button49.Text = "";
+            button48.Text = "";
+            button47.Text = "";
+            button54.Image = null;
+            button52.Image = null;
+            button21.Image = null;
+            button55.Image = null;
+            button53.Image = null;
+            button27.Image = null;
+            button23.Image = null;
+            button22.Image = null;
+            button42.Image = null;
+            button56.Image = null;
+            button40.Image = null;
+            button36.Image = null;
+            button25.Image = null;
+            button34.Image = null;
+            button26.Image = null;
+            button6.Image = null;
+            button12.Image = null;
+            button35.BackColor = Color.White;
+            button33.BackColor = Color.White;
+            button38.BackColor = Color.White;
+            button37.BackColor = Color.White;
+            button35.ForeColor = System.Drawing.Color.Black;
+        }
+
+        public void UnAlted()
+        {
+            button2.Text = "&&";
+            button3.Text = "é";
+            button4.Text = "\"";
+            button5.Text = "\'";
+            button6.Text = "(";
+            button7.Text = "-";
+            button8.Text = "è";
+            button9.Text = "_";
+            button10.Text = "ç";
+            button11.Text = "à";
+            button12.Text = ")";
+            button13.Text = "=";
+            button18.Text = "^";
+            button17.Text = "$";
+            button32.Text = "ù";
+            button31.Text = "*";
+            button57.Text = "<";
+            button50.Text = ",";
+            button49.Text = ";";
+            button48.Text = ":";
+            button47.Text = "!";
+            button54.Image = this.copy;
+            button52.Image = this.bold;
+            button21.Image = this.italic;
+            button55.Image = this.cut;
+            button53.Image = this.paste;
+            button27.Image = this.undo;
+            button23.Image = this.redo;
+            button22.Image = this.underline;
+            button42.Image = this.strike;
+            button56.Image = this.bullet;
+            button40.Image = this.number;
+            button36.Image = this.justify;
+            button25.Image = this.aRight;
+            button34.Image = this.aLeft;
+            button26.Image = this.aCenter;
+            button35.BackColor = Color.Black;
+            button33.BackColor = Color.Magenta;
+            button38.BackColor = Color.LimeGreen;
+            button37.BackColor = Color.DarkCyan;
+            button6.Image = this.decrease;
+            button12.Image = this.increase;
+            button35.ForeColor = System.Drawing.Color.White;
         }
 
         private void Form2_Load(object sender, EventArgs e)

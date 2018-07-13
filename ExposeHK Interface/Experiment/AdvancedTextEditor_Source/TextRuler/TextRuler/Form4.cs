@@ -264,16 +264,16 @@ namespace TextRuler
                 case Keys.OemQuestion : setTextBox(textBox, ":"); break;
                 case Keys.Oem8 : setTextBox(textBox, "!"); break;
                 case Keys.Oem7 : setTextBox(textBox, "²"); break;
-                case Keys.D1 : setTextBox(textBox, "1"); break;
-                case Keys.D2 : setTextBox(textBox, "2"); break;
-                case Keys.D3 : setTextBox(textBox, "3"); break;
-                case Keys.D4 : setTextBox(textBox, "4"); break;
-                case Keys.D5 : setTextBox(textBox, "5"); break;
-                case Keys.D6 : setTextBox(textBox, "6"); break;
-                case Keys.D7 : setTextBox(textBox, "7"); break;
-                case Keys.D8 : setTextBox(textBox, "8"); break;
-                case Keys.D9 : setTextBox(textBox, "9"); break;
-                case Keys.D0 : setTextBox(textBox, "0"); break;
+                case Keys.D1 : setTextBox(textBox, "&"); break;
+                case Keys.D2 : setTextBox(textBox, "é"); break;
+                case Keys.D3 : setTextBox(textBox, "\""); break;
+                case Keys.D4 : setTextBox(textBox, "'"); break;
+                case Keys.D5 : setTextBox(textBox, "("); break;
+                case Keys.D6 : setTextBox(textBox, "-"); break;
+                case Keys.D7 : setTextBox(textBox, "è"); break;
+                case Keys.D8 : setTextBox(textBox, "_"); break;
+                case Keys.D9 : setTextBox(textBox, "ç"); break;
+                case Keys.D0 : setTextBox(textBox, "à"); break;
             }
             if (e.KeyCode == Keys.ControlKey)
             {

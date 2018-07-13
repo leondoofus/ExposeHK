@@ -351,6 +351,7 @@ namespace TextRuler.AdvancedTextEditorControl
                         MagentaButton_Click(MagentaButton, null);
                         break;
                     //AZERTY keyboard
+                    /*
                     case Keys.OemBackslash:
                         if (!shift)
                         {
@@ -360,6 +361,13 @@ namespace TextRuler.AdvancedTextEditorControl
                         {
                             DecreaseSizeBtn_Click(DecreaseSizeBtn, null);
                         }
+                        break;
+                    */
+                    case Keys.D5:
+                        DecreaseSizeBtn_Click(DecreaseSizeBtn, null);
+                        break;
+                    case Keys.OemOpenBrackets:
+                        IncreaseSizeButton_Click(IncreaseSizeButton, null);
                         break;
                 }
                 //e.Handled = true; // THIS SHOULD BE UNCOMMENTED - is commented for taking screenshots
@@ -393,6 +401,7 @@ namespace TextRuler.AdvancedTextEditorControl
             if (e.KeyData == Keys.LMenu || e.KeyData == Keys.RMenu)
             {
                 alt = true;
+                keyboard.Alted();
             }
             Compare();
         }
@@ -432,6 +441,7 @@ namespace TextRuler.AdvancedTextEditorControl
             if (e.KeyData == Keys.LMenu || e.KeyData == Keys.RMenu)
             {
                 alt = false;
+                keyboard.UnAlted();
             }
 
             logKeyPress("UP " + e.KeyData);
