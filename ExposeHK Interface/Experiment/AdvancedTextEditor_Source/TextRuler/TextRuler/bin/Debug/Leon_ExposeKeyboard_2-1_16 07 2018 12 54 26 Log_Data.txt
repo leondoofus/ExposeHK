@@ -1,0 +1,6 @@
+Timestamp;Participant;Aid;Phase;BlockID;;Command;Alternative;TimeSinceTextSelected;TimeSinceCtrlPressed;AidDisplayed
+16/07/2018 12:54:31 778;Leon;ExposeKeyboard;2;1;btnBold;HOTKEY;2862;2183;True
+16/07/2018 12:54:34 592;Leon;ExposeKeyboard;2;1;btnUnderline;HOTKEY;876;288;False
+16/07/2018 12:54:38 968;Leon;ExposeKeyboard;2;1;btnItalic;HOTKEY;1604;528;True
+16/07/2018 12:54:43 263;Leon;ExposeKeyboard;2;1;btnJustify;HOTKEY;1516;399;False
+16/07/2018 12:54:46 642;Leon;ExposeKeyboard;2;1;btnAlignCenter;HOTKEY;1333;592;True
