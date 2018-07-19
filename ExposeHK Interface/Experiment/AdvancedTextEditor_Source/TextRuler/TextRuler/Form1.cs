@@ -60,13 +60,13 @@ namespace TextRuler
 
         private void Form1_Activated(object sender, EventArgs e)
         {
-            this.advancedTextEditor1.log("Focus Gained");
+            this.advancedTextEditor1.log("none;none;none;none;none;Focus Gained");
             Debug.WriteLine("Focus Gained");
         }
 
         private void Form1_Deactivate(object sender, EventArgs e)
         {
-            this.advancedTextEditor1.log("Focus Lost");
+            this.advancedTextEditor1.log("none;none;none;none;none;Focus Lost");
             Debug.WriteLine("Focus Lost");
         }
 
@@ -77,12 +77,8 @@ namespace TextRuler
 
         private void button1_Click(object sender, EventArgs e)
         {
+            this.advancedTextEditor1.log("none;none;none;none;none; Click" + ((Button)sender).Name);
             advancedTextEditor1.Close();
-        }
-
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            this.advancedTextEditor1.Close();
         }
 
         /***

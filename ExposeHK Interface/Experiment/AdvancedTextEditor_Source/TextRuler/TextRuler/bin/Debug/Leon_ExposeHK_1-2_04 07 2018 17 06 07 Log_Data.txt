@@ -1,3 +1,0 @@
-Timestamp;Participant;Aid;Phase;BlockID;;Command;Alternative;TimeSinceTextSelected;TimeSinceCtrlPressed;AidDisplayed
-04/07/2018 17:06:12 253;Leon;ExposeHK;1;2;btnAlignCenter;HOTKEY;1171;550;False
-04/07/2018 17:06:12 651;Leon;ExposeHK;1;2;btnNumberedList;HOTKEY;1572;951;False

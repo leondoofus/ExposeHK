@@ -1,0 +1,257 @@
+Date;Timestamp;Participant;Aid;Phase;BlockID;Device;Event;PosX;PosY;Key;Other
+18/07/2018 16:31:16.46;43;Leon;ExposeHK;1;2;Mouse;Move;1375;204;none;none
+18/07/2018 16:31:16.54;51;Leon;ExposeHK;1;2;Mouse;Move;1375;204;none;none
+18/07/2018 16:31:16.62;59;Leon;ExposeHK;1;2;Mouse;Move;1371;204;none;none
+18/07/2018 16:31:16.70;67;Leon;ExposeHK;1;2;Mouse;Move;1367;206;none;none
+18/07/2018 16:31:16.78;75;Leon;ExposeHK;1;2;Mouse;Move;1361;210;none;none
+18/07/2018 16:31:16.86;83;Leon;ExposeHK;1;2;Mouse;Move;1352;215;none;none
+18/07/2018 16:31:16.94;91;Leon;ExposeHK;1;2;Mouse;Move;1342;222;none;none
+18/07/2018 16:31:16.102;99;Leon;ExposeHK;1;2;Mouse;Move;1328;230;none;none
+18/07/2018 16:31:16.110;107;Leon;ExposeHK;1;2;Mouse;Move;1315;239;none;none
+18/07/2018 16:31:16.118;115;Leon;ExposeHK;1;2;Mouse;Move;1293;251;none;none
+18/07/2018 16:31:16.126;123;Leon;ExposeHK;1;2;Mouse;Move;1269;264;none;none
+18/07/2018 16:31:16.134;131;Leon;ExposeHK;1;2;Mouse;Move;1242;279;none;none
+18/07/2018 16:31:16.142;139;Leon;ExposeHK;1;2;Mouse;Move;1209;296;none;none
+18/07/2018 16:31:16.150;147;Leon;ExposeHK;1;2;Mouse;Move;1175;310;none;none
+18/07/2018 16:31:16.158;155;Leon;ExposeHK;1;2;Mouse;Move;1140;324;none;none
+18/07/2018 16:31:16.166;163;Leon;ExposeHK;1;2;Mouse;Move;1103;339;none;none
+18/07/2018 16:31:16.174;171;Leon;ExposeHK;1;2;Mouse;Move;1067;350;none;none
+18/07/2018 16:31:16.182;179;Leon;ExposeHK;1;2;Mouse;Move;1031;361;none;none
+18/07/2018 16:31:16.190;187;Leon;ExposeHK;1;2;Mouse;Move;992;372;none;none
+18/07/2018 16:31:16.198;195;Leon;ExposeHK;1;2;Mouse;Move;954;381;none;none
+18/07/2018 16:31:16.206;203;Leon;ExposeHK;1;2;Mouse;Move;918;390;none;none
+18/07/2018 16:31:16.214;211;Leon;ExposeHK;1;2;Mouse;Move;877;398;none;none
+18/07/2018 16:31:16.222;219;Leon;ExposeHK;1;2;Mouse;Move;836;405;none;none
+18/07/2018 16:31:16.230;227;Leon;ExposeHK;1;2;Mouse;Move;801;412;none;none
+18/07/2018 16:31:16.238;235;Leon;ExposeHK;1;2;Mouse;Move;761;418;none;none
+18/07/2018 16:31:16.246;243;Leon;ExposeHK;1;2;Mouse;Move;726;423;none;none
+18/07/2018 16:31:16.254;251;Leon;ExposeHK;1;2;Mouse;Move;694;428;none;none
+18/07/2018 16:31:16.262;259;Leon;ExposeHK;1;2;Mouse;Move;669;434;none;none
+18/07/2018 16:31:16.270;267;Leon;ExposeHK;1;2;Mouse;Move;646;442;none;none
+18/07/2018 16:31:16.278;275;Leon;ExposeHK;1;2;Mouse;Move;626;449;none;none
+18/07/2018 16:31:16.286;283;Leon;ExposeHK;1;2;Mouse;Move;608;456;none;none
+18/07/2018 16:31:16.294;291;Leon;ExposeHK;1;2;Mouse;Move;591;462;none;none
+18/07/2018 16:31:16.302;299;Leon;ExposeHK;1;2;Mouse;Move;579;467;none;none
+18/07/2018 16:31:16.310;307;Leon;ExposeHK;1;2;Mouse;Move;568;473;none;none
+18/07/2018 16:31:16.318;315;Leon;ExposeHK;1;2;Mouse;Move;559;477;none;none
+18/07/2018 16:31:16.326;323;Leon;ExposeHK;1;2;Mouse;Move;549;481;none;none
+18/07/2018 16:31:16.334;331;Leon;ExposeHK;1;2;Mouse;Move;538;486;none;none
+18/07/2018 16:31:16.342;339;Leon;ExposeHK;1;2;Mouse;Move;528;490;none;none
+18/07/2018 16:31:16.350;347;Leon;ExposeHK;1;2;Mouse;Move;518;494;none;none
+18/07/2018 16:31:16.358;355;Leon;ExposeHK;1;2;Mouse;Move;510;497;none;none
+18/07/2018 16:31:16.366;363;Leon;ExposeHK;1;2;Mouse;Move;501;501;none;none
+18/07/2018 16:31:16.374;371;Leon;ExposeHK;1;2;Mouse;Move;494;504;none;none
+18/07/2018 16:31:16.382;379;Leon;ExposeHK;1;2;Mouse;Move;487;507;none;none
+18/07/2018 16:31:16.390;387;Leon;ExposeHK;1;2;Mouse;Move;481;510;none;none
+18/07/2018 16:31:16.398;395;Leon;ExposeHK;1;2;Mouse;Move;476;512;none;none
+18/07/2018 16:31:16.406;403;Leon;ExposeHK;1;2;Mouse;Move;471;515;none;none
+18/07/2018 16:31:16.414;411;Leon;ExposeHK;1;2;Mouse;Move;465;517;none;none
+18/07/2018 16:31:16.422;419;Leon;ExposeHK;1;2;Mouse;Move;459;519;none;none
+18/07/2018 16:31:16.430;427;Leon;ExposeHK;1;2;Mouse;Move;453;520;none;none
+18/07/2018 16:31:16.438;435;Leon;ExposeHK;1;2;Mouse;Move;446;520;none;none
+18/07/2018 16:31:16.446;443;Leon;ExposeHK;1;2;Mouse;Move;439;520;none;none
+18/07/2018 16:31:16.454;451;Leon;ExposeHK;1;2;Mouse;Move;433;520;none;none
+18/07/2018 16:31:16.462;459;Leon;ExposeHK;1;2;Mouse;Move;426;520;none;none
+18/07/2018 16:31:16.470;467;Leon;ExposeHK;1;2;Mouse;Move;420;520;none;none
+18/07/2018 16:31:16.478;475;Leon;ExposeHK;1;2;Mouse;Move;415;520;none;none
+18/07/2018 16:31:16.486;483;Leon;ExposeHK;1;2;Mouse;Move;409;520;none;none
+18/07/2018 16:31:16.494;491;Leon;ExposeHK;1;2;Mouse;Move;405;521;none;none
+18/07/2018 16:31:16.502;499;Leon;ExposeHK;1;2;Mouse;Move;400;522;none;none
+18/07/2018 16:31:16.510;507;Leon;ExposeHK;1;2;Mouse;Move;396;523;none;none
+18/07/2018 16:31:16.518;515;Leon;ExposeHK;1;2;Mouse;Move;391;524;none;none
+18/07/2018 16:31:16.526;523;Leon;ExposeHK;1;2;Mouse;Move;385;526;none;none
+18/07/2018 16:31:16.534;531;Leon;ExposeHK;1;2;Mouse;Move;382;527;none;none
+18/07/2018 16:31:16.542;539;Leon;ExposeHK;1;2;Mouse;Move;379;528;none;none
+18/07/2018 16:31:16.550;547;Leon;ExposeHK;1;2;Mouse;Move;374;530;none;none
+18/07/2018 16:31:16.558;555;Leon;ExposeHK;1;2;Mouse;Move;368;533;none;none
+18/07/2018 16:31:16.566;563;Leon;ExposeHK;1;2;Mouse;Move;363;535;none;none
+18/07/2018 16:31:16.574;571;Leon;ExposeHK;1;2;Mouse;Move;359;538;none;none
+18/07/2018 16:31:16.582;579;Leon;ExposeHK;1;2;Mouse;Move;354;540;none;none
+18/07/2018 16:31:16.590;587;Leon;ExposeHK;1;2;Mouse;Move;349;543;none;none
+18/07/2018 16:31:16.598;595;Leon;ExposeHK;1;2;Mouse;Move;346;543;none;none
+18/07/2018 16:31:16.606;603;Leon;ExposeHK;1;2;Mouse;Move;343;545;none;none
+18/07/2018 16:31:16.614;611;Leon;ExposeHK;1;2;Mouse;Move;340;546;none;none
+18/07/2018 16:31:16.622;619;Leon;ExposeHK;1;2;Mouse;Move;337;546;none;none
+18/07/2018 16:31:16.630;627;Leon;ExposeHK;1;2;Mouse;Move;334;546;none;none
+18/07/2018 16:31:16.638;635;Leon;ExposeHK;1;2;Mouse;Move;332;546;none;none
+18/07/2018 16:31:16.648;645;Leon;ExposeHK;1;2;Mouse;Move;330;547;none;none
+18/07/2018 16:31:16.654;651;Leon;ExposeHK;1;2;Mouse;Move;328;547;none;none
+18/07/2018 16:31:16.662;659;Leon;ExposeHK;1;2;Mouse;Move;326;547;none;none
+18/07/2018 16:31:16.670;667;Leon;ExposeHK;1;2;Mouse;Move;324;547;none;none
+18/07/2018 16:31:16.678;675;Leon;ExposeHK;1;2;Mouse;Move;324;547;none;none
+18/07/2018 16:31:16.686;683;Leon;ExposeHK;1;2;Mouse;Move;323;547;none;none
+18/07/2018 16:31:16.830;827;Leon;ExposeHK;1;2;Mouse;Click;323;547;none;none
+18/07/2018 16:31:16.831;828;Leon;ExposeHK;1;2;Mouse;Move;323;547;none;none
+18/07/2018 16:31:16.870;867;Leon;ExposeHK;1;2;Mouse;Move;322;547;none;none
+18/07/2018 16:31:16.878;875;Leon;ExposeHK;1;2;Mouse;Move;322;547;none;none
+18/07/2018 16:31:16.886;883;Leon;ExposeHK;1;2;Mouse;Move;321;547;none;none
+18/07/2018 16:31:16.894;891;Leon;ExposeHK;1;2;Mouse;Move;321;547;none;none
+18/07/2018 16:31:16.902;899;Leon;ExposeHK;1;2;Mouse;Move;320;547;none;none
+18/07/2018 16:31:16.910;907;Leon;ExposeHK;1;2;Mouse;Move;319;546;none;none
+18/07/2018 16:31:16.918;915;Leon;ExposeHK;1;2;Mouse;Move;318;546;none;none
+18/07/2018 16:31:16.926;923;Leon;ExposeHK;1;2;Mouse;Move;317;544;none;none
+18/07/2018 16:31:16.934;931;Leon;ExposeHK;1;2;Mouse;Move;315;542;none;none
+18/07/2018 16:31:16.942;939;Leon;ExposeHK;1;2;Mouse;Move;312;541;none;none
+18/07/2018 16:31:16.950;947;Leon;ExposeHK;1;2;Mouse;Move;310;538;none;none
+18/07/2018 16:31:16.958;955;Leon;ExposeHK;1;2;Mouse;Move;306;536;none;none
+18/07/2018 16:31:16.966;963;Leon;ExposeHK;1;2;Mouse;Move;303;533;none;none
+18/07/2018 16:31:16.974;971;Leon;ExposeHK;1;2;Mouse;Move;298;529;none;none
+18/07/2018 16:31:16.986;983;Leon;ExposeHK;1;2;none;none;none;none;none;Text Selection Mouse 16GB = $1100
+
+18/07/2018 16:31:16.987;984;Leon;ExposeHK;1;2;Mouse;Move;293;526;none;none
+18/07/2018 16:31:16.990;987;Leon;ExposeHK;1;2;Mouse;Move;288;523;none;none
+18/07/2018 16:31:16.998;995;Leon;ExposeHK;1;2;Mouse;Move;282;520;none;none
+18/07/2018 16:31:17.6;1003;Leon;ExposeHK;1;2;Mouse;Move;277;516;none;none
+18/07/2018 16:31:17.18;1015;Leon;ExposeHK;1;2;none;none;none;none;none;Text Selection Mouse Pricing:
+8GB = $900
+16GB = $1100
+
+18/07/2018 16:31:17.18;1016;Leon;ExposeHK;1;2;Mouse;Move;275;515;none;none
+18/07/2018 16:31:17.22;1019;Leon;ExposeHK;1;2;Mouse;Move;272;512;none;none
+18/07/2018 16:31:17.30;1027;Leon;ExposeHK;1;2;Mouse;Move;269;511;none;none
+18/07/2018 16:31:17.38;1035;Leon;ExposeHK;1;2;Mouse;Move;267;509;none;none
+18/07/2018 16:31:17.46;1043;Leon;ExposeHK;1;2;Mouse;Move;265;507;none;none
+18/07/2018 16:31:17.54;1051;Leon;ExposeHK;1;2;Mouse;Move;262;504;none;none
+18/07/2018 16:31:17.67;1065;Leon;ExposeHK;1;2;none;none;none;none;none;Text Selection Mouse IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+18/07/2018 16:31:17.68;1065;Leon;ExposeHK;1;2;Mouse;Move;259;502;none;none
+18/07/2018 16:31:17.70;1067;Leon;ExposeHK;1;2;Mouse;Move;257;500;none;none
+18/07/2018 16:31:17.78;1075;Leon;ExposeHK;1;2;Mouse;Move;254;497;none;none
+18/07/2018 16:31:17.86;1083;Leon;ExposeHK;1;2;Mouse;Move;252;495;none;none
+18/07/2018 16:31:17.94;1091;Leon;ExposeHK;1;2;Mouse;Move;248;493;none;none
+18/07/2018 16:31:17.102;1099;Leon;ExposeHK;1;2;Mouse;Move;246;490;none;none
+18/07/2018 16:31:17.110;1107;Leon;ExposeHK;1;2;none;none;none;none;none;Text Selection Mouse Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+18/07/2018 16:31:17.110;1107;Leon;ExposeHK;1;2;Mouse;Move;243;489;none;none
+18/07/2018 16:31:17.118;1115;Leon;ExposeHK;1;2;Mouse;Move;240;486;none;none
+18/07/2018 16:31:17.126;1123;Leon;ExposeHK;1;2;Mouse;Move;237;485;none;none
+18/07/2018 16:31:17.134;1131;Leon;ExposeHK;1;2;Mouse;Move;233;483;none;none
+18/07/2018 16:31:17.142;1139;Leon;ExposeHK;1;2;Mouse;Move;231;481;none;none
+18/07/2018 16:31:17.150;1147;Leon;ExposeHK;1;2;Mouse;Move;229;480;none;none
+18/07/2018 16:31:17.160;1157;Leon;ExposeHK;1;2;Mouse;Move;226;478;none;none
+18/07/2018 16:31:17.171;1168;Leon;ExposeHK;1;2;none;none;none;none;none;Text Selection Mouse Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+18/07/2018 16:31:17.171;1169;Leon;ExposeHK;1;2;Mouse;Move;224;478;none;none
+18/07/2018 16:31:17.174;1171;Leon;ExposeHK;1;2;Mouse;Move;223;476;none;none
+18/07/2018 16:31:17.182;1179;Leon;ExposeHK;1;2;Mouse;Move;221;475;none;none
+18/07/2018 16:31:17.190;1187;Leon;ExposeHK;1;2;Mouse;Move;219;474;none;none
+18/07/2018 16:31:17.198;1195;Leon;ExposeHK;1;2;Mouse;Move;218;472;none;none
+18/07/2018 16:31:17.206;1203;Leon;ExposeHK;1;2;Mouse;Move;216;471;none;none
+18/07/2018 16:31:17.214;1211;Leon;ExposeHK;1;2;Mouse;Move;215;470;none;none
+18/07/2018 16:31:17.222;1219;Leon;ExposeHK;1;2;Mouse;Move;215;470;none;none
+18/07/2018 16:31:17.230;1227;Leon;ExposeHK;1;2;Mouse;Move;214;470;none;none
+18/07/2018 16:31:17.238;1235;Leon;ExposeHK;1;2;Mouse;Move;214;469;none;none
+18/07/2018 16:31:17.270;1267;Leon;ExposeHK;1;2;Mouse;Move;214;469;none;none
+18/07/2018 16:31:17.606;1603;Leon;ExposeHK;1;2;Mouse;Move;214;469;none;none
+18/07/2018 16:31:17.614;1611;Leon;ExposeHK;1;2;Mouse;Move;214;468;none;none
+18/07/2018 16:31:17.630;1627;Leon;ExposeHK;1;2;Mouse;Move;214;467;none;none
+18/07/2018 16:31:17.638;1635;Leon;ExposeHK;1;2;none;none;none;none;none;Text Selection Mouse Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+
+18/07/2018 16:31:17.638;1635;Leon;ExposeHK;1;2;Mouse;Move;214;467;none;none
+18/07/2018 16:31:17.646;1643;Leon;ExposeHK;1;2;Mouse;Move;214;466;none;none
+18/07/2018 16:31:17.654;1651;Leon;ExposeHK;1;2;Mouse;Move;213;466;none;none
+18/07/2018 16:31:17.662;1659;Leon;ExposeHK;1;2;Mouse;Move;213;465;none;none
+18/07/2018 16:31:17.670;1667;Leon;ExposeHK;1;2;Mouse;Move;213;464;none;none
+18/07/2018 16:31:17.678;1675;Leon;ExposeHK;1;2;Mouse;Move;213;464;none;none
+18/07/2018 16:31:17.686;1683;Leon;ExposeHK;1;2;Mouse;Move;213;463;none;none
+18/07/2018 16:31:17.694;1691;Leon;ExposeHK;1;2;Mouse;Move;213;463;none;none
+18/07/2018 16:31:17.702;1699;Leon;ExposeHK;1;2;Mouse;Move;213;462;none;none
+18/07/2018 16:31:17.854;1852;Leon;ExposeHK;1;2;Mouse;Move;213;462;none;none
+18/07/2018 16:31:17.918;1915;Leon;ExposeHK;1;2;Mouse;Release;213;462;none;none
+18/07/2018 16:31:17.918;1915;Leon;ExposeHK;1;2;Mouse;Move;213;462;none;none
+18/07/2018 16:31:18.90;2087;Leon;ExposeHK;1;2;Key;Down;none;none;LControlKey;none
+18/07/2018 16:31:18.250;2248;Leon;ExposeHK;1;2;Key;Down;none;none;D;none
+18/07/2018 16:31:18.254;2251;Leon;ExposeHK;1;2;none;none;none;none;none;Command btnNumberedList Hotkey D SelText:Main Mobile OS:
+Android
+Microsoft Mobile
+
+IPhone Pricing:
+8GB = $900
+16GB = $1100
+ Mouse 
+18/07/2018 16:31:18.290;2287;Leon;ExposeHK;1;2;Key;Up;none;none;LControlKey;none
+18/07/2018 16:31:18.386;2383;Leon;ExposeHK;1;2;Key;Up;none;none;D;none
+18/07/2018 16:31:18.742;2739;Leon;ExposeHK;1;2;Mouse;Move;213;462;none;none
+18/07/2018 16:31:18.750;2747;Leon;ExposeHK;1;2;Mouse;Move;215;461;none;none
+18/07/2018 16:31:18.758;2755;Leon;ExposeHK;1;2;Mouse;Move;218;459;none;none
+18/07/2018 16:31:18.793;2790;Leon;ExposeHK;1;2;Mouse;Move;225;456;none;none
+18/07/2018 16:31:18.794;2791;Leon;ExposeHK;1;2;Mouse;Move;263;441;none;none
+18/07/2018 16:31:18.826;2823;Leon;ExposeHK;1;2;Mouse;Move;283;434;none;none
+18/07/2018 16:31:18.827;2824;Leon;ExposeHK;1;2;Mouse;Move;378;395;none;none
+18/07/2018 16:31:18.830;2827;Leon;ExposeHK;1;2;Mouse;Move;412;381;none;none
+18/07/2018 16:31:18.838;2835;Leon;ExposeHK;1;2;Mouse;Move;457;365;none;none
+18/07/2018 16:31:18.846;2843;Leon;ExposeHK;1;2;Mouse;Move;505;347;none;none
+18/07/2018 16:31:18.854;2851;Leon;ExposeHK;1;2;Mouse;Move;561;326;none;none
+18/07/2018 16:31:18.862;2859;Leon;ExposeHK;1;2;Mouse;Move;611;308;none;none
+18/07/2018 16:31:18.870;2867;Leon;ExposeHK;1;2;Mouse;Move;675;287;none;none
+18/07/2018 16:31:18.878;2875;Leon;ExposeHK;1;2;Mouse;Move;726;269;none;none
+18/07/2018 16:31:18.894;2891;Leon;ExposeHK;1;2;Mouse;Move;792;249;none;none
+18/07/2018 16:31:18.895;2892;Leon;ExposeHK;1;2;Mouse;Move;845;233;none;none
+18/07/2018 16:31:18.902;2899;Leon;ExposeHK;1;2;Mouse;Move;905;219;none;none
+18/07/2018 16:31:18.910;2907;Leon;ExposeHK;1;2;Mouse;Move;949;211;none;none
+18/07/2018 16:31:18.918;2915;Leon;ExposeHK;1;2;Mouse;Move;1006;199;none;none
+18/07/2018 16:31:18.926;2923;Leon;ExposeHK;1;2;Mouse;Move;1044;191;none;none
+18/07/2018 16:31:18.934;2931;Leon;ExposeHK;1;2;Mouse;Move;1096;183;none;none
+18/07/2018 16:31:18.942;2939;Leon;ExposeHK;1;2;Mouse;Move;1139;178;none;none
+18/07/2018 16:31:18.950;2947;Leon;ExposeHK;1;2;Mouse;Move;1176;174;none;none
+18/07/2018 16:31:18.958;2955;Leon;ExposeHK;1;2;Mouse;Move;1210;173;none;none
+18/07/2018 16:31:18.966;2963;Leon;ExposeHK;1;2;Mouse;Move;1239;169;none;none
+18/07/2018 16:31:18.974;2971;Leon;ExposeHK;1;2;Mouse;Move;1262;168;none;none
+18/07/2018 16:31:18.982;2979;Leon;ExposeHK;1;2;Mouse;Move;1279;168;none;none
+18/07/2018 16:31:18.990;2987;Leon;ExposeHK;1;2;Mouse;Move;1296;168;none;none
+18/07/2018 16:31:18.998;2995;Leon;ExposeHK;1;2;Mouse;Move;1308;168;none;none
+18/07/2018 16:31:19.6;3003;Leon;ExposeHK;1;2;Mouse;Move;1320;168;none;none
+18/07/2018 16:31:19.14;3011;Leon;ExposeHK;1;2;Mouse;Move;1328;168;none;none
+18/07/2018 16:31:19.22;3019;Leon;ExposeHK;1;2;Mouse;Move;1337;168;none;none
+18/07/2018 16:31:19.30;3027;Leon;ExposeHK;1;2;Mouse;Move;1343;169;none;none
+18/07/2018 16:31:19.38;3035;Leon;ExposeHK;1;2;Mouse;Move;1348;170;none;none
+18/07/2018 16:31:19.46;3043;Leon;ExposeHK;1;2;Mouse;Move;1351;170;none;none
+18/07/2018 16:31:19.54;3051;Leon;ExposeHK;1;2;Mouse;Move;1354;171;none;none
+18/07/2018 16:31:19.62;3059;Leon;ExposeHK;1;2;Mouse;Move;1356;171;none;none
+18/07/2018 16:31:19.70;3067;Leon;ExposeHK;1;2;Mouse;Move;1357;171;none;none
+18/07/2018 16:31:19.78;3075;Leon;ExposeHK;1;2;Mouse;Move;1359;171;none;none
+18/07/2018 16:31:19.86;3083;Leon;ExposeHK;1;2;Mouse;Move;1359;172;none;none
+18/07/2018 16:31:19.94;3091;Leon;ExposeHK;1;2;Mouse;Move;1360;173;none;none
+18/07/2018 16:31:19.102;3099;Leon;ExposeHK;1;2;Mouse;Move;1362;173;none;none
+18/07/2018 16:31:19.110;3107;Leon;ExposeHK;1;2;Mouse;Move;1363;174;none;none
+18/07/2018 16:31:19.118;3115;Leon;ExposeHK;1;2;Mouse;Move;1365;175;none;none
+18/07/2018 16:31:19.126;3123;Leon;ExposeHK;1;2;Mouse;Move;1368;177;none;none
+18/07/2018 16:31:19.134;3131;Leon;ExposeHK;1;2;Mouse;Move;1371;179;none;none
+18/07/2018 16:31:19.142;3139;Leon;ExposeHK;1;2;Mouse;Move;1375;180;none;none
+18/07/2018 16:31:19.150;3147;Leon;ExposeHK;1;2;Mouse;Move;1379;183;none;none
+18/07/2018 16:31:19.158;3155;Leon;ExposeHK;1;2;Mouse;Move;1385;186;none;none
+18/07/2018 16:31:19.166;3163;Leon;ExposeHK;1;2;Mouse;Move;1392;189;none;none
+18/07/2018 16:31:19.174;3171;Leon;ExposeHK;1;2;Mouse;Move;1397;191;none;none
+18/07/2018 16:31:19.182;3179;Leon;ExposeHK;1;2;Mouse;Move;1403;194;none;none
+18/07/2018 16:31:19.190;3187;Leon;ExposeHK;1;2;Mouse;Move;1409;196;none;none
+18/07/2018 16:31:19.198;3195;Leon;ExposeHK;1;2;Mouse;Move;1415;197;none;none
+18/07/2018 16:31:19.206;3203;Leon;ExposeHK;1;2;Mouse;Move;1420;198;none;none
+18/07/2018 16:31:19.214;3211;Leon;ExposeHK;1;2;Mouse;Move;1424;199;none;none
+18/07/2018 16:31:19.222;3219;Leon;ExposeHK;1;2;Mouse;Move;1426;199;none;none
+18/07/2018 16:31:19.230;3227;Leon;ExposeHK;1;2;Mouse;Move;1428;199;none;none
+18/07/2018 16:31:19.238;3235;Leon;ExposeHK;1;2;Mouse;Move;1429;199;none;none
+18/07/2018 16:31:19.246;3243;Leon;ExposeHK;1;2;Mouse;Move;1430;199;none;none
+18/07/2018 16:31:19.254;3251;Leon;ExposeHK;1;2;Mouse;Move;1430;200;none;none
+18/07/2018 16:31:19.494;3491;Leon;ExposeHK;1;2;Mouse;Click;1430;200;none;none
+18/07/2018 16:31:19.495;3492;Leon;ExposeHK;1;2;Mouse;Move;1430;200;none;none
+18/07/2018 16:31:19.598;3595;Leon;ExposeHK;1;2;Mouse;Release;1430;200;none;none
+18/07/2018 16:31:19.598;3596;Leon;ExposeHK;1;2;Mouse;Move;1430;200;none;none
+18/07/2018 16:31:19.601;3598;Leon;ExposeHK;1;2;none;none;none;none;none; Clickbutton1
+18/07/2018 16:31:19.607;0;Leon;ExposeHK;1;3;none;none;none;none;none;Focus Lost

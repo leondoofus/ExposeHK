@@ -39,13 +39,14 @@ namespace TextRuler
             logFile = "RequestForm_" +
                 DateTime.Now.ToString().Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
             globalWatch = new Stopwatch();
+            log_init();
             globalWatch.Start();
         }
 
         public void log_init()
         {
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
-            file.WriteLine("Timestamp;Event");
+            file.WriteLine("Date;Timestamp;Participant;Aid;Phase;BlockID;Device;Event;PosX;PosY;Key;Other");
             file.Close();
         }
 
@@ -57,7 +58,7 @@ namespace TextRuler
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
 
             // write a    line of text to the file
-            file.WriteLine(DateTime.Now + " " + DateTime.Now.Millisecond + ";" + s);
+            file.WriteLine(DateTime.Now + "." + DateTime.Now.Millisecond + ";" + globalWatch.ElapsedMilliseconds + ";none;none;none;0;none;" + s);
 
             // close the stream
             file.Close();
@@ -65,31 +66,31 @@ namespace TextRuler
 
         private void hook_KeyUp(object sender, KeyEventArgs e)
         {
-            log("KEYPRESS UP " + e.KeyData);
+            log("Key;Up;none;none;" + e.KeyData + ";none");
         }
 
         private void hook_MouseMove(object sender, MouseEventArgs e)
         {
             if (e.Clicks > 0)
             {
-                log("MOUSE click " + e.Location);
+                log("Mouse;Click;" + e.X + ";" + e.Y + ";none;none");
             }
 
             if (e.Clicks == -1)
             {
-                log("MOUSE release " + e.Location);
+                log("Mouse;Release;" + e.X + ";" + e.Y + ";none;none");
             }
-            log("MOUSE Move " + e.Location);
+            log("Mouse;Move;" + e.X + ";" + e.Y + ";none;none");
         }
 
         private void hook_KeyDown(object sender, KeyEventArgs e)
         {
-            log("KEYPRESS DOWN " + e.KeyData);
+            log("Key;Down;none;none;" + e.KeyData + ";none");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            log("CLICK " + ((Button)sender).Name);
+            log("none;none;none;none;none; Click" + ((Button)sender).Name);
             if (textBox1.Text.Equals(""))
             {
                 MessageBox.Show("You must fill all the sections", "Warning",
@@ -122,19 +123,30 @@ namespace TextRuler
             }
             Program.name = textBox1.Text;
             globalWatch.Stop();
-            log("Total time " + globalWatch.ElapsedMilliseconds);
             hook.Stop();
             Close();
         }
 
         private void radioButton_Click(object sender, EventArgs e)
         {
-            log("CLICK " + ((RadioButton)sender).Name);
+            log("none;none;none;none;none;Click " + ((RadioButton)sender).Name);
         }
 
         private void textBox1_Click(object sender, EventArgs e)
         {
-            log("CLICK " + ((TextBox)sender).Name);
+            log("none;none;none;none;none;Click " + ((TextBox)sender).Name);
+        }
+
+        private void Form3_Activated(object sender, EventArgs e)
+        {
+            log("none;none;none;none;none;Focus Gained");
+            Debug.WriteLine("Focus Gained");
+        }
+
+        private void Form3_Deactivate(object sender, EventArgs e)
+        {
+            log("none;none;none;none;none;Focus Lost");
+            Debug.WriteLine("Focus Lost");
         }
     }
 }

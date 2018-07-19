@@ -141,11 +141,13 @@ namespace TextRuler.AdvancedTextEditorControl
         internal void Close ()
         {
             globalWatch.Stop();
-            log("Total time " + globalWatch.ElapsedMilliseconds);
             TextEditor.SaveFile(logFile + "TextFile.rtf", RichTextBoxStreamType.RichText);
             globalWatch.Reset();
             blocId += 1;
-            if (blocId > Program.rep) Application.Exit();
+            if (blocId > Program.rep)
+            {
+                Application.Exit();
+            }
             else
             {
                 logFile = Program.name + "_" + Program.help.ToString() + "_" + Program.phase.ToString() + "-" + blocId.ToString() + "_" +
@@ -168,10 +170,10 @@ namespace TextRuler.AdvancedTextEditorControl
             }
         }
 
-        public void logKeyPress(String k)
+        /*public void logKeyPress(String k)
         {
             log("KEYPRESS " + k.ToString());
-        }
+        }*/
 
 
         public String logFile = "I've Made a Huge Mistake";
@@ -180,7 +182,7 @@ namespace TextRuler.AdvancedTextEditorControl
         public void log_init()
         {
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
-            file.WriteLine("Timestamp;Participant;Aid;Phase;BlockID;Event");
+            file.WriteLine("Date;Timestamp;Participant;Aid;Phase;BlockID;Device;Event;PosX;PosY;Key;Other");
             file.Close();
         }
 
@@ -192,7 +194,8 @@ namespace TextRuler.AdvancedTextEditorControl
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
 
             // write a    line of text to the file
-            file.WriteLine(DateTime.Now + " " + DateTime.Now.Millisecond + ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";" + blocId + ";" + s);
+            file.WriteLine(DateTime.Now + "." + DateTime.Now.Millisecond + ";" + globalWatch.ElapsedMilliseconds +
+                ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";" + blocId + ";" + s);
 
             // close the stream
             file.Close();
@@ -202,7 +205,7 @@ namespace TextRuler.AdvancedTextEditorControl
         public void log2_init()
         {
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile2 + ".txt", true);
-            file.WriteLine("Timestamp;Participant;Aid;Phase;BlockID;;Command;Alternative;TimeSinceTextSelected;TimeSinceCtrlPressed;AidDisplayed");
+            file.WriteLine("Date;Timestamp;Participant;Aid;Phase;BlockID;Command;Alternative;TimeSinceTextSelected;TimeSinceCtrlPressed;AidDisplayed");
             file.Close();
         }
 
@@ -214,7 +217,8 @@ namespace TextRuler.AdvancedTextEditorControl
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile2 + ".txt", true);
 
             // write a    line of text to the file
-            file.WriteLine(DateTime.Now + " " + DateTime.Now.Millisecond + ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";" + blocId + ";" + s);
+            file.WriteLine(DateTime.Now + "." + DateTime.Now.Millisecond + ";" + globalWatch.ElapsedMilliseconds + ";" +
+                Program.name + ";" + Program.help + ";" + Program.phase + ";" + blocId + ";" + s);
 
             // close the stream
             file.Close();
@@ -227,20 +231,20 @@ namespace TextRuler.AdvancedTextEditorControl
             if (sender is ToolStripButton)
             {
                 ToolStripButton b = ((ToolStripButton)sender);
-                String message = "COMMAND " + b.Name;
+                String message = "Command " + b.Name;
                 if (e == null)
                 {
-                    message = message + " HOTKEY " + b.Tag.ToString() + " SelText:" + selectedText + " " + textSelTech + " ";
-                    log2(b.Name + ";HOTKEY;" + textSelectionWatch.ElapsedMilliseconds + ";" + ctrlWatch.ElapsedMilliseconds + ";"
+                    message = message + " Hotkey " + b.Tag.ToString() + " SelText:" + selectedText + " " + textSelTech + " ";
+                    log2(b.Name + ";Hotkey;" + textSelectionWatch.ElapsedMilliseconds + ";" + ctrlWatch.ElapsedMilliseconds + ";"
                         + exposed);
                 }
                 else
                 {
-                    message = message + " MOUSE " + b.Tag.ToString() + " SelText:" + selectedText + " " + textSelTech + " ";
-                    log2(b.Name + ";MOUSE;" + textSelectionWatch.ElapsedMilliseconds + ";" + ctrlWatch.ElapsedMilliseconds + ";"
+                    message = message + " Mouse " + b.Tag.ToString() + " SelText:" + selectedText + " " + textSelTech + " ";
+                    log2(b.Name + ";Mouse;" + textSelectionWatch.ElapsedMilliseconds + ";" + ctrlWatch.ElapsedMilliseconds + ";"
                         + exposed);
                 }
-                log(message);
+                log("none;none;none;none;none;" + message);
             }
         }
 
@@ -262,14 +266,14 @@ namespace TextRuler.AdvancedTextEditorControl
 
             if (!this.TextEditor.SelectedText.Equals(selectedText) && !String.IsNullOrEmpty(this.TextEditor.SelectedText))
             {
-                log("Text Selection KEYBOARD " + this.TextEditor.SelectedText);
+                log("none;none;none;none;none;Text Selection Keyboard " + this.TextEditor.SelectedText);
                 selectedText = this.TextEditor.SelectedText;
-                textSelTech = "KEYBOARD";
+                textSelTech = "Keyboard";
                 textSelectionWatch.Restart();
             }
 
 
-            logKeyPress("DOWN " + e.KeyData);
+            log("Key;Down;none;none;" + e.KeyData + ";none");
             if (ctrl)
             {
                 switch (e.KeyData)
@@ -415,9 +419,9 @@ namespace TextRuler.AdvancedTextEditorControl
 
             if (!this.TextEditor.SelectedText.Equals(selectedText) && !String.IsNullOrEmpty(this.TextEditor.SelectedText))
             {
-                log("Text Selection KEYBOARD " + this.TextEditor.SelectedText);
+                log("none;none;none;none;none;Text Selection Keyboard " + this.TextEditor.SelectedText);
                 selectedText = this.TextEditor.SelectedText;
-                textSelTech = "KEYBOARD";
+                textSelTech = "Keyboard";
                 textSelectionWatch.Restart();
             }
 
@@ -444,7 +448,8 @@ namespace TextRuler.AdvancedTextEditorControl
                 keyboard.UnAlted();
             }
 
-            logKeyPress("UP " + e.KeyData);
+            log("Key;Up;none;none;" + e.KeyCode + ";none");
+            //logKeyPress("UP " + e.KeyData);
             Compare();
         }
 
@@ -457,25 +462,22 @@ namespace TextRuler.AdvancedTextEditorControl
 
             if (!this.TextEditor.SelectedText.Equals(selectedText) && !String.IsNullOrEmpty(this.TextEditor.SelectedText))
             {
-                log("Text Selection MOUSE " + this.TextEditor.SelectedText);
+                log("none;none;none;none;none;Text Selection Mouse " + this.TextEditor.SelectedText);
                 selectedText = this.TextEditor.SelectedText;
-                textSelTech = "MOUSE";
+                textSelTech = "Mouse";
                 textSelectionWatch.Restart();
             }
 
             if (e.Clicks > 0)
             {
-                Compare();
-                log("MOUSE click " + e.Location);
+                log("Mouse;Click;" + e.X + ";" + e.Y + ";none;none");
             }
 
             if (e.Clicks == -1)
             {
-                Compare();
-                log("MOUSE release " + e.Location);
+                log("Mouse;Release;" + e.X + ";" + e.Y + ";none;none");
             }
-
-            log("MOUSE Move " + e.Location);
+            log("Mouse;Move;" + e.X + ";" + e.Y + ";none;none");
         }
 
         List<Label> overlayLabels = new List<Label>();
@@ -486,7 +488,7 @@ namespace TextRuler.AdvancedTextEditorControl
         {
             if (exposed == false)
             {
-                log("ExposeHK Activated");
+                log("none;none;none;none;none;ExposeHK Activated");
             }
             foreach (Label l in overlayLabels)
             {
@@ -500,7 +502,7 @@ namespace TextRuler.AdvancedTextEditorControl
         {
             if (exposed == true)
             {
-                log("ExposeHK Hidden");
+                log("none;none;none;none;none;ExposeHK Hidden");
             }
             foreach (Label l in overlayLabels)
             {
@@ -512,12 +514,20 @@ namespace TextRuler.AdvancedTextEditorControl
 
         private void ExposeKeyboard()
         {
+            if (exposed == false)
+            {
+                log("none;none;none;none;none;ExposeHK Activated");
+            }
             exposed = true;
             keyboard.Show();
         }
 
         private void HideKeyboard()
         {
+            if (exposed == true)
+            {
+                log("none;none;none;none;none;ExposeHK Hidden");
+            }
             exposed = false;
             keyboard.Hide();
         }
@@ -1966,7 +1976,7 @@ namespace TextRuler.AdvancedTextEditorControl
             if (sender is ToolStripButton)
             {
                 ToolStripButton button = (ToolStripButton)(sender);
-                log("ToolTip " + button.Name);
+                log("none;none;none;none;none;MouseHover ToolTip " + button.Name);
             }
 
         }

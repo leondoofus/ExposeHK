@@ -142,7 +142,7 @@ namespace TextRuler
 
             hook = new UserActivityHook();
             hook.KeyDown += new KeyEventHandler(hook_KeyDown);
-            hook.KeyUp += new KeyEventHandler(sender_KeyUp);
+            //hook.KeyUp += new KeyEventHandler(sender_KeyUp);
             hook.OnMouseActivity += new MouseEventHandler(hook_MouseMove);
             hook.Start();
 
@@ -150,13 +150,14 @@ namespace TextRuler
             logFile = Program.name + "_" + Program.help + "_" + Program.phase + "-1_" +
                 date.Replace(".", "").Replace("/", " ").Replace(":", " ") + " Log";
             globalWatch = new Stopwatch();
+            log_init();
             globalWatch.Start();
         }
 
         public void log_init()
         {
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
-            file.WriteLine("Timestamp;Participant;Aid;Phase;BlockID;Event");
+            file.WriteLine("Date;Timestamp;Participant;Aid;Phase;BlockID;Device;Event;PosX;PosY;Key;Other");
             file.Close();
         }
 
@@ -169,7 +170,8 @@ namespace TextRuler
             System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
 
             // write a    line of text to the file
-            file.WriteLine(DateTime.Now + " " + DateTime.Now.Millisecond + ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";1;" + s);
+            file.WriteLine(DateTime.Now + "." + DateTime.Now.Millisecond + ";" + globalWatch.ElapsedMilliseconds +
+                ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";1;" + s);
 
             // close the stream
             file.Close();
@@ -180,19 +182,19 @@ namespace TextRuler
         {
             if (e.Clicks > 0)
             {
-                log("MOUSE click " + e.Location);
+                log("Mouse;Click;" + e.X + ";" + e.Y + ";none;none");
             }
 
             if (e.Clicks == -1)
             {
-                log("MOUSE release " + e.Location);
+                log("Mouse;Release;" + e.X + ";" + e.Y + ";none;none");
             }
-            log("MOUSE Move " + e.Location);
+            log("Mouse;Move;" + e.X + ";" + e.Y + ";none;none");
         }
 
         private void hook_KeyDown(object sender, KeyEventArgs e)
         {
-            log("KEYPRESS DOWN " + e.KeyData);
+            log("Key;Down;none;none;" + e.KeyData + ";none");
             for (int i = 0; i < allShortcuts.Count; i++)
                 if (allShortcuts[i].Focused)
                     sender_KeyDown(allShortcuts[i], e);
@@ -295,7 +297,7 @@ namespace TextRuler
 
         private void sender_KeyUp(object sender, KeyEventArgs e)
         {
-            log("KEYPRESS UP " + e.KeyData);
+            log("Key;Up;none;none;" + e.KeyCode + ";none");
             pending = "";
             if (e.KeyCode == Keys.ControlKey)
             {
@@ -319,9 +321,8 @@ namespace TextRuler
 
         private void button1_Click(object sender, EventArgs e)
         {
-            log("CLICK submit");
+            log("none;none;none;none;none;Click " + ((Button)sender).Name);
             globalWatch.Stop();
-            log("Total time " + globalWatch.ElapsedMilliseconds);
             for (int i = 0; i < allShortcuts.Count; i++)
             {
                 if(allShortcuts[i].Text.Equals("Shortcut ...") || (!allRadios[i * 2].Checked && !allRadios[i * 2 + 1].Checked))
@@ -338,20 +339,20 @@ namespace TextRuler
 
         private void write_log()
         {
-            logFile += "_Data";
+            String logFileTmp = logFile + "_Data";
 
             // create a writer and open the file
-            System.IO.StreamWriter file = new System.IO.StreamWriter(logFile + ".txt", true);
+            System.IO.StreamWriter file = new System.IO.StreamWriter(logFileTmp + ".txt", true);
             file.WriteLine("Timestamp;Participant;Aid;Phase;BlockID;Shortcut;LearnedByAid;Comment");
             String tmp = date.Replace(" ", ";") + ";" + Program.name + ";" + Program.help + ";" + Program.phase + ";" + "1;";
             for (int i = 0; i < allShortcuts.Count; i++)
             {
-                if(allRadios[i * 2].Checked)
+                if(allRadios[i * 2].Checked) //learned by aid
                 {
                     if (allAids[i].Equals(""))
                     {
-                        Debug.WriteLine(tmp + allShortcuts[i].Text + ";0;null");
-                        file.WriteLine(tmp + allShortcuts[i].Text + ";0;null");
+                        Debug.WriteLine(tmp + allShortcuts[i].Text + ";0;none");
+                        file.WriteLine(tmp + allShortcuts[i].Text + ";0;none");
                     }
                     else
                     {
@@ -359,12 +360,12 @@ namespace TextRuler
                         file.WriteLine(tmp + allShortcuts[i].Text + ";0;" + allAids[i].Text);
                     }
                 }
-                else
+                else //learned by self
                 {
                     if (allAids[i].Equals(""))
                     {
-                        Debug.WriteLine(tmp + allShortcuts[i].Text + ";1;null");
-                        file.WriteLine(tmp + allShortcuts[i].Text + ";1;null");
+                        Debug.WriteLine(tmp + allShortcuts[i].Text + ";1;none");
+                        file.WriteLine(tmp + allShortcuts[i].Text + ";1;none");
                     }
                     else
                     {
@@ -379,17 +380,29 @@ namespace TextRuler
 
         private void textBox_Click(object sender, EventArgs e)
         {
-            log("CLICK " + ((TextBox)sender).Name);
+            log("none;none;none;none;none;Click " + ((TextBox)sender).Name);
         }
 
         private void toolStrip_Click(object sender, EventArgs e)
         {
-            log("CLICK " + ((ToolStripButton)sender).Name);
+            log("none;none;none;none;none;Click " + ((ToolStripButton)sender).Name);
         }
 
         private void radio_Click(object sender, EventArgs e)
         {
-            log("CLICK " + ((RadioButton)sender).Name);
+            log("none;none;none;none;none;Click " + ((RadioButton)sender).Name);
+        }
+
+        private void Form4_Activated(object sender, EventArgs e)
+        {
+            log("none;none;none;none;none;;Focus Gained");
+            Debug.WriteLine("Focus Gained");
+        }
+
+        private void Form4_Deactivate(object sender, EventArgs e)
+        {
+            log("none;none;none;none;none;Focus Lost");
+            Debug.WriteLine("Focus Lost");
         }
     }
 }
