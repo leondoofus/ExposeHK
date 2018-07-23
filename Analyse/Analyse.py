@@ -8,9 +8,6 @@ buttons = ["btnCut", "btnCopy", "btnPaste", "btnUndo", "btnRedo", "DecreaseSizeB
            "BlackButton", "MagentaButton", "LimeButton", "CyanButton"]
 shortcuts = []
 
-for tmp in ['X', 'C', 'V', 'Z', 'Y', '(', ')', 'B', 'I', 'U', 'Q', 'W', 'D', 'J', 'R', 'E', 'L', 'K', 'M', 'G', 'H']:
-    shortcuts.append("Ctrl + " + tmp)
-
 # print(shortcuts)
 # print(len(buttons) == len(shortcuts))
 
@@ -22,6 +19,9 @@ phase3 = dict()
 
 
 def init():
+    for tmp in ['X', 'C', 'V', 'Z', 'Y', '(', ')', 'B', 'I', 'U', 'Q', 'W', 'D', 'J', 'R', 'E', 'L', 'K', 'M', 'G',
+                'H']:
+        shortcuts.append("Ctrl + " + tmp)
     for i in ['ExposeHK', 'ExposeKeyboard', 'StickerKeyboard', 'Optimus']:
         phase11[i] = dict()
         phase12[i] = dict()
