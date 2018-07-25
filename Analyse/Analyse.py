@@ -17,6 +17,12 @@ phase21 = dict()
 phase22 = dict()
 phase3 = dict()
 
+sum11 = dict()
+sum12 = dict()
+sum21 = dict()
+sum22 = dict()
+sum3 = dict()
+
 
 def init():
     for tmp in ['X', 'C', 'V', 'Z', 'Y', '(', ')', 'B', 'I', 'U', 'Q', 'W', 'D', 'J', 'R', 'E', 'L', 'K', 'M', 'G',
@@ -28,6 +34,11 @@ def init():
         phase21[i] = dict()
         phase22[i] = dict()
         phase3[i] = dict()
+        sum11[i] = dict()
+        sum12[i] = dict()
+        sum21[i] = dict()
+        sum22[i] = dict()
+        sum3[i] = dict()
 
 
 def treatment_phase1(filename, phase):
@@ -98,29 +109,41 @@ def treatment_memorization(filename):
     print(phase3)
 
 
+def sum_action():
+    for aid, liste in phase11.items():
+        for name, value in liste.items():
+            sum11[aid][name] = [sum(x) for x in zip(*value)]
+    for aid, liste in phase12.items():
+        for name, value in liste.items():
+            sum12[aid][name] = [sum(x) for x in zip(*value)]
+
+
 def main():
+    # Data collection
     for element in os.listdir(path):
         if "_Data.txt" in element:
             if "_1-1_" in element:
                 """Phase 1, block 1"""
-                treatment_phase1(element,phase11)
-                print(phase11)
+                treatment_phase1(element, phase11)
+                # print(phase11)
             elif "_1-2_" in element:
                 """Phase 1, block 2"""
                 treatment_phase1(element, phase12)
-                print(phase12)
+                # print(phase12)
             elif "_2-1_" in element:
                 """Phase 2, block 1"""
                 treatment_phase2(element, phase21)
-                print(phase21)
+                # print(phase21)
             elif "_2-2_" in element:
                 """Phase 1, block 2"""
                 treatment_phase2(element, phase22)
-                print(phase22)
+                # print(phase22)
             elif "_3-1_" in element:
                 """Phase 3, block 1"""
                 treatment_memorization(element)
                 print(phase3)
+    #sum_action()
+    #print(sum11)
 
 
 if __name__ == '__main__':

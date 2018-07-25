@@ -1,0 +1,22 @@
+Timestamp;Participant;Aid;Phase;BlockID;Shortcut;LearnedByAid;Comment
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + X;1;Always used
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + C;1;Always used
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + V;1;Always used
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + Z;1;Always used
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + R;1;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + (;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + );0;Encountered it by chance in phase one
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + B;1;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + I;1;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + U;1;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + Q;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + W;0;Encountered it by chance in phase one
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + D;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + T;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + Y;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + U;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + O;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + J;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + M;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + G;0;
+25/07/2018;14:59:21;Tiffany;ExposeKeyboard;3;1;Ctrl + L;0;

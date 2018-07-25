@@ -1,0 +1,401 @@
+Date;Timestamp;Participant;Aid;Phase;BlockID;Device;Event;PosX;PosY;Key;Other
+25/07/2018 15:47:24.835;25;dsd;ExposeHK;1;1;none;none;none;none;none;Focus Gained
+25/07/2018 15:47:24.843;34;dsd;ExposeHK;1;1;Mouse;Move;1077;625;none;none
+25/07/2018 15:47:24.845;35;dsd;ExposeHK;1;1;Mouse;Move;699;442;none;none
+25/07/2018 15:47:24.845;36;dsd;ExposeHK;1;1;Mouse;Move;661;426;none;none
+25/07/2018 15:47:24.854;45;dsd;ExposeHK;1;1;Mouse;Move;626;405;none;none
+25/07/2018 15:47:24.863;54;dsd;ExposeHK;1;1;Mouse;Move;591;387;none;none
+25/07/2018 15:47:24.869;60;dsd;ExposeHK;1;1;Mouse;Move;564;373;none;none
+25/07/2018 15:47:24.877;68;dsd;ExposeHK;1;1;Mouse;Move;542;361;none;none
+25/07/2018 15:47:24.885;76;dsd;ExposeHK;1;1;Mouse;Move;530;355;none;none
+25/07/2018 15:47:24.893;84;dsd;ExposeHK;1;1;Mouse;Move;515;349;none;none
+25/07/2018 15:47:24.901;92;dsd;ExposeHK;1;1;Mouse;Move;506;345;none;none
+25/07/2018 15:47:24.909;100;dsd;ExposeHK;1;1;Mouse;Move;499;341;none;none
+25/07/2018 15:47:24.918;108;dsd;ExposeHK;1;1;Mouse;Move;495;340;none;none
+25/07/2018 15:47:24.925;116;dsd;ExposeHK;1;1;Mouse;Move;491;338;none;none
+25/07/2018 15:47:24.933;124;dsd;ExposeHK;1;1;Mouse;Move;490;337;none;none
+25/07/2018 15:47:24.941;132;dsd;ExposeHK;1;1;Mouse;Move;489;337;none;none
+25/07/2018 15:47:24.949;140;dsd;ExposeHK;1;1;Mouse;Move;489;337;none;none
+25/07/2018 15:47:25.37;228;dsd;ExposeHK;1;1;Mouse;Move;489;336;none;none
+25/07/2018 15:47:25.45;236;dsd;ExposeHK;1;1;Mouse;Move;489;335;none;none
+25/07/2018 15:47:25.53;244;dsd;ExposeHK;1;1;Mouse;Move;489;335;none;none
+25/07/2018 15:47:25.61;252;dsd;ExposeHK;1;1;Mouse;Move;487;333;none;none
+25/07/2018 15:47:25.69;260;dsd;ExposeHK;1;1;Mouse;Move;486;331;none;none
+25/07/2018 15:47:25.77;268;dsd;ExposeHK;1;1;Mouse;Move;484;330;none;none
+25/07/2018 15:47:25.85;276;dsd;ExposeHK;1;1;Mouse;Move;483;328;none;none
+25/07/2018 15:47:25.93;284;dsd;ExposeHK;1;1;Mouse;Move;481;326;none;none
+25/07/2018 15:47:25.101;292;dsd;ExposeHK;1;1;Mouse;Move;479;325;none;none
+25/07/2018 15:47:25.109;300;dsd;ExposeHK;1;1;Mouse;Move;478;325;none;none
+25/07/2018 15:47:25.117;308;dsd;ExposeHK;1;1;Mouse;Move;475;323;none;none
+25/07/2018 15:47:25.125;316;dsd;ExposeHK;1;1;Mouse;Move;474;323;none;none
+25/07/2018 15:47:25.133;324;dsd;ExposeHK;1;1;Mouse;Move;472;322;none;none
+25/07/2018 15:47:25.141;332;dsd;ExposeHK;1;1;Mouse;Move;471;322;none;none
+25/07/2018 15:47:25.149;340;dsd;ExposeHK;1;1;Mouse;Move;469;322;none;none
+25/07/2018 15:47:25.157;348;dsd;ExposeHK;1;1;Mouse;Move;468;322;none;none
+25/07/2018 15:47:25.165;356;dsd;ExposeHK;1;1;Mouse;Move;467;322;none;none
+25/07/2018 15:47:25.173;364;dsd;ExposeHK;1;1;Mouse;Move;466;322;none;none
+25/07/2018 15:47:25.181;372;dsd;ExposeHK;1;1;Mouse;Move;465;323;none;none
+25/07/2018 15:47:25.189;380;dsd;ExposeHK;1;1;Mouse;Move;464;324;none;none
+25/07/2018 15:47:25.197;388;dsd;ExposeHK;1;1;Mouse;Move;464;324;none;none
+25/07/2018 15:47:25.205;396;dsd;ExposeHK;1;1;Mouse;Move;463;326;none;none
+25/07/2018 15:47:25.213;403;dsd;ExposeHK;1;1;Mouse;Move;462;327;none;none
+25/07/2018 15:47:25.221;412;dsd;ExposeHK;1;1;Mouse;Move;461;330;none;none
+25/07/2018 15:47:25.229;420;dsd;ExposeHK;1;1;Mouse;Move;461;333;none;none
+25/07/2018 15:47:25.237;428;dsd;ExposeHK;1;1;Mouse;Move;460;338;none;none
+25/07/2018 15:47:25.245;436;dsd;ExposeHK;1;1;Mouse;Move;460;341;none;none
+25/07/2018 15:47:25.253;444;dsd;ExposeHK;1;1;Mouse;Move;460;344;none;none
+25/07/2018 15:47:25.261;452;dsd;ExposeHK;1;1;Mouse;Move;460;347;none;none
+25/07/2018 15:47:25.269;459;dsd;ExposeHK;1;1;Mouse;Move;460;348;none;none
+25/07/2018 15:47:25.277;468;dsd;ExposeHK;1;1;Mouse;Move;460;349;none;none
+25/07/2018 15:47:25.349;540;dsd;ExposeHK;1;1;Mouse;Move;460;349;none;none
+25/07/2018 15:47:25.357;548;dsd;ExposeHK;1;1;Mouse;Move;460;349;none;none
+25/07/2018 15:47:25.373;564;dsd;ExposeHK;1;1;Mouse;Move;460;349;none;none
+25/07/2018 15:47:25.381;572;dsd;ExposeHK;1;1;Mouse;Move;461;349;none;none
+25/07/2018 15:47:25.389;580;dsd;ExposeHK;1;1;Mouse;Move;461;348;none;none
+25/07/2018 15:47:25.397;588;dsd;ExposeHK;1;1;Mouse;Move;461;348;none;none
+25/07/2018 15:47:25.405;595;dsd;ExposeHK;1;1;Mouse;Move;461;346;none;none
+25/07/2018 15:47:25.413;604;dsd;ExposeHK;1;1;Mouse;Move;461;344;none;none
+25/07/2018 15:47:25.421;612;dsd;ExposeHK;1;1;Mouse;Move;461;343;none;none
+25/07/2018 15:47:25.429;620;dsd;ExposeHK;1;1;Mouse;Move;462;341;none;none
+25/07/2018 15:47:25.437;628;dsd;ExposeHK;1;1;Mouse;Move;463;340;none;none
+25/07/2018 15:47:25.445;636;dsd;ExposeHK;1;1;Mouse;Move;463;339;none;none
+25/07/2018 15:47:25.453;644;dsd;ExposeHK;1;1;Mouse;Move;464;338;none;none
+25/07/2018 15:47:25.461;652;dsd;ExposeHK;1;1;Mouse;Move;464;337;none;none
+25/07/2018 15:47:25.469;660;dsd;ExposeHK;1;1;Mouse;Move;465;337;none;none
+25/07/2018 15:47:25.509;700;dsd;ExposeHK;1;1;Mouse;Move;465;337;none;none
+25/07/2018 15:47:25.517;708;dsd;ExposeHK;1;1;Mouse;Move;465;338;none;none
+25/07/2018 15:47:25.525;716;dsd;ExposeHK;1;1;Mouse;Move;465;338;none;none
+25/07/2018 15:47:25.545;736;dsd;ExposeHK;1;1;Mouse;Move;465;341;none;none
+25/07/2018 15:47:25.546;736;dsd;ExposeHK;1;1;Mouse;Move;466;343;none;none
+25/07/2018 15:47:25.549;739;dsd;ExposeHK;1;1;Mouse;Move;467;345;none;none
+25/07/2018 15:47:25.562;752;dsd;ExposeHK;1;1;Mouse;Move;469;348;none;none
+25/07/2018 15:47:25.579;770;dsd;ExposeHK;1;1;Mouse;Move;470;350;none;none
+25/07/2018 15:47:25.580;770;dsd;ExposeHK;1;1;Mouse;Move;472;352;none;none
+25/07/2018 15:47:25.581;771;dsd;ExposeHK;1;1;Mouse;Move;473;354;none;none
+25/07/2018 15:47:25.595;786;dsd;ExposeHK;1;1;Mouse;Move;473;355;none;none
+25/07/2018 15:47:25.597;787;dsd;ExposeHK;1;1;Mouse;Move;474;357;none;none
+25/07/2018 15:47:25.624;814;dsd;ExposeHK;1;1;Mouse;Move;475;359;none;none
+25/07/2018 15:47:25.624;815;dsd;ExposeHK;1;1;Mouse;Move;477;363;none;none
+25/07/2018 15:47:25.629;819;dsd;ExposeHK;1;1;Mouse;Move;478;364;none;none
+25/07/2018 15:47:25.637;827;dsd;ExposeHK;1;1;Mouse;Move;478;365;none;none
+25/07/2018 15:47:25.645;835;dsd;ExposeHK;1;1;Mouse;Move;478;366;none;none
+25/07/2018 15:47:25.653;843;dsd;ExposeHK;1;1;Mouse;Move;478;366;none;none
+25/07/2018 15:47:25.661;852;dsd;ExposeHK;1;1;Mouse;Move;479;366;none;none
+25/07/2018 15:47:25.669;860;dsd;ExposeHK;1;1;Mouse;Move;479;367;none;none
+25/07/2018 15:47:25.781;972;dsd;ExposeHK;1;1;Mouse;Click;479;367;none;none
+25/07/2018 15:47:25.781;972;dsd;ExposeHK;1;1;Mouse;Move;479;367;none;none
+25/07/2018 15:47:25.845;1036;dsd;ExposeHK;1;1;Mouse;Move;479;367;none;none
+25/07/2018 15:47:25.853;1043;dsd;ExposeHK;1;1;Mouse;Move;479;367;none;none
+25/07/2018 15:47:25.864;1054;dsd;ExposeHK;1;1;Mouse;Move;481;369;none;none
+25/07/2018 15:47:25.869;1060;dsd;ExposeHK;1;1;Mouse;Move;484;370;none;none
+25/07/2018 15:47:25.877;1067;dsd;ExposeHK;1;1;none;none;none;none;none;Text Selection Mouse 
+As mobile devices increasingly resemble each other in look 
+25/07/2018 15:47:25.877;1068;dsd;ExposeHK;1;1;Mouse;Move;488;373;none;none
+25/07/2018 15:47:25.885;1075;dsd;ExposeHK;1;1;Mouse;Move;493;375;none;none
+25/07/2018 15:47:25.893;1084;dsd;ExposeHK;1;1;Mouse;Move;500;378;none;none
+25/07/2018 15:47:25.901;1091;dsd;ExposeHK;1;1;Mouse;Move;506;381;none;none
+25/07/2018 15:47:25.909;1100;dsd;ExposeHK;1;1;none;none;none;none;none;Text Selection Mouse 
+As mobile devices increasingly resemble each other in look and 
+25/07/2018 15:47:25.909;1100;dsd;ExposeHK;1;1;Mouse;Move;513;384;none;none
+25/07/2018 15:47:25.917;1108;dsd;ExposeHK;1;1;none;none;none;none;none;Text Selection Mouse 
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers 
+25/07/2018 15:47:25.917;1108;dsd;ExposeHK;1;1;Mouse;Move;521;387;none;none
+25/07/2018 15:47:25.925;1115;dsd;ExposeHK;1;1;Mouse;Move;530;391;none;none
+25/07/2018 15:47:25.933;1123;dsd;ExposeHK;1;1;Mouse;Move;540;395;none;none
+25/07/2018 15:47:25.941;1132;dsd;ExposeHK;1;1;none;none;none;none;none;Text Selection Mouse 
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie 
+25/07/2018 15:47:25.941;1132;dsd;ExposeHK;1;1;Mouse;Move;550;398;none;none
+25/07/2018 15:47:25.949;1140;dsd;ExposeHK;1;1;none;none;none;none;none;Text Selection Mouse 
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+
+25/07/2018 15:47:25.949;1140;dsd;ExposeHK;1;1;Mouse;Move;560;403;none;none
+25/07/2018 15:47:25.957;1148;dsd;ExposeHK;1;1;Mouse;Move;569;406;none;none
+25/07/2018 15:47:25.965;1156;dsd;ExposeHK;1;1;Mouse;Move;576;409;none;none
+25/07/2018 15:47:25.973;1164;dsd;ExposeHK;1;1;none;none;none;none;none;Text Selection Mouse 
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly 
+25/07/2018 15:47:25.973;1164;dsd;ExposeHK;1;1;Mouse;Move;582;411;none;none
+25/07/2018 15:47:25.981;1172;dsd;ExposeHK;1;1;Mouse;Move;585;412;none;none
+25/07/2018 15:47:25.989;1180;dsd;ExposeHK;1;1;Mouse;Move;587;413;none;none
+25/07/2018 15:47:25.997;1187;dsd;ExposeHK;1;1;Mouse;Move;588;413;none;none
+25/07/2018 15:47:26.5;1196;dsd;ExposeHK;1;1;Mouse;Move;588;413;none;none
+25/07/2018 15:47:26.93;1284;dsd;ExposeHK;1;1;Mouse;Release;588;413;none;none
+25/07/2018 15:47:26.93;1284;dsd;ExposeHK;1;1;Mouse;Move;588;413;none;none
+25/07/2018 15:47:26.505;1695;dsd;ExposeHK;1;1;Key;Down;none;none;LControlKey;none
+25/07/2018 15:47:26.999;2190;dsd;ExposeHK;1;1;Key;Down;none;none;LControlKey;none
+25/07/2018 15:47:27.32;2222;dsd;ExposeHK;1;1;Key;Down;none;none;LControlKey;none
+25/07/2018 15:47:27.65;2255;dsd;ExposeHK;1;1;Key;Down;none;none;LControlKey;none
+25/07/2018 15:47:27.98;2288;dsd;ExposeHK;1;1;Key;Down;none;none;LControlKey;none
+25/07/2018 15:47:27.132;2321;dsd;ExposeHK;1;1;Key;Down;none;none;LControlKey;none
+25/07/2018 15:47:27.165;2354;dsd;ExposeHK;1;1;Key;Down;none;none;LControlKey;none
+25/07/2018 15:47:27.198;2387;dsd;ExposeHK;1;1;Key;Down;none;none;LControlKey;none
+25/07/2018 15:47:27.231;2420;dsd;ExposeHK;1;1;Key;Down;none;none;LControlKey;none
+25/07/2018 15:47:27.250;2440;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:27.263;2453;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText:
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly  Mouse 
+25/07/2018 15:47:27.573;2762;dsd;ExposeHK;1;1;Key;Up;none;none;I;none
+25/07/2018 15:47:29.190;4380;dsd;ExposeHK;1;1;Key;Down;none;none;Z;none
+25/07/2018 15:47:29.201;4390;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnUndo Hotkey Z SelText: Mouse 
+25/07/2018 15:47:29.300;4490;dsd;ExposeHK;1;1;none;none;none;none;none;Text Selection Keyboard 
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly 
+25/07/2018 15:47:29.302;4491;dsd;ExposeHK;1;1;Key;Up;none;none;Z;none
+25/07/2018 15:47:31.163;6353;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.167;6356;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText:
+As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+"The platform increasingly becomes a commodity, and the content increasingly  Keyboard 
+25/07/2018 15:47:31.656;6845;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.658;6847;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.689;6878;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.697;6887;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.722;6912;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.728;6918;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.755;6944;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.759;6949;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.788;6977;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.797;6986;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.821;7011;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.827;7016;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.854;7044;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.861;7051;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.887;7076;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.889;7078;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.920;7109;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.921;7111;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.953;7142;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.955;7144;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:31.986;7175;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:31.987;7177;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.19;7208;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.22;7212;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.52;7241;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.56;7246;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.78;7268;dsd;ExposeHK;1;1;Key;Up;none;none;I;none
+25/07/2018 15:47:32.260;7449;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.262;7452;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.759;7949;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.772;7961;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.796;7986;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.803;7992;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.825;8015;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.829;8018;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.860;8050;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.861;8051;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.891;8080;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.892;8081;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.924;8113;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.925;8114;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.957;8147;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.958;8147;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:32.990;8180;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:32.991;8180;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:33.26;8216;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:33.27;8217;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:33.56;8245;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:33.56;8246;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:33.89;8279;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:33.92;8281;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:33.118;8308;dsd;ExposeHK;1;1;Key;Up;none;none;I;none
+25/07/2018 15:47:33.252;8441;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:33.252;8442;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:33.396;8586;dsd;ExposeHK;1;1;Key;Up;none;none;I;none
+25/07/2018 15:47:33.524;8714;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:33.527;8717;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.23;9213;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.24;9214;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.60;9249;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.64;9254;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.110;9300;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.116;9306;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.173;9362;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.176;9365;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.211;9401;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.217;9407;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.260;9450;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.278;9467;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.324;9513;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.326;9516;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.362;9552;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.367;9557;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.405;9595;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.406;9596;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.447;9637;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.448;9638;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.490;9680;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.500;9690;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.530;9720;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.532;9721;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.575;9764;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.577;9766;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.616;9805;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.624;9814;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.673;9863;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.681;9871;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.728;9918;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.736;9926;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.775;9965;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.780;9970;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.829;10019;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.831;10021;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.885;10075;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.893;10083;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.936;10126;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.938;10128;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:34.980;10170;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:34.986;10176;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.57;10247;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.81;10271;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.122;10312;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.131;10321;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.161;10351;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.162;10352;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.185;10375;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.186;10375;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.208;10398;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.209;10399;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.232;10422;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.233;10423;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.256;10445;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.256;10446;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.279;10469;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.280;10470;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.289;10478;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.289;10479;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.298;10488;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.299;10488;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.307;10497;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.308;10498;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.317;10507;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.317;10507;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.329;10519;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.330;10520;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.338;10528;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.339;10529;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.348;10538;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.348;10538;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.357;10547;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.358;10548;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.369;10559;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.370;10560;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.379;10569;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.379;10569;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.388;10578;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.389;10578;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.397;10587;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.398;10588;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.410;10600;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.411;10601;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.420;10610;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.421;10611;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.442;10632;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.444;10633;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.475;10665;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.476;10666;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.508;10698;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.508;10698;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.541;10731;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.542;10731;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.574;10764;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.575;10764;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.607;10797;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.608;10798;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.640;10830;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.641;10830;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.673;10863;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.676;10866;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.709;10898;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.710;10900;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.739;10929;dsd;ExposeHK;1;1;Key;Down;none;none;I;none
+25/07/2018 15:47:35.740;10930;dsd;ExposeHK;1;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 15:47:35.749;10939;dsd;ExposeHK;1;1;Key;Up;none;none;I;none
+25/07/2018 15:47:35.876;11066;dsd;ExposeHK;1;1;Key;Up;none;none;LControlKey;none
+25/07/2018 15:55:59.357;514534;dsd;ExposeHK;1;1;Key;Down;none;none;Escape;none
+25/07/2018 15:55:59.460;514637;dsd;ExposeHK;1;1;Key;Up;none;none;Escape;none
+25/07/2018 15:55:59.862;515039;dsd;ExposeHK;1;1;Mouse;Move;588;413;none;none
+25/07/2018 15:55:59.873;515050;dsd;ExposeHK;1;1;Mouse;Move;587;415;none;none
+25/07/2018 15:55:59.878;515055;dsd;ExposeHK;1;1;Mouse;Move;585;412;none;none
+25/07/2018 15:55:59.886;515063;dsd;ExposeHK;1;1;Mouse;Move;558;412;none;none
+25/07/2018 15:55:59.894;515071;dsd;ExposeHK;1;1;Mouse;Move;556;408;none;none
+25/07/2018 15:55:59.902;515079;dsd;ExposeHK;1;1;Mouse;Move;575;363;none;none
+25/07/2018 15:55:59.924;515100;dsd;ExposeHK;1;1;Mouse;Move;609;292;none;none
+25/07/2018 15:55:59.924;515101;dsd;ExposeHK;1;1;Mouse;Move;638;241;none;none
+25/07/2018 15:55:59.941;515117;dsd;ExposeHK;1;1;Mouse;Move;675;178;none;none
+25/07/2018 15:55:59.941;515118;dsd;ExposeHK;1;1;Mouse;Move;703;128;none;none
+25/07/2018 15:55:59.942;515119;dsd;ExposeHK;1;1;Mouse;Move;740;70;none;none
+25/07/2018 15:55:59.950;515127;dsd;ExposeHK;1;1;Mouse;Move;766;27;none;none
+25/07/2018 15:55:59.958;515135;dsd;ExposeHK;1;1;Mouse;Move;799;-28;none;none
+25/07/2018 15:55:59.966;515143;dsd;ExposeHK;1;1;Mouse;Move;823;-39;none;none
+25/07/2018 15:55:59.974;515151;dsd;ExposeHK;1;1;Mouse;Move;851;-44;none;none
+25/07/2018 15:55:59.982;515159;dsd;ExposeHK;1;1;Mouse;Move;871;-33;none;none
+25/07/2018 15:55:59.990;515167;dsd;ExposeHK;1;1;Mouse;Move;886;-27;none;none
+25/07/2018 15:55:59.998;515175;dsd;ExposeHK;1;1;Mouse;Move;898;-22;none;none
+25/07/2018 15:56:00.6;515183;dsd;ExposeHK;1;1;Mouse;Move;906;-15;none;none
+25/07/2018 15:56:00.14;515191;dsd;ExposeHK;1;1;Mouse;Move;912;-11;none;none
+25/07/2018 15:56:00.22;515199;dsd;ExposeHK;1;1;Mouse;Move;916;-6;none;none
+25/07/2018 15:56:00.30;515207;dsd;ExposeHK;1;1;Mouse;Move;919;-4;none;none
+25/07/2018 15:56:00.38;515215;dsd;ExposeHK;1;1;Mouse;Move;920;-2;none;none
+25/07/2018 15:56:00.46;515223;dsd;ExposeHK;1;1;Mouse;Move;921;-1;none;none
+25/07/2018 15:56:00.70;515247;dsd;ExposeHK;1;1;Mouse;Move;921;0;none;none
+25/07/2018 15:56:00.86;515263;dsd;ExposeHK;1;1;Mouse;Move;922;0;none;none
+25/07/2018 15:56:00.94;515271;dsd;ExposeHK;1;1;Mouse;Move;923;0;none;none
+25/07/2018 15:56:00.102;515279;dsd;ExposeHK;1;1;Mouse;Move;924;0;none;none
+25/07/2018 15:56:00.110;515287;dsd;ExposeHK;1;1;Mouse;Move;928;3;none;none
+25/07/2018 15:56:00.118;515295;dsd;ExposeHK;1;1;Mouse;Move;937;7;none;none
+25/07/2018 15:56:00.126;515303;dsd;ExposeHK;1;1;Mouse;Move;948;13;none;none
+25/07/2018 15:56:00.134;515311;dsd;ExposeHK;1;1;Mouse;Move;965;22;none;none
+25/07/2018 15:56:00.142;515319;dsd;ExposeHK;1;1;Mouse;Move;992;35;none;none
+25/07/2018 15:56:00.150;515327;dsd;ExposeHK;1;1;Mouse;Move;1025;53;none;none
+25/07/2018 15:56:00.158;515335;dsd;ExposeHK;1;1;Mouse;Move;1068;75;none;none
+25/07/2018 15:56:00.166;515343;dsd;ExposeHK;1;1;Mouse;Move;1111;97;none;none
+25/07/2018 15:56:00.174;515351;dsd;ExposeHK;1;1;Mouse;Move;1160;121;none;none
+25/07/2018 15:56:00.182;515359;dsd;ExposeHK;1;1;Mouse;Move;1209;145;none;none
+25/07/2018 15:56:00.190;515367;dsd;ExposeHK;1;1;Mouse;Move;1254;165;none;none
+25/07/2018 15:56:00.198;515375;dsd;ExposeHK;1;1;Mouse;Move;1297;185;none;none
+25/07/2018 15:56:00.206;515383;dsd;ExposeHK;1;1;Mouse;Move;1337;200;none;none
+25/07/2018 15:56:00.214;515391;dsd;ExposeHK;1;1;Mouse;Move;1376;213;none;none
+25/07/2018 15:56:00.222;515399;dsd;ExposeHK;1;1;Mouse;Move;1412;224;none;none
+25/07/2018 15:56:00.230;515407;dsd;ExposeHK;1;1;Mouse;Move;1445;231;none;none
+25/07/2018 15:56:00.238;515415;dsd;ExposeHK;1;1;Mouse;Move;1475;237;none;none
+25/07/2018 15:56:00.246;515423;dsd;ExposeHK;1;1;Mouse;Move;1501;240;none;none
+25/07/2018 15:56:00.254;515431;dsd;ExposeHK;1;1;Mouse;Move;1522;243;none;none
+25/07/2018 15:56:00.262;515439;dsd;ExposeHK;1;1;Mouse;Move;1537;244;none;none
+25/07/2018 15:56:00.270;515447;dsd;ExposeHK;1;1;Mouse;Move;1548;244;none;none
+25/07/2018 15:56:00.278;515455;dsd;ExposeHK;1;1;Mouse;Move;1558;244;none;none
+25/07/2018 15:56:00.286;515463;dsd;ExposeHK;1;1;Mouse;Move;1563;244;none;none
+25/07/2018 15:56:00.294;515471;dsd;ExposeHK;1;1;Mouse;Move;1566;244;none;none
+25/07/2018 15:56:00.302;515479;dsd;ExposeHK;1;1;Mouse;Move;1567;242;none;none
+25/07/2018 15:56:00.310;515487;dsd;ExposeHK;1;1;Mouse;Move;1568;242;none;none
+25/07/2018 15:56:00.318;515495;dsd;ExposeHK;1;1;Mouse;Move;1568;241;none;none
+25/07/2018 15:56:00.438;515615;dsd;ExposeHK;1;1;Mouse;Move;1568;241;none;none
+25/07/2018 15:56:00.446;515623;dsd;ExposeHK;1;1;Mouse;Move;1567;241;none;none
+25/07/2018 15:56:00.454;515631;dsd;ExposeHK;1;1;Mouse;Move;1564;238;none;none
+25/07/2018 15:56:00.462;515639;dsd;ExposeHK;1;1;Mouse;Move;1560;237;none;none
+25/07/2018 15:56:00.470;515647;dsd;ExposeHK;1;1;Mouse;Move;1554;234;none;none
+25/07/2018 15:56:00.478;515655;dsd;ExposeHK;1;1;Mouse;Move;1548;232;none;none
+25/07/2018 15:56:00.486;515663;dsd;ExposeHK;1;1;Mouse;Move;1538;228;none;none
+25/07/2018 15:56:00.494;515671;dsd;ExposeHK;1;1;Mouse;Move;1529;226;none;none
+25/07/2018 15:56:00.502;515679;dsd;ExposeHK;1;1;Mouse;Move;1518;222;none;none
+25/07/2018 15:56:00.510;515687;dsd;ExposeHK;1;1;Mouse;Move;1507;220;none;none
+25/07/2018 15:56:00.518;515695;dsd;ExposeHK;1;1;Mouse;Move;1496;218;none;none
+25/07/2018 15:56:00.526;515703;dsd;ExposeHK;1;1;Mouse;Move;1486;216;none;none
+25/07/2018 15:56:00.534;515711;dsd;ExposeHK;1;1;Mouse;Move;1476;214;none;none
+25/07/2018 15:56:00.542;515719;dsd;ExposeHK;1;1;Mouse;Move;1468;212;none;none
+25/07/2018 15:56:00.550;515727;dsd;ExposeHK;1;1;Mouse;Move;1458;211;none;none
+25/07/2018 15:56:00.558;515735;dsd;ExposeHK;1;1;Mouse;Move;1454;210;none;none
+25/07/2018 15:56:00.566;515743;dsd;ExposeHK;1;1;Mouse;Move;1449;209;none;none
+25/07/2018 15:56:00.574;515751;dsd;ExposeHK;1;1;Mouse;Move;1446;207;none;none
+25/07/2018 15:56:00.582;515759;dsd;ExposeHK;1;1;Mouse;Move;1444;207;none;none
+25/07/2018 15:56:00.590;515767;dsd;ExposeHK;1;1;Mouse;Move;1443;206;none;none
+25/07/2018 15:56:00.598;515775;dsd;ExposeHK;1;1;Mouse;Move;1442;206;none;none
+25/07/2018 15:56:00.606;515783;dsd;ExposeHK;1;1;Mouse;Move;1442;206;none;none
+25/07/2018 15:56:01.238;516415;dsd;ExposeHK;1;1;Mouse;Click;1442;206;none;none
+25/07/2018 15:56:01.239;516416;dsd;ExposeHK;1;1;Mouse;Move;1442;206;none;none
+25/07/2018 15:56:01.414;516591;dsd;ExposeHK;1;1;Mouse;Release;1442;206;none;none
+25/07/2018 15:56:01.415;516592;dsd;ExposeHK;1;1;Mouse;Move;1442;206;none;none
+25/07/2018 15:56:01.418;516595;dsd;ExposeHK;1;1;none;none;none;none;none; Clickbutton1
