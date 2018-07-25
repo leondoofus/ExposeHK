@@ -301,7 +301,6 @@ namespace TextRuler.AdvancedTextEditorControl
                         btnCut_Click(btnCut, null);
                         break;
                     case Keys.I:
-                        e.SuppressKeyPress = true;
                         btnItalic_Click(btnItalic, null);
                         break;
                     case Keys.J:
@@ -409,6 +408,7 @@ namespace TextRuler.AdvancedTextEditorControl
                 alt = true;
                 keyboard.Alted();
             }
+
             Compare();
         }
 

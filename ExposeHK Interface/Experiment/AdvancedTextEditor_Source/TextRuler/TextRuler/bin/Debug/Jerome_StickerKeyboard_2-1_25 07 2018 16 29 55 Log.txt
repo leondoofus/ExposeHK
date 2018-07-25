@@ -1,0 +1,2078 @@
+Date;Timestamp;Participant;Aid;Phase;BlockID;Device;Event;PosX;PosY;Key;Other
+25/07/2018 16:29:55.524;10;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Focus Gained
+25/07/2018 16:29:56.193;680;Jerome;StickerKeyboard;2;1;Mouse;Move;1254;718;none;none
+25/07/2018 16:29:56.195;681;Jerome;StickerKeyboard;2;1;Mouse;Move;1254;718;none;none
+25/07/2018 16:29:56.199;686;Jerome;StickerKeyboard;2;1;Mouse;Move;1253;718;none;none
+25/07/2018 16:29:56.208;694;Jerome;StickerKeyboard;2;1;Mouse;Move;1251;718;none;none
+25/07/2018 16:29:56.215;701;Jerome;StickerKeyboard;2;1;Mouse;Move;1243;714;none;none
+25/07/2018 16:29:56.224;710;Jerome;StickerKeyboard;2;1;Mouse;Move;1230;705;none;none
+25/07/2018 16:29:56.231;718;Jerome;StickerKeyboard;2;1;Mouse;Move;1213;692;none;none
+25/07/2018 16:29:56.239;725;Jerome;StickerKeyboard;2;1;Mouse;Move;1188;675;none;none
+25/07/2018 16:29:56.247;733;Jerome;StickerKeyboard;2;1;Mouse;Move;1162;657;none;none
+25/07/2018 16:29:56.255;742;Jerome;StickerKeyboard;2;1;Mouse;Move;1129;637;none;none
+25/07/2018 16:29:56.263;750;Jerome;StickerKeyboard;2;1;Mouse;Move;1094;616;none;none
+25/07/2018 16:29:56.271;758;Jerome;StickerKeyboard;2;1;Mouse;Move;1053;595;none;none
+25/07/2018 16:29:56.279;766;Jerome;StickerKeyboard;2;1;Mouse;Move;1012;571;none;none
+25/07/2018 16:29:56.287;774;Jerome;StickerKeyboard;2;1;Mouse;Move;966;549;none;none
+25/07/2018 16:29:56.295;782;Jerome;StickerKeyboard;2;1;Mouse;Move;920;525;none;none
+25/07/2018 16:29:56.304;790;Jerome;StickerKeyboard;2;1;Mouse;Move;874;499;none;none
+25/07/2018 16:29:56.312;798;Jerome;StickerKeyboard;2;1;Mouse;Move;825;475;none;none
+25/07/2018 16:29:56.326;812;Jerome;StickerKeyboard;2;1;Mouse;Move;781;451;none;none
+25/07/2018 16:29:56.327;814;Jerome;StickerKeyboard;2;1;Mouse;Move;735;427;none;none
+25/07/2018 16:29:56.335;821;Jerome;StickerKeyboard;2;1;Mouse;Move;695;406;none;none
+25/07/2018 16:29:56.343;829;Jerome;StickerKeyboard;2;1;Mouse;Move;657;387;none;none
+25/07/2018 16:29:56.351;837;Jerome;StickerKeyboard;2;1;Mouse;Move;622;370;none;none
+25/07/2018 16:29:56.359;845;Jerome;StickerKeyboard;2;1;Mouse;Move;592;355;none;none
+25/07/2018 16:29:56.367;853;Jerome;StickerKeyboard;2;1;Mouse;Move;566;341;none;none
+25/07/2018 16:29:56.375;861;Jerome;StickerKeyboard;2;1;Mouse;Move;547;331;none;none
+25/07/2018 16:29:56.383;870;Jerome;StickerKeyboard;2;1;Mouse;Move;530;326;none;none
+25/07/2018 16:29:56.391;878;Jerome;StickerKeyboard;2;1;Mouse;Move;517;320;none;none
+25/07/2018 16:29:56.399;886;Jerome;StickerKeyboard;2;1;Mouse;Move;510;317;none;none
+25/07/2018 16:29:56.407;894;Jerome;StickerKeyboard;2;1;Mouse;Move;501;314;none;none
+25/07/2018 16:29:56.415;902;Jerome;StickerKeyboard;2;1;Mouse;Move;495;311;none;none
+25/07/2018 16:29:56.424;910;Jerome;StickerKeyboard;2;1;Mouse;Move;492;310;none;none
+25/07/2018 16:29:56.432;918;Jerome;StickerKeyboard;2;1;Mouse;Move;489;308;none;none
+25/07/2018 16:29:56.440;926;Jerome;StickerKeyboard;2;1;Mouse;Move;487;308;none;none
+25/07/2018 16:29:56.448;934;Jerome;StickerKeyboard;2;1;Mouse;Move;487;308;none;none
+25/07/2018 16:29:56.455;941;Jerome;StickerKeyboard;2;1;Mouse;Move;486;307;none;none
+25/07/2018 16:29:56.520;1006;Jerome;StickerKeyboard;2;1;Mouse;Move;486;307;none;none
+25/07/2018 16:29:56.528;1014;Jerome;StickerKeyboard;2;1;Mouse;Move;485;306;none;none
+25/07/2018 16:29:56.536;1022;Jerome;StickerKeyboard;2;1;Mouse;Move;484;305;none;none
+25/07/2018 16:29:56.544;1030;Jerome;StickerKeyboard;2;1;Mouse;Move;480;303;none;none
+25/07/2018 16:29:56.552;1038;Jerome;StickerKeyboard;2;1;Mouse;Move;477;299;none;none
+25/07/2018 16:29:56.560;1046;Jerome;StickerKeyboard;2;1;Mouse;Move;472;295;none;none
+25/07/2018 16:29:56.568;1054;Jerome;StickerKeyboard;2;1;Mouse;Move;466;292;none;none
+25/07/2018 16:29:56.576;1062;Jerome;StickerKeyboard;2;1;Mouse;Move;460;289;none;none
+25/07/2018 16:29:56.583;1070;Jerome;StickerKeyboard;2;1;Mouse;Move;455;286;none;none
+25/07/2018 16:29:56.592;1078;Jerome;StickerKeyboard;2;1;Mouse;Move;448;283;none;none
+25/07/2018 16:29:56.611;1097;Jerome;StickerKeyboard;2;1;Mouse;Move;443;282;none;none
+25/07/2018 16:29:56.612;1098;Jerome;StickerKeyboard;2;1;Mouse;Move;438;280;none;none
+25/07/2018 16:29:56.615;1102;Jerome;StickerKeyboard;2;1;Mouse;Move;435;280;none;none
+25/07/2018 16:29:56.624;1110;Jerome;StickerKeyboard;2;1;Mouse;Move;433;280;none;none
+25/07/2018 16:29:56.631;1118;Jerome;StickerKeyboard;2;1;Mouse;Move;432;280;none;none
+25/07/2018 16:29:56.639;1126;Jerome;StickerKeyboard;2;1;Mouse;Move;431;280;none;none
+25/07/2018 16:29:56.647;1134;Jerome;StickerKeyboard;2;1;Mouse;Move;430;280;none;none
+25/07/2018 16:29:56.687;1174;Jerome;StickerKeyboard;2;1;Mouse;Move;430;280;none;none
+25/07/2018 16:29:56.696;1182;Jerome;StickerKeyboard;2;1;Mouse;Move;430;280;none;none
+25/07/2018 16:29:56.704;1190;Jerome;StickerKeyboard;2;1;Mouse;Move;430;281;none;none
+25/07/2018 16:29:56.712;1198;Jerome;StickerKeyboard;2;1;Mouse;Move;430;281;none;none
+25/07/2018 16:29:56.720;1206;Jerome;StickerKeyboard;2;1;Mouse;Move;430;282;none;none
+25/07/2018 16:29:56.728;1214;Jerome;StickerKeyboard;2;1;Mouse;Move;430;283;none;none
+25/07/2018 16:29:56.752;1238;Jerome;StickerKeyboard;2;1;Mouse;Move;430;283;none;none
+25/07/2018 16:29:56.776;1262;Jerome;StickerKeyboard;2;1;Mouse;Move;429;284;none;none
+25/07/2018 16:29:56.793;1280;Jerome;StickerKeyboard;2;1;Mouse;Move;429;284;none;none
+25/07/2018 16:29:56.794;1281;Jerome;StickerKeyboard;2;1;Mouse;Move;429;284;none;none
+25/07/2018 16:29:56.800;1286;Jerome;StickerKeyboard;2;1;Mouse;Move;429;285;none;none
+25/07/2018 16:29:56.808;1294;Jerome;StickerKeyboard;2;1;Mouse;Move;428;285;none;none
+25/07/2018 16:29:56.816;1302;Jerome;StickerKeyboard;2;1;Mouse;Move;428;286;none;none
+25/07/2018 16:29:56.824;1310;Jerome;StickerKeyboard;2;1;Mouse;Move;428;286;none;none
+25/07/2018 16:29:56.832;1318;Jerome;StickerKeyboard;2;1;Mouse;Move;427;286;none;none
+25/07/2018 16:29:56.840;1326;Jerome;StickerKeyboard;2;1;Mouse;Move;427;286;none;none
+25/07/2018 16:29:56.847;1334;Jerome;StickerKeyboard;2;1;Mouse;Move;426;287;none;none
+25/07/2018 16:29:56.855;1342;Jerome;StickerKeyboard;2;1;Mouse;Move;425;287;none;none
+25/07/2018 16:29:56.863;1350;Jerome;StickerKeyboard;2;1;Mouse;Move;425;287;none;none
+25/07/2018 16:29:56.871;1358;Jerome;StickerKeyboard;2;1;Mouse;Move;424;287;none;none
+25/07/2018 16:29:56.879;1365;Jerome;StickerKeyboard;2;1;Mouse;Move;424;288;none;none
+25/07/2018 16:29:56.895;1381;Jerome;StickerKeyboard;2;1;Mouse;Move;424;288;none;none
+25/07/2018 16:29:56.903;1390;Jerome;StickerKeyboard;2;1;Mouse;Move;424;288;none;none
+25/07/2018 16:29:56.968;1454;Jerome;StickerKeyboard;2;1;Mouse;Move;424;289;none;none
+25/07/2018 16:29:57.0;1486;Jerome;StickerKeyboard;2;1;Mouse;Move;424;290;none;none
+25/07/2018 16:29:57.16;1502;Jerome;StickerKeyboard;2;1;Mouse;Move;423;290;none;none
+25/07/2018 16:29:57.104;1590;Jerome;StickerKeyboard;2;1;Mouse;Click;423;290;none;none
+25/07/2018 16:29:57.105;1591;Jerome;StickerKeyboard;2;1;Mouse;Move;423;290;none;none
+25/07/2018 16:29:57.176;1662;Jerome;StickerKeyboard;2;1;Mouse;Move;423;290;none;none
+25/07/2018 16:29:57.192;1678;Jerome;StickerKeyboard;2;1;Mouse;Move;422;290;none;none
+25/07/2018 16:29:57.200;1686;Jerome;StickerKeyboard;2;1;Mouse;Move;422;290;none;none
+25/07/2018 16:29:57.208;1694;Jerome;StickerKeyboard;2;1;Mouse;Move;420;290;none;none
+25/07/2018 16:29:57.216;1702;Jerome;StickerKeyboard;2;1;Mouse;Move;417;290;none;none
+25/07/2018 16:29:57.229;1716;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse 
+
+25/07/2018 16:29:57.230;1716;Jerome;StickerKeyboard;2;1;Mouse;Move;413;291;none;none
+25/07/2018 16:29:57.231;1718;Jerome;StickerKeyboard;2;1;Mouse;Move;407;291;none;none
+25/07/2018 16:29:57.239;1726;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse shifts
+25/07/2018 16:29:57.240;1726;Jerome;StickerKeyboard;2;1;Mouse;Move;400;291;none;none
+25/07/2018 16:29:57.247;1734;Jerome;StickerKeyboard;2;1;Mouse;Move;393;291;none;none
+25/07/2018 16:29:57.255;1741;Jerome;StickerKeyboard;2;1;Mouse;Move;388;291;none;none
+25/07/2018 16:29:57.263;1750;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse focus shifts
+25/07/2018 16:29:57.264;1750;Jerome;StickerKeyboard;2;1;Mouse;Move;380;291;none;none
+25/07/2018 16:29:57.271;1758;Jerome;StickerKeyboard;2;1;Mouse;Move;371;291;none;none
+25/07/2018 16:29:57.279;1766;Jerome;StickerKeyboard;2;1;Mouse;Move;362;291;none;none
+25/07/2018 16:29:57.287;1774;Jerome;StickerKeyboard;2;1;Mouse;Move;352;291;none;none
+25/07/2018 16:29:57.296;1782;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse as focus shifts
+25/07/2018 16:29:57.297;1783;Jerome;StickerKeyboard;2;1;Mouse;Move;344;290;none;none
+25/07/2018 16:29:57.316;1802;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse builds as focus shifts
+25/07/2018 16:29:57.317;1803;Jerome;StickerKeyboard;2;1;Mouse;Move;337;290;none;none
+25/07/2018 16:29:57.318;1804;Jerome;StickerKeyboard;2;1;Mouse;Move;328;289;none;none
+25/07/2018 16:29:57.319;1806;Jerome;StickerKeyboard;2;1;Mouse;Move;322;289;none;none
+25/07/2018 16:29:57.327;1813;Jerome;StickerKeyboard;2;1;Mouse;Move;315;289;none;none
+25/07/2018 16:29:57.335;1821;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse buzz builds as focus shifts
+25/07/2018 16:29:57.335;1822;Jerome;StickerKeyboard;2;1;Mouse;Move;308;288;none;none
+25/07/2018 16:29:57.343;1829;Jerome;StickerKeyboard;2;1;Mouse;Move;302;288;none;none
+25/07/2018 16:29:57.351;1837;Jerome;StickerKeyboard;2;1;Mouse;Move;297;288;none;none
+25/07/2018 16:29:57.359;1845;Jerome;StickerKeyboard;2;1;Mouse;Move;291;288;none;none
+25/07/2018 16:29:57.367;1853;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse 5 buzz builds as focus shifts
+25/07/2018 16:29:57.367;1854;Jerome;StickerKeyboard;2;1;Mouse;Move;285;287;none;none
+25/07/2018 16:29:57.375;1861;Jerome;StickerKeyboard;2;1;Mouse;Move;280;287;none;none
+25/07/2018 16:29:57.383;1869;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse iPhone 5 buzz builds as focus shifts
+25/07/2018 16:29:57.383;1870;Jerome;StickerKeyboard;2;1;Mouse;Move;275;287;none;none
+25/07/2018 16:29:57.391;1877;Jerome;StickerKeyboard;2;1;Mouse;Move;271;287;none;none
+25/07/2018 16:29:57.399;1885;Jerome;StickerKeyboard;2;1;Mouse;Move;267;287;none;none
+25/07/2018 16:29:57.407;1893;Jerome;StickerKeyboard;2;1;Mouse;Move;265;287;none;none
+25/07/2018 16:29:57.416;1902;Jerome;StickerKeyboard;2;1;Mouse;Move;264;287;none;none
+25/07/2018 16:29:57.423;1910;Jerome;StickerKeyboard;2;1;Mouse;Move;261;286;none;none
+25/07/2018 16:29:57.431;1918;Jerome;StickerKeyboard;2;1;Mouse;Move;261;286;none;none
+25/07/2018 16:29:57.439;1926;Jerome;StickerKeyboard;2;1;Mouse;Move;260;286;none;none
+25/07/2018 16:29:57.447;1934;Jerome;StickerKeyboard;2;1;Mouse;Move;260;286;none;none
+25/07/2018 16:29:57.455;1941;Jerome;StickerKeyboard;2;1;Mouse;Move;259;286;none;none
+25/07/2018 16:29:57.463;1949;Jerome;StickerKeyboard;2;1;Mouse;Move;258;286;none;none
+25/07/2018 16:29:57.471;1957;Jerome;StickerKeyboard;2;1;Mouse;Move;258;286;none;none
+25/07/2018 16:29:57.479;1965;Jerome;StickerKeyboard;2;1;Mouse;Move;257;286;none;none
+25/07/2018 16:29:57.487;1974;Jerome;StickerKeyboard;2;1;Mouse;Move;256;286;none;none
+25/07/2018 16:29:57.495;1982;Jerome;StickerKeyboard;2;1;Mouse;Move;255;286;none;none
+25/07/2018 16:29:57.504;1990;Jerome;StickerKeyboard;2;1;Mouse;Move;253;286;none;none
+25/07/2018 16:29:57.512;1998;Jerome;StickerKeyboard;2;1;Mouse;Move;252;286;none;none
+25/07/2018 16:29:57.520;2006;Jerome;StickerKeyboard;2;1;Mouse;Move;250;286;none;none
+25/07/2018 16:29:57.528;2014;Jerome;StickerKeyboard;2;1;Mouse;Move;249;286;none;none
+25/07/2018 16:29:57.536;2022;Jerome;StickerKeyboard;2;1;Mouse;Move;246;286;none;none
+25/07/2018 16:29:57.544;2030;Jerome;StickerKeyboard;2;1;Mouse;Move;244;286;none;none
+25/07/2018 16:29:57.559;2045;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse Apple iPhone 5 buzz builds as focus shifts
+25/07/2018 16:29:57.560;2046;Jerome;StickerKeyboard;2;1;Mouse;Move;243;286;none;none
+25/07/2018 16:29:57.561;2047;Jerome;StickerKeyboard;2;1;Mouse;Move;241;286;none;none
+25/07/2018 16:29:57.567;2053;Jerome;StickerKeyboard;2;1;Mouse;Move;239;286;none;none
+25/07/2018 16:29:57.575;2061;Jerome;StickerKeyboard;2;1;Mouse;Move;237;286;none;none
+25/07/2018 16:29:57.583;2069;Jerome;StickerKeyboard;2;1;Mouse;Move;236;286;none;none
+25/07/2018 16:29:57.591;2077;Jerome;StickerKeyboard;2;1;Mouse;Move;235;286;none;none
+25/07/2018 16:29:57.600;2086;Jerome;StickerKeyboard;2;1;Mouse;Move;234;286;none;none
+25/07/2018 16:29:57.608;2094;Jerome;StickerKeyboard;2;1;Mouse;Move;233;286;none;none
+25/07/2018 16:29:57.616;2102;Jerome;StickerKeyboard;2;1;Mouse;Move;231;286;none;none
+25/07/2018 16:29:57.625;2112;Jerome;StickerKeyboard;2;1;Mouse;Move;231;286;none;none
+25/07/2018 16:29:57.631;2118;Jerome;StickerKeyboard;2;1;Mouse;Move;230;286;none;none
+25/07/2018 16:29:57.640;2127;Jerome;StickerKeyboard;2;1;Mouse;Move;230;286;none;none
+25/07/2018 16:29:57.647;2134;Jerome;StickerKeyboard;2;1;Mouse;Move;228;286;none;none
+25/07/2018 16:29:57.655;2142;Jerome;StickerKeyboard;2;1;Mouse;Move;228;286;none;none
+25/07/2018 16:29:57.663;2149;Jerome;StickerKeyboard;2;1;Mouse;Move;227;286;none;none
+25/07/2018 16:29:57.671;2157;Jerome;StickerKeyboard;2;1;Mouse;Move;227;286;none;none
+25/07/2018 16:29:57.679;2165;Jerome;StickerKeyboard;2;1;Mouse;Move;226;286;none;none
+25/07/2018 16:29:57.687;2173;Jerome;StickerKeyboard;2;1;Mouse;Move;226;286;none;none
+25/07/2018 16:29:57.695;2181;Jerome;StickerKeyboard;2;1;Mouse;Move;225;286;none;none
+25/07/2018 16:29:57.703;2189;Jerome;StickerKeyboard;2;1;Mouse;Move;224;286;none;none
+25/07/2018 16:29:57.711;2197;Jerome;StickerKeyboard;2;1;Mouse;Move;224;286;none;none
+25/07/2018 16:29:57.719;2205;Jerome;StickerKeyboard;2;1;Mouse;Move;223;286;none;none
+25/07/2018 16:29:57.727;2213;Jerome;StickerKeyboard;2;1;Mouse;Move;222;286;none;none
+25/07/2018 16:29:57.735;2221;Jerome;StickerKeyboard;2;1;Mouse;Move;221;286;none;none
+25/07/2018 16:29:57.743;2229;Jerome;StickerKeyboard;2;1;Mouse;Move;221;286;none;none
+25/07/2018 16:29:57.751;2237;Jerome;StickerKeyboard;2;1;Mouse;Move;220;286;none;none
+25/07/2018 16:29:57.759;2245;Jerome;StickerKeyboard;2;1;Mouse;Move;220;286;none;none
+25/07/2018 16:29:57.919;2405;Jerome;StickerKeyboard;2;1;Mouse;Release;220;286;none;none
+25/07/2018 16:29:57.919;2406;Jerome;StickerKeyboard;2;1;Mouse;Move;220;286;none;none
+25/07/2018 16:29:58.938;3425;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:29:59.301;3787;Jerome;StickerKeyboard;2;1;Key;Down;none;none;G;none
+25/07/2018 16:29:59.314;3800;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command LimeButton Hotkey G SelText:Apple iPhone 5 buzz builds as focus shifts Mouse 
+25/07/2018 16:29:59.408;3894;Jerome;StickerKeyboard;2;1;Key;Up;none;none;G;none
+25/07/2018 16:30:00.967;5453;Jerome;StickerKeyboard;2;1;Key;Down;none;none;B;none
+25/07/2018 16:30:00.977;5462;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnBold Hotkey B SelText:Apple iPhone 5 buzz builds as focus shifts Mouse 
+25/07/2018 16:30:01.54;5540;Jerome;StickerKeyboard;2;1;Key;Up;none;none;B;none
+25/07/2018 16:30:01.358;5844;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:30:01.362;5847;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:Apple iPhone 5 buzz builds as focus shifts Mouse 
+25/07/2018 16:30:01.414;5900;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:30:01.510;5995;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:30:01.510;5996;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:Apple iPhone 5 buzz builds as focus shifts Mouse 
+25/07/2018 16:30:01.574;6060;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:30:02.512;6998;Jerome;StickerKeyboard;2;1;Key;Down;none;none;E;none
+25/07/2018 16:30:02.521;7006;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnAlignCenter Hotkey E SelText:Apple iPhone 5 buzz builds as focus shifts Mouse 
+25/07/2018 16:30:02.566;7051;Jerome;StickerKeyboard;2;1;Key;Up;none;none;E;none
+25/07/2018 16:30:03.446;7932;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:30:03.956;8441;Jerome;StickerKeyboard;2;1;Mouse;Move;220;285;none;none
+25/07/2018 16:30:03.978;8463;Jerome;StickerKeyboard;2;1;Mouse;Move;220;284;none;none
+25/07/2018 16:30:03.979;8464;Jerome;StickerKeyboard;2;1;Mouse;Move;247;292;none;none
+25/07/2018 16:30:04.11;8496;Jerome;StickerKeyboard;2;1;Mouse;Move;267;299;none;none
+25/07/2018 16:30:04.11;8497;Jerome;StickerKeyboard;2;1;Mouse;Move;323;314;none;none
+25/07/2018 16:30:04.16;8501;Jerome;StickerKeyboard;2;1;Mouse;Move;339;317;none;none
+25/07/2018 16:30:04.24;8509;Jerome;StickerKeyboard;2;1;Mouse;Move;353;321;none;none
+25/07/2018 16:30:04.32;8517;Jerome;StickerKeyboard;2;1;Mouse;Move;366;324;none;none
+25/07/2018 16:30:04.40;8525;Jerome;StickerKeyboard;2;1;Mouse;Move;378;328;none;none
+25/07/2018 16:30:04.48;8534;Jerome;StickerKeyboard;2;1;Mouse;Move;388;331;none;none
+25/07/2018 16:30:04.56;8541;Jerome;StickerKeyboard;2;1;Mouse;Move;395;333;none;none
+25/07/2018 16:30:04.64;8549;Jerome;StickerKeyboard;2;1;Mouse;Move;400;335;none;none
+25/07/2018 16:30:04.72;8557;Jerome;StickerKeyboard;2;1;Mouse;Move;401;335;none;none
+25/07/2018 16:30:04.80;8565;Jerome;StickerKeyboard;2;1;Mouse;Move;401;336;none;none
+25/07/2018 16:30:04.408;8894;Jerome;StickerKeyboard;2;1;Mouse;Move;401;336;none;none
+25/07/2018 16:30:04.416;8902;Jerome;StickerKeyboard;2;1;Mouse;Move;401;337;none;none
+25/07/2018 16:30:04.424;8910;Jerome;StickerKeyboard;2;1;Mouse;Move;401;339;none;none
+25/07/2018 16:30:04.432;8918;Jerome;StickerKeyboard;2;1;Mouse;Move;399;340;none;none
+25/07/2018 16:30:04.440;8926;Jerome;StickerKeyboard;2;1;Mouse;Move;397;343;none;none
+25/07/2018 16:30:04.448;8934;Jerome;StickerKeyboard;2;1;Mouse;Move;394;345;none;none
+25/07/2018 16:30:04.456;8941;Jerome;StickerKeyboard;2;1;Mouse;Move;389;348;none;none
+25/07/2018 16:30:04.464;8949;Jerome;StickerKeyboard;2;1;Mouse;Move;384;350;none;none
+25/07/2018 16:30:04.472;8957;Jerome;StickerKeyboard;2;1;Mouse;Move;377;353;none;none
+25/07/2018 16:30:04.480;8965;Jerome;StickerKeyboard;2;1;Mouse;Move;370;355;none;none
+25/07/2018 16:30:04.488;8973;Jerome;StickerKeyboard;2;1;Mouse;Move;361;357;none;none
+25/07/2018 16:30:04.496;8981;Jerome;StickerKeyboard;2;1;Mouse;Move;353;357;none;none
+25/07/2018 16:30:04.504;8989;Jerome;StickerKeyboard;2;1;Mouse;Move;345;358;none;none
+25/07/2018 16:30:04.512;8997;Jerome;StickerKeyboard;2;1;Mouse;Move;338;358;none;none
+25/07/2018 16:30:04.520;9005;Jerome;StickerKeyboard;2;1;Mouse;Move;331;358;none;none
+25/07/2018 16:30:04.528;9014;Jerome;StickerKeyboard;2;1;Mouse;Move;324;358;none;none
+25/07/2018 16:30:04.536;9021;Jerome;StickerKeyboard;2;1;Mouse;Move;318;358;none;none
+25/07/2018 16:30:04.544;9029;Jerome;StickerKeyboard;2;1;Mouse;Move;313;358;none;none
+25/07/2018 16:30:04.552;9037;Jerome;StickerKeyboard;2;1;Mouse;Move;309;358;none;none
+25/07/2018 16:30:04.560;9045;Jerome;StickerKeyboard;2;1;Mouse;Move;304;358;none;none
+25/07/2018 16:30:04.568;9053;Jerome;StickerKeyboard;2;1;Mouse;Move;300;358;none;none
+25/07/2018 16:30:04.576;9061;Jerome;StickerKeyboard;2;1;Mouse;Move;294;358;none;none
+25/07/2018 16:30:04.584;9069;Jerome;StickerKeyboard;2;1;Mouse;Move;289;358;none;none
+25/07/2018 16:30:04.592;9077;Jerome;StickerKeyboard;2;1;Mouse;Move;283;358;none;none
+25/07/2018 16:30:04.600;9085;Jerome;StickerKeyboard;2;1;Mouse;Move;278;357;none;none
+25/07/2018 16:30:04.608;9093;Jerome;StickerKeyboard;2;1;Mouse;Move;273;357;none;none
+25/07/2018 16:30:04.616;9101;Jerome;StickerKeyboard;2;1;Mouse;Move;268;357;none;none
+25/07/2018 16:30:04.624;9110;Jerome;StickerKeyboard;2;1;Mouse;Move;265;357;none;none
+25/07/2018 16:30:04.633;9119;Jerome;StickerKeyboard;2;1;Mouse;Move;262;357;none;none
+25/07/2018 16:30:04.640;9126;Jerome;StickerKeyboard;2;1;Mouse;Move;259;357;none;none
+25/07/2018 16:30:04.648;9133;Jerome;StickerKeyboard;2;1;Mouse;Move;258;357;none;none
+25/07/2018 16:30:04.728;9214;Jerome;StickerKeyboard;2;1;Mouse;Move;258;357;none;none
+25/07/2018 16:30:04.737;9222;Jerome;StickerKeyboard;2;1;Mouse;Move;258;357;none;none
+25/07/2018 16:30:04.744;9230;Jerome;StickerKeyboard;2;1;Mouse;Move;259;357;none;none
+25/07/2018 16:30:04.752;9238;Jerome;StickerKeyboard;2;1;Mouse;Move;261;356;none;none
+25/07/2018 16:30:04.760;9246;Jerome;StickerKeyboard;2;1;Mouse;Move;264;355;none;none
+25/07/2018 16:30:04.768;9254;Jerome;StickerKeyboard;2;1;Mouse;Move;269;355;none;none
+25/07/2018 16:30:04.776;9262;Jerome;StickerKeyboard;2;1;Mouse;Move;272;355;none;none
+25/07/2018 16:30:04.784;9270;Jerome;StickerKeyboard;2;1;Mouse;Move;277;354;none;none
+25/07/2018 16:30:04.792;9278;Jerome;StickerKeyboard;2;1;Mouse;Move;283;354;none;none
+25/07/2018 16:30:04.800;9286;Jerome;StickerKeyboard;2;1;Mouse;Move;287;354;none;none
+25/07/2018 16:30:04.808;9294;Jerome;StickerKeyboard;2;1;Mouse;Move;292;354;none;none
+25/07/2018 16:30:04.816;9302;Jerome;StickerKeyboard;2;1;Mouse;Move;298;354;none;none
+25/07/2018 16:30:04.824;9310;Jerome;StickerKeyboard;2;1;Mouse;Move;302;354;none;none
+25/07/2018 16:30:04.832;9318;Jerome;StickerKeyboard;2;1;Mouse;Move;308;355;none;none
+25/07/2018 16:30:04.840;9326;Jerome;StickerKeyboard;2;1;Mouse;Move;314;355;none;none
+25/07/2018 16:30:04.848;9334;Jerome;StickerKeyboard;2;1;Mouse;Move;318;356;none;none
+25/07/2018 16:30:04.856;9341;Jerome;StickerKeyboard;2;1;Mouse;Move;324;356;none;none
+25/07/2018 16:30:04.864;9349;Jerome;StickerKeyboard;2;1;Mouse;Move;327;356;none;none
+25/07/2018 16:30:04.872;9357;Jerome;StickerKeyboard;2;1;Mouse;Move;330;357;none;none
+25/07/2018 16:30:04.880;9365;Jerome;StickerKeyboard;2;1;Mouse;Move;332;357;none;none
+25/07/2018 16:30:04.888;9374;Jerome;StickerKeyboard;2;1;Mouse;Move;334;357;none;none
+25/07/2018 16:30:04.896;9382;Jerome;StickerKeyboard;2;1;Mouse;Move;335;357;none;none
+25/07/2018 16:30:04.904;9390;Jerome;StickerKeyboard;2;1;Mouse;Move;337;357;none;none
+25/07/2018 16:30:04.912;9398;Jerome;StickerKeyboard;2;1;Mouse;Move;337;357;none;none
+25/07/2018 16:30:04.920;9406;Jerome;StickerKeyboard;2;1;Mouse;Move;338;357;none;none
+25/07/2018 16:30:04.928;9414;Jerome;StickerKeyboard;2;1;Mouse;Move;339;357;none;none
+25/07/2018 16:30:04.936;9422;Jerome;StickerKeyboard;2;1;Mouse;Move;339;357;none;none
+25/07/2018 16:30:04.944;9430;Jerome;StickerKeyboard;2;1;Mouse;Move;340;357;none;none
+25/07/2018 16:30:04.952;9438;Jerome;StickerKeyboard;2;1;Mouse;Move;340;357;none;none
+25/07/2018 16:30:04.960;9446;Jerome;StickerKeyboard;2;1;Mouse;Move;341;357;none;none
+25/07/2018 16:30:04.969;9454;Jerome;StickerKeyboard;2;1;Mouse;Move;341;357;none;none
+25/07/2018 16:30:04.976;9462;Jerome;StickerKeyboard;2;1;Mouse;Move;342;357;none;none
+25/07/2018 16:30:04.984;9470;Jerome;StickerKeyboard;2;1;Mouse;Move;343;357;none;none
+25/07/2018 16:30:04.992;9478;Jerome;StickerKeyboard;2;1;Mouse;Move;345;357;none;none
+25/07/2018 16:30:05.0;9486;Jerome;StickerKeyboard;2;1;Mouse;Move;348;358;none;none
+25/07/2018 16:30:05.8;9494;Jerome;StickerKeyboard;2;1;Mouse;Move;350;358;none;none
+25/07/2018 16:30:05.16;9502;Jerome;StickerKeyboard;2;1;Mouse;Move;352;359;none;none
+25/07/2018 16:30:05.24;9510;Jerome;StickerKeyboard;2;1;Mouse;Move;354;360;none;none
+25/07/2018 16:30:05.32;9518;Jerome;StickerKeyboard;2;1;Mouse;Move;358;361;none;none
+25/07/2018 16:30:05.40;9525;Jerome;StickerKeyboard;2;1;Mouse;Move;359;361;none;none
+25/07/2018 16:30:05.48;9533;Jerome;StickerKeyboard;2;1;Mouse;Move;359;361;none;none
+25/07/2018 16:30:05.56;9541;Jerome;StickerKeyboard;2;1;Mouse;Move;360;361;none;none
+25/07/2018 16:30:05.176;9662;Jerome;StickerKeyboard;2;1;Mouse;Move;360;361;none;none
+25/07/2018 16:30:05.184;9670;Jerome;StickerKeyboard;2;1;Mouse;Move;360;361;none;none
+25/07/2018 16:30:05.192;9678;Jerome;StickerKeyboard;2;1;Mouse;Move;359;360;none;none
+25/07/2018 16:30:05.200;9686;Jerome;StickerKeyboard;2;1;Mouse;Move;359;360;none;none
+25/07/2018 16:30:05.208;9694;Jerome;StickerKeyboard;2;1;Mouse;Move;358;359;none;none
+25/07/2018 16:30:05.216;9702;Jerome;StickerKeyboard;2;1;Mouse;Move;358;359;none;none
+25/07/2018 16:30:05.224;9710;Jerome;StickerKeyboard;2;1;Mouse;Move;357;359;none;none
+25/07/2018 16:30:05.232;9718;Jerome;StickerKeyboard;2;1;Mouse;Move;357;359;none;none
+25/07/2018 16:30:05.240;9726;Jerome;StickerKeyboard;2;1;Mouse;Move;357;358;none;none
+25/07/2018 16:30:05.248;9733;Jerome;StickerKeyboard;2;1;Mouse;Move;356;358;none;none
+25/07/2018 16:30:05.320;9806;Jerome;StickerKeyboard;2;1;Mouse;Click;356;358;none;none
+25/07/2018 16:30:05.321;9806;Jerome;StickerKeyboard;2;1;Mouse;Move;356;358;none;none
+25/07/2018 16:30:05.336;9821;Jerome;StickerKeyboard;2;1;Mouse;Move;356;358;none;none
+25/07/2018 16:30:05.368;9854;Jerome;StickerKeyboard;2;1;Mouse;Move;355;358;none;none
+25/07/2018 16:30:05.377;9862;Jerome;StickerKeyboard;2;1;Mouse;Move;355;358;none;none
+25/07/2018 16:30:05.384;9870;Jerome;StickerKeyboard;2;1;Mouse;Move;354;358;none;none
+25/07/2018 16:30:05.392;9878;Jerome;StickerKeyboard;2;1;Mouse;Move;353;358;none;none
+25/07/2018 16:30:05.400;9886;Jerome;StickerKeyboard;2;1;Mouse;Move;350;358;none;none
+25/07/2018 16:30:05.414;9900;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse 
+
+25/07/2018 16:30:05.415;9901;Jerome;StickerKeyboard;2;1;Mouse;Move;347;357;none;none
+25/07/2018 16:30:05.416;9902;Jerome;StickerKeyboard;2;1;Mouse;Move;342;357;none;none
+25/07/2018 16:30:05.424;9910;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse it?
+25/07/2018 16:30:05.425;9910;Jerome;StickerKeyboard;2;1;Mouse;Move;337;357;none;none
+25/07/2018 16:30:05.432;9917;Jerome;StickerKeyboard;2;1;Mouse;Move;328;356;none;none
+25/07/2018 16:30:05.440;9925;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse on it?
+25/07/2018 16:30:05.440;9925;Jerome;StickerKeyboard;2;1;Mouse;Move;323;355;none;none
+25/07/2018 16:30:05.448;9933;Jerome;StickerKeyboard;2;1;Mouse;Move;314;354;none;none
+25/07/2018 16:30:05.456;9941;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse watch on it?
+25/07/2018 16:30:05.456;9941;Jerome;StickerKeyboard;2;1;Mouse;Move;309;353;none;none
+25/07/2018 16:30:05.464;9949;Jerome;StickerKeyboard;2;1;Mouse;Move;300;352;none;none
+25/07/2018 16:30:05.472;9957;Jerome;StickerKeyboard;2;1;Mouse;Move;295;352;none;none
+25/07/2018 16:30:05.480;9965;Jerome;StickerKeyboard;2;1;Mouse;Move;289;350;none;none
+25/07/2018 16:30:05.488;9973;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse announcements. But lost amid the speculation about screen size and battery life is something more important to most consumers: What can you watch on it?
+25/07/2018 16:30:05.488;9974;Jerome;StickerKeyboard;2;1;Mouse;Move;284;349;none;none
+25/07/2018 16:30:05.496;9981;Jerome;StickerKeyboard;2;1;Mouse;Move;279;349;none;none
+25/07/2018 16:30:05.504;9989;Jerome;StickerKeyboard;2;1;Mouse;Move;276;349;none;none
+25/07/2018 16:30:05.512;9997;Jerome;StickerKeyboard;2;1;Mouse;Move;272;348;none;none
+25/07/2018 16:30:05.520;10006;Jerome;StickerKeyboard;2;1;Mouse;Move;269;348;none;none
+25/07/2018 16:30:05.528;10014;Jerome;StickerKeyboard;2;1;Mouse;Move;266;348;none;none
+25/07/2018 16:30:05.536;10022;Jerome;StickerKeyboard;2;1;Mouse;Move;263;348;none;none
+25/07/2018 16:30:05.544;10030;Jerome;StickerKeyboard;2;1;Mouse;Move;260;348;none;none
+25/07/2018 16:30:05.552;10037;Jerome;StickerKeyboard;2;1;Mouse;Move;256;347;none;none
+25/07/2018 16:30:05.560;10045;Jerome;StickerKeyboard;2;1;Mouse;Move;253;347;none;none
+25/07/2018 16:30:05.568;10053;Jerome;StickerKeyboard;2;1;Mouse;Move;249;347;none;none
+25/07/2018 16:30:05.576;10061;Jerome;StickerKeyboard;2;1;Mouse;Move;246;346;none;none
+25/07/2018 16:30:05.584;10069;Jerome;StickerKeyboard;2;1;Mouse;Move;241;346;none;none
+25/07/2018 16:30:05.592;10077;Jerome;StickerKeyboard;2;1;Mouse;Move;238;346;none;none
+25/07/2018 16:30:05.600;10085;Jerome;StickerKeyboard;2;1;Mouse;Move;235;346;none;none
+25/07/2018 16:30:05.608;10093;Jerome;StickerKeyboard;2;1;Mouse;Move;232;345;none;none
+25/07/2018 16:30:05.616;10101;Jerome;StickerKeyboard;2;1;Mouse;Move;230;345;none;none
+25/07/2018 16:30:05.624;10109;Jerome;StickerKeyboard;2;1;Mouse;Move;228;345;none;none
+25/07/2018 16:30:05.632;10117;Jerome;StickerKeyboard;2;1;Mouse;Move;225;345;none;none
+25/07/2018 16:30:05.640;10126;Jerome;StickerKeyboard;2;1;Mouse;Move;224;345;none;none
+25/07/2018 16:30:05.648;10134;Jerome;StickerKeyboard;2;1;Mouse;Move;223;345;none;none
+25/07/2018 16:30:05.656;10142;Jerome;StickerKeyboard;2;1;Mouse;Move;222;345;none;none
+25/07/2018 16:30:05.664;10149;Jerome;StickerKeyboard;2;1;Mouse;Move;220;345;none;none
+25/07/2018 16:30:05.672;10157;Jerome;StickerKeyboard;2;1;Mouse;Move;220;344;none;none
+25/07/2018 16:30:05.680;10165;Jerome;StickerKeyboard;2;1;Mouse;Move;219;344;none;none
+25/07/2018 16:30:05.688;10173;Jerome;StickerKeyboard;2;1;Mouse;Move;219;344;none;none
+25/07/2018 16:30:05.696;10181;Jerome;StickerKeyboard;2;1;Mouse;Move;218;344;none;none
+25/07/2018 16:30:05.704;10190;Jerome;StickerKeyboard;2;1;Mouse;Move;218;343;none;none
+25/07/2018 16:30:05.712;10198;Jerome;StickerKeyboard;2;1;Mouse;Move;217;343;none;none
+25/07/2018 16:30:05.720;10206;Jerome;StickerKeyboard;2;1;Mouse;Move;217;343;none;none
+25/07/2018 16:30:05.728;10214;Jerome;StickerKeyboard;2;1;Mouse;Move;216;343;none;none
+25/07/2018 16:30:05.736;10222;Jerome;StickerKeyboard;2;1;Mouse;Move;216;342;none;none
+25/07/2018 16:30:05.744;10230;Jerome;StickerKeyboard;2;1;Mouse;Move;215;342;none;none
+25/07/2018 16:30:05.760;10246;Jerome;StickerKeyboard;2;1;Mouse;Move;214;342;none;none
+25/07/2018 16:30:05.768;10254;Jerome;StickerKeyboard;2;1;Mouse;Move;214;342;none;none
+25/07/2018 16:30:05.776;10262;Jerome;StickerKeyboard;2;1;Mouse;Move;214;342;none;none
+25/07/2018 16:30:05.784;10270;Jerome;StickerKeyboard;2;1;Mouse;Move;214;341;none;none
+25/07/2018 16:30:05.864;10349;Jerome;StickerKeyboard;2;1;Mouse;Move;213;341;none;none
+25/07/2018 16:30:05.880;10365;Jerome;StickerKeyboard;2;1;Mouse;Move;213;340;none;none
+25/07/2018 16:30:05.896;10382;Jerome;StickerKeyboard;2;1;Mouse;Move;213;340;none;none
+25/07/2018 16:30:05.912;10398;Jerome;StickerKeyboard;2;1;Mouse;Move;213;339;none;none
+25/07/2018 16:30:05.944;10430;Jerome;StickerKeyboard;2;1;Mouse;Move;213;339;none;none
+25/07/2018 16:30:05.960;10446;Jerome;StickerKeyboard;2;1;Mouse;Move;212;339;none;none
+25/07/2018 16:30:05.968;10454;Jerome;StickerKeyboard;2;1;Mouse;Move;212;338;none;none
+25/07/2018 16:30:05.976;10462;Jerome;StickerKeyboard;2;1;Mouse;Move;212;338;none;none
+25/07/2018 16:30:05.984;10470;Jerome;StickerKeyboard;2;1;Mouse;Move;212;337;none;none
+25/07/2018 16:30:06.32;10518;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse The blogosphere is crackling with talk of Apple's iPhone 5 launch on Wednesday, the latest in a rush of high-tech product announcements. But lost amid the speculation about screen size and battery life is something more important to most consumers: What can you watch on it?
+25/07/2018 16:30:06.33;10518;Jerome;StickerKeyboard;2;1;Mouse;Move;212;336;none;none
+25/07/2018 16:30:06.64;10549;Jerome;StickerKeyboard;2;1;Mouse;Move;212;336;none;none
+25/07/2018 16:30:06.80;10565;Jerome;StickerKeyboard;2;1;Mouse;Move;212;336;none;none
+25/07/2018 16:30:06.88;10573;Jerome;StickerKeyboard;2;1;Mouse;Move;212;335;none;none
+25/07/2018 16:30:06.96;10581;Jerome;StickerKeyboard;2;1;Mouse;Move;212;335;none;none
+25/07/2018 16:30:06.112;10597;Jerome;StickerKeyboard;2;1;Mouse;Move;212;334;none;none
+25/07/2018 16:30:06.120;10605;Jerome;StickerKeyboard;2;1;Mouse;Move;212;334;none;none
+25/07/2018 16:30:06.128;10613;Jerome;StickerKeyboard;2;1;Mouse;Move;211;334;none;none
+25/07/2018 16:30:06.136;10621;Jerome;StickerKeyboard;2;1;Mouse;Move;211;333;none;none
+25/07/2018 16:30:06.144;10629;Jerome;StickerKeyboard;2;1;Mouse;Move;211;332;none;none
+25/07/2018 16:30:06.177;10662;Jerome;StickerKeyboard;2;1;Mouse;Move;211;332;none;none
+25/07/2018 16:30:06.256;10741;Jerome;StickerKeyboard;2;1;Mouse;Release;211;332;none;none
+25/07/2018 16:30:06.256;10741;Jerome;StickerKeyboard;2;1;Mouse;Move;211;332;none;none
+25/07/2018 16:30:06.630;11115;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:06.878;11364;Jerome;StickerKeyboard;2;1;Key;Down;none;none;J;none
+25/07/2018 16:30:06.881;11366;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnJustify Hotkey J SelText:The blogosphere is crackling with talk of Apple's iPhone 5 launch on Wednesday, the latest in a rush of high-tech product announcements. But lost amid the speculation about screen size and battery life is something more important to most consumers: What can you watch on it? Mouse 
+25/07/2018 16:30:06.958;11444;Jerome;StickerKeyboard;2;1;Key;Up;none;none;J;none
+25/07/2018 16:30:07.126;11611;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:30:07.638;12123;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:07.694;12179;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:07.694;12180;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:30:07.750;12236;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:30:07.894;12380;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:08.78;12563;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:30:08.109;12595;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:08.190;12676;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:30:08.246;12731;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:08.446;12932;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:30:08.486;12971;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:08.542;13028;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:30:08.598;13083;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.97;13583;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.130;13615;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.163;13648;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.196;13682;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.229;13715;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.262;13748;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.295;13780;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.328;13814;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.361;13847;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.394;13880;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.427;13913;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.460;13946;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.493;13978;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.526;14011;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.559;14045;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.592;14078;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.625;14110;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.658;14143;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.691;14177;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.724;14210;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.757;14243;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.790;14276;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.823;14309;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.856;14342;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.889;14375;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.922;14408;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.955;14441;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:09.988;14474;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.21;14507;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.54;14540;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.87;14572;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.120;14606;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.153;14638;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.203;14688;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.219;14705;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.252;14737;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.285;14771;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.318;14804;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.351;14837;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.384;14870;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.417;14903;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.450;14936;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.483;14968;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.516;15001;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:10.526;15012;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:10.790;15276;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:10.894;15380;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:10.998;15484;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:11.70;15555;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:11.222;15708;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:30:11.253;15739;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:11.753;16239;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard A
+25/07/2018 16:30:11.754;16240;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:11.786;16271;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Ap
+25/07/2018 16:30:11.786;16272;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:11.819;16304;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard App
+25/07/2018 16:30:11.819;16305;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:11.852;16338;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Appl
+25/07/2018 16:30:11.853;16339;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:11.885;16371;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple
+25/07/2018 16:30:11.885;16371;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:11.918;16404;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple'
+25/07/2018 16:30:11.919;16405;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:11.951;16437;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's
+25/07/2018 16:30:11.952;16438;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:11.984;16470;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's 
+25/07/2018 16:30:11.984;16470;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:12.17;16503;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's i
+25/07/2018 16:30:12.18;16504;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:12.50;16536;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's iP
+25/07/2018 16:30:12.50;16536;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:12.83;16569;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's iPh
+25/07/2018 16:30:12.84;16569;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:12.116;16602;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's iPho
+25/07/2018 16:30:12.116;16602;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:12.149;16634;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's iPhon
+25/07/2018 16:30:12.149;16635;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:12.182;16667;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's iPhone
+25/07/2018 16:30:12.182;16668;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:12.197;16683;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's iPhone 
+25/07/2018 16:30:12.198;16683;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:12.342;16828;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:12.462;16947;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's iPhone 5
+25/07/2018 16:30:12.462;16948;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:12.574;17059;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:12.638;17123;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's iPhone 5 
+25/07/2018 16:30:12.639;17124;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:12.822;17308;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:12.950;17435;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Apple's iPhone 5
+25/07/2018 16:30:12.950;17436;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:13.126;17612;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:30:13.318;17804;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:13.534;18019;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D5;none
+25/07/2018 16:30:13.543;18029;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command DecreaseSizeBtn Hotkey ( SelText:Apple's iPhone 5 Keyboard 
+25/07/2018 16:30:13.646;18131;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D5;none
+25/07/2018 16:30:14.294;18779;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D5;none
+25/07/2018 16:30:14.301;18787;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command DecreaseSizeBtn Hotkey ( SelText:Apple's iPhone 5 Keyboard 
+25/07/2018 16:30:14.366;18852;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D5;none
+25/07/2018 16:30:15.197;19683;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D1;none
+25/07/2018 16:30:15.302;19787;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D1;none
+25/07/2018 16:30:17.599;22084;Jerome;StickerKeyboard;2;1;Key;Down;none;none;M;none
+25/07/2018 16:30:17.604;22089;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command MagentaButton Hotkey M SelText:Apple's iPhone 5 Keyboard 
+25/07/2018 16:30:17.694;22179;Jerome;StickerKeyboard;2;1;Key;Up;none;none;M;none
+25/07/2018 16:30:18.550;23035;Jerome;StickerKeyboard;2;1;Key;Down;none;none;U;none
+25/07/2018 16:30:18.560;23044;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUnderline Hotkey U SelText:Apple's iPhone 5 Keyboard 
+25/07/2018 16:30:18.678;23163;Jerome;StickerKeyboard;2;1;Key;Up;none;none;U;none
+25/07/2018 16:30:18.958;23443;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:30:20.128;24613;Jerome;StickerKeyboard;2;1;Mouse;Move;211;332;none;none
+25/07/2018 16:30:20.138;24623;Jerome;StickerKeyboard;2;1;Mouse;Move;211;332;none;none
+25/07/2018 16:30:20.144;24629;Jerome;StickerKeyboard;2;1;Mouse;Move;218;335;none;none
+25/07/2018 16:30:20.152;24637;Jerome;StickerKeyboard;2;1;Mouse;Move;232;339;none;none
+25/07/2018 16:30:20.160;24645;Jerome;StickerKeyboard;2;1;Mouse;Move;245;344;none;none
+25/07/2018 16:30:20.168;24653;Jerome;StickerKeyboard;2;1;Mouse;Move;257;347;none;none
+25/07/2018 16:30:20.176;24661;Jerome;StickerKeyboard;2;1;Mouse;Move;273;351;none;none
+25/07/2018 16:30:20.184;24669;Jerome;StickerKeyboard;2;1;Mouse;Move;284;356;none;none
+25/07/2018 16:30:20.192;24677;Jerome;StickerKeyboard;2;1;Mouse;Move;297;359;none;none
+25/07/2018 16:30:20.200;24685;Jerome;StickerKeyboard;2;1;Mouse;Move;307;363;none;none
+25/07/2018 16:30:20.208;24693;Jerome;StickerKeyboard;2;1;Mouse;Move;314;368;none;none
+25/07/2018 16:30:20.216;24701;Jerome;StickerKeyboard;2;1;Mouse;Move;320;371;none;none
+25/07/2018 16:30:20.224;24709;Jerome;StickerKeyboard;2;1;Mouse;Move;323;371;none;none
+25/07/2018 16:30:20.232;24717;Jerome;StickerKeyboard;2;1;Mouse;Move;325;372;none;none
+25/07/2018 16:30:20.240;24725;Jerome;StickerKeyboard;2;1;Mouse;Move;325;372;none;none
+25/07/2018 16:30:20.248;24733;Jerome;StickerKeyboard;2;1;Mouse;Move;325;373;none;none
+25/07/2018 16:30:20.800;25285;Jerome;StickerKeyboard;2;1;Mouse;Move;325;373;none;none
+25/07/2018 16:30:20.808;25293;Jerome;StickerKeyboard;2;1;Mouse;Move;325;373;none;none
+25/07/2018 16:30:20.816;25301;Jerome;StickerKeyboard;2;1;Mouse;Move;319;374;none;none
+25/07/2018 16:30:20.824;25309;Jerome;StickerKeyboard;2;1;Mouse;Move;309;375;none;none
+25/07/2018 16:30:20.832;25317;Jerome;StickerKeyboard;2;1;Mouse;Move;299;375;none;none
+25/07/2018 16:30:20.840;25325;Jerome;StickerKeyboard;2;1;Mouse;Move;290;376;none;none
+25/07/2018 16:30:20.848;25333;Jerome;StickerKeyboard;2;1;Mouse;Move;280;376;none;none
+25/07/2018 16:30:20.859;25344;Jerome;StickerKeyboard;2;1;Mouse;Move;269;377;none;none
+25/07/2018 16:30:20.864;25349;Jerome;StickerKeyboard;2;1;Mouse;Move;259;378;none;none
+25/07/2018 16:30:20.872;25357;Jerome;StickerKeyboard;2;1;Mouse;Move;249;378;none;none
+25/07/2018 16:30:20.880;25365;Jerome;StickerKeyboard;2;1;Mouse;Move;240;379;none;none
+25/07/2018 16:30:20.888;25373;Jerome;StickerKeyboard;2;1;Mouse;Move;233;379;none;none
+25/07/2018 16:30:20.896;25381;Jerome;StickerKeyboard;2;1;Mouse;Move;228;380;none;none
+25/07/2018 16:30:20.905;25390;Jerome;StickerKeyboard;2;1;Mouse;Move;224;380;none;none
+25/07/2018 16:30:20.912;25397;Jerome;StickerKeyboard;2;1;Mouse;Move;223;380;none;none
+25/07/2018 16:30:21.24;25509;Jerome;StickerKeyboard;2;1;Mouse;Move;223;380;none;none
+25/07/2018 16:30:21.32;25517;Jerome;StickerKeyboard;2;1;Mouse;Move;223;380;none;none
+25/07/2018 16:30:21.48;25533;Jerome;StickerKeyboard;2;1;Mouse;Move;223;380;none;none
+25/07/2018 16:30:21.56;25541;Jerome;StickerKeyboard;2;1;Mouse;Move;222;380;none;none
+25/07/2018 16:30:21.64;25549;Jerome;StickerKeyboard;2;1;Mouse;Move;222;379;none;none
+25/07/2018 16:30:21.128;25613;Jerome;StickerKeyboard;2;1;Mouse;Move;222;379;none;none
+25/07/2018 16:30:21.136;25621;Jerome;StickerKeyboard;2;1;Mouse;Move;221;379;none;none
+25/07/2018 16:30:21.144;25629;Jerome;StickerKeyboard;2;1;Mouse;Move;221;379;none;none
+25/07/2018 16:30:21.152;25637;Jerome;StickerKeyboard;2;1;Mouse;Move;221;378;none;none
+25/07/2018 16:30:21.160;25645;Jerome;StickerKeyboard;2;1;Mouse;Move;220;378;none;none
+25/07/2018 16:30:21.168;25653;Jerome;StickerKeyboard;2;1;Mouse;Move;220;378;none;none
+25/07/2018 16:30:21.176;25661;Jerome;StickerKeyboard;2;1;Mouse;Move;220;377;none;none
+25/07/2018 16:30:21.184;25669;Jerome;StickerKeyboard;2;1;Mouse;Move;219;377;none;none
+25/07/2018 16:30:21.416;25902;Jerome;StickerKeyboard;2;1;Mouse;Move;218;377;none;none
+25/07/2018 16:30:21.616;26101;Jerome;StickerKeyboard;2;1;Mouse;Click;218;377;none;none
+25/07/2018 16:30:21.617;26102;Jerome;StickerKeyboard;2;1;Mouse;Move;218;377;none;none
+25/07/2018 16:30:21.792;26277;Jerome;StickerKeyboard;2;1;Mouse;Move;218;377;none;none
+25/07/2018 16:30:21.800;26285;Jerome;StickerKeyboard;2;1;Mouse;Move;219;377;none;none
+25/07/2018 16:30:21.808;26293;Jerome;StickerKeyboard;2;1;Mouse;Move;224;377;none;none
+25/07/2018 16:30:21.822;26307;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse A
+25/07/2018 16:30:21.823;26308;Jerome;StickerKeyboard;2;1;Mouse;Move;235;376;none;none
+25/07/2018 16:30:21.834;26319;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As 
+25/07/2018 16:30:21.834;26319;Jerome;StickerKeyboard;2;1;Mouse;Move;250;376;none;none
+25/07/2018 16:30:21.835;26320;Jerome;StickerKeyboard;2;1;Mouse;Move;267;376;none;none
+25/07/2018 16:30:21.840;26325;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices 
+25/07/2018 16:30:21.840;26325;Jerome;StickerKeyboard;2;1;Mouse;Move;286;376;none;none
+25/07/2018 16:30:21.848;26333;Jerome;StickerKeyboard;2;1;Mouse;Move;306;376;none;none
+25/07/2018 16:30:21.856;26341;Jerome;StickerKeyboard;2;1;Mouse;Move;326;376;none;none
+25/07/2018 16:30:21.864;26349;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly 
+25/07/2018 16:30:21.865;26350;Jerome;StickerKeyboard;2;1;Mouse;Move;345;376;none;none
+25/07/2018 16:30:21.872;26357;Jerome;StickerKeyboard;2;1;Mouse;Move;362;376;none;none
+25/07/2018 16:30:21.881;26366;Jerome;StickerKeyboard;2;1;Mouse;Move;384;376;none;none
+25/07/2018 16:30:21.894;26379;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble 
+25/07/2018 16:30:21.895;26380;Jerome;StickerKeyboard;2;1;Mouse;Move;410;376;none;none
+25/07/2018 16:30:21.896;26381;Jerome;StickerKeyboard;2;1;Mouse;Move;438;376;none;none
+25/07/2018 16:30:21.906;26391;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other 
+25/07/2018 16:30:21.907;26392;Jerome;StickerKeyboard;2;1;Mouse;Move;466;377;none;none
+25/07/2018 16:30:21.918;26403;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in 
+25/07/2018 16:30:21.918;26403;Jerome;StickerKeyboard;2;1;Mouse;Move;499;377;none;none
+25/07/2018 16:30:21.924;26409;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and 
+25/07/2018 16:30:21.925;26410;Jerome;StickerKeyboard;2;1;Mouse;Move;536;379;none;none
+25/07/2018 16:30:21.928;26413;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and performance
+25/07/2018 16:30:21.928;26413;Jerome;StickerKeyboard;2;1;Mouse;Move;572;379;none;none
+25/07/2018 16:30:21.936;26421;Jerome;StickerKeyboard;2;1;Mouse;Move;603;379;none;none
+25/07/2018 16:30:21.944;26429;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and performance, some 
+25/07/2018 16:30:21.944;26429;Jerome;StickerKeyboard;2;1;Mouse;Move;634;378;none;none
+25/07/2018 16:30:21.952;26437;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and performance, some analysts 
+25/07/2018 16:30:21.952;26437;Jerome;StickerKeyboard;2;1;Mouse;Move;665;376;none;none
+25/07/2018 16:30:21.965;26450;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and performance, some analysts see 
+25/07/2018 16:30:21.966;26451;Jerome;StickerKeyboard;2;1;Mouse;Move;697;375;none;none
+25/07/2018 16:30:21.980;26465;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and performance, some analysts see a coming 
+25/07/2018 16:30:21.980;26465;Jerome;StickerKeyboard;2;1;Mouse;Move;722;373;none;none
+25/07/2018 16:30:21.981;26466;Jerome;StickerKeyboard;2;1;Mouse;Move;748;372;none;none
+25/07/2018 16:30:21.985;26470;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection 
+25/07/2018 16:30:21.985;26470;Jerome;StickerKeyboard;2;1;Mouse;Move;768;372;none;none
+25/07/2018 16:30:21.992;26477;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point 
+25/07/2018 16:30:21.992;26477;Jerome;StickerKeyboard;2;1;Mouse;Move;785;370;none;none
+25/07/2018 16:30:22.0;26485;Jerome;StickerKeyboard;2;1;Mouse;Move;800;370;none;none
+25/07/2018 16:30:22.8;26493;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which 
+25/07/2018 16:30:22.8;26493;Jerome;StickerKeyboard;2;1;Mouse;Move;812;370;none;none
+25/07/2018 16:30:22.16;26501;Jerome;StickerKeyboard;2;1;Mouse;Move;823;370;none;none
+25/07/2018 16:30:22.24;26509;Jerome;StickerKeyboard;2;1;Mouse;Move;833;370;none;none
+25/07/2018 16:30:22.32;26517;Jerome;StickerKeyboard;2;1;Mouse;Move;841;370;none;none
+25/07/2018 16:30:22.40;26525;Jerome;StickerKeyboard;2;1;Mouse;Move;847;370;none;none
+25/07/2018 16:30:22.48;26533;Jerome;StickerKeyboard;2;1;Mouse;Move;851;371;none;none
+25/07/2018 16:30:22.56;26541;Jerome;StickerKeyboard;2;1;Mouse;Move;854;371;none;none
+25/07/2018 16:30:22.64;26549;Jerome;StickerKeyboard;2;1;Mouse;Move;856;371;none;none
+25/07/2018 16:30:22.73;26558;Jerome;StickerKeyboard;2;1;Mouse;Move;856;372;none;none
+25/07/2018 16:30:22.80;26565;Jerome;StickerKeyboard;2;1;Mouse;Move;857;372;none;none
+25/07/2018 16:30:22.145;26630;Jerome;StickerKeyboard;2;1;Mouse;Move;857;372;none;none
+25/07/2018 16:30:22.152;26637;Jerome;StickerKeyboard;2;1;Mouse;Move;858;372;none;none
+25/07/2018 16:30:22.160;26645;Jerome;StickerKeyboard;2;1;Mouse;Move;859;372;none;none
+25/07/2018 16:30:22.168;26653;Jerome;StickerKeyboard;2;1;Mouse;Move;861;372;none;none
+25/07/2018 16:30:22.176;26661;Jerome;StickerKeyboard;2;1;Mouse;Move;863;372;none;none
+25/07/2018 16:30:22.184;26669;Jerome;StickerKeyboard;2;1;Mouse;Move;863;372;none;none
+25/07/2018 16:30:22.192;26677;Jerome;StickerKeyboard;2;1;Mouse;Move;864;372;none;none
+25/07/2018 16:30:22.200;26685;Jerome;StickerKeyboard;2;1;Mouse;Move;864;372;none;none
+25/07/2018 16:30:22.352;26837;Jerome;StickerKeyboard;2;1;Mouse;Move;864;373;none;none
+25/07/2018 16:30:22.376;26861;Jerome;StickerKeyboard;2;1;Mouse;Move;864;373;none;none
+25/07/2018 16:30:22.384;26869;Jerome;StickerKeyboard;2;1;Mouse;Move;864;373;none;none
+25/07/2018 16:30:22.392;26877;Jerome;StickerKeyboard;2;1;Mouse;Move;864;374;none;none
+25/07/2018 16:30:22.400;26885;Jerome;StickerKeyboard;2;1;Mouse;Move;863;377;none;none
+25/07/2018 16:30:22.408;26893;Jerome;StickerKeyboard;2;1;Mouse;Move;863;378;none;none
+25/07/2018 16:30:22.416;26901;Jerome;StickerKeyboard;2;1;Mouse;Move;862;379;none;none
+25/07/2018 16:30:22.424;26909;Jerome;StickerKeyboard;2;1;Mouse;Move;861;381;none;none
+25/07/2018 16:30:22.432;26917;Jerome;StickerKeyboard;2;1;Mouse;Move;861;382;none;none
+25/07/2018 16:30:22.440;26925;Jerome;StickerKeyboard;2;1;Mouse;Move;860;384;none;none
+25/07/2018 16:30:22.455;26940;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+25/07/2018 16:30:22.455;26940;Jerome;StickerKeyboard;2;1;Mouse;Move;859;384;none;none
+25/07/2018 16:30:22.456;26941;Jerome;StickerKeyboard;2;1;Mouse;Move;859;385;none;none
+25/07/2018 16:30:22.464;26949;Jerome;StickerKeyboard;2;1;Mouse;Move;859;385;none;none
+25/07/2018 16:30:22.472;26957;Jerome;StickerKeyboard;2;1;Mouse;Move;859;386;none;none
+25/07/2018 16:30:22.480;26965;Jerome;StickerKeyboard;2;1;Mouse;Move;858;386;none;none
+25/07/2018 16:30:22.736;27221;Jerome;StickerKeyboard;2;1;Mouse;Release;858;386;none;none
+25/07/2018 16:30:22.737;27222;Jerome;StickerKeyboard;2;1;Mouse;Move;858;386;none;none
+25/07/2018 16:30:23.791;28276;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.290;28775;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.323;28808;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.356;28841;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.389;28874;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.422;28907;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.455;28940;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.488;28973;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.521;29006;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.554;29039;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.587;29072;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.620;29105;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.653;29138;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.686;29171;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:24.710;29195;Jerome;StickerKeyboard;2;1;Key;Down;none;none;K;none
+25/07/2018 16:30:24.714;29199;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command BlackButton Hotkey K SelText:As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+ Mouse 
+25/07/2018 16:30:25.14;29499;Jerome;StickerKeyboard;2;1;Key;Up;none;none;K;none
+25/07/2018 16:30:25.334;29819;Jerome;StickerKeyboard;2;1;Key;Down;none;none;E;none
+25/07/2018 16:30:25.334;29819;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnAlignCenter Hotkey E SelText:As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+ Mouse 
+25/07/2018 16:30:25.638;30123;Jerome;StickerKeyboard;2;1;Key;Up;none;none;E;none
+25/07/2018 16:30:27.438;31923;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:30:28.24;32509;Jerome;StickerKeyboard;2;1;Mouse;Move;858;386;none;none
+25/07/2018 16:30:28.34;32519;Jerome;StickerKeyboard;2;1;Mouse;Move;853;389;none;none
+25/07/2018 16:30:28.40;32525;Jerome;StickerKeyboard;2;1;Mouse;Move;844;394;none;none
+25/07/2018 16:30:28.47;32533;Jerome;StickerKeyboard;2;1;Mouse;Move;831;399;none;none
+25/07/2018 16:30:28.55;32541;Jerome;StickerKeyboard;2;1;Mouse;Move;820;405;none;none
+25/07/2018 16:30:28.63;32549;Jerome;StickerKeyboard;2;1;Mouse;Move;808;408;none;none
+25/07/2018 16:30:28.71;32557;Jerome;StickerKeyboard;2;1;Mouse;Move;791;413;none;none
+25/07/2018 16:30:28.79;32565;Jerome;StickerKeyboard;2;1;Mouse;Move;772;417;none;none
+25/07/2018 16:30:28.87;32572;Jerome;StickerKeyboard;2;1;Mouse;Move;738;421;none;none
+25/07/2018 16:30:28.95;32581;Jerome;StickerKeyboard;2;1;Mouse;Move;698;424;none;none
+25/07/2018 16:30:28.104;32589;Jerome;StickerKeyboard;2;1;Mouse;Move;653;426;none;none
+25/07/2018 16:30:28.112;32597;Jerome;StickerKeyboard;2;1;Mouse;Move;606;426;none;none
+25/07/2018 16:30:28.120;32605;Jerome;StickerKeyboard;2;1;Mouse;Move;559;426;none;none
+25/07/2018 16:30:28.128;32613;Jerome;StickerKeyboard;2;1;Mouse;Move;514;425;none;none
+25/07/2018 16:30:28.136;32621;Jerome;StickerKeyboard;2;1;Mouse;Move;474;422;none;none
+25/07/2018 16:30:28.144;32629;Jerome;StickerKeyboard;2;1;Mouse;Move;439;417;none;none
+25/07/2018 16:30:28.152;32637;Jerome;StickerKeyboard;2;1;Mouse;Move;410;413;none;none
+25/07/2018 16:30:28.160;32645;Jerome;StickerKeyboard;2;1;Mouse;Move;387;410;none;none
+25/07/2018 16:30:28.168;32653;Jerome;StickerKeyboard;2;1;Mouse;Move;371;408;none;none
+25/07/2018 16:30:28.176;32661;Jerome;StickerKeyboard;2;1;Mouse;Move;357;406;none;none
+25/07/2018 16:30:28.184;32669;Jerome;StickerKeyboard;2;1;Mouse;Move;346;405;none;none
+25/07/2018 16:30:28.192;32677;Jerome;StickerKeyboard;2;1;Mouse;Move;338;403;none;none
+25/07/2018 16:30:28.200;32685;Jerome;StickerKeyboard;2;1;Mouse;Move;331;403;none;none
+25/07/2018 16:30:28.209;32694;Jerome;StickerKeyboard;2;1;Mouse;Move;326;402;none;none
+25/07/2018 16:30:28.216;32701;Jerome;StickerKeyboard;2;1;Mouse;Move;324;402;none;none
+25/07/2018 16:30:28.224;32709;Jerome;StickerKeyboard;2;1;Mouse;Move;324;402;none;none
+25/07/2018 16:30:28.271;32757;Jerome;StickerKeyboard;2;1;Mouse;Move;324;402;none;none
+25/07/2018 16:30:28.279;32765;Jerome;StickerKeyboard;2;1;Mouse;Move;323;402;none;none
+25/07/2018 16:30:28.288;32773;Jerome;StickerKeyboard;2;1;Mouse;Move;322;402;none;none
+25/07/2018 16:30:28.296;32781;Jerome;StickerKeyboard;2;1;Mouse;Move;321;403;none;none
+25/07/2018 16:30:28.304;32789;Jerome;StickerKeyboard;2;1;Mouse;Move;320;405;none;none
+25/07/2018 16:30:28.312;32797;Jerome;StickerKeyboard;2;1;Mouse;Move;319;405;none;none
+25/07/2018 16:30:28.320;32805;Jerome;StickerKeyboard;2;1;Mouse;Move;318;405;none;none
+25/07/2018 16:30:28.328;32813;Jerome;StickerKeyboard;2;1;Mouse;Move;318;406;none;none
+25/07/2018 16:30:28.336;32821;Jerome;StickerKeyboard;2;1;Mouse;Move;317;407;none;none
+25/07/2018 16:30:28.344;32829;Jerome;StickerKeyboard;2;1;Mouse;Move;314;409;none;none
+25/07/2018 16:30:28.352;32837;Jerome;StickerKeyboard;2;1;Mouse;Move;310;410;none;none
+25/07/2018 16:30:28.360;32845;Jerome;StickerKeyboard;2;1;Mouse;Move;306;413;none;none
+25/07/2018 16:30:28.368;32853;Jerome;StickerKeyboard;2;1;Mouse;Move;302;416;none;none
+25/07/2018 16:30:28.376;32861;Jerome;StickerKeyboard;2;1;Mouse;Move;298;419;none;none
+25/07/2018 16:30:28.384;32869;Jerome;StickerKeyboard;2;1;Mouse;Move;293;421;none;none
+25/07/2018 16:30:28.392;32877;Jerome;StickerKeyboard;2;1;Mouse;Move;290;422;none;none
+25/07/2018 16:30:28.420;32905;Jerome;StickerKeyboard;2;1;Mouse;Move;287;424;none;none
+25/07/2018 16:30:28.420;32906;Jerome;StickerKeyboard;2;1;Mouse;Move;280;425;none;none
+25/07/2018 16:30:28.453;32938;Jerome;StickerKeyboard;2;1;Mouse;Move;278;425;none;none
+25/07/2018 16:30:28.486;32971;Jerome;StickerKeyboard;2;1;Mouse;Move;271;425;none;none
+25/07/2018 16:30:28.487;32972;Jerome;StickerKeyboard;2;1;Mouse;Move;266;425;none;none
+25/07/2018 16:30:28.519;33005;Jerome;StickerKeyboard;2;1;Mouse;Move;265;425;none;none
+25/07/2018 16:30:28.554;33039;Jerome;StickerKeyboard;2;1;Mouse;Move;261;425;none;none
+25/07/2018 16:30:28.554;33039;Jerome;StickerKeyboard;2;1;Mouse;Move;253;424;none;none
+25/07/2018 16:30:28.586;33072;Jerome;StickerKeyboard;2;1;Mouse;Move;252;424;none;none
+25/07/2018 16:30:28.587;33072;Jerome;StickerKeyboard;2;1;Mouse;Move;251;423;none;none
+25/07/2018 16:30:28.620;33105;Jerome;StickerKeyboard;2;1;Mouse;Move;250;423;none;none
+25/07/2018 16:30:28.620;33105;Jerome;StickerKeyboard;2;1;Mouse;Move;250;421;none;none
+25/07/2018 16:30:28.623;33109;Jerome;StickerKeyboard;2;1;Mouse;Move;250;420;none;none
+25/07/2018 16:30:28.631;33117;Jerome;StickerKeyboard;2;1;Mouse;Move;250;420;none;none
+25/07/2018 16:30:28.639;33125;Jerome;StickerKeyboard;2;1;Mouse;Move;250;419;none;none
+25/07/2018 16:30:28.647;33133;Jerome;StickerKeyboard;2;1;Mouse;Move;250;418;none;none
+25/07/2018 16:30:28.655;33141;Jerome;StickerKeyboard;2;1;Mouse;Move;250;417;none;none
+25/07/2018 16:30:28.663;33149;Jerome;StickerKeyboard;2;1;Mouse;Move;250;417;none;none
+25/07/2018 16:30:28.671;33157;Jerome;StickerKeyboard;2;1;Mouse;Move;250;416;none;none
+25/07/2018 16:30:28.680;33165;Jerome;StickerKeyboard;2;1;Mouse;Move;250;415;none;none
+25/07/2018 16:30:28.688;33173;Jerome;StickerKeyboard;2;1;Mouse;Move;250;415;none;none
+25/07/2018 16:30:28.696;33181;Jerome;StickerKeyboard;2;1;Mouse;Move;250;414;none;none
+25/07/2018 16:30:28.704;33189;Jerome;StickerKeyboard;2;1;Mouse;Move;250;414;none;none
+25/07/2018 16:30:28.879;33365;Jerome;StickerKeyboard;2;1;Mouse;Click;250;414;none;none
+25/07/2018 16:30:28.880;33365;Jerome;StickerKeyboard;2;1;Mouse;Move;250;414;none;none
+25/07/2018 16:30:28.984;33469;Jerome;StickerKeyboard;2;1;Mouse;Move;251;414;none;none
+25/07/2018 16:30:28.992;33477;Jerome;StickerKeyboard;2;1;Mouse;Move;252;414;none;none
+25/07/2018 16:30:29.0;33485;Jerome;StickerKeyboard;2;1;Mouse;Move;254;414;none;none
+25/07/2018 16:30:29.7;33493;Jerome;StickerKeyboard;2;1;Mouse;Move;257;414;none;none
+25/07/2018 16:30:29.15;33501;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse T
+25/07/2018 16:30:29.16;33501;Jerome;StickerKeyboard;2;1;Mouse;Move;261;416;none;none
+25/07/2018 16:30:29.23;33509;Jerome;StickerKeyboard;2;1;Mouse;Move;265;419;none;none
+25/07/2018 16:30:29.31;33517;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse The
+25/07/2018 16:30:29.31;33517;Jerome;StickerKeyboard;2;1;Mouse;Move;268;419;none;none
+25/07/2018 16:30:29.39;33525;Jerome;StickerKeyboard;2;1;Mouse;Move;271;421;none;none
+25/07/2018 16:30:29.47;33533;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse The 
+25/07/2018 16:30:29.48;33533;Jerome;StickerKeyboard;2;1;Mouse;Move;276;423;none;none
+25/07/2018 16:30:29.55;33541;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+
+25/07/2018 16:30:29.56;33541;Jerome;StickerKeyboard;2;1;Mouse;Move;280;426;none;none
+25/07/2018 16:30:29.63;33549;Jerome;StickerKeyboard;2;1;Mouse;Move;284;426;none;none
+25/07/2018 16:30:29.71;33557;Jerome;StickerKeyboard;2;1;Mouse;Move;286;428;none;none
+25/07/2018 16:30:29.79;33565;Jerome;StickerKeyboard;2;1;Mouse;Move;289;429;none;none
+25/07/2018 16:30:29.87;33573;Jerome;StickerKeyboard;2;1;Mouse;Move;290;429;none;none
+25/07/2018 16:30:29.95;33581;Jerome;StickerKeyboard;2;1;Mouse;Move;291;429;none;none
+25/07/2018 16:30:29.103;33589;Jerome;StickerKeyboard;2;1;Mouse;Move;291;429;none;none
+25/07/2018 16:30:29.111;33597;Jerome;StickerKeyboard;2;1;Mouse;Move;292;430;none;none
+25/07/2018 16:30:29.119;33605;Jerome;StickerKeyboard;2;1;Mouse;Move;292;430;none;none
+25/07/2018 16:30:29.127;33613;Jerome;StickerKeyboard;2;1;Mouse;Move;293;430;none;none
+25/07/2018 16:30:29.135;33621;Jerome;StickerKeyboard;2;1;Mouse;Move;293;431;none;none
+25/07/2018 16:30:29.143;33629;Jerome;StickerKeyboard;2;1;Mouse;Move;294;431;none;none
+25/07/2018 16:30:29.151;33637;Jerome;StickerKeyboard;2;1;Mouse;Move;294;431;none;none
+25/07/2018 16:30:29.160;33645;Jerome;StickerKeyboard;2;1;Mouse;Move;295;431;none;none
+25/07/2018 16:30:29.168;33653;Jerome;StickerKeyboard;2;1;Mouse;Move;295;432;none;none
+25/07/2018 16:30:29.176;33661;Jerome;StickerKeyboard;2;1;Mouse;Move;297;432;none;none
+25/07/2018 16:30:29.184;33669;Jerome;StickerKeyboard;2;1;Mouse;Move;297;432;none;none
+25/07/2018 16:30:29.192;33677;Jerome;StickerKeyboard;2;1;Mouse;Move;297;432;none;none
+25/07/2018 16:30:29.200;33685;Jerome;StickerKeyboard;2;1;Mouse;Move;298;432;none;none
+25/07/2018 16:30:29.216;33701;Jerome;StickerKeyboard;2;1;Mouse;Move;298;433;none;none
+25/07/2018 16:30:29.224;33709;Jerome;StickerKeyboard;2;1;Mouse;Move;298;433;none;none
+25/07/2018 16:30:29.240;33725;Jerome;StickerKeyboard;2;1;Mouse;Move;298;433;none;none
+25/07/2018 16:30:29.248;33733;Jerome;StickerKeyboard;2;1;Mouse;Move;299;433;none;none
+25/07/2018 16:30:29.264;33749;Jerome;StickerKeyboard;2;1;Mouse;Move;299;433;none;none
+25/07/2018 16:30:29.479;33965;Jerome;StickerKeyboard;2;1;Mouse;Move;300;433;none;none
+25/07/2018 16:30:29.487;33973;Jerome;StickerKeyboard;2;1;Mouse;Move;300;434;none;none
+25/07/2018 16:30:29.495;33981;Jerome;StickerKeyboard;2;1;Mouse;Move;301;435;none;none
+25/07/2018 16:30:29.503;33988;Jerome;StickerKeyboard;2;1;Mouse;Move;303;436;none;none
+25/07/2018 16:30:29.511;33996;Jerome;StickerKeyboard;2;1;Mouse;Move;303;437;none;none
+25/07/2018 16:30:29.519;34004;Jerome;StickerKeyboard;2;1;Mouse;Move;303;437;none;none
+25/07/2018 16:30:29.527;34013;Jerome;StickerKeyboard;2;1;Mouse;Move;304;437;none;none
+25/07/2018 16:30:29.535;34020;Jerome;StickerKeyboard;2;1;Mouse;Move;304;438;none;none
+25/07/2018 16:30:29.543;34028;Jerome;StickerKeyboard;2;1;Mouse;Move;304;438;none;none
+25/07/2018 16:30:29.551;34036;Jerome;StickerKeyboard;2;1;Mouse;Move;304;439;none;none
+25/07/2018 16:30:29.559;34045;Jerome;StickerKeyboard;2;1;Mouse;Move;305;440;none;none
+25/07/2018 16:30:29.576;34061;Jerome;StickerKeyboard;2;1;Mouse;Move;305;440;none;none
+25/07/2018 16:30:29.584;34069;Jerome;StickerKeyboard;2;1;Mouse;Move;306;440;none;none
+25/07/2018 16:30:29.808;34293;Jerome;StickerKeyboard;2;1;Mouse;Move;306;441;none;none
+25/07/2018 16:30:29.824;34309;Jerome;StickerKeyboard;2;1;Mouse;Move;306;441;none;none
+25/07/2018 16:30:29.825;34311;Jerome;StickerKeyboard;2;1;Mouse;Move;306;442;none;none
+25/07/2018 16:30:29.841;34326;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Mouse The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+
+25/07/2018 16:30:29.841;34327;Jerome;StickerKeyboard;2;1;Mouse;Move;307;443;none;none
+25/07/2018 16:30:29.842;34327;Jerome;StickerKeyboard;2;1;Mouse;Move;307;443;none;none
+25/07/2018 16:30:29.863;34349;Jerome;StickerKeyboard;2;1;Mouse;Move;307;444;none;none
+25/07/2018 16:30:29.944;34429;Jerome;StickerKeyboard;2;1;Mouse;Move;307;444;none;none
+25/07/2018 16:30:29.952;34437;Jerome;StickerKeyboard;2;1;Mouse;Move;307;444;none;none
+25/07/2018 16:30:29.960;34445;Jerome;StickerKeyboard;2;1;Mouse;Move;307;445;none;none
+25/07/2018 16:30:29.968;34453;Jerome;StickerKeyboard;2;1;Mouse;Move;308;445;none;none
+25/07/2018 16:30:29.976;34461;Jerome;StickerKeyboard;2;1;Mouse;Move;308;445;none;none
+25/07/2018 16:30:30.55;34541;Jerome;StickerKeyboard;2;1;Mouse;Release;308;445;none;none
+25/07/2018 16:30:30.56;34541;Jerome;StickerKeyboard;2;1;Mouse;Move;308;445;none;none
+25/07/2018 16:30:30.654;35139;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:30:30.838;35323;Jerome;StickerKeyboard;2;1;Key;Down;none;none;L;none
+25/07/2018 16:30:30.910;35395;Jerome;StickerKeyboard;2;1;Key;Up;none;none;L;none
+25/07/2018 16:30:31.55;35540;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:30:31.822;36307;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:32.85;36570;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Z;none
+25/07/2018 16:30:32.88;36573;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUndo Hotkey Z SelText: Mouse 
+25/07/2018 16:30:32.150;36635;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard As mobile devices increasingly resemble each other in look and performance, some analysts see a coming inflection point in which beleaguered media companies profit while high-tech manufacturers vie for the best access to old-fashioned stories
+
+25/07/2018 16:30:32.151;36636;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:30:32.206;36691;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Z;none
+25/07/2018 16:30:33.30;37515;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:30:33.126;37611;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:30:33.573;38059;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:30:33.677;38163;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:30:33.910;38396;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:30:34.14;38499;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:30:34.109;38594;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+
+25/07/2018 16:30:34.109;38595;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:30:34.493;38979;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:30:34.573;39059;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+
+25/07/2018 16:30:34.574;39060;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:30:34.926;39411;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:30:35.246;39730;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:35.671;40155;Jerome;StickerKeyboard;2;1;Key;Down;none;none;L;none
+25/07/2018 16:30:35.673;40158;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnAlignLeft Hotkey L SelText:"The platform increasingly becomes a commodity, and the content increasingly becomes the only place to create a premium," 
+said Andrew Heyward, a former head of CBS News, now a consultant on digital media strategy.
+ Keyboard 
+25/07/2018 16:30:35.734;40219;Jerome;StickerKeyboard;2;1;Key;Up;none;none;L;none
+25/07/2018 16:30:35.846;40331;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:30:36.166;40650;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:30:36.238;40723;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:30:36.398;40883;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:36.646;41130;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:36.702;41186;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:30:36.806;41291;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:30:36.886;41370;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:37.394;41878;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:37.419;41904;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:37.452;41937;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:37.485;41969;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:37.518;42002;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:37.551;42036;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:37.565;42050;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:37.662;42146;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:30:37.782;42267;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:30:38.542;43027;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:30:38.654;43139;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:30:38.838;43323;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:39.338;43823;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:39.366;43851;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:39.478;43962;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:39.986;44471;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.12;44496;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.44;44528;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.77;44561;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.110;44595;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.143;44627;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.176;44661;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.209;44693;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.242;44727;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.275;44759;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:40.278;44763;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:40.542;45026;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:40.654;45138;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:40.798;45283;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:30:40.894;45379;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.402;45886;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard d
+25/07/2018 16:30:41.402;45887;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.427;45911;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard rd
+25/07/2018 16:30:41.427;45912;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.460;45944;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ard
+25/07/2018 16:30:41.460;45945;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.493;45978;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ward
+25/07/2018 16:30:41.494;45978;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.526;46011;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard yward
+25/07/2018 16:30:41.527;46012;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.559;46044;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard eyward
+25/07/2018 16:30:41.560;46045;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.592;46077;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Heyward
+25/07/2018 16:30:41.592;46077;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.625;46110;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard  Heyward
+25/07/2018 16:30:41.626;46110;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.635;46119;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard w Heyward
+25/07/2018 16:30:41.635;46120;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:41.862;46347;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:41.958;46442;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ew Heyward
+25/07/2018 16:30:41.958;46443;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:42.62;46547;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:42.142;46627;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard rew Heyward
+25/07/2018 16:30:42.143;46628;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:42.254;46738;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:42.334;46819;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard drew Heyward
+25/07/2018 16:30:42.335;46820;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:42.430;46915;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:42.550;47035;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ndrew Heyward
+25/07/2018 16:30:42.551;47036;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:42.751;47236;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:30:42.910;47395;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:30:43.166;47651;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:43.270;47754;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Andrew Heyward
+25/07/2018 16:30:43.270;47755;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:43.462;47946;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:30:43.638;48123;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:43.726;48210;Jerome;StickerKeyboard;2;1;Key;Down;none;none;G;none
+25/07/2018 16:30:43.726;48211;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command LimeButton Hotkey G SelText:Andrew Heyward Keyboard 
+25/07/2018 16:30:43.798;48283;Jerome;StickerKeyboard;2;1;Key;Up;none;none;G;none
+25/07/2018 16:30:45.606;50090;Jerome;StickerKeyboard;2;1;Key;Down;none;none;B;none
+25/07/2018 16:30:45.606;50091;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnBold Hotkey B SelText:Andrew Heyward Keyboard 
+25/07/2018 16:30:45.727;50211;Jerome;StickerKeyboard;2;1;Key;Up;none;none;B;none
+25/07/2018 16:30:46.926;51411;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Q;none
+25/07/2018 16:30:46.936;51421;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnStrikeThrough Hotkey Q SelText:Andrew Heyward Keyboard 
+25/07/2018 16:30:47.70;51555;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Q;none
+25/07/2018 16:30:47.334;51819;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:30:47.438;51923;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:47.937;52422;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:47.970;52455;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.3;52488;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.36;52521;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.69;52554;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.102;52587;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.135;52620;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.168;52653;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.201;52686;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.234;52719;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.267;52752;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.300;52785;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.333;52818;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.366;52851;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.399;52884;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.432;52917;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.465;52950;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.498;52983;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.531;53016;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.564;53049;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:48.566;53051;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:48.918;53403;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:49.13;53498;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:49.86;53571;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:30:49.181;53666;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.684;54168;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard C
+25/07/2018 16:30:49.684;54169;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.714;54199;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CB
+25/07/2018 16:30:49.714;54199;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.747;54232;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS
+25/07/2018 16:30:49.748;54233;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.780;54265;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS 
+25/07/2018 16:30:49.780;54265;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.813;54298;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS N
+25/07/2018 16:30:49.814;54299;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.846;54331;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS Ne
+25/07/2018 16:30:49.847;54332;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.879;54364;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS New
+25/07/2018 16:30:49.879;54364;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.912;54397;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News
+25/07/2018 16:30:49.913;54398;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.945;54430;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News,
+25/07/2018 16:30:49.945;54430;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:49.978;54463;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News, 
+25/07/2018 16:30:49.979;54464;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:50.11;54496;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News, n
+25/07/2018 16:30:50.12;54497;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:50.44;54529;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News, no
+25/07/2018 16:30:50.45;54530;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:30:50.46;54531;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:30:50.278;54763;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News, now
+25/07/2018 16:30:50.278;54763;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:50.366;54851;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News, no
+25/07/2018 16:30:50.366;54851;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:50.469;54954;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:50.565;55050;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News, n
+25/07/2018 16:30:50.566;55051;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:50.661;55146;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:50.749;55234;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News, 
+25/07/2018 16:30:50.749;55234;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:50.845;55330;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:50.950;55435;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News,
+25/07/2018 16:30:50.950;55435;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:51.181;55666;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:30:51.277;55762;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CBS News
+25/07/2018 16:30:51.278;55763;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:30:51.573;56058;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:30:52.118;56603;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.618;57102;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.651;57135;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.684;57168;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.717;57201;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.750;57234;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.783;57267;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.816;57300;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.849;57334;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.882;57366;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.915;57399;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.948;57432;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:52.981;57465;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:53.14;57498;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:53.16;57500;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D5;none
+25/07/2018 16:30:53.24;57508;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command DecreaseSizeBtn Hotkey ( SelText:CBS News Keyboard 
+25/07/2018 16:30:53.126;57611;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D5;none
+25/07/2018 16:30:54.703;59187;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D1;none
+25/07/2018 16:30:54.815;59299;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D1;none
+25/07/2018 16:30:56.190;60674;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D5;none
+25/07/2018 16:30:56.198;60682;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command DecreaseSizeBtn Hotkey ( SelText:CBS News Keyboard 
+25/07/2018 16:30:56.294;60778;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D5;none
+25/07/2018 16:30:56.670;61154;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D1;none
+25/07/2018 16:30:56.790;61274;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D1;none
+25/07/2018 16:30:57.214;61698;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:30:58.717;63202;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:30:59.87;63571;Jerome;StickerKeyboard;2;1;Key;Down;none;none;B;none
+25/07/2018 16:30:59.94;63578;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnBold Hotkey B SelText:CBS News Keyboard 
+25/07/2018 16:30:59.158;63642;Jerome;StickerKeyboard;2;1;Key;Up;none;none;B;none
+25/07/2018 16:30:59.726;64210;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:00.318;64802;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:00.662;65146;Jerome;StickerKeyboard;2;1;Key;Down;none;none;H;none
+25/07/2018 16:31:00.664;65149;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command CyanButton Hotkey H SelText:CBS News Keyboard 
+25/07/2018 16:31:00.726;65210;Jerome;StickerKeyboard;2;1;Key;Up;none;none;H;none
+25/07/2018 16:31:00.846;65330;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:01.294;65778;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:01.390;65874;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:01.678;66162;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:01.798;66282;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:02.838;67322;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:02.974;67458;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:03.46;67530;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Android
+25/07/2018 16:31:03.47;67531;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:03.158;67642;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:03.222;67706;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Android
+Microso
+25/07/2018 16:31:03.223;67707;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:03.895;68380;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:04.126;68610;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:04.269;68754;Jerome;StickerKeyboard;2;1;Key;Down;none;none;R;none
+25/07/2018 16:31:04.272;68756;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnAlignRight Hotkey R SelText:
+Android
+Microso Keyboard 
+25/07/2018 16:31:04.302;68786;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:04.382;68866;Jerome;StickerKeyboard;2;1;Key;Up;none;none;R;none
+25/07/2018 16:31:04.814;69298;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:31:04.901;69386;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:31:05.837;70322;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:05.925;70410;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:06.38;70522;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main M
+25/07/2018 16:31:06.38;70523;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:06.877;71362;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:07.385;71869;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main Mo
+25/07/2018 16:31:07.386;71870;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:07.410;71894;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main Mob
+25/07/2018 16:31:07.410;71895;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:07.443;71927;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main Mobi
+25/07/2018 16:31:07.443;71928;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:07.476;71960;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main Mobil
+25/07/2018 16:31:07.476;71961;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:07.509;71994;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main Mobile
+25/07/2018 16:31:07.510;71994;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:07.542;72027;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main Mobile 
+25/07/2018 16:31:07.543;72027;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:07.575;72059;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main Mobile O
+25/07/2018 16:31:07.575;72060;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:07.608;72093;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main Mobile OS
+25/07/2018 16:31:07.609;72093;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:07.630;72114;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Main Mobile OS:
+25/07/2018 16:31:07.631;72115;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:08.307;72791;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:08.790;73274;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:09.289;73774;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:09.322;73807;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:09.355;73840;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:09.382;73866;Jerome;StickerKeyboard;2;1;Key;Down;none;none;G;none
+25/07/2018 16:31:09.390;73875;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command LimeButton Hotkey G SelText:
+Main Mobile OS: Keyboard 
+25/07/2018 16:31:09.461;73946;Jerome;StickerKeyboard;2;1;Key;Up;none;none;G;none
+25/07/2018 16:31:10.872;75356;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:31:10.875;75359;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:
+Main Mobile OS: Keyboard 
+25/07/2018 16:31:10.982;75466;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:31:12.134;76618;Jerome;StickerKeyboard;2;1;Key;Down;none;none;U;none
+25/07/2018 16:31:12.136;76620;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUnderline Hotkey U SelText:
+Main Mobile OS: Keyboard 
+25/07/2018 16:31:12.230;76714;Jerome;StickerKeyboard;2;1;Key;Up;none;none;U;none
+25/07/2018 16:31:12.422;76906;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:12.870;77354;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:12.942;77425;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:13.494;77977;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:13.638;78122;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:13.742;78226;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Microsoft Mobile
+25/07/2018 16:31:13.744;78228;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:13.944;78428;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:14.382;78866;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:14.646;79130;Jerome;StickerKeyboard;2;1;Key;Down;none;none;W;none
+25/07/2018 16:31:14.653;79137;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnBulletedList Hotkey W SelText:
+Microsoft Mobile Keyboard 
+25/07/2018 16:31:14.702;79186;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:14.758;79242;Jerome;StickerKeyboard;2;1;Key;Up;none;none;W;none
+25/07/2018 16:31:15.310;79794;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:15.398;79882;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:15.702;80186;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:15.798;80282;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:16.430;80914;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:16.504;80987;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:16.566;81050;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:16.638;81122;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.146;81629;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard :
+25/07/2018 16:31:17.146;81630;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.171;81655;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard g:
+25/07/2018 16:31:17.171;81655;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.204;81688;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ng:
+25/07/2018 16:31:17.204;81688;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.237;81721;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ing:
+25/07/2018 16:31:17.238;81722;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.270;81754;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard cing:
+25/07/2018 16:31:17.270;81754;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.303;81787;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard icing:
+25/07/2018 16:31:17.304;81788;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.336;81820;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ricing:
+25/07/2018 16:31:17.336;81820;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.369;81853;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Pricing:
+25/07/2018 16:31:17.370;81854;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.400;81884;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard  Pricing:
+25/07/2018 16:31:17.402;81886;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:17.550;82034;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.638;82122;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard e Pricing:
+25/07/2018 16:31:17.639;82122;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:17.751;82235;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.822;82306;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ne Pricing:
+25/07/2018 16:31:17.823;82307;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:17.926;82410;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:17.998;82481;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard one Pricing:
+25/07/2018 16:31:17.998;82482;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:18.94;82578;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:18.174;82658;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard hone Pricing:
+25/07/2018 16:31:18.175;82659;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:18.270;82753;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:18.350;82834;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Phone Pricing:
+25/07/2018 16:31:18.351;82835;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:18.446;82929;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:18.526;83009;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard IPhone Pricing:
+25/07/2018 16:31:18.526;83010;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:18.742;83225;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:20.429;84913;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:20.606;85090;Jerome;StickerKeyboard;2;1;Key;Down;none;none;M;none
+25/07/2018 16:31:20.615;85099;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command MagentaButton Hotkey M SelText:IPhone Pricing: Keyboard 
+25/07/2018 16:31:20.669;85153;Jerome;StickerKeyboard;2;1;Key;Up;none;none;M;none
+25/07/2018 16:31:21.582;86066;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:31:21.583;86067;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:IPhone Pricing: Keyboard 
+25/07/2018 16:31:21.646;86130;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:31:22.758;87242;Jerome;StickerKeyboard;2;1;Key;Down;none;none;U;none
+25/07/2018 16:31:22.766;87250;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUnderline Hotkey U SelText:IPhone Pricing: Keyboard 
+25/07/2018 16:31:22.821;87305;Jerome;StickerKeyboard;2;1;Key;Up;none;none;U;none
+25/07/2018 16:31:22.966;87450;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:23.294;87778;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:23.374;87858;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:23.558;88042;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:23.661;88145;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:23.742;88226;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 8GB = $900
+
+25/07/2018 16:31:23.743;88227;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:24.94;88578;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:24.176;88660;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 8GB = $900
+16GB = $1100
+
+25/07/2018 16:31:24.177;88661;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:24.413;88897;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:24.677;89161;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:24.990;89474;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D;none
+25/07/2018 16:31:25.4;89488;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnNumberedList Hotkey D SelText:8GB = $900
+16GB = $1100
+ Keyboard 
+25/07/2018 16:31:25.29;89513;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:25.93;89577;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D;none
+25/07/2018 16:31:25.389;89873;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:25.469;89953;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:25.686;90170;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:25.814;90298;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:26.37;90521;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.537;91021;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.570;91054;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.603;91087;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.636;91120;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.669;91153;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.702;91186;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.735;91219;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.768;91252;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.801;91285;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:26.821;91305;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:26.901;91385;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff 
+25/07/2018 16:31:26.902;91386;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:27.53;91537;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:27.135;91618;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they 
+25/07/2018 16:31:27.135;91618;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:27.311;91794;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:27.414;91897;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+
+25/07/2018 16:31:27.414;91897;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:27.710;92193;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:27.959;92442;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:28.458;92941;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:28.491;92974;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:28.524;93007;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:28.557;93040;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:28.590;93073;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:28.623;93106;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:28.656;93139;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:28.689;93172;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:28.694;93177;Jerome;StickerKeyboard;2;1;Key;Down;none;none;K;none
+25/07/2018 16:31:28.697;93180;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command BlackButton Hotkey K SelText:In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+ Keyboard 
+25/07/2018 16:31:28.815;93298;Jerome;StickerKeyboard;2;1;Key;Up;none;none;K;none
+25/07/2018 16:31:28.902;93385;Jerome;StickerKeyboard;2;1;Key;Down;none;none;L;none
+25/07/2018 16:31:28.903;93386;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnAlignLeft Hotkey L SelText:In pitching Amazon.com's new line of Kindle Fire tablets last week, "Another Quote" company founder and chief executive Jeff Bezos portrayed them as an advance over Apple's popular iPads because of their cheaper price and the extensive content they could deliver, pointedly noting that the Kindle library has 180,000 exclusive books to download. 
+ Keyboard 
+25/07/2018 16:31:29.46;93530;Jerome;StickerKeyboard;2;1;Key;Up;none;none;L;none
+25/07/2018 16:31:29.631;94114;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:29.958;94441;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:30.78;94561;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:30.238;94721;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:31:30.342;94826;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:31:30.527;95010;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:30.614;95098;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:31:30.639;95122;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:30.694;95178;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:31:30.830;95313;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.14;95498;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:31:31.54;95537;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:31.142;95626;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:31:31.190;95673;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.690;96173;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.723;96206;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.756;96239;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.789;96272;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.822;96305;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.855;96338;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.888;96371;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.921;96404;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.954;96437;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:31.987;96470;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.20;96503;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.53;96536;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.86;96569;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.119;96602;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.152;96635;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.185;96668;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.218;96701;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.251;96734;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.284;96767;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.317;96800;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.319;96802;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:32.422;96905;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.930;97414;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.956;97439;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:32.988;97471;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.21;97504;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.54;97537;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.87;97570;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.120;97603;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.153;97636;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.186;97670;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.219;97702;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.252;97735;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.285;97768;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:33.288;97772;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:33.750;98234;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:33.822;98305;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.321;98804;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard K
+25/07/2018 16:31:34.322;98805;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.354;98837;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Ki
+25/07/2018 16:31:34.354;98837;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.387;98870;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Kin
+25/07/2018 16:31:34.388;98871;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.420;98903;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Kind
+25/07/2018 16:31:34.420;98904;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.453;98936;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Kindl
+25/07/2018 16:31:34.453;98937;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.486;98969;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Kindle
+25/07/2018 16:31:34.486;98969;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.519;99002;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Kindle 
+25/07/2018 16:31:34.519;99002;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.552;99035;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Kindle F
+25/07/2018 16:31:34.553;99036;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.585;99068;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Kindle Fi
+25/07/2018 16:31:34.586;99069;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.618;99101;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Kindle Fir
+25/07/2018 16:31:34.619;99102;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:34.646;99129;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Kindle Fire
+25/07/2018 16:31:34.646;99129;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:35.398;99881;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:35.854;100337;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:36.362;100845;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:36.366;100849;Jerome;StickerKeyboard;2;1;Key;Down;none;none;M;none
+25/07/2018 16:31:36.375;100858;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command MagentaButton Hotkey M SelText:Kindle Fire Keyboard 
+25/07/2018 16:31:36.478;100961;Jerome;StickerKeyboard;2;1;Key;Up;none;none;M;none
+25/07/2018 16:31:37.326;101809;Jerome;StickerKeyboard;2;1;Key;Down;none;none;B;none
+25/07/2018 16:31:37.328;101811;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnBold Hotkey B SelText:Kindle Fire Keyboard 
+25/07/2018 16:31:37.414;101897;Jerome;StickerKeyboard;2;1;Key;Up;none;none;B;none
+25/07/2018 16:31:37.646;102129;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:31:37.647;102130;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:Kindle Fire Keyboard 
+25/07/2018 16:31:37.717;102201;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:31:38.278;102761;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:38.654;103137;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:38.759;103242;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:38.902;103385;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:39.95;103578;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:39.262;103745;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:39.367;103851;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:39.453;103937;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:39.549;104033;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:39.678;104161;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.178;104661;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.210;104693;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.243;104727;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.276;104759;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.309;104793;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.342;104826;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.375;104859;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.408;104892;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.437;104921;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:40.766;105249;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:40.861;105345;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:41.269;105753;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:41.358;105841;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:41.430;105913;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard i
+25/07/2018 16:31:41.431;105915;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:41.550;106033;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:41.613;106097;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard iP
+25/07/2018 16:31:41.613;106097;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:41.750;106233;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:41.798;106281;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard iPa
+25/07/2018 16:31:41.799;106282;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:41.918;106401;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:41.990;106473;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard iPad
+25/07/2018 16:31:41.990;106474;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:42.109;106593;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:42.182;106665;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard iPads
+25/07/2018 16:31:42.182;106666;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:42.397;106881;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:42.534;107017;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:42.958;107441;Jerome;StickerKeyboard;2;1;Key;Down;none;none;M;none
+25/07/2018 16:31:42.968;107452;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command MagentaButton Hotkey M SelText:iPads Keyboard 
+25/07/2018 16:31:43.53;107537;Jerome;StickerKeyboard;2;1;Key;Up;none;none;M;none
+25/07/2018 16:31:43.198;107681;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:31:43.199;107683;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:iPads Keyboard 
+25/07/2018 16:31:43.285;107769;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:31:43.485;107969;Jerome;StickerKeyboard;2;1;Key;Down;none;none;B;none
+25/07/2018 16:31:43.486;107969;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnBold Hotkey B SelText:iPads Keyboard 
+25/07/2018 16:31:43.550;108033;Jerome;StickerKeyboard;2;1;Key;Up;none;none;B;none
+25/07/2018 16:31:43.750;108233;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:43.990;108473;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:31:44.85;108569;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:31:44.278;108761;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:44.350;108833;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:44.671;109153;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:44.751;109234;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:44.878;109361;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:45.114;109597;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:45.263;109745;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:45.407;109889;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:45.903;110385;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:45.904;110387;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:45.998;110481;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:46.94;110577;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:46.166;110649;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:46.262;110745;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:46.762;111245;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "
+25/07/2018 16:31:46.763;111246;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:46.795;111277;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "A
+25/07/2018 16:31:46.795;111278;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:46.828;111310;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "An
+25/07/2018 16:31:46.828;111311;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:46.861;111343;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Ano
+25/07/2018 16:31:46.861;111344;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:46.894;111377;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Anot
+25/07/2018 16:31:46.895;111378;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:46.927;111410;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Anoth
+25/07/2018 16:31:46.927;111410;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:46.960;111443;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Anothe
+25/07/2018 16:31:46.962;111444;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:46.993;111476;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another
+25/07/2018 16:31:46.993;111476;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:47.26;111509;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another 
+25/07/2018 16:31:47.27;111510;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:47.59;111542;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another Q
+25/07/2018 16:31:47.60;111543;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:47.92;111575;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another Qu
+25/07/2018 16:31:47.92;111575;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:47.125;111607;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another Quo
+25/07/2018 16:31:47.125;111608;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:47.158;111640;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another Quot
+25/07/2018 16:31:47.158;111641;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:47.191;111674;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another Quote
+25/07/2018 16:31:47.191;111674;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:47.224;111707;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another Quote"
+25/07/2018 16:31:47.225;111708;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:47.239;111722;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another Quote" 
+25/07/2018 16:31:47.240;111723;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:47.550;112033;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:47.646;112129;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another Quote"
+25/07/2018 16:31:47.647;112129;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:47.958;112440;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:48.126;112609;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:48.374;112857;Jerome;StickerKeyboard;2;1;Key;Down;none;none;G;none
+25/07/2018 16:31:48.383;112866;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command LimeButton Hotkey G SelText:"Another Quote" Keyboard 
+25/07/2018 16:31:48.446;112929;Jerome;StickerKeyboard;2;1;Key;Up;none;none;G;none
+25/07/2018 16:31:48.630;113113;Jerome;StickerKeyboard;2;1;Key;Down;none;none;I;none
+25/07/2018 16:31:48.633;113116;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnItalic Hotkey I SelText:"Another Quote" Keyboard 
+25/07/2018 16:31:48.710;113193;Jerome;StickerKeyboard;2;1;Key;Up;none;none;I;none
+25/07/2018 16:31:48.782;113265;Jerome;StickerKeyboard;2;1;Key;Down;none;none;I;none
+25/07/2018 16:31:48.784;113267;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 16:31:48.886;113369;Jerome;StickerKeyboard;2;1;Key;Up;none;none;I;none
+25/07/2018 16:31:49.54;113537;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Z;none
+25/07/2018 16:31:49.56;113539;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUndo Hotkey Z SelText: Keyboard 
+25/07/2018 16:31:49.118;113601;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "Another Quote"
+25/07/2018 16:31:49.119;113602;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Z;none
+25/07/2018 16:31:49.478;113961;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:49.886;114369;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:49.974;114457;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:50.806;115289;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:50.894;115377;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:51.30;115513;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:51.135;115618;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:51.278;115761;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:51.334;115817;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:52.494;116977;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:52.606;117089;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:52.766;117249;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:31:52.878;117361;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:31:53.342;117825;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:53.486;117969;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:53.590;118072;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+"We want to make money when people use our devices, not when they buy our devices,"
+25/07/2018 16:31:53.590;118073;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:54.125;118608;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:31:54.662;119145;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.161;119644;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.194;119677;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.227;119710;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.260;119743;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.293;119776;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.326;119809;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.359;119842;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.392;119875;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.425;119908;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.458;119941;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.491;119974;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:31:55.501;119984;Jerome;StickerKeyboard;2;1;Key;Down;none;none;G;none
+25/07/2018 16:31:55.504;119987;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command LimeButton Hotkey G SelText:
+"We want to make money when people use our devices, not when they buy our devices," Keyboard 
+25/07/2018 16:31:55.589;120072;Jerome;StickerKeyboard;2;1;Key;Up;none;none;G;none
+25/07/2018 16:31:56.14;120497;Jerome;StickerKeyboard;2;1;Key;Down;none;none;I;none
+25/07/2018 16:31:56.16;120499;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnItalic Hotkey I SelText:
+"We want to make money when people use our devices, not when they buy our devices," Keyboard 
+25/07/2018 16:31:56.85;120568;Jerome;StickerKeyboard;2;1;Key;Up;none;none;I;none
+25/07/2018 16:31:56.158;120641;Jerome;StickerKeyboard;2;1;Key;Down;none;none;I;none
+25/07/2018 16:31:56.159;120642;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 16:31:56.262;120745;Jerome;StickerKeyboard;2;1;Key;Up;none;none;I;none
+25/07/2018 16:31:56.445;120928;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Z;none
+25/07/2018 16:31:56.446;120929;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUndo Hotkey Z SelText: Keyboard 
+25/07/2018 16:31:56.510;120993;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+"We want to make money when people use our devices, not when they buy our devices,"
+25/07/2018 16:31:56.511;120994;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Z;none
+25/07/2018 16:31:56.854;121337;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:31:57.254;121737;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:31:57.352;121835;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:31:57.885;122368;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.385;122868;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.418;122901;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.451;122934;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.484;122967;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.517;123000;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.550;123033;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.583;123066;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.616;123099;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.649;123132;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.682;123165;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.715;123198;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.749;123232;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.781;123264;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.814;123297;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.847;123330;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.880;123363;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.913;123396;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.946;123429;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:58.979;123462;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:59.12;123495;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:59.38;123521;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:59.334;123817;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:31:59.374;123857;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:31:59.550;124033;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:31:59.669;124152;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:31:59.734;124217;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:31:59.861;124344;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.368;124852;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard S
+25/07/2018 16:32:00.369;124852;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.394;124877;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard St
+25/07/2018 16:32:00.394;124877;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.427;124910;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Ste
+25/07/2018 16:32:00.428;124911;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.460;124943;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Stev
+25/07/2018 16:32:00.460;124943;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.493;124976;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Steve
+25/07/2018 16:32:00.493;124976;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.526;125009;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Steve 
+25/07/2018 16:32:00.527;125010;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.559;125042;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Steve J
+25/07/2018 16:32:00.560;125043;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.592;125075;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Steve Jo
+25/07/2018 16:32:00.593;125076;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.625;125108;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Steve Job
+25/07/2018 16:32:00.625;125108;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:00.645;125128;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Steve Jobs
+25/07/2018 16:32:00.646;125129;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:01.101;125584;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:32:01.269;125752;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:01.771;126254;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:01.797;126280;Jerome;StickerKeyboard;2;1;Key;Down;none;none;H;none
+25/07/2018 16:32:01.802;126285;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command CyanButton Hotkey H SelText:Steve Jobs Keyboard 
+25/07/2018 16:32:01.877;126360;Jerome;StickerKeyboard;2;1;Key;Up;none;none;H;none
+25/07/2018 16:32:02.678;127160;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D5;none
+25/07/2018 16:32:02.679;127161;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command DecreaseSizeBtn Hotkey ( SelText:Steve Jobs Keyboard 
+25/07/2018 16:32:02.758;127240;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D5;none
+25/07/2018 16:32:03.494;127976;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D1;none
+25/07/2018 16:32:03.559;128041;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D1;none
+25/07/2018 16:32:04.694;129176;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D5;none
+25/07/2018 16:32:04.703;129186;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command DecreaseSizeBtn Hotkey ( SelText:Steve Jobs Keyboard 
+25/07/2018 16:32:04.766;129248;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D5;none
+25/07/2018 16:32:04.990;129473;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D1;none
+25/07/2018 16:32:05.70;129553;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D1;none
+25/07/2018 16:32:06.791;131273;Jerome;StickerKeyboard;2;1;Key;Down;none;none;K;none
+25/07/2018 16:32:06.802;131284;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command BlackButton Hotkey K SelText:Steve Jobs Keyboard 
+25/07/2018 16:32:06.854;131337;Jerome;StickerKeyboard;2;1;Key;Up;none;none;K;none
+25/07/2018 16:32:07.230;131713;Jerome;StickerKeyboard;2;1;Key;Down;none;none;U;none
+25/07/2018 16:32:07.232;131714;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUnderline Hotkey U SelText:Steve Jobs Keyboard 
+25/07/2018 16:32:07.302;131785;Jerome;StickerKeyboard;2;1;Key;Up;none;none;U;none
+25/07/2018 16:32:07.606;132089;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:32:07.910;132392;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:08.22;132504;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:08.374;132856;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:08.454;132937;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:08.550;133033;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:08.646;133129;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:08.767;133249;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:32:08.886;133368;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:08.950;133433;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+25/07/2018 16:32:08.951;133433;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:09.303;133785;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:32:09.510;133993;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:09.974;134457;Jerome;StickerKeyboard;2;1;Key;Down;none;none;G;none
+25/07/2018 16:32:09.985;134467;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command LimeButton Hotkey G SelText:"If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money." Keyboard 
+25/07/2018 16:32:10.62;134545;Jerome;StickerKeyboard;2;1;Key;Up;none;none;G;none
+25/07/2018 16:32:10.214;134697;Jerome;StickerKeyboard;2;1;Key;Down;none;none;I;none
+25/07/2018 16:32:10.216;134698;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnItalic Hotkey I SelText:"If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money." Keyboard 
+25/07/2018 16:32:10.278;134760;Jerome;StickerKeyboard;2;1;Key;Up;none;none;I;none
+25/07/2018 16:32:10.358;134841;Jerome;StickerKeyboard;2;1;Key;Down;none;none;I;none
+25/07/2018 16:32:10.360;134842;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 16:32:10.462;134944;Jerome;StickerKeyboard;2;1;Key;Up;none;none;I;none
+25/07/2018 16:32:10.630;135113;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Z;none
+25/07/2018 16:32:10.632;135114;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUndo Hotkey Z SelText: Keyboard 
+25/07/2018 16:32:10.678;135160;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard "If somebody buys one of our devices and puts it in a desk drawer and never uses it, we don't deserve to make any money."
+25/07/2018 16:32:10.678;135160;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Z;none
+25/07/2018 16:32:10.990;135473;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:32:11.391;135873;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:11.494;135976;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:11.806;136288;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:11.902;136384;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:12.46;136528;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:12.142;136625;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:12.390;136873;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Up;none
+25/07/2018 16:32:12.494;136976;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Up;none
+25/07/2018 16:32:12.838;137320;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:32:13.6;137489;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.505;137988;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard :
+25/07/2018 16:32:13.506;137988;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.538;138021;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard S:
+25/07/2018 16:32:13.539;138022;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.571;138053;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard OS:
+25/07/2018 16:32:13.571;138054;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.604;138086;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard  OS:
+25/07/2018 16:32:13.604;138087;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.637;138120;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard e OS:
+25/07/2018 16:32:13.638;138120;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.671;138153;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard le OS:
+25/07/2018 16:32:13.671;138154;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.703;138185;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ile OS:
+25/07/2018 16:32:13.703;138186;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.736;138219;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard bile OS:
+25/07/2018 16:32:13.737;138219;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.769;138252;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard obile OS:
+25/07/2018 16:32:13.770;138252;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.802;138285;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile OS:
+25/07/2018 16:32:13.803;138286;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:13.818;138300;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+Mobile OS:
+25/07/2018 16:32:13.818;138301;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:32:14.422;138905;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:14.542;139024;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile OS:
+25/07/2018 16:32:14.543;139025;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:14.855;139338;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:32:15.159;139641;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.657;140139;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.690;140173;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.724;140207;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.756;140239;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.789;140272;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.822;140304;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.855;140337;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.888;140371;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.921;140404;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.955;140437;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:15.987;140469;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:16.20;140502;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:16.53;140535;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:16.86;140569;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:16.102;140584;Jerome;StickerKeyboard;2;1;Key;Down;none;none;H;none
+25/07/2018 16:32:16.112;140594;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command CyanButton Hotkey H SelText:Mobile OS: Keyboard 
+25/07/2018 16:32:16.189;140672;Jerome;StickerKeyboard;2;1;Key;Up;none;none;H;none
+25/07/2018 16:32:17.894;142376;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:32:17.895;142378;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:Mobile OS: Keyboard 
+25/07/2018 16:32:17.950;142432;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:32:18.238;142720;Jerome;StickerKeyboard;2;1;Key;Down;none;none;U;none
+25/07/2018 16:32:18.239;142722;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUnderline Hotkey U SelText:Mobile OS: Keyboard 
+25/07/2018 16:32:18.318;142800;Jerome;StickerKeyboard;2;1;Key;Up;none;none;U;none
+25/07/2018 16:32:18.702;143184;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:32:18.845;143328;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:18.933;143416;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:19.342;143824;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:19.445;143928;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:32:19.623;144104;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:32:19.743;144224;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:19.816;144298;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard iOS6
+
+25/07/2018 16:32:19.817;144298;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:20.119;144600;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:20.191;144672;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard iOS6
+JellyBean
+
+25/07/2018 16:32:20.191;144673;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:20.614;145096;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:32:20.767;145248;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:21.55;145536;Jerome;StickerKeyboard;2;1;Key;Down;none;none;D;none
+25/07/2018 16:32:21.65;145547;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnNumberedList Hotkey D SelText:iOS6
+JellyBean
+ Keyboard 
+25/07/2018 16:32:21.119;145600;Jerome;StickerKeyboard;2;1;Key;Up;none;none;D;none
+25/07/2018 16:32:21.231;145712;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:32:21.702;146184;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:21.758;146240;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:21.902;146384;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:21.974;146456;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:22.366;146848;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:32:22.486;146968;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:22.606;147088;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard M
+25/07/2018 16:32:22.608;147090;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:22.934;147416;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.435;147917;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mo
+25/07/2018 16:32:23.436;147918;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.467;147949;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mob
+25/07/2018 16:32:23.467;147949;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.500;147982;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobi
+25/07/2018 16:32:23.500;147982;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.533;148015;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobil
+25/07/2018 16:32:23.533;148015;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.566;148048;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile
+25/07/2018 16:32:23.567;148049;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.599;148081;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile 
+25/07/2018 16:32:23.600;148082;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.632;148114;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile S
+25/07/2018 16:32:23.633;148115;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.665;148147;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Sc
+25/07/2018 16:32:23.665;148147;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.698;148180;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Scr
+25/07/2018 16:32:23.699;148181;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.731;148213;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Scre
+25/07/2018 16:32:23.732;148214;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.764;148246;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Scree
+25/07/2018 16:32:23.765;148247;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.797;148279;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Screen
+25/07/2018 16:32:23.798;148280;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.830;148312;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Screen 
+25/07/2018 16:32:23.831;148313;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.863;148345;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Screen S
+25/07/2018 16:32:23.863;148345;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.896;148378;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Screen Si
+25/07/2018 16:32:23.896;148378;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.929;148411;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Screen Siz
+25/07/2018 16:32:23.930;148412;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:23.958;148440;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Screen Size
+25/07/2018 16:32:23.959;148441;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:24.182;148664;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:24.278;148760;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard Mobile Screen Sizes
+25/07/2018 16:32:24.278;148760;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:24.574;149055;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:32:24.734;149216;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:25.235;149717;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:25.238;149720;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:32:25.249;149731;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:Mobile Screen Sizes Keyboard 
+25/07/2018 16:32:25.310;149792;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:32:25.646;150128;Jerome;StickerKeyboard;2;1;Key;Down;none;none;H;none
+25/07/2018 16:32:25.646;150128;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command CyanButton Hotkey H SelText:Mobile Screen Sizes Keyboard 
+25/07/2018 16:32:25.718;150200;Jerome;StickerKeyboard;2;1;Key;Up;none;none;H;none
+25/07/2018 16:32:26.326;150808;Jerome;StickerKeyboard;2;1;Key;Down;none;none;U;none
+25/07/2018 16:32:26.337;150819;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUnderline Hotkey U SelText:Mobile Screen Sizes Keyboard 
+25/07/2018 16:32:26.398;150880;Jerome;StickerKeyboard;2;1;Key;Up;none;none;U;none
+25/07/2018 16:32:26.590;151072;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:32:26.958;151440;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:27.30;151512;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:27.462;151944;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:32:27.646;152128;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:27.726;152208;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard 
+IPhone 5 - 4"
+25/07/2018 16:32:27.727;152209;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:27.901;152383;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:32:28.158;152640;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:28.382;152864;Jerome;StickerKeyboard;2;1;Key;Down;none;none;W;none
+25/07/2018 16:32:28.392;152874;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnBulletedList Hotkey W SelText:
+IPhone 5 - 4" Keyboard 
+25/07/2018 16:32:28.406;152888;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:32:28.486;152968;Jerome;StickerKeyboard;2;1;Key;Up;none;none;W;none
+25/07/2018 16:32:28.742;153224;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:28.846;153328;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:28.990;153472;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:29.95;153577;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:29.190;153672;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Down;none
+25/07/2018 16:32:29.294;153776;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Down;none
+25/07/2018 16:32:29.526;154008;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:32:29.663;154145;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:32:30.6;154488;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:30.166;154648;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:30.262;154744;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Right;none
+25/07/2018 16:32:30.358;154840;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Right;none
+25/07/2018 16:32:30.566;155048;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LShiftKey;none
+25/07/2018 16:32:30.614;155096;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.113;155595;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard G
+25/07/2018 16:32:31.114;155596;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.146;155628;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard RG
+25/07/2018 16:32:31.147;155629;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.179;155661;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard ERG
+25/07/2018 16:32:31.179;155661;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.212;155694;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard BERG
+25/07/2018 16:32:31.212;155694;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.245;155727;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard MBERG
+25/07/2018 16:32:31.246;155728;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.278;155760;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard IMBERG
+25/07/2018 16:32:31.278;155760;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.311;155793;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard TIMBERG
+25/07/2018 16:32:31.311;155793;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.344;155826;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard  TIMBERG
+25/07/2018 16:32:31.345;155827;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.377;155859;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard G TIMBERG
+25/07/2018 16:32:31.377;155859;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.410;155892;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard IG TIMBERG
+25/07/2018 16:32:31.411;155893;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.443;155925;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard AIG TIMBERG
+25/07/2018 16:32:31.444;155926;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.476;155958;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard RAIG TIMBERG
+25/07/2018 16:32:31.476;155958;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Left;none
+25/07/2018 16:32:31.501;155983;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CRAIG TIMBERG
+25/07/2018 16:32:31.502;155984;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Left;none
+25/07/2018 16:32:32.14;156496;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LShiftKey;none
+25/07/2018 16:32:32.342;156824;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:32.841;157323;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:32.874;157356;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:32.907;157389;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:32.940;157422;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:32.973;157455;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.6;157488;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.39;157521;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.72;157554;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.105;157587;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.138;157620;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.171;157653;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.204;157686;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.237;157719;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.271;157753;Jerome;StickerKeyboard;2;1;Key;Down;none;none;LControlKey;none
+25/07/2018 16:32:33.302;157784;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:32:33.312;157794;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:CRAIG TIMBERG Keyboard 
+25/07/2018 16:32:33.365;157847;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:32:33.462;157944;Jerome;StickerKeyboard;2;1;Key;Down;none;none;OemOpenBrackets;none
+25/07/2018 16:32:33.463;157945;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command IncreaseSizeButton Hotkey ) SelText:CRAIG TIMBERG Keyboard 
+25/07/2018 16:32:33.566;158048;Jerome;StickerKeyboard;2;1;Key;Up;none;none;OemOpenBrackets;none
+25/07/2018 16:32:34.38;158520;Jerome;StickerKeyboard;2;1;Key;Down;none;none;E;none
+25/07/2018 16:32:34.39;158521;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnAlignCenter Hotkey E SelText:CRAIG TIMBERG Keyboard 
+25/07/2018 16:32:34.126;158608;Jerome;StickerKeyboard;2;1;Key;Up;none;none;E;none
+25/07/2018 16:32:36.302;160784;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Q;none
+25/07/2018 16:32:36.303;160785;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnStrikeThrough Hotkey Q SelText:CRAIG TIMBERG Keyboard 
+25/07/2018 16:32:36.382;160864;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Q;none
+25/07/2018 16:32:38.496;162978;Jerome;StickerKeyboard;2;1;Key;Down;none;none;M;none
+25/07/2018 16:32:38.499;162981;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command MagentaButton Hotkey M SelText:CRAIG TIMBERG Keyboard 
+25/07/2018 16:32:38.654;163135;Jerome;StickerKeyboard;2;1;Key;Up;none;none;M;none
+25/07/2018 16:32:39.462;163944;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Q;none
+25/07/2018 16:32:39.464;163945;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnStrikeThrough Hotkey Q SelText:CRAIG TIMBERG Keyboard 
+25/07/2018 16:32:39.598;164080;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Q;none
+25/07/2018 16:32:40.382;164863;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Q;none
+25/07/2018 16:32:40.393;164874;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnStrikeThrough Hotkey Q SelText:CRAIG TIMBERG Keyboard 
+25/07/2018 16:32:40.502;164984;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Q;none
+25/07/2018 16:32:42.310;166791;Jerome;StickerKeyboard;2;1;Key;Down;none;none;I;none
+25/07/2018 16:32:42.321;166802;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnItalic Hotkey I SelText:CRAIG TIMBERG Keyboard 
+25/07/2018 16:32:42.366;166847;Jerome;StickerKeyboard;2;1;Key;Up;none;none;I;none
+25/07/2018 16:32:42.486;166967;Jerome;StickerKeyboard;2;1;Key;Down;none;none;I;none
+25/07/2018 16:32:42.486;166968;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnItalic Hotkey I SelText: Keyboard 
+25/07/2018 16:32:42.559;167040;Jerome;StickerKeyboard;2;1;Key;Up;none;none;I;none
+25/07/2018 16:32:43.446;167927;Jerome;StickerKeyboard;2;1;Key;Down;none;none;Z;none
+25/07/2018 16:32:43.446;167928;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Command btnUndo Hotkey Z SelText: Keyboard 
+25/07/2018 16:32:43.558;168040;Jerome;StickerKeyboard;2;1;none;none;none;none;none;Text Selection Keyboard CRAIG TIMBERG
+25/07/2018 16:32:43.559;168041;Jerome;StickerKeyboard;2;1;Key;Up;none;none;Z;none
+25/07/2018 16:32:44.70;168551;Jerome;StickerKeyboard;2;1;Key;Up;none;none;LControlKey;none
+25/07/2018 16:32:45.368;169850;Jerome;StickerKeyboard;2;1;Mouse;Move;309;445;none;none
+25/07/2018 16:32:45.408;169890;Jerome;StickerKeyboard;2;1;Mouse;Move;309;445;none;none
+25/07/2018 16:32:45.416;169898;Jerome;StickerKeyboard;2;1;Mouse;Move;309;445;none;none
+25/07/2018 16:32:45.424;169906;Jerome;StickerKeyboard;2;1;Mouse;Move;309;438;none;none
+25/07/2018 16:32:45.432;169914;Jerome;StickerKeyboard;2;1;Mouse;Move;309;425;none;none
+25/07/2018 16:32:45.440;169922;Jerome;StickerKeyboard;2;1;Mouse;Move;304;407;none;none
+25/07/2018 16:32:45.448;169929;Jerome;StickerKeyboard;2;1;Mouse;Move;298;395;none;none
+25/07/2018 16:32:45.456;169937;Jerome;StickerKeyboard;2;1;Mouse;Move;291;380;none;none
+25/07/2018 16:32:45.464;169945;Jerome;StickerKeyboard;2;1;Mouse;Move;285;370;none;none
+25/07/2018 16:32:45.472;169953;Jerome;StickerKeyboard;2;1;Mouse;Move;279;360;none;none
+25/07/2018 16:32:45.480;169961;Jerome;StickerKeyboard;2;1;Mouse;Move;276;352;none;none
+25/07/2018 16:32:45.488;169969;Jerome;StickerKeyboard;2;1;Mouse;Move;272;344;none;none
+25/07/2018 16:32:45.496;169977;Jerome;StickerKeyboard;2;1;Mouse;Move;268;336;none;none
+25/07/2018 16:32:45.504;169985;Jerome;StickerKeyboard;2;1;Mouse;Move;264;329;none;none
+25/07/2018 16:32:45.512;169993;Jerome;StickerKeyboard;2;1;Mouse;Move;260;323;none;none
+25/07/2018 16:32:45.520;170001;Jerome;StickerKeyboard;2;1;Mouse;Move;257;317;none;none
+25/07/2018 16:32:45.528;170009;Jerome;StickerKeyboard;2;1;Mouse;Move;256;312;none;none
+25/07/2018 16:32:45.536;170018;Jerome;StickerKeyboard;2;1;Mouse;Move;255;309;none;none
+25/07/2018 16:32:45.544;170026;Jerome;StickerKeyboard;2;1;Mouse;Move;254;305;none;none
+25/07/2018 16:32:45.552;170034;Jerome;StickerKeyboard;2;1;Mouse;Move;254;302;none;none
+25/07/2018 16:32:45.583;170065;Jerome;StickerKeyboard;2;1;Mouse;Move;254;300;none;none
+25/07/2018 16:32:45.584;170066;Jerome;StickerKeyboard;2;1;Mouse;Move;254;298;none;none
+25/07/2018 16:32:45.672;170153;Jerome;StickerKeyboard;2;1;Mouse;Move;254;298;none;none
+25/07/2018 16:32:45.680;170161;Jerome;StickerKeyboard;2;1;Mouse;Move;254;298;none;none
+25/07/2018 16:32:45.688;170169;Jerome;StickerKeyboard;2;1;Mouse;Move;259;299;none;none
+25/07/2018 16:32:45.717;170198;Jerome;StickerKeyboard;2;1;Mouse;Move;267;303;none;none
+25/07/2018 16:32:45.717;170199;Jerome;StickerKeyboard;2;1;Mouse;Move;297;308;none;none
+25/07/2018 16:32:45.720;170201;Jerome;StickerKeyboard;2;1;Mouse;Move;321;315;none;none
+25/07/2018 16:32:45.728;170209;Jerome;StickerKeyboard;2;1;Mouse;Move;358;326;none;none
+25/07/2018 16:32:45.736;170217;Jerome;StickerKeyboard;2;1;Mouse;Move;399;339;none;none
+25/07/2018 16:32:45.744;170225;Jerome;StickerKeyboard;2;1;Mouse;Move;445;357;none;none
+25/07/2018 16:32:45.752;170233;Jerome;StickerKeyboard;2;1;Mouse;Move;493;374;none;none
+25/07/2018 16:32:45.760;170241;Jerome;StickerKeyboard;2;1;Mouse;Move;541;395;none;none
+25/07/2018 16:32:45.768;170249;Jerome;StickerKeyboard;2;1;Mouse;Move;586;416;none;none
+25/07/2018 16:32:45.776;170258;Jerome;StickerKeyboard;2;1;Mouse;Move;637;437;none;none
+25/07/2018 16:32:45.784;170266;Jerome;StickerKeyboard;2;1;Mouse;Move;686;459;none;none
+25/07/2018 16:32:45.817;170298;Jerome;StickerKeyboard;2;1;Mouse;Move;736;479;none;none
+25/07/2018 16:32:45.817;170299;Jerome;StickerKeyboard;2;1;Mouse;Move;872;532;none;none
+25/07/2018 16:32:45.850;170332;Jerome;StickerKeyboard;2;1;Mouse;Move;906;545;none;none
+25/07/2018 16:32:45.851;170332;Jerome;StickerKeyboard;2;1;Mouse;Move;966;572;none;none
+25/07/2018 16:32:45.867;170349;Jerome;StickerKeyboard;2;1;Mouse;Move;976;574;none;none
+25/07/2018 16:32:45.869;170350;Jerome;StickerKeyboard;2;1;Mouse;Move;982;576;none;none
+25/07/2018 16:32:45.872;170353;Jerome;StickerKeyboard;2;1;Mouse;Move;984;576;none;none
+25/07/2018 16:32:45.880;170361;Jerome;StickerKeyboard;2;1;Mouse;Move;985;576;none;none
+25/07/2018 16:32:46.8;170490;Jerome;StickerKeyboard;2;1;Mouse;Move;985;577;none;none
+25/07/2018 16:32:46.16;170497;Jerome;StickerKeyboard;2;1;Mouse;Move;985;578;none;none
+25/07/2018 16:32:46.24;170505;Jerome;StickerKeyboard;2;1;Mouse;Move;985;578;none;none
+25/07/2018 16:32:46.32;170513;Jerome;StickerKeyboard;2;1;Mouse;Move;987;580;none;none
+25/07/2018 16:32:46.40;170522;Jerome;StickerKeyboard;2;1;Mouse;Move;989;583;none;none
+25/07/2018 16:32:46.48;170529;Jerome;StickerKeyboard;2;1;Mouse;Move;992;585;none;none
+25/07/2018 16:32:46.56;170537;Jerome;StickerKeyboard;2;1;Mouse;Move;995;588;none;none
+25/07/2018 16:32:46.64;170545;Jerome;StickerKeyboard;2;1;Mouse;Move;998;589;none;none
+25/07/2018 16:32:46.72;170553;Jerome;StickerKeyboard;2;1;Mouse;Move;1001;591;none;none
+25/07/2018 16:32:46.80;170561;Jerome;StickerKeyboard;2;1;Mouse;Move;1001;592;none;none
+25/07/2018 16:32:46.88;170569;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;593;none;none
+25/07/2018 16:32:46.96;170577;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;594;none;none
+25/07/2018 16:32:46.104;170586;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;594;none;none
+25/07/2018 16:32:46.112;170594;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;595;none;none
+25/07/2018 16:32:46.128;170610;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;595;none;none
+25/07/2018 16:32:46.256;170737;Jerome;StickerKeyboard;2;1;Mouse;Click;1003;595;none;none
+25/07/2018 16:32:46.256;170737;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;595;none;none
+25/07/2018 16:32:46.376;170858;Jerome;StickerKeyboard;2;1;Mouse;Release;1003;595;none;none
+25/07/2018 16:32:46.377;170858;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;595;none;none
+25/07/2018 16:32:46.712;171194;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;596;none;none
+25/07/2018 16:32:46.720;171202;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;596;none;none
+25/07/2018 16:32:46.728;171210;Jerome;StickerKeyboard;2;1;Mouse;Move;1003;598;none;none
+25/07/2018 16:32:46.736;171218;Jerome;StickerKeyboard;2;1;Mouse;Move;1002;603;none;none
+25/07/2018 16:32:46.744;171226;Jerome;StickerKeyboard;2;1;Mouse;Move;1001;608;none;none
+25/07/2018 16:32:46.752;171234;Jerome;StickerKeyboard;2;1;Mouse;Move;1001;613;none;none
+25/07/2018 16:32:46.760;171242;Jerome;StickerKeyboard;2;1;Mouse;Move;1000;618;none;none
+25/07/2018 16:32:46.768;171249;Jerome;StickerKeyboard;2;1;Mouse;Move;999;623;none;none
+25/07/2018 16:32:46.776;171258;Jerome;StickerKeyboard;2;1;Mouse;Move;998;627;none;none
+25/07/2018 16:32:46.784;171266;Jerome;StickerKeyboard;2;1;Mouse;Move;996;632;none;none
+25/07/2018 16:32:46.792;171274;Jerome;StickerKeyboard;2;1;Mouse;Move;995;637;none;none
+25/07/2018 16:32:46.800;171282;Jerome;StickerKeyboard;2;1;Mouse;Move;993;640;none;none
+25/07/2018 16:32:46.808;171290;Jerome;StickerKeyboard;2;1;Mouse;Move;991;645;none;none
+25/07/2018 16:32:46.816;171298;Jerome;StickerKeyboard;2;1;Mouse;Move;990;648;none;none
+25/07/2018 16:32:46.824;171305;Jerome;StickerKeyboard;2;1;Mouse;Move;989;651;none;none
+25/07/2018 16:32:46.832;171314;Jerome;StickerKeyboard;2;1;Mouse;Move;988;654;none;none
+25/07/2018 16:32:46.840;171322;Jerome;StickerKeyboard;2;1;Mouse;Move;987;656;none;none
+25/07/2018 16:32:46.848;171330;Jerome;StickerKeyboard;2;1;Mouse;Move;986;657;none;none
+25/07/2018 16:32:46.856;171337;Jerome;StickerKeyboard;2;1;Mouse;Move;986;658;none;none
+25/07/2018 16:32:46.896;171377;Jerome;StickerKeyboard;2;1;Mouse;Move;986;658;none;none
+25/07/2018 16:32:46.976;171458;Jerome;StickerKeyboard;2;1;Mouse;Move;985;658;none;none
+25/07/2018 16:32:46.983;171465;Jerome;StickerKeyboard;2;1;Mouse;Move;985;658;none;none
+25/07/2018 16:32:46.992;171473;Jerome;StickerKeyboard;2;1;Mouse;Move;985;657;none;none
+25/07/2018 16:32:47.0;171481;Jerome;StickerKeyboard;2;1;Mouse;Move;985;657;none;none
+25/07/2018 16:32:47.7;171489;Jerome;StickerKeyboard;2;1;Mouse;Move;985;657;none;none
+25/07/2018 16:32:47.17;171499;Jerome;StickerKeyboard;2;1;Mouse;Move;985;656;none;none
+25/07/2018 16:32:47.24;171505;Jerome;StickerKeyboard;2;1;Mouse;Move;984;656;none;none
+25/07/2018 16:32:47.32;171513;Jerome;StickerKeyboard;2;1;Mouse;Move;984;656;none;none
+25/07/2018 16:32:47.40;171521;Jerome;StickerKeyboard;2;1;Mouse;Move;984;655;none;none
+25/07/2018 16:32:47.48;171529;Jerome;StickerKeyboard;2;1;Mouse;Move;984;655;none;none
+25/07/2018 16:32:47.56;171537;Jerome;StickerKeyboard;2;1;Mouse;Move;983;654;none;none
+25/07/2018 16:32:47.69;171550;Jerome;StickerKeyboard;2;1;Mouse;Move;983;653;none;none
+25/07/2018 16:32:47.72;171553;Jerome;StickerKeyboard;2;1;Mouse;Move;982;653;none;none
+25/07/2018 16:32:47.80;171561;Jerome;StickerKeyboard;2;1;Mouse;Move;982;652;none;none
+25/07/2018 16:32:47.88;171569;Jerome;StickerKeyboard;2;1;Mouse;Move;980;651;none;none
+25/07/2018 16:32:47.97;171578;Jerome;StickerKeyboard;2;1;Mouse;Move;978;649;none;none
+25/07/2018 16:32:47.104;171586;Jerome;StickerKeyboard;2;1;Mouse;Move;976;649;none;none
+25/07/2018 16:32:47.112;171594;Jerome;StickerKeyboard;2;1;Mouse;Move;973;648;none;none
+25/07/2018 16:32:47.120;171602;Jerome;StickerKeyboard;2;1;Mouse;Move;970;648;none;none
+25/07/2018 16:32:47.128;171610;Jerome;StickerKeyboard;2;1;Mouse;Move;963;648;none;none
+25/07/2018 16:32:47.136;171618;Jerome;StickerKeyboard;2;1;Mouse;Move;957;648;none;none
+25/07/2018 16:32:47.144;171626;Jerome;StickerKeyboard;2;1;Mouse;Move;946;648;none;none
+25/07/2018 16:32:47.152;171634;Jerome;StickerKeyboard;2;1;Mouse;Move;934;650;none;none
+25/07/2018 16:32:47.160;171642;Jerome;StickerKeyboard;2;1;Mouse;Move;915;653;none;none
+25/07/2018 16:32:47.168;171650;Jerome;StickerKeyboard;2;1;Mouse;Move;893;657;none;none
+25/07/2018 16:32:47.176;171658;Jerome;StickerKeyboard;2;1;Mouse;Move;861;664;none;none
+25/07/2018 16:32:47.184;171666;Jerome;StickerKeyboard;2;1;Mouse;Move;834;669;none;none
+25/07/2018 16:32:47.192;171674;Jerome;StickerKeyboard;2;1;Mouse;Move;798;678;none;none
+25/07/2018 16:32:47.203;171685;Jerome;StickerKeyboard;2;1;Mouse;Move;767;686;none;none
+25/07/2018 16:32:47.208;171690;Jerome;StickerKeyboard;2;1;Mouse;Move;740;693;none;none
+25/07/2018 16:32:47.216;171698;Jerome;StickerKeyboard;2;1;Mouse;Move;713;697;none;none
+25/07/2018 16:32:47.224;171706;Jerome;StickerKeyboard;2;1;Mouse;Move;692;702;none;none
+25/07/2018 16:32:47.232;171714;Jerome;StickerKeyboard;2;1;Mouse;Move;669;708;none;none
+25/07/2018 16:32:47.240;171722;Jerome;StickerKeyboard;2;1;Mouse;Move;653;711;none;none
+25/07/2018 16:32:47.248;171729;Jerome;StickerKeyboard;2;1;Mouse;Move;641;714;none;none
+25/07/2018 16:32:47.256;171738;Jerome;StickerKeyboard;2;1;Mouse;Move;629;718;none;none
+25/07/2018 16:32:47.264;171745;Jerome;StickerKeyboard;2;1;Mouse;Move;622;721;none;none
+25/07/2018 16:32:47.272;171753;Jerome;StickerKeyboard;2;1;Mouse;Move;617;724;none;none
+25/07/2018 16:32:47.280;171761;Jerome;StickerKeyboard;2;1;Mouse;Move;614;727;none;none
+25/07/2018 16:32:47.288;171769;Jerome;StickerKeyboard;2;1;Mouse;Move;611;728;none;none
+25/07/2018 16:32:47.296;171777;Jerome;StickerKeyboard;2;1;Mouse;Move;610;730;none;none
+25/07/2018 16:32:47.304;171786;Jerome;StickerKeyboard;2;1;Mouse;Move;608;731;none;none
+25/07/2018 16:32:47.312;171794;Jerome;StickerKeyboard;2;1;Mouse;Move;608;731;none;none
+25/07/2018 16:32:47.320;171802;Jerome;StickerKeyboard;2;1;Mouse;Move;607;732;none;none
+25/07/2018 16:32:47.328;171810;Jerome;StickerKeyboard;2;1;Mouse;Move;607;732;none;none
+25/07/2018 16:32:47.336;171818;Jerome;StickerKeyboard;2;1;Mouse;Move;605;733;none;none
+25/07/2018 16:32:47.344;171826;Jerome;StickerKeyboard;2;1;Mouse;Move;605;733;none;none
+25/07/2018 16:32:47.352;171834;Jerome;StickerKeyboard;2;1;Mouse;Move;604;734;none;none
+25/07/2018 16:32:47.360;171842;Jerome;StickerKeyboard;2;1;Mouse;Move;601;735;none;none
+25/07/2018 16:32:47.369;171850;Jerome;StickerKeyboard;2;1;Mouse;Move;599;736;none;none
+25/07/2018 16:32:47.376;171858;Jerome;StickerKeyboard;2;1;Mouse;Move;596;738;none;none
+25/07/2018 16:32:47.384;171866;Jerome;StickerKeyboard;2;1;Mouse;Move;591;739;none;none
+25/07/2018 16:32:47.392;171874;Jerome;StickerKeyboard;2;1;Mouse;Move;587;741;none;none
+25/07/2018 16:32:47.400;171881;Jerome;StickerKeyboard;2;1;Mouse;Move;581;743;none;none
+25/07/2018 16:32:47.408;171889;Jerome;StickerKeyboard;2;1;Mouse;Move;575;744;none;none
+25/07/2018 16:32:47.416;171897;Jerome;StickerKeyboard;2;1;Mouse;Move;568;746;none;none
+25/07/2018 16:32:47.424;171905;Jerome;StickerKeyboard;2;1;Mouse;Move;563;747;none;none
+25/07/2018 16:32:47.432;171913;Jerome;StickerKeyboard;2;1;Mouse;Move;558;748;none;none
+25/07/2018 16:32:47.439;171921;Jerome;StickerKeyboard;2;1;Mouse;Move;554;748;none;none
+25/07/2018 16:32:47.448;171929;Jerome;StickerKeyboard;2;1;Mouse;Move;550;749;none;none
+25/07/2018 16:32:47.455;171937;Jerome;StickerKeyboard;2;1;Mouse;Move;548;751;none;none
+25/07/2018 16:32:47.463;171945;Jerome;StickerKeyboard;2;1;Mouse;Move;545;752;none;none
+25/07/2018 16:32:47.471;171953;Jerome;StickerKeyboard;2;1;Mouse;Move;543;752;none;none
+25/07/2018 16:32:47.479;171961;Jerome;StickerKeyboard;2;1;Mouse;Move;543;752;none;none
+25/07/2018 16:32:47.488;171970;Jerome;StickerKeyboard;2;1;Mouse;Move;542;752;none;none
+25/07/2018 16:32:47.496;171978;Jerome;StickerKeyboard;2;1;Mouse;Move;542;753;none;none
+25/07/2018 16:32:47.552;172034;Jerome;StickerKeyboard;2;1;Mouse;Click;542;753;none;none
+25/07/2018 16:32:47.553;172034;Jerome;StickerKeyboard;2;1;Mouse;Move;542;753;none;none
+25/07/2018 16:32:47.664;172145;Jerome;StickerKeyboard;2;1;Mouse;Release;542;753;none;none
+25/07/2018 16:32:47.664;172145;Jerome;StickerKeyboard;2;1;Mouse;Move;542;753;none;none
+25/07/2018 16:32:48.214;172695;Jerome;StickerKeyboard;2;1;Mouse;Move;542;753;none;none
+25/07/2018 16:32:48.216;172697;Jerome;StickerKeyboard;2;1;Mouse;Move;542;754;none;none
+25/07/2018 16:32:48.224;172705;Jerome;StickerKeyboard;2;1;Mouse;Move;542;755;none;none
+25/07/2018 16:32:48.233;172714;Jerome;StickerKeyboard;2;1;Mouse;Move;543;757;none;none
+25/07/2018 16:32:48.240;172722;Jerome;StickerKeyboard;2;1;Mouse;Move;544;760;none;none
+25/07/2018 16:32:48.248;172729;Jerome;StickerKeyboard;2;1;Mouse;Move;545;761;none;none
+25/07/2018 16:32:48.256;172737;Jerome;StickerKeyboard;2;1;Mouse;Move;545;762;none;none
+25/07/2018 16:32:48.264;172746;Jerome;StickerKeyboard;2;1;Mouse;Move;545;763;none;none
+25/07/2018 16:32:48.544;173026;Jerome;StickerKeyboard;2;1;Mouse;Move;545;764;none;none
+25/07/2018 16:32:48.552;173034;Jerome;StickerKeyboard;2;1;Mouse;Move;545;764;none;none
+25/07/2018 16:32:48.560;173042;Jerome;StickerKeyboard;2;1;Mouse;Move;545;766;none;none
+25/07/2018 16:32:48.568;173050;Jerome;StickerKeyboard;2;1;Mouse;Move;545;768;none;none
+25/07/2018 16:32:48.576;173058;Jerome;StickerKeyboard;2;1;Mouse;Move;544;771;none;none
+25/07/2018 16:32:48.584;173066;Jerome;StickerKeyboard;2;1;Mouse;Move;543;773;none;none
+25/07/2018 16:32:48.592;173074;Jerome;StickerKeyboard;2;1;Mouse;Move;542;774;none;none
+25/07/2018 16:32:48.600;173082;Jerome;StickerKeyboard;2;1;Mouse;Move;541;777;none;none
+25/07/2018 16:32:48.608;173089;Jerome;StickerKeyboard;2;1;Mouse;Move;541;778;none;none
+25/07/2018 16:32:48.618;173100;Jerome;StickerKeyboard;2;1;Mouse;Move;541;779;none;none
+25/07/2018 16:32:48.624;173105;Jerome;StickerKeyboard;2;1;Mouse;Move;541;780;none;none
+25/07/2018 16:32:48.632;173113;Jerome;StickerKeyboard;2;1;Mouse;Move;541;781;none;none
+25/07/2018 16:32:48.652;173134;Jerome;StickerKeyboard;2;1;Mouse;Move;541;782;none;none
+25/07/2018 16:32:48.653;173135;Jerome;StickerKeyboard;2;1;Mouse;Move;540;782;none;none
+25/07/2018 16:32:50.128;174610;Jerome;StickerKeyboard;2;1;Mouse;Move;540;782;none;none
+25/07/2018 16:32:50.137;174619;Jerome;StickerKeyboard;2;1;Mouse;Move;542;782;none;none
+25/07/2018 16:32:50.144;174626;Jerome;StickerKeyboard;2;1;Mouse;Move;543;778;none;none
+25/07/2018 16:32:50.152;174634;Jerome;StickerKeyboard;2;1;Mouse;Move;548;774;none;none
+25/07/2018 16:32:50.160;174642;Jerome;StickerKeyboard;2;1;Mouse;Move;552;768;none;none
+25/07/2018 16:32:50.168;174650;Jerome;StickerKeyboard;2;1;Mouse;Move;558;761;none;none
+25/07/2018 16:32:50.176;174658;Jerome;StickerKeyboard;2;1;Mouse;Move;564;752;none;none
+25/07/2018 16:32:50.184;174666;Jerome;StickerKeyboard;2;1;Mouse;Move;570;744;none;none
+25/07/2018 16:32:50.192;174673;Jerome;StickerKeyboard;2;1;Mouse;Move;578;733;none;none
+25/07/2018 16:32:50.200;174682;Jerome;StickerKeyboard;2;1;Mouse;Move;585;720;none;none
+25/07/2018 16:32:50.208;174690;Jerome;StickerKeyboard;2;1;Mouse;Move;595;706;none;none
+25/07/2018 16:32:50.216;174697;Jerome;StickerKeyboard;2;1;Mouse;Move;604;692;none;none
+25/07/2018 16:32:50.224;174706;Jerome;StickerKeyboard;2;1;Mouse;Move;617;675;none;none
+25/07/2018 16:32:50.232;174713;Jerome;StickerKeyboard;2;1;Mouse;Move;628;658;none;none
+25/07/2018 16:32:50.240;174721;Jerome;StickerKeyboard;2;1;Mouse;Move;642;638;none;none
+25/07/2018 16:32:50.247;174729;Jerome;StickerKeyboard;2;1;Mouse;Move;657;618;none;none
+25/07/2018 16:32:50.277;174759;Jerome;StickerKeyboard;2;1;Mouse;Move;673;598;none;none
+25/07/2018 16:32:50.277;174759;Jerome;StickerKeyboard;2;1;Mouse;Move;710;554;none;none
+25/07/2018 16:32:50.279;174761;Jerome;StickerKeyboard;2;1;Mouse;Move;728;533;none;none
+25/07/2018 16:32:50.287;174769;Jerome;StickerKeyboard;2;1;Mouse;Move;747;512;none;none
+25/07/2018 16:32:50.295;174777;Jerome;StickerKeyboard;2;1;Mouse;Move;764;494;none;none
+25/07/2018 16:32:50.304;174785;Jerome;StickerKeyboard;2;1;Mouse;Move;781;476;none;none
+25/07/2018 16:32:50.327;174809;Jerome;StickerKeyboard;2;1;Mouse;Move;798;455;none;none
+25/07/2018 16:32:50.328;174810;Jerome;StickerKeyboard;2;1;Mouse;Move;835;418;none;none
+25/07/2018 16:32:50.361;174843;Jerome;StickerKeyboard;2;1;Mouse;Move;854;400;none;none
+25/07/2018 16:32:50.377;174859;Jerome;StickerKeyboard;2;1;Mouse;Move;912;352;none;none
+25/07/2018 16:32:50.378;174859;Jerome;StickerKeyboard;2;1;Mouse;Move;946;328;none;none
+25/07/2018 16:32:50.383;174865;Jerome;StickerKeyboard;2;1;Mouse;Move;965;318;none;none
+25/07/2018 16:32:50.391;174873;Jerome;StickerKeyboard;2;1;Mouse;Move;983;309;none;none
+25/07/2018 16:32:50.399;174881;Jerome;StickerKeyboard;2;1;Mouse;Move;1001;303;none;none
+25/07/2018 16:32:50.407;174889;Jerome;StickerKeyboard;2;1;Mouse;Move;1015;299;none;none
+25/07/2018 16:32:50.415;174897;Jerome;StickerKeyboard;2;1;Mouse;Move;1030;295;none;none
+25/07/2018 16:32:50.424;174905;Jerome;StickerKeyboard;2;1;Mouse;Move;1049;291;none;none
+25/07/2018 16:32:50.432;174913;Jerome;StickerKeyboard;2;1;Mouse;Move;1063;288;none;none
+25/07/2018 16:32:50.440;174921;Jerome;StickerKeyboard;2;1;Mouse;Move;1079;286;none;none
+25/07/2018 16:32:50.448;174929;Jerome;StickerKeyboard;2;1;Mouse;Move;1092;282;none;none
+25/07/2018 16:32:50.455;174937;Jerome;StickerKeyboard;2;1;Mouse;Move;1106;279;none;none
+25/07/2018 16:32:50.463;174945;Jerome;StickerKeyboard;2;1;Mouse;Move;1120;275;none;none
+25/07/2018 16:32:50.471;174953;Jerome;StickerKeyboard;2;1;Mouse;Move;1131;272;none;none
+25/07/2018 16:32:50.479;174961;Jerome;StickerKeyboard;2;1;Mouse;Move;1142;270;none;none
+25/07/2018 16:32:50.487;174969;Jerome;StickerKeyboard;2;1;Mouse;Move;1150;268;none;none
+25/07/2018 16:32:50.495;174977;Jerome;StickerKeyboard;2;1;Mouse;Move;1158;265;none;none
+25/07/2018 16:32:50.503;174985;Jerome;StickerKeyboard;2;1;Mouse;Move;1164;265;none;none
+25/07/2018 16:32:50.511;174993;Jerome;StickerKeyboard;2;1;Mouse;Move;1171;262;none;none
+25/07/2018 16:32:50.520;175002;Jerome;StickerKeyboard;2;1;Mouse;Move;1175;262;none;none
+25/07/2018 16:32:50.528;175009;Jerome;StickerKeyboard;2;1;Mouse;Move;1181;261;none;none
+25/07/2018 16:32:50.536;175018;Jerome;StickerKeyboard;2;1;Mouse;Move;1184;261;none;none
+25/07/2018 16:32:50.544;175026;Jerome;StickerKeyboard;2;1;Mouse;Move;1188;261;none;none
+25/07/2018 16:32:50.552;175034;Jerome;StickerKeyboard;2;1;Mouse;Move;1193;260;none;none
+25/07/2018 16:32:50.560;175041;Jerome;StickerKeyboard;2;1;Mouse;Move;1198;259;none;none
+25/07/2018 16:32:50.568;175050;Jerome;StickerKeyboard;2;1;Mouse;Move;1203;258;none;none
+25/07/2018 16:32:50.576;175058;Jerome;StickerKeyboard;2;1;Mouse;Move;1207;258;none;none
+25/07/2018 16:32:50.584;175065;Jerome;StickerKeyboard;2;1;Mouse;Move;1210;258;none;none
+25/07/2018 16:32:50.592;175073;Jerome;StickerKeyboard;2;1;Mouse;Move;1214;257;none;none
+25/07/2018 16:32:50.600;175082;Jerome;StickerKeyboard;2;1;Mouse;Move;1218;256;none;none
+25/07/2018 16:32:50.608;175089;Jerome;StickerKeyboard;2;1;Mouse;Move;1222;254;none;none
+25/07/2018 16:32:50.616;175097;Jerome;StickerKeyboard;2;1;Mouse;Move;1225;254;none;none
+25/07/2018 16:32:50.624;175105;Jerome;StickerKeyboard;2;1;Mouse;Move;1230;253;none;none
+25/07/2018 16:32:50.632;175113;Jerome;StickerKeyboard;2;1;Mouse;Move;1236;251;none;none
+25/07/2018 16:32:50.640;175121;Jerome;StickerKeyboard;2;1;Mouse;Move;1240;250;none;none
+25/07/2018 16:32:50.648;175129;Jerome;StickerKeyboard;2;1;Mouse;Move;1246;248;none;none
+25/07/2018 16:32:50.656;175137;Jerome;StickerKeyboard;2;1;Mouse;Move;1252;245;none;none
+25/07/2018 16:32:50.664;175145;Jerome;StickerKeyboard;2;1;Mouse;Move;1259;243;none;none
+25/07/2018 16:32:50.673;175154;Jerome;StickerKeyboard;2;1;Mouse;Move;1267;240;none;none
+25/07/2018 16:32:50.680;175161;Jerome;StickerKeyboard;2;1;Mouse;Move;1275;238;none;none
+25/07/2018 16:32:50.688;175169;Jerome;StickerKeyboard;2;1;Mouse;Move;1285;233;none;none
+25/07/2018 16:32:50.696;175177;Jerome;StickerKeyboard;2;1;Mouse;Move;1294;230;none;none
+25/07/2018 16:32:50.704;175186;Jerome;StickerKeyboard;2;1;Mouse;Move;1302;226;none;none
+25/07/2018 16:32:50.712;175194;Jerome;StickerKeyboard;2;1;Mouse;Move;1311;220;none;none
+25/07/2018 16:32:50.720;175201;Jerome;StickerKeyboard;2;1;Mouse;Move;1320;216;none;none
+25/07/2018 16:32:50.728;175209;Jerome;StickerKeyboard;2;1;Mouse;Move;1329;211;none;none
+25/07/2018 16:32:50.736;175218;Jerome;StickerKeyboard;2;1;Mouse;Move;1337;208;none;none
+25/07/2018 16:32:50.744;175225;Jerome;StickerKeyboard;2;1;Mouse;Move;1345;204;none;none
+25/07/2018 16:32:50.752;175233;Jerome;StickerKeyboard;2;1;Mouse;Move;1351;201;none;none
+25/07/2018 16:32:50.760;175242;Jerome;StickerKeyboard;2;1;Mouse;Move;1355;198;none;none
+25/07/2018 16:32:50.768;175249;Jerome;StickerKeyboard;2;1;Mouse;Move;1360;196;none;none
+25/07/2018 16:32:50.776;175257;Jerome;StickerKeyboard;2;1;Mouse;Move;1363;195;none;none
+25/07/2018 16:32:50.784;175266;Jerome;StickerKeyboard;2;1;Mouse;Move;1366;194;none;none
+25/07/2018 16:32:50.792;175274;Jerome;StickerKeyboard;2;1;Mouse;Move;1367;194;none;none
+25/07/2018 16:32:50.800;175281;Jerome;StickerKeyboard;2;1;Mouse;Move;1368;194;none;none
+25/07/2018 16:32:50.816;175297;Jerome;StickerKeyboard;2;1;Mouse;Move;1369;194;none;none
+25/07/2018 16:32:50.840;175321;Jerome;StickerKeyboard;2;1;Mouse;Move;1369;194;none;none
+25/07/2018 16:32:50.847;175329;Jerome;StickerKeyboard;2;1;Mouse;Move;1369;194;none;none
+25/07/2018 16:32:50.855;175337;Jerome;StickerKeyboard;2;1;Mouse;Move;1370;195;none;none
+25/07/2018 16:32:50.863;175345;Jerome;StickerKeyboard;2;1;Mouse;Move;1371;197;none;none
+25/07/2018 16:32:50.871;175353;Jerome;StickerKeyboard;2;1;Mouse;Move;1372;198;none;none
+25/07/2018 16:32:50.879;175361;Jerome;StickerKeyboard;2;1;Mouse;Move;1373;200;none;none
+25/07/2018 16:32:50.887;175369;Jerome;StickerKeyboard;2;1;Mouse;Move;1374;200;none;none
+25/07/2018 16:32:50.895;175377;Jerome;StickerKeyboard;2;1;Mouse;Move;1376;200;none;none
+25/07/2018 16:32:50.904;175386;Jerome;StickerKeyboard;2;1;Mouse;Move;1376;201;none;none
+25/07/2018 16:32:50.912;175394;Jerome;StickerKeyboard;2;1;Mouse;Move;1377;201;none;none
+25/07/2018 16:32:50.920;175401;Jerome;StickerKeyboard;2;1;Mouse;Move;1379;201;none;none
+25/07/2018 16:32:50.928;175409;Jerome;StickerKeyboard;2;1;Mouse;Move;1380;201;none;none
+25/07/2018 16:32:50.936;175418;Jerome;StickerKeyboard;2;1;Mouse;Move;1381;201;none;none
+25/07/2018 16:32:50.944;175426;Jerome;StickerKeyboard;2;1;Mouse;Move;1382;201;none;none
+25/07/2018 16:32:50.952;175434;Jerome;StickerKeyboard;2;1;Mouse;Move;1383;201;none;none
+25/07/2018 16:32:50.960;175442;Jerome;StickerKeyboard;2;1;Mouse;Move;1383;201;none;none
+25/07/2018 16:32:50.968;175449;Jerome;StickerKeyboard;2;1;Mouse;Move;1384;201;none;none
+25/07/2018 16:32:50.976;175457;Jerome;StickerKeyboard;2;1;Mouse;Move;1385;201;none;none
+25/07/2018 16:32:50.984;175465;Jerome;StickerKeyboard;2;1;Mouse;Move;1386;201;none;none
+25/07/2018 16:32:50.992;175474;Jerome;StickerKeyboard;2;1;Mouse;Move;1386;201;none;none
+25/07/2018 16:32:51.0;175481;Jerome;StickerKeyboard;2;1;Mouse;Move;1387;201;none;none
+25/07/2018 16:32:51.8;175489;Jerome;StickerKeyboard;2;1;Mouse;Move;1387;201;none;none
+25/07/2018 16:32:51.16;175497;Jerome;StickerKeyboard;2;1;Mouse;Click;1387;201;none;none
+25/07/2018 16:32:51.16;175498;Jerome;StickerKeyboard;2;1;Mouse;Move;1387;201;none;none
+25/07/2018 16:32:51.24;175505;Jerome;StickerKeyboard;2;1;Mouse;Move;1388;201;none;none
+25/07/2018 16:32:51.104;175586;Jerome;StickerKeyboard;2;1;Mouse;Release;1388;201;none;none
+25/07/2018 16:32:51.105;175586;Jerome;StickerKeyboard;2;1;Mouse;Move;1388;201;none;none
+25/07/2018 16:32:51.108;175590;Jerome;StickerKeyboard;2;1;none;none;none;none;none; Clickbutton1
