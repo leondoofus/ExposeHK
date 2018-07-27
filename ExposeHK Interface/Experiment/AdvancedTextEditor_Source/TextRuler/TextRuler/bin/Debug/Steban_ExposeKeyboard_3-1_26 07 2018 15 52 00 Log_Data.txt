@@ -1,0 +1,22 @@
+Timestamp;Participant;Aid;Phase;BlockID;Shortcut;LearnedByAid;Comment
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + X;1;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + C;1;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + V;1;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + Z;1;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + A;1;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + );0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + &;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + B;1;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + I;1;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + U;1;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + ù;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + W;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + D;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + J;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + R;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + E;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + L;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + ,;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + M;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + H;0;
+26/07/2018;15:52:00;Steban;ExposeKeyboard;3;1;Ctrl + G;0;
