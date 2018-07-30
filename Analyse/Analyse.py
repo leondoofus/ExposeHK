@@ -129,20 +129,19 @@ def plot_stack_phase1(dataset, extension):
     for item in buttons:
         tmp.append(item.replace('btn', '').replace('Btn', '').replace('Button', ''))
     ind = np.arange(N)  # the x locations for the groups
-    width = 0.8  # the width of the bars: can also be len(x) sequence
+    width = 0.4  # the width of the bars: can also be len(x) sequence
     for _, liste in dataset.items():
         for name, value in liste.items():
             mouse = value[0]
             key = value[1]
 
-            p1 = plt.bar(ind, mouse, width)
-            p2 = plt.bar(ind, key, width, bottom=mouse)
+            p1 = plt.bar(ind - 0.2, mouse, width)
+            p2 = plt.bar(ind + 0.2, key, width)
 
             plt.gcf().subplots_adjust(bottom=0.25)
             plt.ylabel('Number of use')
-            plt.title(anonyme[name] + extension.replace('_', ' bloc ') + '\'s Uses')
+            plt.title(anonyme[name] + extension.replace('_', ' Phase ') + '\'s Uses')
             plt.xticks(ind, tmp, rotation=90)
-            plt.yticks(np.arange(0, 22, 2))
             plt.legend((p1[0], p2[0]), ('Mouse', 'Key'))
 
             # plt.show()
@@ -156,22 +155,21 @@ def plot_stack_phase2(dataset, extension):
     for item in buttons:
         tmp.append(item.replace('btn', '').replace('Btn', '').replace('Button', ''))
     ind = np.arange(N)  # the x locations for the groups
-    width = 0.8  # the width of the bars: can also be len(x) sequence
+    width = 0.2  # the width of the bars: can also be len(x) sequence
     for _, liste in dataset.items():
         for name, value in liste.items():
             mouse = value[0]
             key = value[1]
             keyAid = value[2]
 
-            p1 = plt.bar(ind, mouse, width)
-            p2 = plt.bar(ind, key, width, bottom=mouse)
-            p3 = plt.bar(ind, keyAid, width, bottom=key)
+            p1 = plt.bar(ind - 0.2, mouse, width)
+            p2 = plt.bar(ind, key, width)
+            p3 = plt.bar(ind + 0.2, keyAid, width)
 
             plt.gcf().subplots_adjust(bottom=0.25)
             plt.ylabel('Number of use')
             plt.title(anonyme[name] + extension.replace('_', ' bloc ') + '\'s Uses')
             plt.xticks(ind, tmp, rotation=90)
-            plt.yticks(np.arange(0, 22, 2))
             plt.legend((p1[0], p2[0], p3[0]), ('Mouse', 'Key without aid displayed', 'Key with aid displayed'))
 
             # plt.show()
