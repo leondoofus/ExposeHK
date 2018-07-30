@@ -19,12 +19,6 @@ phase21 = dict()
 phase22 = dict()
 phase3 = dict()
 
-sum11 = dict()
-sum12 = dict()
-sum21 = dict()
-sum22 = dict()
-sum3 = dict()
-
 anonyme = dict()
 totaltime = dict()
 
@@ -39,11 +33,6 @@ def init():
         phase21[i] = dict()
         phase22[i] = dict()
         phase3[i] = dict()
-        sum11[i] = dict()
-        sum12[i] = dict()
-        sum21[i] = dict()
-        sum22[i] = dict()
-        sum3[i] = dict()
 
 
 def treatment_phase1(filename, phase):
@@ -118,28 +107,13 @@ def treatment_memorization(filename):
 
 
 def anonymize():
-    i = 1
     print (phase11)
-    for _, value in phase11.items():
+    for aid, value in phase11.items():
+        i = 1
         for name, _ in value.items():
-            anonyme[name] = 'User' + str(i)
+            anonyme[name] = aid + ' User' + str(i)
             i += 1
     print (anonyme)
-
-
-def sum_action():
-    for aid, liste in phase11.items():
-        for name, value in liste.items():
-            sum11[aid][name] = [sum(x) for x in zip(*value)]
-    for aid, liste in phase12.items():
-        for name, value in liste.items():
-            sum12[aid][name] = [sum(x) for x in zip(*value)]
-    for aid, liste in phase21.items():
-        for name, value in liste.items():
-            sum21[aid][name] = [sum(x) for x in zip(*value)]
-    for aid, liste in phase22.items():
-        for name, value in liste.items():
-            sum22[aid][name] = [sum(x) for x in zip(*value)]
 
 
 def draw_stackhisto():
@@ -166,9 +140,8 @@ def plot_stack_phase1(dataset, extension):
 
             plt.gcf().subplots_adjust(bottom=0.25)
             plt.ylabel('Number of use')
-            plt.title(anonyme[name] + '\'s Scores')
-            plt.xticks(ind, tmp,
-                       rotation=90)
+            plt.title(anonyme[name] + extension.replace('_', ' bloc ') + '\'s Uses')
+            plt.xticks(ind, tmp, rotation=90)
             plt.yticks(np.arange(0, 22, 2))
             plt.legend((p1[0], p2[0]), ('Mouse', 'Key'))
 
@@ -196,15 +169,132 @@ def plot_stack_phase2(dataset, extension):
 
             plt.gcf().subplots_adjust(bottom=0.25)
             plt.ylabel('Number of use')
-            plt.title(anonyme[name] + '\'s Scores')
-            plt.xticks(ind, tmp,
-                       rotation=90)
+            plt.title(anonyme[name] + extension.replace('_', ' bloc ') + '\'s Uses')
+            plt.xticks(ind, tmp, rotation=90)
             plt.yticks(np.arange(0, 22, 2))
             plt.legend((p1[0], p2[0], p3[0]), ('Mouse', 'Key without aid displayed', 'Key with aid displayed'))
 
             # plt.show()
             plt.savefig(anonyme[name] + extension, dpi=200)
             plt.clf()
+
+
+def draw_scores():
+    N = len(anonyme)
+    score = []
+    users = []
+    ind = np.arange(N)  # the x locations for the groups
+    width = 0.8  # the width of the bars: can also be len(x) sequence
+    learned_percent = []
+    learned_score = []
+    for aid, liste in phase3.items():
+        for name, value in liste.items():
+            users.append(anonyme[name])
+            tmp = 0
+            for i in range(len(buttons)):
+                if value[1][i]:
+                    if value[0][i]:
+                        tmp += 1
+            learned_score.append(tmp)
+            learned_percent.append(tmp * 100 / sum(value[1]))
+            score.append(sum(value[0]) - tmp)
+
+    p1 = plt.bar(ind, score, width, bottom=learned_score)
+    p2 = plt.bar(ind, learned_score, width)
+    plt.gcf().subplots_adjust(bottom=0.4)
+    plt.ylabel('Number of remembered shortcuts')
+    plt.title('All users\' Scores')
+    plt.xticks(ind, users, rotation=90)
+    plt.yticks(np.arange(0, len(buttons) + 1, 2))
+    plt.legend((p1[0], p2[0]), ('Remembered shortcuts by nature', 'Remembered shortcuts by using visual aid'))
+    # plt.show()
+    plt.savefig('Scores phases3 learning', dpi=200)
+    plt.clf()
+
+    plt.bar(ind, learned_percent, width)
+    plt.gcf().subplots_adjust(bottom=0.4)
+    plt.ylabel('Number of remembered shortcuts')
+    plt.title('All users\' Remember Rate')
+    plt.xticks(ind, users, rotation=90)
+    plt.yticks(np.arange(0, 110, 20))
+    # plt.show()
+    plt.savefig('Scores phases3 learning rate', dpi=200)
+    plt.clf()
+
+
+def draw_time():
+    N = len(anonyme.keys())
+    ind = np.arange(N)  # the x locations for the groups
+    width = 0.2  # the width of the bars: can also be len(x) sequence
+    users = sorted(anonyme.values())
+    tmp = [[], [], [], []]
+    for user in users:
+        for name, t in totaltime.items():
+            if anonyme[name] == user:
+                tmp[0].append(t[0])
+                tmp[1].append(t[1])
+                tmp[2].append(t[2])
+                tmp[3].append(t[3])
+    p1 = plt.bar(ind - 0.3, tmp[0], width)
+    p2 = plt.bar(ind - 0.1, tmp[1], width)
+    p3 = plt.bar(ind + 0.1, tmp[2], width)
+    p4 = plt.bar(ind + 0.3, tmp[3], width)
+
+    plt.gcf().subplots_adjust(bottom=0.4)
+    plt.title('All Users\' Editing Time')
+    plt.xticks(ind, users, rotation=90)
+    plt.yticks(np.arange(0, 510000, 50000))
+    plt.legend((p1[0], p2[0], p3[0], p4[0]), ('Bloc 1.1', 'Bloc 1.2', 'Bloc 2.1', 'Bloc 2.2'))
+
+    # plt.show()
+    plt.savefig('Time', dpi=200)
+    plt.clf()
+
+
+def draw_shortcut():
+    N = len(shortcuts)
+    ind = np.arange(N)  # the x locations for the groups
+    width = 0.2  # the width of the bars: can also be len(x) sequence
+    aid1, aid2, aid3, aid4 = [], [], [], []
+    for _ in shortcuts:
+        aid1.append(0)
+        aid2.append(0)
+        aid3.append(0)
+        aid4.append(0)
+    print (phase3)
+    tmp = ['ExposeHK', 'ExposeKeyboard', 'StickerKeyboard', 'Optimus']
+    for aid, liste in phase3.items():
+        for _, value in liste.items():
+            if aid == tmp[0]:
+                for i in range(len(value[0])):
+                    if value[0][i]:
+                        aid1[i] += 1
+            if aid == tmp[1]:
+                for i in range(len(value[0])):
+                    if value[0][i]:
+                        aid2[i] += 1
+            if aid == tmp[2]:
+                for i in range(len(value[0])):
+                    if value[0][i]:
+                        aid3[i] += 1
+            if aid == tmp[3]:
+                for i in range(len(value[0])):
+                    if value[0][i]:
+                        aid4[i] += 1
+
+    p1 = plt.bar(ind - 0.3, aid1, width)
+    p2 = plt.bar(ind - 0.1, aid2, width)
+    p3 = plt.bar(ind + 0.1, aid3, width)
+    p4 = plt.bar(ind + 0.3, aid4, width)
+    plt.gcf().subplots_adjust(bottom=0.4)
+    plt.ylabel('Number of users')
+    plt.title('Shortcut retrievement')
+    plt.yticks(np.arange(0, 5, 1))
+    plt.xticks(ind, buttons, rotation=90)
+    plt.legend((p1[0], p2[0], p3[0], p4[0]), tmp)
+    # plt.show()
+    plt.savefig('Shortcut retrievement', dpi=200)
+    plt.clf()
 
 
 def main():
@@ -248,8 +338,10 @@ def main():
 
     print (totaltime)
     anonymize()
-    sum_action()
     draw_stackhisto()
+    draw_scores()
+    draw_time()
+    draw_shortcut()
 
 
 if __name__ == '__main__':
