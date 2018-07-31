@@ -249,8 +249,46 @@ def draw_time():
     plt.clf()
 
 
+def draw_time2():
+    N = 4
+    ind = np.arange(N)  # the x locations for the groups
+    techniques = ['ExposeHK', 'ExposeKeyboard', 'StickerKeyboard', 'Optimus']
+    tmp = [[], [], [], []]
+    for t in range(len(techniques)):
+        s1, s2, s3, s4 = 0, 0, 0, 0
+        i = 0
+        for name, time in totaltime.items():
+            if techniques[t] in anonyme[name]:
+                print(name, t)
+                i += 1
+                s1 += time[0]
+                s2 += time[1]
+                s3 += time[2]
+                s4 += time[3]
+        tmp[t].append(float(s1) / float(i))
+        tmp[t].append(float(s2) / float(i))
+        tmp[t].append(float(s3) / float(i))
+        tmp[t].append(float(s4) / float(i))
+
+    p1 = plt.plot(tmp[0], 'gh-.')
+    p2 = plt.plot(tmp[1], 'bh-.')
+    p3 = plt.plot(tmp[2], 'rh-.')
+    p4 = plt.plot(tmp[3], 'yh-.')
+
+    plt.title('Editing Time by Technique')
+    plt.xticks(ind, ('Phase 1-1', 'Phase 1-2', 'Phase 2-1', 'Phase 2-2'))
+    plt.legend((p1[0], p2[0], p3[0], p4[0]), techniques, loc=1)
+
+    # plt.show()
+    plt.savefig('TimeTechnique', dpi=200)
+    plt.clf()
+
+
 def draw_shortcut():
     N = len(shortcuts)
+    tx = []
+    for item in buttons:
+        tx.append(item.replace('btn', '').replace('Btn', '').replace('Button', ''))
     ind = np.arange(N)  # the x locations for the groups
     width = 0.2  # the width of the bars: can also be len(x) sequence
     aid1, aid2, aid3, aid4 = [], [], [], []
@@ -284,14 +322,111 @@ def draw_shortcut():
     p2 = plt.bar(ind - 0.1, aid2, width)
     p3 = plt.bar(ind + 0.1, aid3, width)
     p4 = plt.bar(ind + 0.3, aid4, width)
-    plt.gcf().subplots_adjust(bottom=0.4)
+    plt.gcf().subplots_adjust(bottom=0.25)
     plt.ylabel('Number of users')
     plt.title('Shortcut retrievement')
     plt.yticks(np.arange(0, 5, 1))
-    plt.xticks(ind, buttons, rotation=90)
+    plt.xticks(ind, tx, rotation=90)
     plt.legend((p1[0], p2[0], p3[0], p4[0]), tmp)
     # plt.show()
     plt.savefig('Shortcut retrievement', dpi=200)
+    plt.clf()
+
+
+def draw_shortcut_rate():
+    N = 4
+    ind = np.arange(N)  # the x locations for the groups
+    techniques = ['ExposeHK', 'ExposeKeyboard', 'StickerKeyboard', 'Optimus']
+    tmp = [[], [], [], []]
+    for t in range(len(techniques)):
+        t1, t2, t3, t4 = 0, 0, 0, 0
+        s1, s2, s3, s4 = 0, 0, 0, 0
+        for name, value in phase11[techniques[t]].items():
+            if techniques[t] in anonyme[name]:
+                s1 += sum(value[1])
+                t1 += sum(value[0])
+        for name, value in phase12[techniques[t]].items():
+            if techniques[t] in anonyme[name]:
+                s2 += sum(value[1])
+                t2 += sum(value[0])
+        for name, value in phase21[techniques[t]].items():
+            if techniques[t] in anonyme[name]:
+                s3 += sum(value[1]) + sum(value[2])
+                t3 += sum(value[0])
+        for name, value in phase22[techniques[t]].items():
+            if techniques[t] in anonyme[name]:
+                s4 += sum(value[1]) + sum(value[2])
+                t4 += sum(value[0])
+        tmp[t].append(float(s1 * 100) / float(s1 + t1))
+        tmp[t].append(float(s2 * 100) / float(s2 + t2))
+        tmp[t].append(float(s3 * 100) / float(s3 + t3))
+        tmp[t].append(float(s4 * 100) / float(s4 + t4))
+
+    p1 = plt.plot(tmp[0], 'gh-.')
+    p2 = plt.plot(tmp[1], 'bh-.')
+    p3 = plt.plot(tmp[2], 'rh-.')
+    p4 = plt.plot(tmp[3], 'yh-.')
+
+    plt.title('Shortcut Rate by Technique')
+    plt.xticks(ind, ('Phase 1-1', 'Phase 1-2', 'Phase 2-1', 'Phase 2-2'))
+    plt.legend((p1[0], p2[0], p3[0], p4[0]), techniques, loc=2)
+
+    # plt.show()
+    plt.savefig('RateTechnique', dpi=200)
+    plt.clf()
+
+    tmp = [[], []]
+    techniques = ['ExposeHK', 'ExposeKeyboard']
+    for t in range(len(techniques)):
+        t3, t4 = 0, 0
+        s3, s4 = 0, 0
+        for name, value in phase21[techniques[t]].items():
+            if techniques[t] in anonyme[name]:
+                s3 += sum(value[2])
+                t3 += sum(value[0]) + sum(value[1])
+        for name, value in phase22[techniques[t]].items():
+            if techniques[t] in anonyme[name]:
+                s4 += + sum(value[2])
+                t4 += sum(value[0]) + sum(value[1])
+        tmp[t].append(float(s3 * 100) / float(s3 + t3))
+        tmp[t].append(float(s4 * 100) / float(s4 + t4))
+
+    p1 = plt.plot(tmp[0], 'gh-.')
+    p2 = plt.plot(tmp[1], 'bh-.')
+
+    plt.title('Shortcut Rate without Visual aid by Technique')
+    plt.xticks(np.arange(2), ('Phase 2-1', 'Phase 2-2'))
+    plt.legend((p1[0], p2[0]), techniques, loc=5)
+
+    # plt.show()
+    plt.savefig('Rate without aid Technique', dpi=200)
+    plt.clf()
+
+
+def draw_nature():
+    N = len(buttons)
+    ind = np.arange(N)  # the x locations for the groups
+    width = 0.8  # the width of the bars: can also be len(x) sequence
+    tmp = []
+    nature = []
+    for item in buttons:
+        tmp.append(item.replace('btn', '').replace('Btn', '').replace('Button', ''))
+        nature.append(0)
+    for aid, liste in phase3.items():
+        for name, value in liste.items():
+            for i in range(len(buttons)):
+                if not value[1][i]:
+                    if value[0][i]:
+                        nature[i] += 1
+
+    nature, tmp = zip(*sorted(zip(nature, tmp), key=lambda shortcut: shortcut[0], reverse=True))
+    p1 = plt.bar(ind, nature, width)
+    plt.gcf().subplots_adjust(bottom=0.25)
+    plt.title('Known Shortcut by Nature')
+    plt.xticks(ind, tmp, rotation=90)
+
+    # plt.show()
+    plt.savefig('Nature', dpi=200)
     plt.clf()
 
 
@@ -334,12 +469,14 @@ def main():
                     totaltime[user] = [time]
                 f.close()
 
-    print (totaltime)
     anonymize()
-    draw_stackhisto()
-    draw_scores()
-    draw_time()
-    draw_shortcut()
+    # draw_stackhisto()
+    # draw_scores()
+    # draw_time()
+    # draw_shortcut()
+    # draw_time2()
+    # draw_shortcut_rate()
+    draw_nature()
 
 
 if __name__ == '__main__':
