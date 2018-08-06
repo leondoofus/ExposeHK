@@ -395,6 +395,7 @@ def draw_shortcut_rate():
     p2 = plt.plot(tmp[1], 'bh-.')
 
     plt.title('Shortcut Rate without Visual aid by Technique')
+    plt.yticks(np.arange(0, 101, 10))
     plt.xticks(np.arange(2), ('Phase 2-1', 'Phase 2-2'))
     plt.legend((p1[0], p2[0]), techniques, loc=5)
 
@@ -475,7 +476,7 @@ def main():
     # draw_time()
     # draw_shortcut()
     # draw_time2()
-    # draw_shortcut_rate()
+    draw_shortcut_rate()
     draw_nature()
 
 
