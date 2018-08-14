@@ -1,5 +1,9 @@
-\select@language {french}
+\babel@toc {french}{}
 \contentsline {section}{\numberline {1}Introduction}{4}{section.1}
 \contentsline {section}{\numberline {2}Environnement}{4}{section.2}
 \contentsline {subsection}{\numberline {2.1}Le laboratoire}{4}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}L'encadrement}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Sujet d'origine}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Travail \IeC {\`a} r\IeC {\'e}aliser \& Planning pr\IeC {\'e}visionnel}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Partie d\IeC {\'e}velopp\IeC {\'e}e}{6}{subsection.2.5}
+\contentsline {section}{R\'ef\'erences}{8}{section*.2}
