@@ -142,6 +142,56 @@ Les prédécesseurs ont aussi implémenté ExposeHK. Les lettres associées aux 
 	\includegraphics[width=1\linewidth]{HK.png}
 	Barre d'outils avec ExposeHK activé
 \end{center}
+\section{Design \& Réalisation des techniques d'interaction}
+Dans cette partie, la conception et la réalisation des techniques d'interaction seront introduites.
+\subsection{Expose Keyboard}
+La première technique consiste à afficher un clavier virtuel ayant tous les raccourcis de l'application lorsque l'utilisateur appuie sur le modificateur Ctrl. Dans cette technique et ExposeHK, nous fixons un délai d'affichage de 300 ms (modifiable seulement dans le code) afin de pouvoir savoir si l'utilisateur sélectionne la commande avec notre aide affichée, c'est-à-dire le clavier est affiché après 300 ms lorsque Ctrl est appuyé.
+\begin{center}
+	\includegraphics[width=1\linewidth]{Edit.png}
+	Éditeur avec le clavier virtuel affiché
+\end{center}
+\subsection{Sticker Keyboard}
+Dans un second temps, j'ai utilisé Photoshop pour redessiner et améliorer la qualité des icônes. Ensuite, je les ai imprimées et collées sur un clavier identique à celui que je possède au laboratoire.
+\begin{center}
+	\includegraphics[width=1\linewidth]{20180723_124229.jpg}
+	Clavier avec stickers
+\end{center}
+
+Cette technique se trouve pratiquement chez ceux qui ont un clavier différent de celui de leur langue maternelle, par exemple des layouts superposés pour des langues sinitiques.
+\subsection{Optimus Keyboard}
+La dernière technique utilise un clavier moderne avec des mini-écrans intégrés dans chaque touche qui s'appelle \href{https://www.artlebedev.com/optimus/maximus/}{Optimus Maximus} d'\href{https://www.artlebedev.com/}{Art. Lebedev Studio}. Son layout personnalisable permet une utilisation pratique de n'importe quelle langue. Il est aussi approprié pour les applications qui ont richement de raccourcis comme Photoshop ou Microsoft Word. Le fabricant dispose un forum ouvert pour des layouts personnalisés. Une application téléchargeable gratuitement est disponible sur leur site qui permet de définir de différent style pour des combinaisons des modificateurs.
+\begin{center}
+	\includegraphics[width=1\linewidth]{Optimus.jpg}
+	L'application fournie avec Optimus Maximus
+\end{center}
+\begin{center}
+	\includegraphics[width=1\linewidth]{20180723_125036.jpg}
+	Optimus Maximus personnalisé en français
+\end{center}
+\begin{center}
+	\includegraphics[width=1\linewidth]{20180723_125043.jpg}
+	Optimus Maximus quand Ctrl appuyé
+\end{center}
+\section{Évaluation des techniques d'interaction}
+\subsection{Eye Tracker}
+Nous demandons aux utilisateurs leur permission d'enregistrer leurs mouvements des yeux afin de pouvoir détecter les zones d'intérêt. Nous utilisons le eye tracker de \href{https://www.tobii.com/}{Tobii} pour capturer les mouvements et logguer tous les événements de clavier et souris. 
+\begin{center}
+	\includegraphics[width=1\linewidth]{Tobii.jpg}
+	Eye tracker utilisé dans cette expérience
+\end{center}
+\subsection{Étapes d'évaluation}
+L'expérience se décompose en 3 phases. Dans la première phase, l'utilisateur dispose 2 blocs d'édition avec aucune aide visuelle ni physique. Il est demandé de revenir à l'ISIR au moins 48 heures après pour les phases 2 et 3. Dans la phase 2, il reformate encore 2 fois le texte qu'il avait déjà formaté lors de la première phase mais cette fois-ci il dispose une aide distribuée uniformément. Une fois l'édition est terminée, il est demandé de faire un test de mémorisation (phase 3). 8 personnes ont participé à cette expérience. L'application est redesignée en plein écran pour éviter les distractions.
+\begin{center}
+	\includegraphics[width=1\linewidth]{"Start page".png}
+	L'écran d'accueil de l'application. Les phases 4 et 5 sont identiques aux phases 1 et 3 en cas de besoin de retester la mémoire.
+\end{center}
+\begin{center}
+	\includegraphics[width=1\linewidth]{Memo.png}
+	Test de mémorisation
+\end{center}
+\subsection{Résultats}
+\subsection{Évaluation critique}
+\section{Conclusion}
 \newpage
 \begin{thebibliography}{10}
 	\bibitem{1} A. Cockburn, C. Gutwin, J. Scarr, et S. Malacria, «Supporting Novice to Expert
