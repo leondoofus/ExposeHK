@@ -163,7 +163,7 @@ namespace TextRuler.AdvancedTextEditorControl
         private void Compare()
         {
             string rtfText = TextEditor.Rtf;
-            string def = File.ReadAllText("check2.rtf", Encoding.Default);
+            string def = File.ReadAllText("check.rtf", Encoding.Default);
             //Debug.WriteLine(rtfText);
             if (String.Compare(def, rtfText) == 0)
             {
